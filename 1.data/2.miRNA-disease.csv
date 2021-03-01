@@ -1,0 +1,4190 @@
+﻿mir,mesh_name,causality,,
+hsa-mir-15a,Leukemia,yes,972,1385
+hsa-mir-15a,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,972,1401
+hsa-mir-16-1,Leukemia,yes,975,1385
+hsa-mir-16-1,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,975,1401
+hsa-mir-125b-1,Breast Neoplasms,yes,915,1303
+hsa-mir-125b-1,Lung Neoplasms,yes,915,1308
+hsa-mir-125b-1,Ovarian Neoplasms,yes,915,1309
+hsa-mir-125b-1,Urinary Bladder Neoplasms,yes,915,1306
+hsa-mir-17,"Carcinoma, Hepatocellular",yes,977,1310
+hsa-mir-18a,"Carcinoma, Hepatocellular",yes,994,1310
+hsa-mir-19a,"Carcinoma, Hepatocellular",yes,1017,1310
+hsa-mir-19b-1,"Carcinoma, Hepatocellular",yes,1019,1310
+hsa-mir-20a,"Carcinoma, Hepatocellular",yes,1034,1310
+hsa-mir-125b-1,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,yes,915,1551
+hsa-mir-15a,Lymphoma,yes,972,1417
+hsa-mir-16-1,Lymphoma,yes,975,1417
+hsa-mir-125b-1,"Leukemia, B-Cell",yes,915,1552
+hsa-mir-142,"Leukemia, B-Cell",yes,956,1552
+hsa-mir-15a,"Leukemia, B-Cell",yes,972,1552
+hsa-mir-15a,Pituitary Neoplasms,yes,972,1369
+hsa-mir-16-1,"Leukemia, B-Cell",yes,975,1552
+hsa-mir-16-1,Pituitary Neoplasms,yes,975,1369
+hsa-mir-17,Breast Neoplasms,yes,977,1303
+hsa-mir-92a-1,Hematologic Neoplasms,yes,1283,1372
+hsa-mir-15a,Breast Neoplasms,yes,972,1303
+hsa-mir-16-1,Ovarian Neoplasms,yes,975,1309
+hsa-mir-199a-1,"Carcinoma, Hepatocellular",yes,1014,1310
+hsa-mir-15b,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,973,1401
+hsa-mir-16-2,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,976,1401
+hsa-mir-181b-2,Urinary Bladder Neoplasms,yes,984,1306
+hsa-mir-199b,Urinary Bladder Neoplasms,yes,1016,1306
+hsa-mir-15a,"Lymphoma, Mantle-Cell",yes,972,1430
+hsa-mir-15a,Multiple Myeloma,yes,972,1368
+hsa-mir-15a,Prostatic Neoplasms,yes,972,1339
+hsa-mir-16-1,"Lymphoma, Mantle-Cell",yes,975,1430
+hsa-mir-16-1,Multiple Myeloma,yes,975,1368
+hsa-mir-16-1,Prostatic Neoplasms,yes,975,1339
+hsa-mir-29a,Alzheimer Disease,yes,1074,1342
+hsa-mir-29b-1,Alzheimer Disease,yes,1076,1342
+hsa-mir-1-1,"Carcinoma, Hepatocellular",yes,876,1310
+hsa-mir-1-2,"Carcinoma, Hepatocellular",yes,877,1310
+hsa-mir-34a,Neoplasms,yes,1126,1299
+hsa-mir-101-1,Neoplasms,yes,880,1299
+hsa-mir-101-2,Neoplasms,yes,881,1299
+hsa-mir-31,Neoplasms,yes,1096,1299
+hsa-mir-31,Ovarian Neoplasms,yes,1096,1309
+hsa-mir-143,Neoplasms,yes,957,1299
+hsa-mir-145,Neoplasms,yes,959,1299
+hsa-mir-301a,Lung Neoplasms,yes,1081,1308
+hsa-mir-29a,"Leukemia, Myeloid, Acute",yes,1074,1366
+hsa-mir-29b-1,"Leukemia, Myeloid, Acute",yes,1076,1366
+hsa-mir-107,Urinary Bladder Neoplasms,yes,891,1306
+hsa-mir-486,Stomach Neoplasms,yes,1177,1307
+hsa-mir-218-1,Urinary Bladder Neoplasms,yes,1047,1306
+hsa-mir-218-2,Urinary Bladder Neoplasms,yes,1048,1306
+hsa-mir-1-1,Myotonic Dystrophy,yes,876,1553
+hsa-mir-1-2,Myotonic Dystrophy,yes,877,1553
+hsa-mir-135a-1,Medulloblastoma,yes,945,1367
+hsa-mir-135a-2,Medulloblastoma,yes,946,1367
+hsa-mir-135b,Medulloblastoma,yes,947,1367
+hsa-mir-186,Medulloblastoma,yes,991,1367
+hsa-mir-33b,Medulloblastoma,yes,1120,1367
+hsa-mir-132,"Supranuclear Palsy, Progressive",yes,936,1554
+hsa-mir-101-1,Lung Neoplasms,yes,880,1308
+hsa-mir-101-2,Lung Neoplasms,yes,881,1308
+hsa-mir-145,Myelodysplastic Syndromes,yes,959,1505
+hsa-mir-17,Musculoskeletal Abnormalities,yes,977,1555
+hsa-mir-18a,Musculoskeletal Abnormalities,yes,994,1555
+hsa-mir-19a,Musculoskeletal Abnormalities,yes,1017,1555
+hsa-mir-19b-1,Musculoskeletal Abnormalities,yes,1019,1555
+hsa-mir-20a,Musculoskeletal Abnormalities,yes,1034,1555
+hsa-mir-92a-1,Musculoskeletal Abnormalities,yes,1283,1555
+hsa-mir-21,Hypertension,yes,1036,1383
+hsa-mir-101-1,Pancreatic Neoplasms,yes,880,1315
+hsa-mir-101-2,Pancreatic Neoplasms,yes,881,1315
+hsa-mir-101-1,"Carcinoma, Non-Small-Cell Lung",yes,880,1312
+hsa-mir-101-2,"Carcinoma, Non-Small-Cell Lung",yes,881,1312
+hsa-mir-144,Thyroid Neoplasms,yes,958,1330
+hsa-mir-199b,Thyroid Neoplasms,yes,1016,1330
+hsa-mir-29a,Kidney Diseases,yes,1074,1518
+hsa-mir-29b-1,Kidney Diseases,yes,1076,1518
+hsa-mir-29b-2,Kidney Diseases,yes,1077,1518
+hsa-mir-29c,Kidney Diseases,yes,1078,1518
+hsa-mir-122,Hepatitis B,yes,899,1556
+hsa-mir-34a,"Arthritis, Rheumatoid",yes,1126,1423
+hsa-mir-124-1,Glioma,yes,904,1322
+hsa-mir-124-2,Glioma,yes,905,1322
+hsa-mir-124-3,Glioma,yes,906,1322
+hsa-mir-145,Ovarian Neoplasms,yes,959,1309
+hsa-mir-133a-1,Breast Neoplasms,yes,939,1303
+hsa-mir-133a-2,Breast Neoplasms,yes,940,1303
+hsa-mir-29a,"Muscular Dystrophy, Duchenne",yes,1074,1408
+hsa-mir-29b-1,"Muscular Dystrophy, Duchenne",yes,1076,1408
+hsa-mir-29b-2,"Muscular Dystrophy, Duchenne",yes,1077,1408
+hsa-mir-29c,"Muscular Dystrophy, Duchenne",yes,1078,1408
+hsa-mir-101-1,Stomach Neoplasms,yes,880,1307
+hsa-let-7c,Prostatic Neoplasms,yes,867,1339
+hsa-mir-205,Melanoma,yes,1029,1347
+hsa-let-7g,Melanoma,yes,873,1347
+hsa-mir-126,Pancreatic Neoplasms,yes,917,1315
+hsa-mir-148a,Endometrial Neoplasms,yes,962,1362
+hsa-mir-218-1,Breast Neoplasms,yes,1047,1303
+hsa-mir-218-2,Breast Neoplasms,yes,1048,1303
+hsa-mir-101-1,Colonic Neoplasms,yes,880,1336
+hsa-mir-200a,Melanoma,yes,1022,1347
+hsa-mir-200c,Melanoma,yes,1024,1347
+hsa-mir-203,Melanoma,yes,1026,1347
+hsa-mir-370,Cholangiocarcinoma,yes,1135,1326
+hsa-mir-126,Heart Diseases,yes,917,1321
+hsa-mir-130a,Heart Diseases,yes,934,1321
+hsa-mir-204,Glioma,yes,1028,1322
+hsa-mir-132,Osteosarcoma,yes,936,1305
+hsa-let-7,Prostatic Neoplasms,yes,861,1339
+hsa-mir-21,Reperfusion Injury,yes,1036,1557
+hsa-mir-10a,Neoplasms,yes,892,1299
+hsa-mir-200a,Breast Neoplasms,yes,1022,1303
+hsa-mir-126,Prostatic Neoplasms,yes,917,1339
+hsa-mir-223,Sepsis,yes,1053,1558
+hsa-mir-206,Amyotrophic Lateral Sclerosis,yes,1030,1485
+hsa-mir-145,"Carcinoma, Hepatocellular",yes,959,1310
+hsa-mir-21,"Hypertension, Pulmonary",yes,1036,1559
+hsa-mir-424,Hepatoblastoma,yes,1158,1402
+hsa-mir-100,Prostatic Neoplasms,yes,878,1339
+hsa-mir-17,Atrial Fibrillation,yes,977,1560
+hsa-mir-18,Atrial Fibrillation,yes,978,1560
+hsa-mir-19a,Atrial Fibrillation,yes,1017,1560
+hsa-mir-19b-1,Atrial Fibrillation,yes,1019,1560
+hsa-mir-20a,Atrial Fibrillation,yes,1034,1560
+hsa-mir-92-1,Atrial Fibrillation,yes,1280,1560
+hsa-mir-203,Prostatic Neoplasms,yes,1026,1339
+hsa-mir-155,Melanoma,yes,971,1347
+hsa-mir-378,Prostatic Neoplasms,yes,1145,1339
+hsa-mir-100,"Carcinoma, Hepatocellular",yes,878,1310
+hsa-mir-101,Esophageal Neoplasms,yes,879,1351
+hsa-mir-101,Lung Neoplasms,yes,879,1308
+hsa-mir-34a,Prostatic Neoplasms,yes,1126,1339
+hsa-mir-34a,Diabetes Mellitus,yes,1126,1379
+hsa-mir-7,Breast Neoplasms,yes,1261,1303
+hsa-mir-204,Prostatic Neoplasms,yes,1028,1339
+hsa-mir-26a,Neoplasms,yes,1062,1299
+hsa-mir-26b,Neoplasms,yes,1065,1299
+hsa-mir-1,Prostatic Neoplasms,yes,875,1339
+hsa-mir-23a,Familial Primary Pulmonary Hypertension,yes,1055,1498
+hsa-mir-150,Heart Diseases,yes,965,1321
+hsa-mir-150,Myocardial Infarction,yes,965,1388
+hsa-mir-155,"Lymphoma, B-Cell",yes,971,1429
+hsa-mir-21,Acute Kidney Injury,yes,1036,1561
+hsa-mir-155,Tuberculosis,yes,971,1562
+hsa-mir-377,Lymphoma,yes,1144,1417
+hsa-mir-142,Immunologic Deficiency Syndromes,yes,956,1563
+hsa-mir-132,Inflammation,yes,936,1564
+hsa-mir-205,Prostatic Neoplasms,yes,1029,1339
+hsa-mir-133a,Heart Diseases,yes,938,1321
+hsa-mir-133a,Hypertrophy,yes,938,1565
+hsa-mir-21,"Carcinoma, Hepatocellular",yes,1036,1310
+hsa-mir-622,Colorectal Neoplasms,yes,1240,1304
+hsa-mir-214,Parkinson Disease,yes,1040,1455
+hsa-mir-195,Uterine Cervical Neoplasms,yes,1005,1300
+hsa-mir-377,Reperfusion Injury,yes,1144,1557
+hsa-mir-150,Sepsis,yes,965,1558
+hsa-mir-29b,"Carcinoma, Renal Cell",yes,1075,1324
+hsa-mir-150,Obesity,yes,965,1357
+hsa-mir-29c,"Carcinoma, Embryonal",yes,1078,1443
+hsa-mir-124,Glioblastoma,yes,903,1301
+hsa-mir-181,Autism Spectrum Disorder,yes,979,1411
+hsa-mir-146a,Reperfusion Injury,yes,960,1557
+hsa-mir-505,"Carcinoma, Hepatocellular",yes,1197,1310
+hsa-mir-206,Rhabdomyosarcoma,yes,1030,1515
+hsa-mir-150,Diabetic Retinopathy,yes,965,1508
+hsa-mir-34a,Obesity,yes,1126,1357
+hsa-mir-122,Pterygium,yes,899,1427
+hsa-mir-145,Prostatic Neoplasms,yes,959,1339
+hsa-mir-27a,"Arthritis, Rheumatoid",yes,1066,1423
+hsa-mir-424,"Carcinoma, Non-Small-Cell Lung",yes,1158,1312
+hsa-let-7,"Sarcoma, Kaposi",yes,861,1525
+hsa-mir-142,"Carcinoma, Hepatocellular",yes,956,1310
+hsa-mir-320a,"Carcinoma, Hepatocellular",yes,1100,1310
+hsa-mir-423,Glioma,yes,1157,1322
+hsa-mir-126,"Carcinoma, Hepatocellular",yes,917,1310
+hsa-mir-146a,Gout,yes,960,1566
+hsa-mir-15a,"Carcinoma, Non-Small-Cell Lung",yes,972,1312
+hsa-mir-125b,"Leukemia, B-Cell",yes,914,1552
+hsa-mir-21,Spinal Cord Injuries,yes,1036,1567
+hsa-mir-148b,Endometrial Neoplasms,yes,963,1362
+hsa-mir-223,"Leukemia, Promyelocytic, Acute",yes,1053,1475
+hsa-mir-1-2,Heart Failure,yes,877,1318
+hsa-mir-24-1,Tourette Syndrome,yes,1059,1568
+hsa-let-7a-1,Colonic Neoplasms,yes,863,1336
+hsa-let-7a-1,Lung Neoplasms,yes,863,1308
+hsa-let-7a-2,Colonic Neoplasms,yes,864,1336
+hsa-let-7a-2,Lung Neoplasms,yes,864,1308
+hsa-let-7a-3,Colonic Neoplasms,yes,865,1336
+hsa-let-7a-3,Lung Neoplasms,yes,865,1308
+hsa-let-7b,Colonic Neoplasms,yes,866,1336
+hsa-let-7b,Lung Neoplasms,yes,866,1308
+hsa-let-7c,Colonic Neoplasms,yes,867,1336
+hsa-let-7c,Lung Neoplasms,yes,867,1308
+hsa-let-7d,Colonic Neoplasms,yes,868,1336
+hsa-let-7d,Lung Neoplasms,yes,868,1308
+hsa-let-7e,Colonic Neoplasms,yes,869,1336
+hsa-let-7e,Lung Neoplasms,yes,869,1308
+hsa-let-7f-1,Colonic Neoplasms,yes,871,1336
+hsa-let-7f-1,Lung Neoplasms,yes,871,1308
+hsa-let-7f-2,Colonic Neoplasms,yes,872,1336
+hsa-let-7f-2,Lung Neoplasms,yes,872,1308
+hsa-let-7g,Colonic Neoplasms,yes,873,1336
+hsa-let-7g,Lung Neoplasms,yes,873,1308
+hsa-let-7i,Colonic Neoplasms,yes,874,1336
+hsa-let-7i,Lung Neoplasms,yes,874,1308
+hsa-mir-221,Carotid Artery Diseases,yes,1051,1569
+hsa-mir-222,Carotid Artery Diseases,yes,1052,1569
+hsa-mir-10b,Myocardial Infarction,yes,893,1388
+hsa-mir-150,"Carcinoma, Hepatocellular",yes,965,1310
+hsa-mir-126,Asthma,yes,917,1529
+hsa-let-7a-1,Neoplasms,yes,863,1299
+hsa-let-7a-2,Neoplasms,yes,864,1299
+hsa-let-7a-3,Neoplasms,yes,865,1299
+hsa-mir-200a,Neoplasms,yes,1022,1299
+hsa-mir-200b,Neoplasms,yes,1023,1299
+hsa-mir-200c,Neoplasms,yes,1024,1299
+hsa-mir-21,Breast Neoplasms,yes,1036,1303
+hsa-mir-221,"Carcinoma, Hepatocellular",yes,1051,1310
+hsa-mir-124-1,Neuroblastoma,yes,904,1302
+hsa-mir-124-2,Neuroblastoma,yes,905,1302
+hsa-mir-124-3,Neuroblastoma,yes,906,1302
+hsa-mir-122,Hepatitis C,yes,899,1472
+hsa-mir-181b-1,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,yes,983,1549
+hsa-mir-21,Heart Diseases,yes,1036,1321
+hsa-let-7i,"Carcinoma, Renal Cell",yes,874,1324
+hsa-mir-138-1,"Carcinoma, Renal Cell",yes,951,1324
+hsa-mir-138-2,"Carcinoma, Renal Cell",yes,952,1324
+hsa-mir-21,Glioma,yes,1036,1322
+hsa-mir-150,Leukemia,yes,965,1385
+hsa-mir-204,Neoplasms,yes,1028,1299
+hsa-mir-21,Glioblastoma,yes,1036,1301
+hsa-mir-18a,Immune System Diseases,yes,994,1570
+hsa-mir-17,Medulloblastoma,yes,977,1367
+hsa-mir-19a,Medulloblastoma,yes,1017,1367
+hsa-mir-196b,"Leukemia, Myeloid, Acute",yes,1009,1366
+hsa-mir-21,"Leukemia, Myeloid, Acute",yes,1036,1366
+hsa-mir-92a,"Leukemia, Promyelocytic, Acute",yes,1282,1475
+hsa-let-7b,Neoplasms,yes,866,1299
+hsa-mir-17,Multiple Sclerosis,yes,977,1466
+hsa-mir-155,Encephalomyelitis,yes,971,1571
+hsa-mir-18a,Prostatic Neoplasms,yes,994,1339
+hsa-mir-21,"Carcinoma, Non-Small-Cell Lung",yes,1036,1312
+hsa-mir-182,Ovarian Neoplasms,yes,987,1309
+hsa-mir-92a,Myocardial Reperfusion Injury,yes,1282,1522
+hsa-mir-145,Atherosclerosis,yes,959,1376
+hsa-mir-21,Lung Neoplasms,yes,1036,1308
+hsa-mir-21,Obesity,yes,1036,1357
+hsa-mir-17,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,977,1401
+hsa-mir-21,Aneurysm,yes,1036,1572
+hsa-mir-21,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,1036,1344
+hsa-mir-19b,"Carcinoma, Embryonal",yes,1018,1443
+hsa-let-7c,Heart Diseases,yes,867,1321
+hsa-mir-155,Neoplasms,yes,971,1299
+hsa-mir-17,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,977,1440
+hsa-mir-20a,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1034,1440
+hsa-mir-155,Spinal Cord Injuries,yes,971,1567
+hsa-mir-21,Cholangiocarcinoma,yes,1036,1326
+hsa-mir-221,"Arthritis, Rheumatoid",yes,1051,1423
+hsa-mir-31,Myocardial Infarction,yes,1096,1388
+hsa-mir-208a,Myocardial Infarction,yes,1032,1388
+hsa-mir-195,Diabetic Cardiomyopathies,yes,1005,1442
+hsa-mir-21,Colorectal Neoplasms,yes,1036,1304
+hsa-let-7,Neoplasms,yes,861,1299
+hsa-mir-34a,Myocardial Infarction,yes,1126,1388
+hsa-mir-214,Liver Cirrhosis,yes,1040,1337
+hsa-mir-17,Graft vs Host Disease,yes,977,1573
+hsa-mir-19b,Graft vs Host Disease,yes,1018,1573
+hsa-mir-372,Stomach Neoplasms,yes,1137,1307
+hsa-mir-150,Chemical and Drug Induced Liver Injury,yes,965,1574
+hsa-mir-181a,Ischemia,yes,980,1575
+hsa-mir-21,Non-alcoholic Fatty Liver Disease,yes,1036,1481
+hsa-mir-155,Stroke,yes,971,1397
+hsa-mir-20a,"Carcinoma, Non-Small-Cell Lung",yes,1034,1312
+hsa-mir-205,Neoplasms,yes,1029,1299
+hsa-mir-222,Pancreatic Neoplasms,yes,1052,1315
+hsa-mir-503,Esophageal Neoplasms,yes,1195,1351
+hsa-mir-96,Urinary Bladder Neoplasms,yes,1294,1306
+hsa-mir-155,Inferior Wall Myocardial Infarction,yes,971,1576
+hsa-mir-106b,"Carcinoma, Renal Cell",yes,890,1324
+hsa-mir-210,Nervous System Diseases,yes,1037,1334
+hsa-mir-184,"Carcinoma, Pancreatic Ductal",yes,989,1577
+hsa-mir-630,Ovarian Neoplasms,yes,1244,1309
+hsa-mir-15b,Colorectal Neoplasms,yes,973,1304
+hsa-mir-193,Stomach Neoplasms,yes,999,1307
+hsa-mir-126,Myocardial Infarction,yes,917,1388
+hsa-mir-223,Encephalomyelitis,yes,1053,1571
+hsa-mir-125b,Amyotrophic Lateral Sclerosis,yes,914,1485
+hsa-mir-210,Myocardial Infarction,yes,1037,1388
+hsa-mir-130b,"Carcinoma, Hepatocellular",yes,935,1310
+hsa-mir-21,Myocardial Reperfusion Injury,yes,1036,1522
+hsa-mir-222,Neoplasms,yes,1052,1299
+hsa-mir-199a,Pancreatic Neoplasms,yes,1013,1315
+hsa-mir-34a,Cholangiocarcinoma,yes,1126,1326
+hsa-mir-125b,Melanoma,yes,914,1347
+hsa-mir-223,Multiple Sclerosis,yes,1053,1466
+hsa-mir-25,Choriocarcinoma,yes,1061,1439
+hsa-mir-192,Chemical and Drug Induced Liver Injury,yes,998,1574
+hsa-mir-128,Myocardial Reperfusion Injury,yes,921,1522
+hsa-mir-125b,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,914,1440
+hsa-mir-451,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1168,1440
+hsa-mir-224,Brain Ischemia,yes,1054,1578
+hsa-mir-544a,Colorectal Neoplasms,yes,1220,1304
+hsa-mir-592,Colorectal Neoplasms,yes,1230,1304
+hsa-mir-21,Esophageal Neoplasms,yes,1036,1351
+hsa-mir-138,Intervertebral Disc Degeneration,yes,950,1335
+hsa-mir-27b,"Carcinoma, Non-Small-Cell Lung",yes,1067,1312
+hsa-mir-21,Liver Cirrhosis,yes,1036,1337
+hsa-mir-454,"Carcinoma, Non-Small-Cell Lung",yes,1171,1312
+hsa-mir-93,Uterine Cervical Neoplasms,yes,1286,1300
+hsa-mir-206,Tuberculosis,yes,1030,1562
+hsa-mir-155,Graft vs Host Disease,yes,971,1573
+hsa-mir-224,Stomach Neoplasms,yes,1054,1307
+hsa-mir-214,Breast Neoplasms,yes,1040,1303
+hsa-mir-214,Melanoma,yes,1040,1347
+hsa-mir-154,Glioblastoma,yes,970,1301
+hsa-mir-155,Acute Lung Injury,yes,971,1579
+hsa-mir-181a,"Carcinoma, Hepatocellular",yes,980,1310
+hsa-mir-9,Triple Negative Breast Neoplasms,yes,1276,1398
+hsa-mir-23a,Macular Degeneration,yes,1055,1580
+hsa-mir-942,"Sarcoma, Kaposi",yes,1291,1525
+hsa-mir-10b,Endometrial Neoplasms,yes,893,1362
+hsa-mir-9,Prostatic Neoplasms,yes,1276,1339
+hsa-mir-21,Asthma,yes,1036,1529
+hsa-mir-106b,Pituitary Neoplasms,yes,890,1369
+hsa-mir-155,Uterine Cervical Neoplasms,yes,971,1300
+hsa-mir-210,Epilepsy,yes,1037,1581
+hsa-mir-182,Triple Negative Breast Neoplasms,yes,987,1398
+hsa-mir-137,Vascular System Injuries,yes,949,1582
+hsa-mir-17,Lymphoma,yes,977,1417
+hsa-mir-21,Osteosarcoma,yes,1036,1305
+hsa-mir-106b,Breast Neoplasms,yes,890,1303
+hsa-mir-127,Obesity,yes,918,1357
+hsa-mir-21,Melanoma,yes,1036,1347
+hsa-mir-181a,Uterine Cervical Neoplasms,yes,980,1300
+hsa-mir-322,Breast Neoplasms,yes,1106,1303
+hsa-mir-424,Breast Neoplasms,yes,1158,1303
+hsa-mir-503,Breast Neoplasms,yes,1195,1303
+hsa-mir-27a,Colorectal Neoplasms,yes,1066,1304
+hsa-mir-155,Infection,yes,971,1583
+hsa-mir-29a,Breast Neoplasms,yes,1074,1303
+hsa-mir-21,Neoplasms,yes,1036,1299
+hsa-mir-146a,Listeriosis,yes,960,1584
+hsa-mir-21,Colitis,yes,1036,1585
+hsa-mir-21,"Hepatitis, Alcoholic",yes,1036,1586
+hsa-mir-1246,Uterine Cervical Neoplasms,yes,907,1300
+hsa-mir-299,"Carcinoma, Hepatocellular",yes,1073,1310
+hsa-mir-17,Hematologic Neoplasms,yes,977,1372
+hsa-mir-18a,Hematologic Neoplasms,yes,994,1372
+hsa-mir-19a,Hematologic Neoplasms,yes,1017,1372
+hsa-mir-19b-1,Hematologic Neoplasms,yes,1019,1372
+hsa-mir-20a,Hematologic Neoplasms,yes,1034,1372
+hsa-mir-17,Colonic Neoplasms,yes,977,1336
+hsa-mir-17,Lung Neoplasms,yes,977,1308
+hsa-mir-18a,Colonic Neoplasms,yes,994,1336
+hsa-mir-18a,Lung Neoplasms,yes,994,1308
+hsa-mir-19a,Colonic Neoplasms,yes,1017,1336
+hsa-mir-19a,Lung Neoplasms,yes,1017,1308
+hsa-mir-19b-1,Colonic Neoplasms,yes,1019,1336
+hsa-mir-19b-1,Lung Neoplasms,yes,1019,1308
+hsa-mir-20a,Colonic Neoplasms,yes,1034,1336
+hsa-mir-20a,Lung Neoplasms,yes,1034,1308
+hsa-mir-92a-1,Colonic Neoplasms,yes,1283,1336
+hsa-mir-92a-1,Lung Neoplasms,yes,1283,1308
+hsa-let-7g,"Carcinoma, Non-Small-Cell Lung",yes,873,1312
+hsa-mir-184,"Carcinoma, Squamous Cell",yes,989,1320
+hsa-mir-221,Prostatic Neoplasms,yes,1051,1339
+hsa-mir-222,Prostatic Neoplasms,yes,1052,1339
+hsa-mir-31,Leiomyosarcoma,yes,1096,1587
+hsa-mir-125a,Ovarian Neoplasms,yes,913,1309
+hsa-mir-26a,Glioblastoma,yes,1062,1301
+hsa-mir-17,Neoplasms,yes,977,1299
+hsa-mir-18a,Neoplasms,yes,994,1299
+hsa-mir-19a,Neoplasms,yes,1017,1299
+hsa-mir-19b-1,Neoplasms,yes,1019,1299
+hsa-mir-19b-2,Neoplasms,yes,1020,1299
+hsa-mir-92a-1,Neoplasms,yes,1283,1299
+hsa-mir-92a-2,Neoplasms,yes,1284,1299
+hsa-mir-125b,Leukemia,yes,914,1385
+hsa-mir-18a,Urinary Bladder Neoplasms,yes,994,1306
+hsa-mir-19a,Urinary Bladder Neoplasms,yes,1017,1306
+hsa-mir-155,Hepatitis C,yes,971,1472
+hsa-mir-196b,Hepatitis C,yes,1009,1472
+hsa-mir-125b-2,Glioblastoma,yes,916,1301
+hsa-mir-17,Burkitt Lymphoma,yes,977,1510
+hsa-mir-18a,Burkitt Lymphoma,yes,994,1510
+hsa-mir-19a,Burkitt Lymphoma,yes,1017,1510
+hsa-mir-19b-1,Burkitt Lymphoma,yes,1019,1510
+hsa-mir-20a,Burkitt Lymphoma,yes,1034,1510
+hsa-mir-92a-1,Burkitt Lymphoma,yes,1283,1510
+hsa-mir-10b,Pancreatic Neoplasms,yes,893,1315
+hsa-mir-155,"Carcinoma, Hepatocellular",yes,971,1310
+hsa-mir-122,"Carcinoma, Hepatocellular",yes,899,1310
+hsa-mir-223,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,1053,1401
+hsa-mir-200a,Prostatic Neoplasms,yes,1022,1339
+hsa-mir-28,Colorectal Neoplasms,yes,1068,1304
+hsa-mir-17,Leukemia,yes,977,1385
+hsa-mir-19a,"Leukemia, Erythroblastic, Acute",yes,1017,1588
+hsa-mir-92a,"Leukemia, Erythroblastic, Acute",yes,1282,1588
+hsa-mir-130a,Ovarian Neoplasms,yes,934,1309
+hsa-mir-125b,"Leukemia, Myeloid, Acute",yes,914,1366
+hsa-mir-615,"Carcinoma, Hepatocellular",yes,1238,1310
+hsa-mir-221,Thyroid Neoplasms,yes,1051,1330
+hsa-mir-132,Heart Diseases,yes,936,1321
+hsa-mir-212,Heart Diseases,yes,1039,1321
+hsa-mir-221,Inflammation,yes,1051,1564
+hsa-mir-17,Stomach Neoplasms,yes,977,1307
+hsa-mir-20a,Stomach Neoplasms,yes,1034,1307
+hsa-mir-100,"Carcinoma, Renal Cell",yes,878,1324
+hsa-mir-106b,"Carcinoma, Hepatocellular",yes,890,1310
+hsa-mir-1,Myocardial Infarction,yes,875,1388
+hsa-mir-146a,Sepsis,yes,960,1558
+hsa-mir-9,Leukemia,yes,1276,1385
+hsa-mir-146b,Inflammation,yes,961,1564
+hsa-mir-22,Heart Diseases,yes,1050,1321
+hsa-mir-449a,Retinoblastoma,yes,1166,1348
+hsa-mir-32,Colorectal Neoplasms,yes,1098,1304
+hsa-mir-18a,"Leukemia, B-Cell",yes,994,1552
+hsa-mir-19a,"Leukemia, B-Cell",yes,1017,1552
+hsa-mir-19b,"Leukemia, B-Cell",yes,1018,1552
+hsa-mir-92a,"Leukemia, B-Cell",yes,1282,1552
+hsa-mir-18a,Staphylococcal Scalded Skin Syndrome,yes,994,1589
+hsa-let-7a,"Lupus Erythematosus, Systemic",yes,862,1501
+hsa-mir-296,Prostatic Neoplasms,yes,1070,1339
+hsa-mir-9,"Hypertension, Pulmonary",yes,1276,1559
+hsa-mir-210,Gastrointestinal Stromal Tumors,yes,1037,1371
+hsa-mir-125a,Myelodysplastic Syndromes,yes,913,1505
+hsa-mir-30c,Heart Diseases,yes,1091,1321
+hsa-mir-429,Ovarian Neoplasms,yes,1160,1309
+hsa-mir-30a,Nasopharyngeal Neoplasms,yes,1089,1533
+hsa-mir-222,"Carcinoma, Hepatocellular",yes,1052,1310
+hsa-mir-23b,Breast Neoplasms,yes,1056,1303
+hsa-mir-24,Breast Neoplasms,yes,1058,1303
+hsa-mir-27b,Breast Neoplasms,yes,1067,1303
+hsa-mir-9,Osteosarcoma,yes,1276,1305
+hsa-mir-214,Cardiomegaly,yes,1040,1370
+hsa-mir-195,Heart Diseases,yes,1005,1321
+hsa-mir-146a,Breast Neoplasms,yes,960,1303
+hsa-mir-21,Stomach Neoplasms,yes,1036,1307
+hsa-mir-196a,Mouth Neoplasms,yes,1006,1386
+hsa-mir-223,Colorectal Neoplasms,yes,1053,1304
+hsa-mir-410,Colorectal Neoplasms,yes,1153,1304
+hsa-mir-374a,Neoplasms,yes,1139,1299
+hsa-mir-545,Neoplasms,yes,1221,1299
+hsa-mir-200c,Breast Neoplasms,yes,1024,1303
+hsa-mir-34a,"Hearing Loss, Central",yes,1126,1590
+hsa-mir-29c,Brain Diseases,yes,1078,1591
+hsa-mir-433,Ovarian Neoplasms,yes,1163,1309
+hsa-mir-221,Neoplasms,yes,1051,1299
+hsa-mir-153,"Carcinoma, Hepatocellular",yes,967,1310
+hsa-mir-21,Uterine Cervical Neoplasms,yes,1036,1300
+hsa-mir-125a,"Hepatitis B, Chronic",yes,913,1592
+hsa-mir-196a,Osteosarcoma,yes,1006,1305
+hsa-mir-221,"Carcinoma, Non-Small-Cell Lung",yes,1051,1312
+hsa-mir-144,Diabetic Cardiomyopathies,yes,958,1442
+hsa-mir-23a,Laryngeal Neoplasms,yes,1055,1415
+hsa-mir-132,"Diabetes Mellitus, Type 2",yes,936,1399
+hsa-mir-212,"Diabetes Mellitus, Type 2",yes,1039,1399
+hsa-mir-331,Prostatic Neoplasms,yes,1115,1339
+hsa-mir-215,Glioma,yes,1041,1322
+hsa-mir-206,Cardiomegaly,yes,1030,1370
+hsa-mir-1207,Ovarian Neoplasms,yes,898,1309
+hsa-mir-302,Fanconi Anemia,yes,1083,1593
+hsa-mir-92a,"Carcinoma, Non-Small-Cell Lung",yes,1282,1312
+hsa-mir-664,Osteosarcoma,yes,1256,1305
+hsa-mir-27b,Uterine Cervical Neoplasms,yes,1067,1300
+hsa-mir-183,Colorectal Neoplasms,yes,988,1304
+hsa-mir-203,Pancreatic Neoplasms,yes,1026,1315
+hsa-mir-421,Osteosarcoma,yes,1155,1305
+hsa-mir-222,Urinary Bladder Neoplasms,yes,1052,1306
+hsa-mir-96,Glioma,yes,1294,1322
+hsa-mir-183,Glioma,yes,988,1322
+hsa-mir-138,Glioblastoma,yes,950,1301
+hsa-mir-195,Spinal Cord Injuries,yes,1005,1567
+hsa-mir-449a,Breast Neoplasms,yes,1166,1303
+hsa-mir-522,"Carcinoma, Hepatocellular",yes,1215,1310
+hsa-mir-210,Kidney Neoplasms,yes,1037,1418
+hsa-mir-146a,"Hepatitis B, Chronic",yes,960,1592
+hsa-mir-125a,"Arthritis, Juvenile",yes,913,1594
+hsa-mir-195,Myocardial Reperfusion Injury,yes,1005,1522
+hsa-mir-93,Stomach Neoplasms,yes,1286,1307
+hsa-mir-9,Glioblastoma,yes,1276,1301
+hsa-mir-221,Breast Neoplasms,yes,1051,1303
+hsa-mir-222,Breast Neoplasms,yes,1052,1303
+hsa-mir-141,Breast Neoplasms,yes,955,1303
+hsa-mir-92b,"Carcinoma, Hepatocellular",yes,1285,1310
+hsa-mir-146a,Multiple Myeloma,yes,960,1368
+hsa-mir-196a,"Carcinoma, Hepatocellular",yes,1006,1310
+hsa-mir-449a,Hepatitis B,yes,1166,1556
+hsa-mir-106a,Stomach Neoplasms,yes,889,1307
+hsa-mir-96,Prostatic Neoplasms,yes,1294,1339
+hsa-mir-937,Lung Neoplasms,yes,1288,1308
+hsa-mir-200b,"Cytotoxicity Tests, Immunologic",yes,1023,1595
+hsa-mir-200c,"Cytotoxicity Tests, Immunologic",yes,1024,1595
+hsa-mir-217,"Cytotoxicity Tests, Immunologic",yes,1045,1595
+hsa-mir-182,Chemical and Drug Induced Liver Injury,yes,987,1574
+hsa-mir-126,"Neovascularization, Pathologic",yes,917,1596
+hsa-mir-21,"Cicatrix, Hypertrophic",yes,1036,1597
+hsa-mir-125b,Stomach Neoplasms,yes,914,1307
+hsa-mir-221,"Carcinoma, Pancreatic Ductal",yes,1051,1577
+hsa-mir-146a,Alzheimer Disease,yes,960,1342
+hsa-mir-182,Brain Ischemia,yes,987,1578
+hsa-mir-34a,Osteoarthritis,yes,1126,1403
+hsa-mir-1908,Wound Healing,yes,996,1598
+hsa-mir-1301,Prostatic Neoplasms,yes,931,1339
+hsa-mir-205,Colorectal Neoplasms,yes,1029,1304
+hsa-mir-373,Colorectal Neoplasms,yes,1138,1304
+hsa-mir-206,Alzheimer Disease,yes,1030,1342
+hsa-mir-21,Neuroblastoma,yes,1036,1302
+hsa-mir-429,Diabetes Mellitus,yes,1160,1379
+hsa-mir-9,"Influenza, Human",yes,1276,1599
+hsa-mir-222,Stomach Neoplasms,yes,1052,1307
+hsa-mir-19a,Glioma,yes,1017,1322
+hsa-mir-29a,Atrial Fibrillation,yes,1074,1560
+hsa-mir-301b,Lung Neoplasms,yes,1082,1308
+hsa-mir-340,Stomach Neoplasms,yes,1122,1307
+hsa-mir-21,Cholesteatoma,yes,1036,1600
+hsa-mir-488,Osteosarcoma,yes,1179,1305
+hsa-mir-205,Myelodysplastic Syndromes,yes,1029,1505
+hsa-mir-181b,Stomach Neoplasms,yes,982,1307
+hsa-mir-27a,Stomach Neoplasms,yes,1066,1307
+hsa-mir-92a,Inferior Wall Myocardial Infarction,yes,1282,1576
+hsa-mir-92b,Urinary Bladder Neoplasms,yes,1285,1306
+hsa-mir-1303,Neuroblastoma,yes,932,1302
+hsa-mir-146a,Brain Ischemia,yes,960,1578
+hsa-mir-181a,Atherosclerosis,yes,980,1376
+hsa-mir-183,Breast Neoplasms,yes,988,1303
+hsa-mir-363,Glioma,yes,1132,1322
+hsa-mir-200c,Stomach Neoplasms,yes,1024,1307
+hsa-mir-15b,"Carcinoma, Hepatocellular",yes,973,1310
+hsa-mir-17,Macular Degeneration,yes,977,1580
+hsa-mir-19b,Pulmonary Fibrosis,yes,1018,1601
+hsa-mir-483,Stomach Neoplasms,yes,1175,1307
+hsa-mir-125b,Retinoblastoma,yes,914,1348
+hsa-mir-15b,Neoplasms,yes,973,1299
+hsa-mir-15b,Leiomyoma,yes,973,1602
+hsa-mir-375,Liver Failure,yes,1141,1603
+hsa-mir-181a,"Leukemia, Myeloid, Acute",yes,980,1366
+hsa-mir-29b,Hearing Loss,yes,1075,1604
+hsa-mir-138,Obesity,yes,950,1357
+hsa-mir-222,Obesity,yes,1052,1357
+hsa-mir-212,"Carcinoma, Pancreatic Ductal",yes,1039,1577
+hsa-mir-21,Choriocarcinoma,yes,1036,1439
+hsa-mir-375,Diabetes Mellitus,yes,1141,1379
+hsa-mir-223,Glioblastoma,yes,1053,1301
+hsa-mir-92a,Osteosarcoma,yes,1282,1305
+hsa-mir-205,Endometrial Neoplasms,yes,1029,1362
+hsa-mir-196b,Myelodysplastic Syndromes,yes,1009,1505
+hsa-mir-214,Osteosarcoma,yes,1040,1305
+hsa-mir-320,Ovarian Neoplasms,yes,1099,1309
+hsa-mir-10b,Colorectal Neoplasms,yes,893,1304
+hsa-mir-221,Ovarian Neoplasms,yes,1051,1309
+hsa-let-7,"Carcinoma, Hepatocellular",yes,861,1310
+hsa-let-7a,"Carcinoma, Hepatocellular",yes,862,1310
+hsa-let-7e,"Carcinoma, Hepatocellular",yes,869,1310
+hsa-mir-194,Colorectal Neoplasms,yes,1002,1304
+hsa-mir-10b,Neoplasms,yes,893,1299
+hsa-mir-130a,"Leukemia, Myeloid, Acute",yes,934,1366
+hsa-mir-155,"Leukemia, Myeloid, Acute",yes,971,1366
+hsa-mir-19a,Multiple Myeloma,yes,1017,1368
+hsa-mir-34a,Pituitary Neoplasms,yes,1126,1369
+hsa-mir-9,Breast Neoplasms,yes,1276,1303
+hsa-mir-214,Multiple Myeloma,yes,1040,1368
+hsa-mir-27b,Multiple Myeloma,yes,1067,1368
+hsa-mir-301a,Colorectal Neoplasms,yes,1081,1304
+hsa-mir-125b-1,"Carcinoma, Hepatocellular",yes,915,1310
+hsa-mir-125b-2,"Carcinoma, Hepatocellular",yes,916,1310
+hsa-mir-142,Lung Neoplasms,yes,956,1308
+hsa-mir-145,Lung Neoplasms,yes,959,1308
+hsa-mir-34c,Lung Neoplasms,yes,1128,1308
+hsa-mir-100,Ovarian Neoplasms,yes,878,1309
+hsa-mir-22,Ovarian Neoplasms,yes,1050,1309
+hsa-mir-194,Liver Neoplasms,yes,1002,1313
+hsa-let-7a-1,Hypertrophy,yes,863,1565
+hsa-let-7a-2,Hypertrophy,yes,864,1565
+hsa-let-7a-3,Hypertrophy,yes,865,1565
+hsa-let-7b,Hypertrophy,yes,866,1565
+hsa-let-7c,Hypertrophy,yes,867,1565
+hsa-let-7d,Hypertrophy,yes,868,1565
+hsa-let-7e,Hypertrophy,yes,869,1565
+hsa-let-7f-1,Hypertrophy,yes,871,1565
+hsa-let-7f-2,Hypertrophy,yes,872,1565
+hsa-let-7g,Hypertrophy,yes,873,1565
+hsa-let-7i,Hypertrophy,yes,874,1565
+hsa-mir-98,Hypertrophy,yes,1295,1565
+hsa-mir-146a,Atherosclerosis,yes,960,1376
+hsa-mir-128,Glioblastoma,yes,921,1301
+hsa-mir-663,Leukemia,yes,1254,1385
+hsa-mir-146b,Lung Neoplasms,yes,961,1308
+hsa-mir-199a-2,"Carcinoma, Hepatocellular",yes,1015,1310
+hsa-mir-16,Acute Lung Injury,yes,974,1579
+hsa-mir-10a,"Leukemia, Myeloid, Acute",yes,892,1366
+hsa-mir-143,Colonic Neoplasms,yes,957,1336
+hsa-mir-200c,Colonic Neoplasms,yes,1024,1336
+hsa-mir-424,Colonic Neoplasms,yes,1158,1336
+hsa-let-7a-1,Esophageal Neoplasms,yes,863,1351
+hsa-let-7a-2,Esophageal Neoplasms,yes,864,1351
+hsa-let-7a-3,Esophageal Neoplasms,yes,865,1351
+hsa-mir-29a,Ovarian Neoplasms,yes,1074,1309
+hsa-let-7a-1,Colorectal Neoplasms,yes,863,1304
+hsa-let-7a-2,Colorectal Neoplasms,yes,864,1304
+hsa-let-7a-3,Colorectal Neoplasms,yes,865,1304
+hsa-mir-92a-1,"Carcinoma, Hepatocellular",yes,1283,1310
+hsa-mir-34b,"Carcinoma, Non-Small-Cell Lung",yes,1127,1312
+hsa-mir-223,"Arthritis, Rheumatoid",yes,1053,1423
+hsa-let-7b,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,yes,866,1549
+hsa-mir-34a,Melanoma,yes,1126,1347
+hsa-mir-34c,Melanoma,yes,1128,1347
+hsa-mir-124,Medulloblastoma,yes,903,1367
+hsa-mir-142,Stomach Neoplasms,yes,956,1307
+hsa-mir-155,Stomach Neoplasms,yes,971,1307
+hsa-mir-19b,Cardiovascular Diseases,yes,1018,1377
+hsa-mir-133a,Hypertension,yes,938,1383
+hsa-mir-27a,Hypertension,yes,1066,1383
+hsa-mir-29a,Hypertension,yes,1074,1383
+hsa-mir-155,Ovarian Neoplasms,yes,971,1309
+hsa-mir-138-1,Neuroblastoma,yes,951,1302
+hsa-mir-138-2,Neuroblastoma,yes,952,1302
+hsa-mir-34a,Stomach Neoplasms,yes,1126,1307
+hsa-mir-181b,Atherosclerosis,yes,982,1376
+hsa-mir-129,Medulloblastoma,yes,924,1367
+hsa-let-7a,Neoplasms,yes,862,1299
+hsa-mir-486,Breast Neoplasms,yes,1177,1303
+hsa-let-7a,"Diabetes Mellitus, Type 2",yes,862,1399
+hsa-mir-145,Melanoma,yes,959,1347
+hsa-mir-449a,Stomach Neoplasms,yes,1166,1307
+hsa-let-7a,"Sarcoma, Ewing",yes,862,1419
+hsa-mir-133b,Stomach Neoplasms,yes,941,1307
+hsa-mir-24,Heart Diseases,yes,1058,1321
+hsa-mir-107,Breast Neoplasms,yes,891,1303
+hsa-mir-7,Liver Neoplasms,yes,1261,1313
+hsa-mir-21,Atherosclerosis,yes,1036,1376
+hsa-let-7c,Ovarian Neoplasms,yes,867,1309
+hsa-mir-29a,Diabetes Mellitus,yes,1074,1379
+hsa-mir-206,Ovarian Neoplasms,yes,1030,1309
+hsa-mir-183,Neuralgia,yes,988,1605
+hsa-mir-143,Leukemia,yes,957,1385
+hsa-mir-499,Heart Diseases,yes,1189,1321
+hsa-mir-499,Myocardial Infarction,yes,1189,1388
+hsa-mir-155,Glioblastoma,yes,971,1301
+hsa-mir-155,Arthritis,yes,971,1606
+hsa-mir-34a,"Carcinoma, Renal Cell",yes,1126,1324
+hsa-mir-206,"Carcinoma, Hepatocellular",yes,1030,1310
+hsa-mir-99a,Urinary Bladder Neoplasms,yes,1296,1306
+hsa-mir-34a,Glioma,yes,1126,1322
+hsa-let-7,Pancreatic Neoplasms,yes,861,1315
+hsa-mir-7,Neurodegenerative Diseases,yes,1261,1607
+hsa-mir-155,"Malaria, Cerebral",yes,971,1608
+hsa-let-7d,"Carcinoma, Renal Cell",yes,868,1324
+hsa-let-7g,Osteosarcoma,yes,873,1305
+hsa-mir-200b,"Cicatrix, Hypertrophic",yes,1023,1597
+hsa-mir-200c,Lung Neoplasms,yes,1024,1308
+hsa-mir-7,Lung Neoplasms,yes,1261,1308
+hsa-mir-30b,Laryngeal Neoplasms,yes,1090,1415
+hsa-mir-218,"Carcinoma, Hepatocellular",yes,1046,1310
+hsa-let-7g,"Carcinoma, Hepatocellular",yes,873,1310
+hsa-let-7i,"Carcinoma, Hepatocellular",yes,874,1310
+hsa-mir-133a,Myocardial Infarction,yes,938,1388
+hsa-let-7b,Stomach Neoplasms,yes,866,1307
+hsa-mir-16,Glioma,yes,974,1322
+hsa-let-7,Stomach Neoplasms,yes,861,1307
+hsa-mir-10a,"Hernia, Diaphragmatic",yes,892,1609
+hsa-mir-200,"Hernia, Diaphragmatic",yes,1021,1609
+hsa-mir-200b,"Hernia, Diaphragmatic",yes,1023,1609
+hsa-mir-146b,Uterine Cervical Neoplasms,yes,961,1300
+hsa-mir-143,Osteosarcoma,yes,957,1305
+hsa-mir-214,Reperfusion Injury,yes,1040,1557
+hsa-mir-17,Melanoma,yes,977,1347
+hsa-mir-30a,Hepatitis B,yes,1089,1556
+hsa-mir-29a,Glioblastoma,yes,1074,1301
+hsa-mir-135a,Medulloblastoma,yes,944,1367
+hsa-mir-124,Osteosarcoma,yes,903,1305
+hsa-mir-184,"Carcinoma, Renal Cell",yes,989,1324
+hsa-mir-16,Breast Neoplasms,yes,974,1303
+hsa-mir-150,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,965,1344
+hsa-mir-21,Immune System Diseases,yes,1036,1570
+hsa-mir-203,Brain Diseases,yes,1026,1591
+hsa-mir-126,Spinal Cord Injuries,yes,917,1567
+hsa-let-7f,Glioma,yes,870,1322
+hsa-mir-122,Liver Neoplasms,yes,899,1313
+hsa-mir-210,Brain Ischemia,yes,1037,1578
+hsa-mir-29b,Prostatic Neoplasms,yes,1075,1339
+hsa-mir-184,Retinal Neovascularization,yes,989,1610
+hsa-mir-26a,Nervous System Diseases,yes,1062,1334
+hsa-mir-21,Myocardial Infarction,yes,1036,1388
+hsa-let-7a,Breast Neoplasms,yes,862,1303
+hsa-mir-193b,Adenoviridae Infections,yes,1001,1611
+hsa-mir-206,Medulloblastoma,yes,1030,1367
+hsa-mir-26a,Graft vs Host Disease,yes,1062,1573
+hsa-mir-138,Gallbladder Neoplasms,yes,950,1328
+hsa-mir-202,Multiple Myeloma,yes,1025,1368
+hsa-mir-100,Osteosarcoma,yes,878,1305
+hsa-mir-16,Sarcoma,yes,974,1474
+hsa-mir-506,Breast Neoplasms,yes,1198,1303
+hsa-mir-195,Colorectal Neoplasms,yes,1005,1304
+hsa-mir-138,Cardiovascular Diseases,yes,950,1377
+hsa-mir-29a,Prostatic Neoplasms,yes,1074,1339
+hsa-mir-27b,Cardiovascular Diseases,yes,1067,1377
+hsa-mir-137,Melanoma,yes,949,1347
+hsa-mir-34c,Diabetic Nephropathies,yes,1128,1487
+hsa-mir-221,Astrocytoma,yes,1051,1298
+hsa-mir-23b,Neoplasms,yes,1056,1299
+hsa-mir-26a,"Diabetes Mellitus, Type 2",yes,1062,1399
+hsa-mir-140,Osteosarcoma,yes,954,1305
+hsa-mir-210,Osteoarthritis,yes,1037,1403
+hsa-mir-302b,"Carcinoma, Hepatocellular",yes,1085,1310
+hsa-mir-143,Prostatic Neoplasms,yes,957,1339
+hsa-mir-125a,Colonic Neoplasms,yes,913,1336
+hsa-mir-206,"Carcinoma, Non-Small-Cell Lung",yes,1030,1312
+hsa-mir-26a,Reperfusion Injury,yes,1062,1557
+hsa-mir-33b,Colorectal Neoplasms,yes,1120,1304
+hsa-mir-9,Inflammation,yes,1276,1564
+hsa-mir-9,Spinal Cord Injuries,yes,1276,1567
+hsa-mir-16,Glioblastoma,yes,974,1301
+hsa-mir-145,Glioblastoma,yes,959,1301
+hsa-mir-449a,Liver Neoplasms,yes,1166,1313
+hsa-mir-221,Reperfusion Injury,yes,1051,1557
+hsa-mir-133a,"Cardiomyopathy, Hypertrophic",yes,938,1341
+hsa-mir-7,Adrenal Cortex Neoplasms,yes,1261,1612
+hsa-mir-125b,Cholangiocarcinoma,yes,914,1326
+hsa-mir-34a,Alzheimer Disease,yes,1126,1342
+hsa-mir-140,"Arthritis, Rheumatoid",yes,954,1423
+hsa-mir-26a,"Carcinoma, Non-Small-Cell Lung",yes,1062,1312
+hsa-mir-214,"Carcinoma, Hepatocellular",yes,1040,1310
+hsa-mir-138,Laryngeal Neoplasms,yes,950,1415
+hsa-mir-16,"Carcinoma, Hepatocellular",yes,974,1310
+hsa-mir-152,Uterine Cervical Neoplasms,yes,966,1300
+hsa-mir-449a,Prostatic Neoplasms,yes,1166,1339
+hsa-mir-205,"Carcinoma, Skin Appendage",yes,1029,1613
+hsa-mir-195,Thyroid Neoplasms,yes,1005,1330
+hsa-let-7b,Myocardial Reperfusion Injury,yes,866,1522
+hsa-mir-363,Head and Neck Neoplasms,yes,1132,1614
+hsa-mir-150,Osteosarcoma,yes,965,1305
+hsa-mir-7-1,Glioblastoma,yes,1262,1301
+hsa-mir-15a,"Carcinoma, Hepatocellular",yes,972,1310
+hsa-mir-16,Alzheimer Disease,yes,974,1342
+hsa-mir-143,Breast Neoplasms,yes,957,1303
+hsa-mir-18a,Stomach Neoplasms,yes,994,1307
+hsa-mir-182,Glioma,yes,987,1322
+hsa-mir-302b,Breast Neoplasms,yes,1085,1303
+hsa-mir-195,Breast Neoplasms,yes,1005,1303
+hsa-mir-1,Cardiomegaly,yes,875,1370
+hsa-mir-16,"Lymphoma, Non-Hodgkin",yes,974,1422
+hsa-mir-16,"Lymphoma, T-Cell, Cutaneous",yes,974,1615
+hsa-mir-372,Endometrial Neoplasms,yes,1137,1362
+hsa-mir-222,Osteoarthritis,yes,1052,1403
+hsa-mir-215,Ovarian Neoplasms,yes,1041,1309
+hsa-mir-192,"Carcinoma, Hepatocellular",yes,998,1310
+hsa-mir-1,"Cardiomyopathy, Hypertrophic",yes,875,1341
+hsa-mir-148a,Breast Neoplasms,yes,962,1303
+hsa-mir-145,Breast Neoplasms,yes,959,1303
+hsa-mir-452,"Carcinoma, Non-Small-Cell Lung",yes,1170,1312
+hsa-mir-145,Triple Negative Breast Neoplasms,yes,959,1398
+hsa-mir-488,Stomach Neoplasms,yes,1179,1307
+hsa-mir-125b,Osteosarcoma,yes,914,1305
+hsa-mir-23b,Asthma,yes,1056,1529
+hsa-mir-378,Breast Neoplasms,yes,1145,1303
+hsa-mir-320,Uterine Cervical Neoplasms,yes,1099,1300
+hsa-mir-340,Breast Neoplasms,yes,1122,1303
+hsa-mir-381,Ovarian Neoplasms,yes,1148,1309
+hsa-mir-503,Osteosarcoma,yes,1195,1305
+hsa-mir-29a,Multiple Myeloma,yes,1074,1368
+hsa-mir-210,Hypoxia,yes,1037,1616
+hsa-mir-27b,Stomach Neoplasms,yes,1067,1307
+hsa-mir-382,Colorectal Neoplasms,yes,1149,1304
+hsa-mir-125b,Urinary Bladder Neoplasms,yes,914,1306
+hsa-mir-152,Colorectal Neoplasms,yes,966,1304
+hsa-mir-451,"Arthritis, Rheumatoid",yes,1168,1423
+hsa-mir-137,Stomach Neoplasms,yes,949,1307
+hsa-mir-9,Stomach Neoplasms,yes,1276,1307
+hsa-mir-21,Ischemia,yes,1036,1575
+hsa-mir-448,Stomach Neoplasms,yes,1165,1307
+hsa-mir-200b,Endometriosis,yes,1023,1380
+hsa-mir-373,Glioma,yes,1138,1322
+hsa-mir-144,"Lymphoma, Large B-Cell, Diffuse",yes,958,1470
+hsa-mir-19a,Pulmonary Fibrosis,yes,1017,1601
+hsa-mir-26b,Pulmonary Fibrosis,yes,1065,1601
+hsa-mir-223,Breast Neoplasms,yes,1053,1303
+hsa-mir-451,"Carcinoma, Renal Cell",yes,1168,1324
+hsa-mir-15b,Liver Neoplasms,yes,973,1313
+hsa-mir-26b,"Carcinoma, Hepatocellular",yes,1065,1310
+hsa-mir-15a,Stomach Neoplasms,yes,972,1307
+hsa-mir-23b,Prostatic Neoplasms,yes,1056,1339
+hsa-mir-27b,Prostatic Neoplasms,yes,1067,1339
+hsa-mir-99a,Cardiovascular Diseases,yes,1296,1377
+hsa-mir-146a,Glioblastoma,yes,960,1301
+hsa-mir-19b,Myocardial Reperfusion Injury,yes,1018,1522
+hsa-mir-200b,"Carcinoma, Hepatocellular",yes,1023,1310
+hsa-mir-34b,Osteosarcoma,yes,1127,1305
+hsa-mir-27a,Endometrial Neoplasms,yes,1066,1362
+hsa-mir-204,"Carcinoma, Non-Small-Cell Lung",yes,1028,1312
+hsa-mir-200b,Uterine Cervical Neoplasms,yes,1023,1300
+hsa-mir-200c,"Carcinoma, Non-Small-Cell Lung",yes,1024,1312
+hsa-mir-141,Neuroblastoma,yes,955,1302
+hsa-mir-181a,"Lymphoma, Large B-Cell, Diffuse",yes,980,1470
+hsa-mir-21,Inferior Wall Myocardial Infarction,yes,1036,1576
+hsa-mir-1,Colorectal Neoplasms,yes,875,1304
+hsa-mir-508,Glioma,yes,1200,1322
+hsa-mir-7,Parkinson Disease,yes,1261,1455
+hsa-mir-182,Ischemia,yes,987,1575
+hsa-mir-134,Glioma,yes,942,1322
+hsa-mir-20a,Liver Diseases,yes,1034,1465
+hsa-mir-490,Colorectal Neoplasms,yes,1181,1304
+hsa-let-7,"Carcinoma, Adenoid Cystic",yes,861,1534
+hsa-mir-130b,Ovarian Neoplasms,yes,935,1309
+hsa-mir-206,Muscular Atrophy,yes,1030,1617
+hsa-mir-429,Urinary Bladder Neoplasms,yes,1160,1306
+hsa-mir-221,Neuralgia,yes,1051,1605
+hsa-mir-29a,Endomyocardial Fibrosis,yes,1074,1618
+hsa-mir-506,Pancreatic Neoplasms,yes,1198,1315
+hsa-mir-101,Osteosarcoma,yes,879,1305
+hsa-mir-124,"Carcinoma, Non-Small-Cell Lung",yes,903,1312
+hsa-mir-154,Prostatic Neoplasms,yes,970,1339
+hsa-mir-502,Breast Neoplasms,yes,1194,1303
+hsa-mir-15b,Glioma,yes,973,1322
+hsa-mir-199a,Breast Neoplasms,yes,1013,1303
+hsa-mir-125a,Retinoblastoma,yes,913,1348
+hsa-mir-138,Osteosarcoma,yes,950,1305
+hsa-mir-542,Melanoma,yes,1218,1347
+hsa-mir-34a,Lung Neoplasms,yes,1126,1308
+hsa-mir-130b,Lupus Nephritis,yes,935,1619
+hsa-mir-9,Schizophrenia,yes,1276,1358
+hsa-mir-182,Osteosarcoma,yes,987,1305
+hsa-mir-429,Uterine Cervical Neoplasms,yes,1160,1300
+hsa-mir-370,Glioma,yes,1135,1322
+hsa-mir-199b,Colorectal Neoplasms,yes,1016,1304
+hsa-mir-223,Inflammation,yes,1053,1564
+hsa-mir-133a,Glioma,yes,938,1322
+hsa-mir-150,Glioma,yes,965,1322
+hsa-mir-140,Biliary Tract Neoplasms,yes,954,1620
+hsa-mir-130a,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,934,1440
+hsa-mir-26a,Ovarian Neoplasms,yes,1062,1309
+hsa-mir-196a,"Carcinoma, Renal Cell",yes,1006,1324
+hsa-mir-195,Prostatic Neoplasms,yes,1005,1339
+hsa-mir-126,Thyroid Neoplasms,yes,917,1330
+hsa-mir-497,Osteosarcoma,yes,1187,1305
+hsa-mir-223,"Carcinoma, Non-Small-Cell Lung",yes,1053,1312
+hsa-mir-191,"Carcinoma, Non-Small-Cell Lung",yes,997,1312
+hsa-mir-126,Atherosclerosis,yes,917,1376
+hsa-mir-328,Uterine Cervical Neoplasms,yes,1111,1300
+hsa-let-7c,Acute Kidney Injury,yes,867,1561
+hsa-mir-30a,Stomach Neoplasms,yes,1089,1307
+hsa-mir-320a,Prostatic Neoplasms,yes,1100,1339
+hsa-mir-320,Prostatic Neoplasms,yes,1099,1339
+hsa-mir-192,"Carcinoma, Pancreatic Ductal",yes,998,1577
+hsa-mir-150,Atherosclerosis,yes,965,1376
+hsa-mir-19a,Hypoxia,yes,1017,1616
+hsa-mir-34a,Laryngeal Neoplasms,yes,1126,1415
+hsa-mir-495,Glioma,yes,1186,1322
+hsa-mir-18b,Melanoma,yes,995,1347
+hsa-mir-874,Colorectal Neoplasms,yes,1273,1304
+hsa-mir-410,Breast Neoplasms,yes,1153,1303
+hsa-mir-181a,Cardiomegaly,yes,980,1370
+hsa-mir-375,Colorectal Neoplasms,yes,1141,1304
+hsa-mir-224,Osteosarcoma,yes,1054,1305
+hsa-mir-214,Kidney Neoplasms,yes,1040,1418
+hsa-mir-126,"Carcinoma, Non-Small-Cell Lung",yes,917,1312
+hsa-mir-208b,Myocardial Infarction,yes,1033,1388
+hsa-mir-134,"Carcinoma, Non-Small-Cell Lung",yes,942,1312
+hsa-mir-124,Lung Neoplasms,yes,903,1308
+hsa-mir-218,"Cardiomyopathy, Hypertrophic",yes,1046,1341
+hsa-mir-497,Reperfusion Injury,yes,1187,1557
+hsa-mir-744,Uterine Cervical Neoplasms,yes,1268,1300
+hsa-mir-663a,"Carcinoma, Hepatocellular",yes,1255,1310
+hsa-mir-411,Breast Neoplasms,yes,1154,1303
+hsa-mir-26a,Osteosarcoma,yes,1062,1305
+hsa-mir-106b,Atherosclerosis,yes,890,1376
+hsa-mir-29b,Liver Cirrhosis,yes,1075,1337
+hsa-mir-320,"Carcinoma, Non-Small-Cell Lung",yes,1099,1312
+hsa-mir-24,Endometrial Neoplasms,yes,1058,1362
+hsa-mir-205,Colonic Neoplasms,yes,1029,1336
+hsa-mir-486,Colorectal Neoplasms,yes,1177,1304
+hsa-mir-210,Intervertebral Disc Degeneration,yes,1037,1335
+hsa-mir-145,Liver Cirrhosis,yes,959,1337
+hsa-mir-210,Colorectal Neoplasms,yes,1037,1304
+hsa-mir-153,Glioma,yes,967,1322
+hsa-mir-10b,Uterine Cervical Neoplasms,yes,893,1300
+hsa-mir-34b,"Leukemia, Myeloid, Acute",yes,1127,1366
+hsa-mir-149,"Carcinoma, Hepatocellular",yes,964,1310
+hsa-mir-196b,Lung Neoplasms,yes,1009,1308
+hsa-mir-34,"Hypertension, Pulmonary",yes,1121,1559
+hsa-mir-497,Breast Neoplasms,yes,1187,1303
+hsa-mir-26b,Urinary Bladder Neoplasms,yes,1065,1306
+hsa-mir-27a,"Carcinoma, Renal Cell",yes,1066,1324
+hsa-mir-494,Ovarian Neoplasms,yes,1185,1309
+hsa-mir-218,"Carcinoma, Renal Cell",yes,1046,1324
+hsa-mir-23a,Osteoarthritis,yes,1055,1403
+hsa-mir-206,Triple Negative Breast Neoplasms,yes,1030,1398
+hsa-let-7,Endometriosis,yes,861,1380
+hsa-let-7f,Endometriosis,yes,870,1380
+hsa-mir-137,Glioblastoma,yes,949,1301
+hsa-mir-148b,Breast Neoplasms,yes,963,1303
+hsa-mir-148b,Melanoma,yes,963,1347
+hsa-mir-30b,"Carcinoma, Hepatocellular",yes,1090,1310
+hsa-mir-18a,Triple Negative Breast Neoplasms,yes,994,1398
+hsa-mir-126,Macular Degeneration,yes,917,1580
+hsa-mir-376c,Uterine Cervical Neoplasms,yes,1143,1300
+hsa-mir-195,Colonic Neoplasms,yes,1005,1336
+hsa-mir-132,Chronic Pain,yes,936,1521
+hsa-mir-24,Brain Ischemia,yes,1058,1578
+hsa-mir-449a,Pulmonary Fibrosis,yes,1166,1601
+hsa-mir-410,"Lupus Erythematosus, Systemic",yes,1153,1501
+hsa-mir-140,Stomach Neoplasms,yes,954,1307
+hsa-mir-139,Urinary Bladder Neoplasms,yes,953,1306
+hsa-mir-335,Urinary Bladder Neoplasms,yes,1116,1306
+hsa-mir-200b,"Carcinoma, Non-Small-Cell Lung",yes,1023,1312
+hsa-mir-26a,Non-alcoholic Fatty Liver Disease,yes,1062,1481
+hsa-mir-125b,Ovarian Neoplasms,yes,914,1309
+hsa-mir-106a,Osteosarcoma,yes,889,1305
+hsa-mir-210,"Ischemic Attack, Transient",yes,1037,1621
+hsa-mir-7,"Carcinoma, Hepatocellular",yes,1261,1310
+hsa-mir-185,Idiopathic Pulmonary Fibrosis,yes,990,1622
+hsa-mir-186,Idiopathic Pulmonary Fibrosis,yes,991,1622
+hsa-mir-449a,"Carcinoma, Hepatocellular",yes,1166,1310
+hsa-mir-146a,Liver Cirrhosis,yes,960,1337
+hsa-mir-200,Triple Negative Breast Neoplasms,yes,1021,1398
+hsa-mir-218,"Pulmonary Disease, Chronic Obstructive",yes,1046,1424
+hsa-mir-133a,Heart Failure,yes,938,1318
+hsa-mir-141,"Carcinoma, Hepatocellular",yes,955,1310
+hsa-mir-149,Colorectal Neoplasms,yes,964,1304
+hsa-mir-34a,Leukemia,yes,1126,1385
+hsa-mir-338,Lung Neoplasms,yes,1117,1308
+hsa-mir-30a,Prostatic Neoplasms,yes,1089,1339
+hsa-mir-199a,Testicular Neoplasms,yes,1013,1359
+hsa-mir-26a,Prostatic Neoplasms,yes,1062,1339
+hsa-mir-613,Breast Neoplasms,yes,1237,1303
+hsa-mir-455,Stomach Neoplasms,yes,1172,1307
+hsa-mir-338,"Carcinoma, Non-Small-Cell Lung",yes,1117,1312
+hsa-mir-34a,Uterine Cervical Neoplasms,yes,1126,1300
+hsa-mir-34a,Colorectal Neoplasms,yes,1126,1304
+hsa-mir-451,"Carcinoma, Hepatocellular",yes,1168,1310
+hsa-mir-1207,"Carcinoma, Hepatocellular",yes,898,1310
+hsa-mir-34c,Prostatic Neoplasms,yes,1128,1339
+hsa-mir-520a,Lymphoma,yes,1210,1417
+hsa-mir-520a,Burkitt Lymphoma,yes,1210,1510
+hsa-mir-520a,Hodgkin Disease,yes,1210,1537
+hsa-mir-520a,"Lymphoma, Non-Hodgkin",yes,1210,1422
+hsa-mir-132,"Carcinoma, Hepatocellular",yes,936,1310
+hsa-mir-203,Glioblastoma,yes,1026,1301
+hsa-mir-205,Breast Neoplasms,yes,1029,1303
+hsa-mir-122,Cholangiocarcinoma,yes,899,1326
+hsa-mir-451,Glioma,yes,1168,1322
+hsa-mir-29b,Wound Healing,yes,1075,1598
+hsa-mir-101,Urinary Bladder Neoplasms,yes,879,1306
+hsa-mir-610,Glioma,yes,1235,1322
+hsa-mir-329,Osteosarcoma,yes,1112,1305
+hsa-mir-29a,Lung Neoplasms,yes,1074,1308
+hsa-mir-29a,Idiopathic Pulmonary Fibrosis,yes,1074,1622
+hsa-mir-29b,"Corneal Dystrophies, Hereditary",yes,1075,1623
+hsa-mir-15a,Melanoma,yes,972,1347
+hsa-mir-137,"Carcinoma, Hepatocellular",yes,949,1310
+hsa-mir-3178,Stomach Neoplasms,yes,1097,1307
+hsa-mir-187,"Carcinoma, Non-Small-Cell Lung",yes,992,1312
+hsa-mir-155,Hypersensitivity,yes,971,1624
+hsa-mir-509,Lung Neoplasms,yes,1201,1308
+hsa-mir-140,Glioma,yes,954,1322
+hsa-mir-205,"Carcinoma, Renal Cell",yes,1029,1324
+hsa-mir-124,Retinoblastoma,yes,903,1348
+hsa-mir-186,"Carcinoma, Non-Small-Cell Lung",yes,991,1312
+hsa-mir-107,Lung Neoplasms,yes,891,1308
+hsa-mir-370,Stomach Neoplasms,yes,1135,1307
+hsa-mir-223,Reperfusion Injury,yes,1053,1557
+hsa-mir-148b,Uterine Cervical Neoplasms,yes,963,1300
+hsa-mir-139,Uterine Cervical Neoplasms,yes,953,1300
+hsa-mir-490,Triple Negative Breast Neoplasms,yes,1181,1398
+hsa-mir-122,Urinary Bladder Neoplasms,yes,899,1306
+hsa-mir-338,Ovarian Neoplasms,yes,1117,1309
+hsa-mir-221,Pulmonary Fibrosis,yes,1051,1601
+hsa-mir-106a,Urinary Bladder Neoplasms,yes,889,1306
+hsa-mir-101,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,879,1440
+hsa-mir-181a,Leukemia,yes,980,1385
+hsa-mir-26a,Breast Neoplasms,yes,1062,1303
+hsa-mir-148a,Stomach Neoplasms,yes,962,1307
+hsa-let-7b,Glioma,yes,866,1322
+hsa-mir-34a,Breast Neoplasms,yes,1126,1303
+hsa-mir-132,Prostatic Neoplasms,yes,936,1339
+hsa-mir-212,Prostatic Neoplasms,yes,1039,1339
+hsa-mir-210,Ischemia,yes,1037,1575
+hsa-mir-15a,Diabetes Mellitus,yes,972,1379
+hsa-mir-15a,Diabetic Retinopathy,yes,972,1508
+hsa-mir-1,Heart Failure,yes,875,1318
+hsa-mir-21,Heart Failure,yes,1036,1318
+hsa-mir-613,Reperfusion Injury,yes,1237,1557
+hsa-mir-613,Myocardial Reperfusion Injury,yes,1237,1522
+hsa-mir-17,"Arthritis, Rheumatoid",yes,977,1423
+hsa-mir-422a,Osteosarcoma,yes,1156,1305
+hsa-mir-93,Glaucoma,yes,1286,1382
+hsa-mir-365,Breast Neoplasms,yes,1133,1303
+hsa-mir-1,Heart Diseases,yes,875,1321
+hsa-mir-138,Coronary Artery Disease,yes,950,1373
+hsa-mir-24,Hodgkin Disease,yes,1058,1537
+hsa-mir-194,Adenoviridae Infections,yes,1002,1611
+hsa-mir-211,Thyroid Neoplasms,yes,1038,1330
+hsa-mir-124,Cardiovascular Diseases,yes,903,1377
+hsa-mir-506,Cardiovascular Diseases,yes,1198,1377
+hsa-mir-19a,Colorectal Neoplasms,yes,1017,1304
+hsa-mir-150,Reperfusion Injury,yes,965,1557
+hsa-mir-204,Reperfusion Injury,yes,1028,1557
+hsa-mir-143,"Carcinoma, Non-Small-Cell Lung",yes,957,1312
+hsa-mir-203,"Fatty Liver, Alcoholic",yes,1026,1625
+hsa-mir-27b,Atrial Fibrillation,yes,1067,1560
+hsa-mir-140,Intervertebral Disc Degeneration,yes,954,1335
+hsa-mir-410,"Carcinoma, Hepatocellular",yes,1153,1310
+hsa-let-7a,Retinal Degeneration,yes,862,1500
+hsa-let-7b,Retinal Degeneration,yes,866,1500
+hsa-let-7c,Retinal Degeneration,yes,867,1500
+hsa-let-7d,Retinal Degeneration,yes,868,1500
+hsa-let-7e,Retinal Degeneration,yes,869,1500
+hsa-let-7f,Retinal Degeneration,yes,870,1500
+hsa-let-7g,Retinal Degeneration,yes,873,1500
+hsa-let-7i,Retinal Degeneration,yes,874,1500
+hsa-let-7c,Neoplasms,yes,867,1299
+hsa-let-7d,Neoplasms,yes,868,1299
+hsa-let-7e,Neoplasms,yes,869,1299
+hsa-let-7f,Neoplasms,yes,870,1299
+hsa-let-7g,Neoplasms,yes,873,1299
+hsa-let-7i,Neoplasms,yes,874,1299
+hsa-mir-675,Stomach Neoplasms,yes,1259,1307
+hsa-mir-675,Glioma,yes,1259,1322
+hsa-mir-21,Osteoarthritis,yes,1036,1403
+hsa-mir-216b,"Carcinoma, Hepatocellular",yes,1044,1310
+hsa-mir-193b,"Carcinoma, Pancreatic Ductal",yes,1001,1577
+hsa-mir-194,Gallbladder Neoplasms,yes,1002,1328
+hsa-mir-9,Atherosclerosis,yes,1276,1376
+hsa-mir-10a,"Carcinoma, Hepatocellular",yes,892,1310
+hsa-mir-384,Glioma,yes,1151,1322
+hsa-mir-374a,"Carcinoma, Hepatocellular",yes,1139,1310
+hsa-mir-143,Neuroblastoma,yes,957,1302
+hsa-mir-507,Melanoma,yes,1199,1347
+hsa-mir-181b,Liver Cirrhosis,yes,982,1337
+hsa-mir-197,Urinary Bladder Neoplasms,yes,1010,1306
+hsa-mir-146a,Prostatic Neoplasms,yes,960,1339
+hsa-mir-32,Stomach Neoplasms,yes,1098,1307
+hsa-mir-23c,Diabetic Nephropathies,yes,1057,1487
+hsa-mir-183,Melanoma,yes,988,1347
+hsa-mir-181a,Colorectal Neoplasms,yes,980,1304
+hsa-mir-101,"Carcinoma, Non-Small-Cell Lung",yes,879,1312
+hsa-mir-34c,Inflammatory Bowel Diseases,yes,1128,1364
+hsa-mir-17,Osteonecrosis,yes,977,1626
+hsa-mir-29b,Diabetic Retinopathy,yes,1075,1508
+hsa-mir-125b,Hepatitis B,yes,914,1556
+hsa-mir-200a,"Carcinoma, Hepatocellular",yes,1022,1310
+hsa-mir-372,"Carcinoma, Hepatocellular",yes,1137,1310
+hsa-mir-200b,Melanoma,yes,1023,1347
+hsa-mir-429,Melanoma,yes,1160,1347
+hsa-mir-9,"Carcinoma, Hepatocellular",yes,1276,1310
+hsa-mir-23b,Endometrial Neoplasms,yes,1056,1362
+hsa-mir-150,Lung Injury,yes,965,1627
+hsa-let-7,"Leukemia, Myeloid, Acute",yes,861,1366
+hsa-mir-195,"Carcinoma, Hepatocellular",yes,1005,1310
+hsa-mir-144,Lung Neoplasms,yes,958,1308
+hsa-mir-34a,Osteosarcoma,yes,1126,1305
+hsa-mir-138,"Carcinoma, Non-Small-Cell Lung",yes,950,1312
+hsa-mir-31,Chordoma,yes,1096,1482
+hsa-mir-200c,Pulmonary Fibrosis,yes,1024,1601
+hsa-mir-195,Wilms Tumor,yes,1005,1331
+hsa-mir-125b,Sepsis,yes,914,1558
+hsa-mir-124,Glioma,yes,903,1322
+hsa-mir-145,"Carcinoma, Non-Small-Cell Lung",yes,959,1312
+hsa-mir-181a,"Carcinoma, Skin Appendage",yes,980,1613
+hsa-mir-140,Uterine Cervical Neoplasms,yes,954,1300
+hsa-mir-26b,Breast Neoplasms,yes,1065,1303
+hsa-mir-329,Urinary Bladder Neoplasms,yes,1112,1306
+hsa-mir-34c,Osteosarcoma,yes,1128,1305
+hsa-mir-34a,Colonic Neoplasms,yes,1126,1336
+hsa-mir-125a,"Carcinoma, Hepatocellular",yes,913,1310
+hsa-mir-148a,Prostatic Neoplasms,yes,962,1339
+hsa-mir-30b,Osteosarcoma,yes,1090,1305
+hsa-mir-21,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1036,1440
+hsa-mir-23b,"Carcinoma, Hepatocellular",yes,1056,1310
+hsa-mir-382,Ovarian Neoplasms,yes,1149,1309
+hsa-mir-873,Lung Neoplasms,yes,1272,1308
+hsa-mir-196a,Triple Negative Breast Neoplasms,yes,1006,1398
+hsa-mir-223,Lupus Nephritis,yes,1053,1619
+hsa-mir-449a,"Carcinoma, Non-Small-Cell Lung",yes,1166,1312
+hsa-mir-137,"Carcinoma, Non-Small-Cell Lung",yes,949,1312
+hsa-mir-129,Lung Neoplasms,yes,924,1308
+hsa-mir-142,Osteosarcoma,yes,956,1305
+hsa-mir-124,Myocardial Infarction,yes,903,1388
+hsa-mir-610,Multiple Myeloma,yes,1235,1368
+hsa-mir-137,"Carcinoma, Renal Cell",yes,949,1324
+hsa-mir-324,Alzheimer Disease,yes,1108,1342
+hsa-mir-23a,Breast Neoplasms,yes,1055,1303
+hsa-mir-302,Pituitary Neoplasms,yes,1083,1369
+hsa-mir-372,Pituitary Neoplasms,yes,1137,1369
+hsa-mir-373,Pituitary Neoplasms,yes,1138,1369
+hsa-mir-132,Glioma,yes,936,1322
+hsa-mir-126,Melanoma,yes,917,1347
+hsa-mir-140,Multiple Myeloma,yes,954,1368
+hsa-mir-22,Sepsis,yes,1050,1558
+hsa-mir-181a,Multiple Myeloma,yes,980,1368
+hsa-mir-593,Breast Neoplasms,yes,1231,1303
+hsa-mir-185,Melanoma,yes,990,1347
+hsa-mir-134,Atherosclerosis,yes,942,1376
+hsa-mir-214,Glioma,yes,1040,1322
+hsa-mir-136,Neuralgia,yes,948,1605
+hsa-mir-26a,Stomach Neoplasms,yes,1062,1307
+hsa-mir-331,Uterine Cervical Neoplasms,yes,1115,1300
+hsa-mir-338,Uterine Cervical Neoplasms,yes,1117,1300
+hsa-mir-214,Ovarian Neoplasms,yes,1040,1309
+hsa-mir-143,"Carcinoma, Adenoid Cystic",yes,957,1534
+hsa-mir-107,Uterine Cervical Neoplasms,yes,891,1300
+hsa-mir-1207,Nasopharyngeal Neoplasms,yes,898,1533
+hsa-mir-671,"Carcinoma, Hepatocellular",yes,1258,1310
+hsa-mir-451,Osteoarthritis,yes,1168,1403
+hsa-mir-30a,"Carcinoma, Hepatocellular",yes,1089,1310
+hsa-mir-182,Urinary Bladder Neoplasms,yes,987,1306
+hsa-mir-675,Cataract,yes,1259,1628
+hsa-mir-330,Cardiovascular Diseases,yes,1114,1377
+hsa-mir-154,Neuralgia,yes,970,1605
+hsa-mir-20b,Reperfusion Injury,yes,1035,1557
+hsa-mir-153,Intervertebral Disc Degeneration,yes,967,1335
+hsa-mir-372,Testicular Neoplasms,yes,1137,1359
+hsa-mir-373,Testicular Neoplasms,yes,1138,1359
+hsa-mir-206,Breast Neoplasms,yes,1030,1303
+hsa-let-7f-1,Neoplasms,yes,871,1299
+hsa-let-7f-2,Neoplasms,yes,872,1299
+hsa-mir-124a,Pancreatic Neoplasms,yes,909,1315
+hsa-let-7i,Immune System Diseases,yes,874,1570
+hsa-mir-145,Colonic Neoplasms,yes,959,1336
+hsa-mir-155,Pancreatic Neoplasms,yes,971,1315
+hsa-mir-130a,Neoplasms,yes,934,1299
+hsa-mir-27a,Breast Neoplasms,yes,1066,1303
+hsa-mir-378,Neoplasms,yes,1145,1299
+hsa-mir-224,"Carcinoma, Hepatocellular",yes,1054,1310
+hsa-let-7b,Melanoma,yes,866,1347
+hsa-mir-17,Neuroblastoma,yes,977,1302
+hsa-mir-34a,Neuroblastoma,yes,1126,1302
+hsa-mir-20a,Leukemia,yes,1034,1385
+hsa-mir-124-1,Medulloblastoma,yes,904,1367
+hsa-mir-124-2,Medulloblastoma,yes,905,1367
+hsa-mir-124-3,Medulloblastoma,yes,906,1367
+hsa-mir-196b,Neoplasms,yes,1009,1299
+hsa-let-7a-1,Melanoma,yes,863,1347
+hsa-let-7a-2,Melanoma,yes,864,1347
+hsa-let-7a-3,Melanoma,yes,865,1347
+hsa-mir-20a,Breast Neoplasms,yes,1034,1303
+hsa-mir-125b,Medulloblastoma,yes,914,1367
+hsa-mir-324,Medulloblastoma,yes,1108,1367
+hsa-mir-326,Medulloblastoma,yes,1110,1367
+hsa-mir-155,Breast Neoplasms,yes,971,1303
+hsa-mir-128,Glioma,yes,921,1322
+hsa-mir-16-2,Prostatic Neoplasms,yes,976,1339
+hsa-mir-15a,Polycystic Kidney Diseases,yes,972,1629
+hsa-mir-296,Brain Neoplasms,yes,1070,1405
+hsa-mir-223,Leukemia,yes,1053,1385
+hsa-mir-221,Aneurysm,yes,1051,1572
+hsa-mir-106b,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,890,1401
+hsa-mir-1-1,"Arrhythmias, Cardiac",yes,876,1630
+hsa-mir-1-2,"Arrhythmias, Cardiac",yes,877,1630
+hsa-mir-101-1,"Carcinoma, Hepatocellular",yes,880,1310
+hsa-mir-101-2,"Carcinoma, Hepatocellular",yes,881,1310
+hsa-mir-143,Colorectal Neoplasms,yes,957,1304
+hsa-mir-106b,Stomach Neoplasms,yes,890,1307
+hsa-mir-221,Stomach Neoplasms,yes,1051,1307
+hsa-mir-25,Stomach Neoplasms,yes,1061,1307
+hsa-mir-141,Neoplasms,yes,955,1299
+hsa-mir-429,Neoplasms,yes,1160,1299
+hsa-mir-1-1,Cardiomegaly,yes,876,1370
+hsa-mir-1-2,Cardiomegaly,yes,877,1370
+hsa-mir-182,Melanoma,yes,987,1347
+hsa-mir-30e,Neoplasms,yes,1095,1299
+hsa-mir-101-1,Urinary Bladder Neoplasms,yes,880,1306
+hsa-mir-101-2,Urinary Bladder Neoplasms,yes,881,1306
+hsa-mir-221,Marek Disease,yes,1051,1452
+hsa-mir-222,Marek Disease,yes,1052,1452
+hsa-mir-146b,Glioma,yes,961,1322
+hsa-mir-21,Prostatic Neoplasms,yes,1036,1339
+hsa-mir-21,"Cardiomyopathy, Hypertrophic",yes,1036,1341
+hsa-mir-16,Multiple Myeloma,yes,974,1368
+hsa-mir-106b,Barrett Esophagus,yes,890,1631
+hsa-mir-25,Barrett Esophagus,yes,1061,1631
+hsa-mir-93,Barrett Esophagus,yes,1286,1631
+hsa-mir-221,Glioma,yes,1051,1322
+hsa-mir-222,Glioma,yes,1052,1322
+hsa-mir-143,Hepatoblastoma,yes,957,1402
+hsa-mir-21,HIV Infections,yes,1036,1632
+hsa-mir-331,Neoplasms,yes,1115,1299
+hsa-mir-200b,Breast Neoplasms,yes,1023,1303
+hsa-mir-17,Glioblastoma,yes,977,1301
+hsa-mir-193b,Breast Neoplasms,yes,1001,1303
+hsa-mir-9,Ovarian Neoplasms,yes,1276,1309
+hsa-mir-1-1,Rhabdomyosarcoma,yes,876,1515
+hsa-mir-1-2,Rhabdomyosarcoma,yes,877,1515
+hsa-mir-15a,Arthritis,yes,972,1606
+hsa-mir-15a,"Arthritis, Psoriatic",yes,972,1633
+hsa-mir-206,Neoplasms,yes,1030,1299
+hsa-mir-34a,Glioblastoma,yes,1126,1301
+hsa-mir-214,Uterine Cervical Neoplasms,yes,1040,1300
+hsa-mir-125a,Breast Neoplasms,yes,913,1303
+hsa-mir-17,Inflammation,yes,977,1564
+hsa-mir-31,Inflammation,yes,1096,1564
+hsa-mir-181b,"Carcinoma, Hepatocellular",yes,982,1310
+hsa-mir-491,Colorectal Neoplasms,yes,1182,1304
+hsa-mir-497,Brain Ischemia,yes,1187,1578
+hsa-mir-27a,Obesity,yes,1066,1357
+hsa-mir-24,Gastrointestinal Neoplasms,yes,1058,1346
+hsa-mir-150,Stomach Neoplasms,yes,965,1307
+hsa-mir-18a,Neuroblastoma,yes,994,1302
+hsa-mir-223,"Diabetes Mellitus, Type 2",yes,1053,1399
+hsa-mir-9-1,Stomach Neoplasms,yes,1277,1307
+hsa-mir-9-2,Stomach Neoplasms,yes,1278,1307
+hsa-mir-9-3,Stomach Neoplasms,yes,1279,1307
+hsa-mir-148a,Cholangiocarcinoma,yes,962,1326
+hsa-mir-152,Cholangiocarcinoma,yes,966,1326
+hsa-mir-130b,Stomach Neoplasms,yes,935,1307
+hsa-mir-133a,Cardiomegaly,yes,938,1370
+hsa-mir-133b,Cardiomegaly,yes,941,1370
+hsa-mir-146a,HIV Infections,yes,960,1632
+hsa-mir-375,Liver Neoplasms,yes,1141,1313
+hsa-mir-138-1,Neoplasms,yes,951,1299
+hsa-mir-138-2,Neoplasms,yes,952,1299
+hsa-mir-218-1,Stomach Neoplasms,yes,1047,1307
+hsa-mir-218-2,Stomach Neoplasms,yes,1048,1307
+hsa-mir-193b,Melanoma,yes,1001,1347
+hsa-mir-107,Neoplasms,yes,891,1299
+hsa-let-7f-1,Ovarian Neoplasms,yes,871,1309
+hsa-let-7f-2,Ovarian Neoplasms,yes,872,1309
+hsa-mir-224,Ovarian Neoplasms,yes,1054,1309
+hsa-mir-516a-1,Ovarian Neoplasms,yes,1205,1309
+hsa-mir-516a-2,Ovarian Neoplasms,yes,1206,1309
+hsa-mir-602,"Carcinoma, Hepatocellular",yes,1233,1310
+hsa-mir-602,Hepatitis B,yes,1233,1556
+hsa-mir-101,Alzheimer Disease,yes,879,1342
+hsa-mir-129,Colorectal Neoplasms,yes,924,1304
+hsa-mir-17,"Leukemia, Myeloid, Acute",yes,977,1366
+hsa-mir-18a,Leukemia,yes,994,1385
+hsa-mir-18a,"Leukemia, Myeloid, Acute",yes,994,1366
+hsa-mir-19a,Leukemia,yes,1017,1385
+hsa-mir-19a,"Leukemia, Myeloid, Acute",yes,1017,1366
+hsa-mir-19b-1,Leukemia,yes,1019,1385
+hsa-mir-19b-1,"Leukemia, Myeloid, Acute",yes,1019,1366
+hsa-mir-19b-2,Leukemia,yes,1020,1385
+hsa-mir-19b-2,"Leukemia, Myeloid, Acute",yes,1020,1366
+hsa-mir-20a,"Leukemia, Myeloid, Acute",yes,1034,1366
+hsa-mir-92a-1,"Leukemia, Myeloid, Acute",yes,1283,1366
+hsa-mir-92a-2,"Leukemia, Myeloid, Acute",yes,1284,1366
+hsa-mir-182,Lung Neoplasms,yes,987,1308
+hsa-mir-155,Pre-Eclampsia,yes,971,1459
+hsa-mir-20a,Ovarian Neoplasms,yes,1034,1309
+hsa-mir-146a,Heart Failure,yes,960,1318
+hsa-mir-331,Stomach Neoplasms,yes,1115,1307
+hsa-mir-375,Stomach Neoplasms,yes,1141,1307
+hsa-mir-155,Cardiovascular Diseases,yes,971,1377
+hsa-mir-23b,Kidney Neoplasms,yes,1056,1418
+hsa-mir-22,Neoplasms,yes,1050,1299
+hsa-mir-185,Neoplasms,yes,990,1299
+hsa-mir-96,Pancreatic Neoplasms,yes,1294,1315
+hsa-mir-149,Neoplasms,yes,964,1299
+hsa-mir-10a,Atherosclerosis,yes,892,1376
+hsa-mir-148a,Melanoma,yes,962,1347
+hsa-mir-326,Glioma,yes,1110,1322
+hsa-mir-217,Pancreatic Neoplasms,yes,1045,1315
+hsa-mir-146a,"Carcinoma, Renal Cell",yes,960,1324
+hsa-mir-101-2,Stomach Neoplasms,yes,881,1307
+hsa-mir-125a,"Carcinoma, Non-Small-Cell Lung",yes,913,1312
+hsa-mir-221,Glioblastoma,yes,1051,1301
+hsa-mir-222,Glioblastoma,yes,1052,1301
+hsa-mir-494,Ischemia,yes,1185,1575
+hsa-mir-494,Reperfusion Injury,yes,1185,1557
+hsa-mir-1,Urinary Bladder Neoplasms,yes,875,1306
+hsa-mir-133a,Urinary Bladder Neoplasms,yes,938,1306
+hsa-mir-18,Neoplasms,yes,978,1299
+hsa-mir-20a,Neoplasms,yes,1034,1299
+hsa-mir-92-1,Neoplasms,yes,1280,1299
+hsa-mir-125b,Neoplasms,yes,914,1299
+hsa-mir-25,Neoplasms,yes,1061,1299
+hsa-mir-30d,Neoplasms,yes,1094,1299
+hsa-mir-504,Neoplasms,yes,1196,1299
+hsa-mir-93,Glioblastoma,yes,1286,1301
+hsa-mir-31,Endometrial Neoplasms,yes,1096,1362
+hsa-mir-107,Gastrointestinal Neoplasms,yes,891,1346
+hsa-mir-101,Immune System Diseases,yes,879,1570
+hsa-mir-211,Melanoma,yes,1038,1347
+hsa-mir-196a,Melanoma,yes,1006,1347
+hsa-mir-128-1,Neuroblastoma,yes,922,1302
+hsa-mir-128-2,Neuroblastoma,yes,923,1302
+hsa-mir-21,Dementia,yes,1036,1634
+hsa-mir-593,Esophageal Neoplasms,yes,1231,1351
+hsa-mir-185,Colorectal Neoplasms,yes,990,1304
+hsa-mir-26a-1,Nasopharyngeal Neoplasms,yes,1063,1533
+hsa-mir-26a-2,Nasopharyngeal Neoplasms,yes,1064,1533
+hsa-mir-96,Breast Neoplasms,yes,1294,1303
+hsa-mir-203,Urinary Bladder Neoplasms,yes,1026,1306
+hsa-mir-31,"Muscular Dystrophy, Duchenne",yes,1096,1408
+hsa-mir-214,Urinary Bladder Neoplasms,yes,1040,1306
+hsa-mir-616,Prostatic Neoplasms,yes,1239,1339
+hsa-mir-200b,Prostatic Neoplasms,yes,1023,1339
+hsa-mir-200c,Prostatic Neoplasms,yes,1024,1339
+hsa-mir-885,Neuroblastoma,yes,1275,1302
+hsa-mir-26b,Glioma,yes,1065,1322
+hsa-mir-19a,Esophageal Neoplasms,yes,1017,1351
+hsa-mir-381,"Mastocytosis, Systemic",yes,1148,1635
+hsa-mir-539,"Mastocytosis, Systemic",yes,1217,1635
+hsa-mir-29a,Inflammation,yes,1074,1564
+hsa-mir-221,Colorectal Neoplasms,yes,1051,1304
+hsa-mir-101,Glioblastoma,yes,879,1301
+hsa-mir-203,Esophageal Neoplasms,yes,1026,1351
+hsa-mir-1-1,Urinary Bladder Neoplasms,yes,876,1306
+hsa-mir-1-2,Urinary Bladder Neoplasms,yes,877,1306
+hsa-mir-133a-1,Urinary Bladder Neoplasms,yes,939,1306
+hsa-mir-133a-2,Urinary Bladder Neoplasms,yes,940,1306
+hsa-mir-126,Gastrointestinal Neoplasms,yes,917,1346
+hsa-mir-155,Inflammation,yes,971,1564
+hsa-mir-222,Inflammation,yes,1052,1564
+hsa-mir-29c,Diabetes Mellitus,yes,1078,1379
+hsa-mir-132,Pancreatic Neoplasms,yes,936,1315
+hsa-mir-212,Pancreatic Neoplasms,yes,1039,1315
+hsa-mir-520b,Breast Neoplasms,yes,1211,1303
+hsa-let-7a-1,Gastrointestinal Neoplasms,yes,863,1346
+hsa-let-7a-2,Gastrointestinal Neoplasms,yes,864,1346
+hsa-let-7a-3,Gastrointestinal Neoplasms,yes,865,1346
+hsa-mir-451a,"Carcinoma, Non-Small-Cell Lung",yes,1169,1312
+hsa-mir-16-1,Laryngeal Neoplasms,yes,975,1415
+hsa-mir-16-2,Laryngeal Neoplasms,yes,976,1415
+hsa-mir-145,"Carcinoma, Endometrioid",yes,959,1636
+hsa-mir-21,Pancreatic Neoplasms,yes,1036,1315
+hsa-mir-1-1,Head and Neck Neoplasms,yes,876,1614
+hsa-mir-1-2,Head and Neck Neoplasms,yes,877,1614
+hsa-mir-218-1,Nasopharyngeal Neoplasms,yes,1047,1533
+hsa-mir-218-2,Nasopharyngeal Neoplasms,yes,1048,1533
+hsa-mir-204,Endometrial Neoplasms,yes,1028,1362
+hsa-mir-125b-1,Psoriasis,yes,915,1467
+hsa-mir-125b-2,Psoriasis,yes,916,1467
+hsa-mir-204,Stomach Neoplasms,yes,1028,1307
+hsa-mir-10b,Glioblastoma,yes,893,1301
+hsa-mir-205,Esophageal Neoplasms,yes,1029,1351
+hsa-mir-95,Colorectal Neoplasms,yes,1293,1304
+hsa-mir-125b-2,Breast Neoplasms,yes,916,1303
+hsa-mir-148a,Colorectal Neoplasms,yes,962,1304
+hsa-mir-24-2,Breast Neoplasms,yes,1060,1303
+hsa-mir-373,"Carcinoma, Hepatocellular",yes,1138,1310
+hsa-mir-223,"Carcinoma, Hepatocellular",yes,1053,1310
+hsa-mir-519d,"Carcinoma, Hepatocellular",yes,1209,1310
+hsa-mir-622,Stomach Neoplasms,yes,1240,1307
+hsa-mir-200a,Ovarian Neoplasms,yes,1022,1309
+hsa-let-7f-1,Stomach Neoplasms,yes,871,1307
+hsa-let-7f-2,Stomach Neoplasms,yes,872,1307
+hsa-mir-29c,Esophageal Neoplasms,yes,1078,1351
+hsa-mir-342,Colorectal Neoplasms,yes,1123,1304
+hsa-mir-29a,"Carcinoma, Hepatocellular",yes,1074,1310
+hsa-mir-150,Inflammatory Bowel Diseases,yes,965,1364
+hsa-mir-375,Prostatic Neoplasms,yes,1141,1339
+hsa-mir-21,"Lupus Erythematosus, Systemic",yes,1036,1501
+hsa-mir-372,Hepatitis B,yes,1137,1556
+hsa-mir-373,Hepatitis B,yes,1138,1556
+hsa-mir-146a,Lymphoma,yes,960,1417
+hsa-let-7a-1,Inflammation,yes,863,1564
+hsa-let-7a-2,Inflammation,yes,864,1564
+hsa-let-7a-3,Inflammation,yes,865,1564
+hsa-let-7b,Inflammation,yes,866,1564
+hsa-let-7c,Inflammation,yes,867,1564
+hsa-let-7d,Inflammation,yes,868,1564
+hsa-let-7e,Inflammation,yes,869,1564
+hsa-let-7f-1,Inflammation,yes,871,1564
+hsa-let-7f-2,Inflammation,yes,872,1564
+hsa-let-7g,Inflammation,yes,873,1564
+hsa-let-7i,Inflammation,yes,874,1564
+hsa-mir-335,Breast Neoplasms,yes,1116,1303
+hsa-mir-195,Cardiovascular Diseases,yes,1005,1377
+hsa-mir-143,Pancreatic Neoplasms,yes,957,1315
+hsa-mir-145,Pancreatic Neoplasms,yes,959,1315
+hsa-mir-29b-1,"Carcinoma, Hepatocellular",yes,1076,1310
+hsa-mir-29b-2,"Carcinoma, Hepatocellular",yes,1077,1310
+hsa-mir-29c,"Carcinoma, Hepatocellular",yes,1078,1310
+hsa-mir-223,Stomach Neoplasms,yes,1053,1307
+hsa-mir-100,Urinary Bladder Neoplasms,yes,878,1306
+hsa-mir-21,Inflammation,yes,1036,1564
+hsa-mir-100,"Leukemia, Myeloid, Acute",yes,878,1366
+hsa-mir-106a,Glioblastoma,yes,889,1301
+hsa-mir-198,"Carcinoma, Hepatocellular",yes,1011,1310
+hsa-mir-338,"Carcinoma, Hepatocellular",yes,1117,1310
+hsa-mir-124-1,"Carcinoma, Hepatocellular",yes,904,1310
+hsa-mir-124-2,"Carcinoma, Hepatocellular",yes,905,1310
+hsa-mir-124-3,"Carcinoma, Hepatocellular",yes,906,1310
+hsa-mir-9-1,Cardiovascular Diseases,yes,1277,1377
+hsa-mir-9-2,Cardiovascular Diseases,yes,1278,1377
+hsa-mir-9-3,Cardiovascular Diseases,yes,1279,1377
+hsa-mir-99a,Psoriasis,yes,1296,1467
+hsa-mir-214,Stomach Neoplasms,yes,1040,1307
+hsa-mir-130a,"Carcinoma, Non-Small-Cell Lung",yes,934,1312
+hsa-mir-222,"Carcinoma, Non-Small-Cell Lung",yes,1052,1312
+hsa-mir-155,Intervertebral Disc Degeneration,yes,971,1335
+hsa-mir-148a,Pancreatic Neoplasms,yes,962,1315
+hsa-mir-488,Prostatic Neoplasms,yes,1179,1339
+hsa-mir-302a,Glioblastoma,yes,1084,1301
+hsa-mir-302b,Glioblastoma,yes,1085,1301
+hsa-mir-302c,Glioblastoma,yes,1086,1301
+hsa-mir-302d,Glioblastoma,yes,1087,1301
+hsa-mir-367,Glioblastoma,yes,1134,1301
+hsa-mir-193b,"Leukemia, Myeloid, Acute",yes,1001,1366
+hsa-mir-187,Ovarian Neoplasms,yes,992,1309
+hsa-mir-15b,Tongue Neoplasms,yes,973,1353
+hsa-mir-200b,Tongue Neoplasms,yes,1023,1353
+hsa-mir-206,Myocardial Infarction,yes,1030,1388
+hsa-mir-7-1,"Carcinoma, Non-Small-Cell Lung",yes,1262,1312
+hsa-mir-7-2,"Carcinoma, Non-Small-Cell Lung",yes,1263,1312
+hsa-mir-7-3,"Carcinoma, Non-Small-Cell Lung",yes,1264,1312
+hsa-mir-1-1,Thyroid Neoplasms,yes,876,1330
+hsa-mir-1-2,Thyroid Neoplasms,yes,877,1330
+hsa-mir-106a,Breast Neoplasms,yes,889,1303
+hsa-mir-93,Breast Neoplasms,yes,1286,1303
+hsa-mir-133a-1,Hypertension,yes,939,1383
+hsa-mir-133a-2,Hypertension,yes,940,1383
+hsa-mir-125a,Lung Neoplasms,yes,913,1308
+hsa-mir-143,Urinary Bladder Neoplasms,yes,957,1306
+hsa-mir-491,Hepatitis C,yes,1182,1472
+hsa-mir-199a-1,Urinary Bladder Neoplasms,yes,1014,1306
+hsa-mir-199a-2,Urinary Bladder Neoplasms,yes,1015,1306
+hsa-mir-106b,Laryngeal Neoplasms,yes,890,1415
+hsa-mir-21,"Carcinoma, Renal Cell",yes,1036,1324
+hsa-mir-335,Stomach Neoplasms,yes,1116,1307
+hsa-mir-146b,Pancreatic Neoplasms,yes,961,1315
+hsa-mir-451a,Diabetic Nephropathies,yes,1169,1487
+hsa-let-7e,Reperfusion Injury,yes,869,1557
+hsa-mir-144,"Diabetes Mellitus, Type 2",yes,958,1399
+hsa-mir-194-1,Endometrial Neoplasms,yes,1003,1362
+hsa-mir-194-2,Endometrial Neoplasms,yes,1004,1362
+hsa-let-7a-1,"Sarcoma, Ewing",yes,863,1419
+hsa-let-7a-2,"Sarcoma, Ewing",yes,864,1419
+hsa-let-7a-3,"Sarcoma, Ewing",yes,865,1419
+hsa-mir-9-1,Glioblastoma,yes,1277,1301
+hsa-mir-9-2,Glioblastoma,yes,1278,1301
+hsa-mir-9-3,Glioblastoma,yes,1279,1301
+hsa-mir-542,Neoplasms,yes,1218,1299
+hsa-mir-140,Osteoarthritis,yes,954,1403
+hsa-mir-146b,Thyroid Neoplasms,yes,961,1330
+hsa-mir-216b,Nasopharyngeal Neoplasms,yes,1044,1533
+hsa-mir-423,"Carcinoma, Hepatocellular",yes,1157,1310
+hsa-mir-373,Fibrosarcoma,yes,1138,1491
+hsa-mir-520c,Fibrosarcoma,yes,1212,1491
+hsa-mir-26b,Lung Neoplasms,yes,1065,1308
+hsa-mir-1-1,Laryngeal Neoplasms,yes,876,1415
+hsa-mir-1-2,Laryngeal Neoplasms,yes,877,1415
+hsa-mir-23a,Muscular Dystrophies,yes,1055,1637
+hsa-mir-34a,Medulloblastoma,yes,1126,1367
+hsa-mir-499a,Colorectal Neoplasms,yes,1190,1304
+hsa-mir-375,Urinary Bladder Neoplasms,yes,1141,1306
+hsa-mir-191,Stomach Neoplasms,yes,997,1307
+hsa-mir-29b-1,Multiple Myeloma,yes,1076,1368
+hsa-mir-191,Thyroid Neoplasms,yes,997,1330
+hsa-mir-93,Osteosarcoma,yes,1286,1305
+hsa-mir-125b-1,Endometrial Neoplasms,yes,915,1362
+hsa-mir-125b-2,Endometrial Neoplasms,yes,916,1362
+hsa-mir-142,"Leukemia-Lymphoma, Adult T-Cell",yes,956,1483
+hsa-mir-150,Pancreatic Neoplasms,yes,965,1315
+hsa-mir-181a-2,Ischemia,yes,981,1575
+hsa-mir-199a-1,Endometriosis,yes,1014,1380
+hsa-mir-199a-2,Endometriosis,yes,1015,1380
+hsa-mir-21,Urinary Bladder Neoplasms,yes,1036,1306
+hsa-let-7a-1,Endometrial Neoplasms,yes,863,1362
+hsa-let-7a-2,Endometrial Neoplasms,yes,864,1362
+hsa-let-7a-3,Endometrial Neoplasms,yes,865,1362
+hsa-let-7b,Endometrial Neoplasms,yes,866,1362
+hsa-let-7c,Endometrial Neoplasms,yes,867,1362
+hsa-let-7d,Endometrial Neoplasms,yes,868,1362
+hsa-let-7e,Endometrial Neoplasms,yes,869,1362
+hsa-let-7f-1,Endometrial Neoplasms,yes,871,1362
+hsa-let-7f-2,Endometrial Neoplasms,yes,872,1362
+hsa-let-7g,Endometrial Neoplasms,yes,873,1362
+hsa-let-7i,Endometrial Neoplasms,yes,874,1362
+hsa-mir-200c,Endometrial Neoplasms,yes,1024,1362
+hsa-mir-148b,Colorectal Neoplasms,yes,963,1304
+hsa-mir-146a,Stomach Neoplasms,yes,960,1307
+hsa-mir-30c-1,Ovarian Neoplasms,yes,1092,1309
+hsa-mir-30c-2,Ovarian Neoplasms,yes,1093,1309
+hsa-mir-194-1,Colorectal Neoplasms,yes,1003,1304
+hsa-mir-194-2,Colorectal Neoplasms,yes,1004,1304
+hsa-mir-375,Head and Neck Neoplasms,yes,1141,1614
+hsa-mir-7-2,Glioblastoma,yes,1263,1301
+hsa-mir-7-3,Glioblastoma,yes,1264,1301
+hsa-mir-494,Gastrointestinal Neoplasms,yes,1185,1346
+hsa-mir-125b-1,Huntington Disease,yes,915,1355
+hsa-mir-125b-2,Huntington Disease,yes,916,1355
+hsa-mir-146a,Huntington Disease,yes,960,1355
+hsa-mir-150,Huntington Disease,yes,965,1355
+hsa-mir-214,Huntington Disease,yes,1040,1355
+hsa-mir-375,"Carcinoma, Hepatocellular",yes,1141,1310
+hsa-mir-493,Urinary Bladder Neoplasms,yes,1184,1306
+hsa-mir-1-1,Prostatic Neoplasms,yes,876,1339
+hsa-mir-1-2,Prostatic Neoplasms,yes,877,1339
+hsa-mir-133a-1,Prostatic Neoplasms,yes,939,1339
+hsa-mir-133a-2,Prostatic Neoplasms,yes,940,1339
+hsa-mir-21,Colonic Neoplasms,yes,1036,1336
+hsa-mir-25,Ovarian Neoplasms,yes,1061,1309
+hsa-mir-124-1,Breast Neoplasms,yes,904,1303
+hsa-mir-124-2,Breast Neoplasms,yes,905,1303
+hsa-mir-124-3,Breast Neoplasms,yes,906,1303
+hsa-mir-31,Glioma,yes,1096,1322
+hsa-mir-199a-1,"Carcinoma, Renal Cell",yes,1014,1324
+hsa-mir-520e,"Carcinoma, Hepatocellular",yes,1214,1310
+hsa-mir-19a,"Arthritis, Rheumatoid",yes,1017,1423
+hsa-mir-19b-1,"Arthritis, Rheumatoid",yes,1019,1423
+hsa-mir-19b-2,"Arthritis, Rheumatoid",yes,1020,1423
+hsa-mir-206,Laryngeal Neoplasms,yes,1030,1415
+hsa-mir-34b,Breast Neoplasms,yes,1127,1303
+hsa-mir-17,"Lymphoma, Mantle-Cell",yes,977,1430
+hsa-mir-18a,"Lymphoma, Mantle-Cell",yes,994,1430
+hsa-mir-19a,"Lymphoma, Mantle-Cell",yes,1017,1430
+hsa-mir-19b-1,"Lymphoma, Mantle-Cell",yes,1019,1430
+hsa-mir-20a,"Lymphoma, Mantle-Cell",yes,1034,1430
+hsa-mir-92a-1,"Lymphoma, Mantle-Cell",yes,1283,1430
+hsa-mir-378a,Cardiovascular Diseases,yes,1146,1377
+hsa-mir-27b,Neuroblastoma,yes,1067,1302
+hsa-mir-221,Colonic Neoplasms,yes,1051,1336
+hsa-mir-17,Colorectal Neoplasms,yes,977,1304
+hsa-mir-15a,"Leukemia, Myeloid, Acute",yes,972,1366
+hsa-mir-320a,Colorectal Neoplasms,yes,1100,1304
+hsa-mir-24-1,Laryngeal Neoplasms,yes,1059,1415
+hsa-mir-24-2,Laryngeal Neoplasms,yes,1060,1415
+hsa-mir-125b-2,"Leukemia, B-Cell",yes,916,1552
+hsa-mir-155,"Leukemia, B-Cell",yes,971,1552
+hsa-mir-421,Biliary Tract Neoplasms,yes,1155,1620
+hsa-let-7a,"Carcinoma, Renal Cell",yes,862,1324
+hsa-mir-30a,Breast Neoplasms,yes,1089,1303
+hsa-mir-30a,Ovarian Neoplasms,yes,1089,1309
+hsa-mir-373,Breast Neoplasms,yes,1138,1303
+hsa-mir-520a,Breast Neoplasms,yes,1210,1303
+hsa-mir-520c,Breast Neoplasms,yes,1212,1303
+hsa-mir-520d,Breast Neoplasms,yes,1213,1303
+hsa-mir-205,Glioblastoma,yes,1029,1301
+hsa-mir-21,Ovarian Neoplasms,yes,1036,1309
+hsa-mir-124-1,Alzheimer Disease,yes,904,1342
+hsa-mir-124-2,Alzheimer Disease,yes,905,1342
+hsa-mir-124-3,Alzheimer Disease,yes,906,1342
+hsa-mir-320a,Breast Neoplasms,yes,1100,1303
+hsa-mir-320c-1,Breast Neoplasms,yes,1102,1303
+hsa-mir-320c-2,Breast Neoplasms,yes,1103,1303
+hsa-mir-320d-1,Breast Neoplasms,yes,1104,1303
+hsa-mir-320d-2,Breast Neoplasms,yes,1105,1303
+hsa-mir-451a,Glioma,yes,1169,1322
+hsa-mir-409,Stomach Neoplasms,yes,1152,1307
+hsa-mir-20a,Osteosarcoma,yes,1034,1305
+hsa-mir-181d,Glioma,yes,986,1322
+hsa-mir-195,Glioblastoma,yes,1005,1301
+hsa-mir-1236,Inflammation,yes,902,1564
+hsa-mir-7-1,"Carcinoma, Hepatocellular",yes,1262,1310
+hsa-mir-7-2,"Carcinoma, Hepatocellular",yes,1263,1310
+hsa-mir-7-3,"Carcinoma, Hepatocellular",yes,1264,1310
+hsa-mir-211,Colorectal Neoplasms,yes,1038,1304
+hsa-mir-663a,Nasopharyngeal Neoplasms,yes,1255,1533
+hsa-let-7a-1,Breast Neoplasms,yes,863,1303
+hsa-let-7a-2,Breast Neoplasms,yes,864,1303
+hsa-let-7a-3,Breast Neoplasms,yes,865,1303
+hsa-mir-195,Urinary Bladder Neoplasms,yes,1005,1306
+hsa-mir-449a,Urinary Bladder Neoplasms,yes,1166,1306
+hsa-mir-133a-1,Head and Neck Neoplasms,yes,939,1614
+hsa-mir-32,Prostatic Neoplasms,yes,1098,1339
+hsa-mir-221,Hypertrophy,yes,1051,1565
+hsa-mir-21,Leprosy,yes,1036,1638
+hsa-mir-25,Breast Neoplasms,yes,1061,1303
+hsa-mir-30a,Colonic Neoplasms,yes,1089,1336
+hsa-mir-127,Inflammation,yes,918,1564
+hsa-mir-29b-1,"Carcinoma, Non-Small-Cell Lung",yes,1076,1312
+hsa-mir-29b-2,"Carcinoma, Non-Small-Cell Lung",yes,1077,1312
+hsa-mir-10b,Stomach Neoplasms,yes,893,1307
+hsa-mir-203,Laryngeal Neoplasms,yes,1026,1415
+hsa-mir-155,"Carcinoma, Renal Cell",yes,971,1324
+hsa-mir-9-1,Hodgkin Disease,yes,1277,1537
+hsa-mir-9-2,Hodgkin Disease,yes,1278,1537
+hsa-mir-9-3,Hodgkin Disease,yes,1279,1537
+hsa-mir-135a-1,Stomach Neoplasms,yes,945,1307
+hsa-mir-135a-2,Stomach Neoplasms,yes,946,1307
+hsa-mir-200b,Stomach Neoplasms,yes,1023,1307
+hsa-mir-520b,"Carcinoma, Hepatocellular",yes,1211,1310
+hsa-mir-182,Stomach Neoplasms,yes,987,1307
+hsa-mir-29a,Rhabdomyosarcoma,yes,1074,1515
+hsa-mir-29b-1,Rhabdomyosarcoma,yes,1076,1515
+hsa-mir-29b-2,Rhabdomyosarcoma,yes,1077,1515
+hsa-mir-29c,Rhabdomyosarcoma,yes,1078,1515
+hsa-mir-141,Aortic Valve Stenosis,yes,955,1639
+hsa-mir-196a-1,Stomach Neoplasms,yes,1007,1307
+hsa-mir-196a-2,Stomach Neoplasms,yes,1008,1307
+hsa-mir-18a,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,994,1401
+hsa-mir-19a,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,1017,1401
+hsa-mir-19b-1,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,1019,1401
+hsa-mir-20a,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,1034,1401
+hsa-mir-92a-1,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,1283,1401
+hsa-mir-155,Liposarcoma,yes,971,1640
+hsa-mir-130a,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,934,1401
+hsa-mir-196b,Leukemia,yes,1009,1385
+hsa-mir-212,"Carcinoma, Non-Small-Cell Lung",yes,1039,1312
+hsa-mir-138-1,"Carcinoma, Hepatocellular",yes,951,1310
+hsa-mir-138-2,"Carcinoma, Hepatocellular",yes,952,1310
+hsa-mir-125b-1,Leukemia,yes,915,1385
+hsa-mir-125b-2,Leukemia,yes,916,1385
+hsa-mir-301a,"Carcinoma, Hepatocellular",yes,1081,1310
+hsa-mir-15b,Liver Failure,yes,973,1603
+hsa-mir-16-1,Liver Failure,yes,975,1603
+hsa-mir-16-2,Liver Failure,yes,976,1603
+hsa-mir-133a,Head and Neck Neoplasms,yes,938,1614
+hsa-mir-506,Liver Cirrhosis,yes,1198,1337
+hsa-mir-328,Hypertension,yes,1111,1383
+hsa-mir-25,Thyroid Neoplasms,yes,1061,1330
+hsa-mir-30d,Thyroid Neoplasms,yes,1094,1330
+hsa-mir-182,Medulloblastoma,yes,987,1367
+hsa-mir-183,Medulloblastoma,yes,988,1367
+hsa-mir-96,Medulloblastoma,yes,1294,1367
+hsa-mir-133b,Prostatic Neoplasms,yes,941,1339
+hsa-mir-200c,Colorectal Neoplasms,yes,1024,1304
+hsa-mir-10a,Pancreatic Neoplasms,yes,892,1315
+hsa-let-7f-1,Breast Neoplasms,yes,871,1303
+hsa-mir-34b,Melanoma,yes,1127,1347
+hsa-mir-25,Glioblastoma,yes,1061,1301
+hsa-mir-32,Glioblastoma,yes,1098,1301
+hsa-let-7c,"Carcinoma, Hepatocellular",yes,867,1310
+hsa-mir-135a-1,Breast Neoplasms,yes,945,1303
+hsa-mir-135a-2,Breast Neoplasms,yes,946,1303
+hsa-mir-128-1,Glioma,yes,922,1322
+hsa-mir-128-2,Glioma,yes,923,1322
+hsa-mir-181b-1,Liver Cirrhosis,yes,983,1337
+hsa-mir-181b-2,Liver Cirrhosis,yes,984,1337
+hsa-mir-219,"Carcinoma, Hepatocellular",yes,1049,1310
+hsa-mir-20a,Urinary Bladder Neoplasms,yes,1034,1306
+hsa-mir-124-1,Stomach Neoplasms,yes,904,1307
+hsa-mir-124-2,Stomach Neoplasms,yes,905,1307
+hsa-mir-124-3,Stomach Neoplasms,yes,906,1307
+hsa-mir-328,Colorectal Neoplasms,yes,1111,1304
+hsa-mir-483,Glioma,yes,1175,1322
+hsa-mir-26a-1,Lung Neoplasms,yes,1063,1308
+hsa-mir-26a-2,Lung Neoplasms,yes,1064,1308
+hsa-mir-125b-1,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,yes,915,1549
+hsa-mir-125b-2,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,yes,916,1549
+hsa-mir-495,Stomach Neoplasms,yes,1186,1307
+hsa-mir-145,Osteosarcoma,yes,959,1305
+hsa-mir-141,Hepatitis B,yes,955,1556
+hsa-mir-107,Myocardial Infarction,yes,891,1388
+hsa-mir-26a-1,Cholangiocarcinoma,yes,1063,1326
+hsa-mir-26a-2,Cholangiocarcinoma,yes,1064,1326
+hsa-mir-22,Lung Neoplasms,yes,1050,1308
+hsa-mir-1258,"Carcinoma, Non-Small-Cell Lung",yes,912,1312
+hsa-mir-574,Colorectal Neoplasms,yes,1223,1304
+hsa-mir-199a-1,Ovarian Neoplasms,yes,1014,1309
+hsa-mir-199a-2,Ovarian Neoplasms,yes,1015,1309
+hsa-mir-145,Barrett Esophagus,yes,959,1631
+hsa-mir-27a,Prostatic Neoplasms,yes,1066,1339
+hsa-mir-204,"Carcinoma, Renal Cell",yes,1028,1324
+hsa-mir-301a,Demyelinating Diseases,yes,1081,1641
+hsa-mir-126,Diabetes Mellitus,yes,917,1379
+hsa-mir-183,Osteosarcoma,yes,988,1305
+hsa-mir-10b,"Carcinoma, Hepatocellular",yes,893,1310
+hsa-mir-181b-1,Stomach Neoplasms,yes,983,1307
+hsa-mir-181b-2,Stomach Neoplasms,yes,984,1307
+hsa-mir-214,Cholangiocarcinoma,yes,1040,1326
+hsa-mir-106b,Leiomyoma,yes,890,1602
+hsa-mir-93,Leiomyoma,yes,1286,1602
+hsa-mir-19b-1,Urinary Bladder Neoplasms,yes,1019,1306
+hsa-mir-19b-2,Urinary Bladder Neoplasms,yes,1020,1306
+hsa-mir-9-1,Neuroblastoma,yes,1277,1302
+hsa-mir-9-2,Neuroblastoma,yes,1278,1302
+hsa-mir-9-3,Neuroblastoma,yes,1279,1302
+hsa-mir-139,Colorectal Neoplasms,yes,953,1304
+hsa-mir-181a-2,Stomach Neoplasms,yes,981,1307
+hsa-mir-93,Colorectal Neoplasms,yes,1286,1304
+hsa-mir-381,Lung Neoplasms,yes,1148,1308
+hsa-mir-103a-1,Colorectal Neoplasms,yes,884,1304
+hsa-mir-103a-2,Colorectal Neoplasms,yes,885,1304
+hsa-mir-103b-1,Colorectal Neoplasms,yes,886,1304
+hsa-mir-103b-2,Colorectal Neoplasms,yes,887,1304
+hsa-mir-107,Colorectal Neoplasms,yes,891,1304
+hsa-mir-7-1,Stomach Neoplasms,yes,1262,1307
+hsa-mir-7-2,Stomach Neoplasms,yes,1263,1307
+hsa-mir-7-3,Stomach Neoplasms,yes,1264,1307
+hsa-mir-27a,Glioma,yes,1066,1322
+hsa-mir-27b,Cryptosporidiosis,yes,1067,1642
+hsa-mir-181b,Inflammation,yes,982,1564
+hsa-mir-200a,Pancreatic Neoplasms,yes,1022,1315
+hsa-mir-200b,Pancreatic Neoplasms,yes,1023,1315
+hsa-mir-200c,Pancreatic Neoplasms,yes,1024,1315
+hsa-mir-133a-1,Esophageal Neoplasms,yes,939,1351
+hsa-mir-133a-2,Esophageal Neoplasms,yes,940,1351
+hsa-mir-26a,Heart Diseases,yes,1062,1321
+hsa-mir-499a,"Carcinoma, Hepatocellular",yes,1190,1310
+hsa-mir-193b,Colorectal Neoplasms,yes,1001,1304
+hsa-mir-199a-1,Colorectal Neoplasms,yes,1014,1304
+hsa-mir-199a-2,Colorectal Neoplasms,yes,1015,1304
+hsa-mir-320c-1,Colorectal Neoplasms,yes,1102,1304
+hsa-mir-320c-2,Colorectal Neoplasms,yes,1103,1304
+hsa-mir-625,Stomach Neoplasms,yes,1241,1307
+hsa-mir-34a,Urinary Bladder Neoplasms,yes,1126,1306
+hsa-mir-590,"Carcinoma, Hepatocellular",yes,1229,1310
+hsa-mir-30c-1,Breast Neoplasms,yes,1092,1303
+hsa-mir-30c-2,Breast Neoplasms,yes,1093,1303
+hsa-mir-497,Colorectal Neoplasms,yes,1187,1304
+hsa-mir-203,Breast Neoplasms,yes,1026,1303
+hsa-mir-204,Nervous System Diseases,yes,1028,1334
+hsa-mir-195,Pre-Eclampsia,yes,1005,1459
+hsa-mir-137,Breast Neoplasms,yes,949,1303
+hsa-mir-17,Urinary Bladder Neoplasms,yes,977,1306
+hsa-mir-138-1,Nasopharyngeal Neoplasms,yes,951,1533
+hsa-mir-138-2,Nasopharyngeal Neoplasms,yes,952,1533
+hsa-mir-23b,Glioblastoma,yes,1056,1301
+hsa-mir-410,Glioma,yes,1153,1322
+hsa-mir-9-1,Breast Neoplasms,yes,1277,1303
+hsa-mir-9-2,Breast Neoplasms,yes,1278,1303
+hsa-mir-9-3,Breast Neoplasms,yes,1279,1303
+hsa-mir-103a-1,Endometrial Neoplasms,yes,884,1362
+hsa-mir-103a-2,Endometrial Neoplasms,yes,885,1362
+hsa-mir-103b-1,Endometrial Neoplasms,yes,886,1362
+hsa-mir-103b-2,Endometrial Neoplasms,yes,887,1362
+hsa-mir-20a,Prostatic Neoplasms,yes,1034,1339
+hsa-mir-125b-1,Melanoma,yes,915,1347
+hsa-mir-125b-2,Melanoma,yes,916,1347
+hsa-mir-193b,Prostatic Neoplasms,yes,1001,1339
+hsa-mir-224,Breast Neoplasms,yes,1054,1303
+hsa-mir-107,Pituitary Neoplasms,yes,891,1369
+hsa-mir-324,Kidney Diseases,yes,1108,1518
+hsa-mir-31,Prostatic Neoplasms,yes,1096,1339
+hsa-mir-1271,"Carcinoma, Hepatocellular",yes,919,1310
+hsa-mir-214,Esophageal Neoplasms,yes,1040,1351
+hsa-mir-98,Esophageal Neoplasms,yes,1295,1351
+hsa-mir-542,Glioma,yes,1218,1322
+hsa-mir-7-1,Breast Neoplasms,yes,1262,1303
+hsa-mir-7-2,Breast Neoplasms,yes,1263,1303
+hsa-mir-7-3,Breast Neoplasms,yes,1264,1303
+hsa-mir-196a-1,"Carcinoma, Non-Small-Cell Lung",yes,1007,1312
+hsa-mir-196a-2,"Carcinoma, Non-Small-Cell Lung",yes,1008,1312
+hsa-mir-133b,"Carcinoma, Non-Small-Cell Lung",yes,941,1312
+hsa-mir-203,"Carcinoma, Hepatocellular",yes,1026,1310
+hsa-mir-335,Meningioma,yes,1116,1453
+hsa-mir-124-1,Colorectal Neoplasms,yes,904,1304
+hsa-mir-124-2,Colorectal Neoplasms,yes,905,1304
+hsa-mir-137,Colorectal Neoplasms,yes,949,1304
+hsa-mir-340,Colorectal Neoplasms,yes,1122,1304
+hsa-mir-92a-1,Glioblastoma,yes,1283,1301
+hsa-mir-92a-2,Glioblastoma,yes,1284,1301
+hsa-mir-140,"Carcinoma, Hepatocellular",yes,954,1310
+hsa-mir-370,"Leukemia, Myeloid, Acute",yes,1135,1366
+hsa-mir-106a,Colorectal Neoplasms,yes,889,1304
+hsa-let-7c,Atherosclerosis,yes,867,1376
+hsa-mir-182,Peripheral Nerve Injuries,yes,987,1643
+hsa-mir-15a,Osteosarcoma,yes,972,1305
+hsa-mir-16-1,Osteosarcoma,yes,975,1305
+hsa-mir-100,Breast Neoplasms,yes,878,1303
+hsa-mir-29b-1,Nervous System Diseases,yes,1076,1334
+hsa-mir-544a,Stomach Neoplasms,yes,1220,1307
+hsa-mir-152,Breast Neoplasms,yes,966,1303
+hsa-mir-338,Hepatitis B,yes,1117,1556
+hsa-mir-34c,Breast Neoplasms,yes,1128,1303
+hsa-mir-135a,Rectal Neoplasms,yes,944,1539
+hsa-mir-155,Atherosclerosis,yes,971,1376
+hsa-mir-122,Breast Neoplasms,yes,899,1303
+hsa-mir-153-1,Prostatic Neoplasms,yes,968,1339
+hsa-mir-153-2,Prostatic Neoplasms,yes,969,1339
+hsa-mir-124-1,Prostatic Neoplasms,yes,904,1339
+hsa-mir-124-2,Prostatic Neoplasms,yes,905,1339
+hsa-mir-124-3,Prostatic Neoplasms,yes,906,1339
+hsa-mir-1297,Lung Neoplasms,yes,928,1308
+hsa-mir-511,Lung Neoplasms,yes,1202,1308
+hsa-mir-101-1,Breast Neoplasms,yes,880,1303
+hsa-mir-101-2,Breast Neoplasms,yes,881,1303
+hsa-mir-203,Lung Neoplasms,yes,1026,1308
+hsa-mir-145,Glioma,yes,959,1322
+hsa-mir-181a-2,"Leukemia, Myeloid, Acute",yes,981,1366
+hsa-mir-16-2,Multiple Myeloma,yes,976,1368
+hsa-mir-145,Urinary Bladder Neoplasms,yes,959,1306
+hsa-mir-429,Colorectal Neoplasms,yes,1160,1304
+hsa-mir-27a,Lung Neoplasms,yes,1066,1308
+hsa-mir-144,Nasopharyngeal Neoplasms,yes,958,1533
+hsa-mir-205,Parkinson Disease,yes,1029,1455
+hsa-mir-574,Lung Neoplasms,yes,1223,1308
+hsa-mir-7-1,Lung Neoplasms,yes,1262,1308
+hsa-mir-7-2,Lung Neoplasms,yes,1263,1308
+hsa-mir-7-3,Lung Neoplasms,yes,1264,1308
+hsa-mir-152,Glioma,yes,966,1322
+hsa-mir-24-1,Glioma,yes,1059,1322
+hsa-mir-24-2,Glioma,yes,1060,1322
+hsa-mir-517a,"Carcinoma, Hepatocellular",yes,1207,1310
+hsa-mir-27a,Cardiomyopathies,yes,1066,1542
+hsa-mir-149,Stomach Neoplasms,yes,964,1307
+hsa-mir-100,Lung Neoplasms,yes,878,1308
+hsa-mir-182,HIV Infections,yes,987,1632
+hsa-mir-21,Wounds and Injuries,yes,1036,1644
+hsa-mir-125b-2,Urinary Bladder Neoplasms,yes,916,1306
+hsa-mir-195,Osteosarcoma,yes,1005,1305
+hsa-mir-16-1,Glioma,yes,975,1322
+hsa-mir-16-2,Glioma,yes,976,1322
+hsa-mir-657,"Carcinoma, Hepatocellular",yes,1252,1310
+hsa-mir-15a,Neuroblastoma,yes,972,1302
+hsa-mir-135a-1,"Carcinoma, Renal Cell",yes,945,1324
+hsa-mir-135a-2,"Carcinoma, Renal Cell",yes,946,1324
+hsa-mir-137,Lung Neoplasms,yes,949,1308
+hsa-mir-133a-1,Liver Cirrhosis,yes,939,1337
+hsa-mir-133a-2,Liver Cirrhosis,yes,940,1337
+hsa-mir-302a,Urinary Bladder Neoplasms,yes,1084,1306
+hsa-mir-367,Urinary Bladder Neoplasms,yes,1134,1306
+hsa-mir-23b,"Carcinoma, Renal Cell",yes,1056,1324
+hsa-mir-133b,Urinary Bladder Neoplasms,yes,941,1306
+hsa-mir-7-1,Melanoma,yes,1262,1347
+hsa-mir-7-2,Melanoma,yes,1263,1347
+hsa-mir-7-3,Melanoma,yes,1264,1347
+hsa-mir-223,Osteosarcoma,yes,1053,1305
+hsa-mir-7-1,Colorectal Neoplasms,yes,1262,1304
+hsa-mir-7-2,Colorectal Neoplasms,yes,1263,1304
+hsa-mir-7-3,Colorectal Neoplasms,yes,1264,1304
+hsa-mir-98,Neoplasms,yes,1295,1299
+hsa-mir-150,Cardiomegaly,yes,965,1370
+hsa-mir-145,Neuroblastoma,yes,959,1302
+hsa-mir-16-1,"Carcinoma, Hepatocellular",yes,975,1310
+hsa-mir-16-2,"Carcinoma, Hepatocellular",yes,976,1310
+hsa-mir-21,"Carcinoma, Endometrioid",yes,1036,1636
+hsa-mir-145,Stomach Neoplasms,yes,959,1307
+hsa-mir-31,Psoriasis,yes,1096,1467
+hsa-mir-27a,"Leukemia, Myeloid, Acute",yes,1066,1366
+hsa-mir-218-1,Glioma,yes,1047,1322
+hsa-mir-218-2,Glioma,yes,1048,1322
+hsa-mir-29a,Melanoma,yes,1074,1347
+hsa-mir-29b-1,Melanoma,yes,1076,1347
+hsa-mir-29b-2,Melanoma,yes,1077,1347
+hsa-mir-145,Choriocarcinoma,yes,959,1439
+hsa-mir-137,Oligodendroglioma,yes,949,1550
+hsa-mir-218-1,Colonic Neoplasms,yes,1047,1336
+hsa-mir-218-2,Colonic Neoplasms,yes,1048,1336
+hsa-mir-31,Colonic Neoplasms,yes,1096,1336
+hsa-mir-424,Hypertension,yes,1158,1383
+hsa-mir-503,Hypertension,yes,1195,1383
+hsa-mir-501,Hepatitis B,yes,1193,1556
+hsa-let-7d,Ovarian Neoplasms,yes,868,1309
+hsa-mir-362,Colorectal Neoplasms,yes,1131,1304
+hsa-mir-183,Urinary Bladder Neoplasms,yes,988,1306
+hsa-mir-210,Urinary Bladder Neoplasms,yes,1037,1306
+hsa-mir-100,Esophageal Neoplasms,yes,878,1351
+hsa-mir-99a,Esophageal Neoplasms,yes,1296,1351
+hsa-mir-196b,Endometriosis,yes,1009,1380
+hsa-mir-199b,Breast Neoplasms,yes,1016,1303
+hsa-mir-149,Glioma,yes,964,1322
+hsa-mir-107,Glioma,yes,891,1322
+hsa-mir-16-2,Ovarian Neoplasms,yes,976,1309
+hsa-mir-34b,Pancreatic Neoplasms,yes,1127,1315
+hsa-mir-145,Endometriosis,yes,959,1380
+hsa-mir-384,Myocardial Reperfusion Injury,yes,1151,1522
+hsa-mir-31,Colorectal Neoplasms,yes,1096,1304
+hsa-mir-30a,"Cardiomyopathy, Hypertrophic",yes,1089,1341
+hsa-mir-122,Infertility,yes,899,1451
+hsa-mir-182,Prostatic Neoplasms,yes,987,1339
+hsa-mir-221,Coronary Artery Disease,yes,1051,1373
+hsa-mir-182,Breast Neoplasms,yes,987,1303
+hsa-mir-193b,Neoplasms,yes,1001,1299
+hsa-mir-330,Colorectal Neoplasms,yes,1114,1304
+hsa-mir-301a,Stomach Neoplasms,yes,1081,1307
+hsa-mir-138-1,Lung Neoplasms,yes,951,1308
+hsa-mir-138-2,Lung Neoplasms,yes,952,1308
+hsa-mir-206,Stomach Neoplasms,yes,1030,1307
+hsa-mir-22,Huntington Disease,yes,1050,1355
+hsa-mir-296,Stomach Neoplasms,yes,1070,1307
+hsa-mir-31,Breast Neoplasms,yes,1096,1303
+hsa-mir-106b,Glioma,yes,890,1322
+hsa-mir-16-1,Colorectal Neoplasms,yes,975,1304
+hsa-mir-16-2,Colorectal Neoplasms,yes,976,1304
+hsa-mir-200a,Stomach Neoplasms,yes,1022,1307
+hsa-mir-195,Glioma,yes,1005,1322
+hsa-mir-30a,Glioma,yes,1089,1322
+hsa-mir-138-1,Ovarian Neoplasms,yes,951,1309
+hsa-mir-138-2,Ovarian Neoplasms,yes,952,1309
+hsa-mir-26a-1,"Carcinoma, Hepatocellular",yes,1063,1310
+hsa-mir-26a-2,"Carcinoma, Hepatocellular",yes,1064,1310
+hsa-mir-130b,Endometrial Neoplasms,yes,935,1362
+hsa-mir-130a,Colorectal Neoplasms,yes,934,1304
+hsa-mir-454,Colorectal Neoplasms,yes,1171,1304
+hsa-mir-224,Inflammatory Bowel Diseases,yes,1054,1364
+hsa-mir-137,Neuroblastoma,yes,949,1302
+hsa-mir-92b,Glioma,yes,1285,1322
+hsa-mir-185,Prostatic Neoplasms,yes,990,1339
+hsa-mir-24-1,Neoplasms,yes,1059,1299
+hsa-mir-24-2,Neoplasms,yes,1060,1299
+hsa-mir-320d-1,"Sarcoma, Kaposi",yes,1104,1525
+hsa-mir-320d-2,"Sarcoma, Kaposi",yes,1105,1525
+hsa-mir-498,"Sarcoma, Kaposi",yes,1188,1525
+hsa-mir-34a,Inferior Wall Myocardial Infarction,yes,1126,1576
+hsa-mir-181b-1,Glioma,yes,983,1322
+hsa-mir-181b-2,Glioma,yes,984,1322
+hsa-mir-25,Colorectal Neoplasms,yes,1061,1304
+hsa-mir-155,Laryngeal Neoplasms,yes,971,1415
+hsa-mir-27a,Ovarian Neoplasms,yes,1066,1309
+hsa-mir-135a-1,Neoplasms,yes,945,1299
+hsa-mir-135a-2,Neoplasms,yes,946,1299
+hsa-mir-29c,Stomach Neoplasms,yes,1078,1307
+hsa-mir-21,Multiple Myeloma,yes,1036,1368
+hsa-mir-27a,Hepatitis C,yes,1066,1472
+hsa-mir-30a,"Lupus Erythematosus, Systemic",yes,1089,1501
+hsa-mir-497,Urinary Bladder Neoplasms,yes,1187,1306
+hsa-mir-218-1,"Carcinoma, Renal Cell",yes,1047,1324
+hsa-mir-218-2,"Carcinoma, Renal Cell",yes,1048,1324
+hsa-mir-146a,Thyroid Neoplasms,yes,960,1330
+hsa-mir-152,Prostatic Neoplasms,yes,966,1339
+hsa-mir-134,Glioblastoma,yes,942,1301
+hsa-mir-486,Lung Neoplasms,yes,1177,1308
+hsa-mir-214,Nasopharyngeal Neoplasms,yes,1040,1533
+hsa-mir-218-1,Uterine Cervical Neoplasms,yes,1047,1300
+hsa-mir-218-2,Uterine Cervical Neoplasms,yes,1048,1300
+hsa-mir-30a,Colorectal Neoplasms,yes,1089,1304
+hsa-mir-145,Colorectal Neoplasms,yes,959,1304
+hsa-mir-16-2,Osteosarcoma,yes,976,1305
+hsa-mir-181a,Inflammation,yes,980,1564
+hsa-mir-150,Lymphoma,yes,965,1417
+hsa-mir-22,Stomach Neoplasms,yes,1050,1307
+hsa-mir-497,Neuroblastoma,yes,1187,1302
+hsa-mir-183,Prostatic Neoplasms,yes,988,1339
+hsa-mir-200b,Glioma,yes,1023,1322
+hsa-mir-145,Head and Neck Neoplasms,yes,959,1614
+hsa-mir-23a,Stomach Neoplasms,yes,1055,1307
+hsa-mir-383,Glioma,yes,1150,1322
+hsa-mir-24-1,Osteosarcoma,yes,1059,1305
+hsa-mir-24-2,Osteosarcoma,yes,1060,1305
+hsa-mir-193a,Ovarian Neoplasms,yes,1000,1309
+hsa-mir-19a,Gastrointestinal Neoplasms,yes,1017,1346
+hsa-mir-135b,Breast Neoplasms,yes,947,1303
+hsa-mir-330,Prostatic Neoplasms,yes,1114,1339
+hsa-mir-146a,"Carcinoma, Hepatocellular",yes,960,1310
+hsa-mir-497,"Carcinoma, Non-Small-Cell Lung",yes,1187,1312
+hsa-mir-630,Pancreatic Neoplasms,yes,1244,1315
+hsa-mir-339,Colorectal Neoplasms,yes,1118,1304
+hsa-mir-335,Ovarian Neoplasms,yes,1116,1309
+hsa-mir-218-2,Thyroid Neoplasms,yes,1048,1330
+hsa-mir-133a-1,Colorectal Neoplasms,yes,939,1304
+hsa-mir-133a-2,Colorectal Neoplasms,yes,940,1304
+hsa-mir-211,Head and Neck Neoplasms,yes,1038,1614
+hsa-mir-503,"Carcinoma, Endometrioid",yes,1195,1636
+hsa-mir-451a,"Carcinoma, Hepatocellular",yes,1169,1310
+hsa-mir-7-1,Urinary Bladder Neoplasms,yes,1262,1306
+hsa-mir-7-2,Urinary Bladder Neoplasms,yes,1263,1306
+hsa-mir-7-3,Urinary Bladder Neoplasms,yes,1264,1306
+hsa-mir-126,Colonic Neoplasms,yes,917,1336
+hsa-mir-150,Lung Neoplasms,yes,965,1308
+hsa-mir-26a-1,Breast Neoplasms,yes,1063,1303
+hsa-mir-26a-2,Breast Neoplasms,yes,1064,1303
+hsa-mir-133a-1,Osteosarcoma,yes,939,1305
+hsa-mir-133a-2,Osteosarcoma,yes,940,1305
+hsa-mir-223,Barrett Esophagus,yes,1053,1631
+hsa-mir-199a-1,Arbovirus Infections,yes,1014,1645
+hsa-mir-199a-2,Arbovirus Infections,yes,1015,1645
+hsa-mir-24,"Diabetes Mellitus, Type 2",yes,1058,1399
+hsa-mir-381,"Carcinoma, Renal Cell",yes,1148,1324
+hsa-mir-424,"Carcinoma, Renal Cell",yes,1158,1324
+hsa-mir-133a,Breast Neoplasms,yes,938,1303
+hsa-mir-212,Stomach Neoplasms,yes,1039,1307
+hsa-mir-26a,Urinary Bladder Neoplasms,yes,1062,1306
+hsa-mir-144,Urinary Bladder Neoplasms,yes,958,1306
+hsa-mir-124,Breast Neoplasms,yes,903,1303
+hsa-mir-155,Multiple Sclerosis,yes,971,1466
+hsa-mir-92a,Neoplasms,yes,1282,1299
+hsa-mir-409,Urinary Bladder Neoplasms,yes,1152,1306
+hsa-mir-490,Atherosclerosis,yes,1181,1376
+hsa-mir-134,Head and Neck Neoplasms,yes,942,1614
+hsa-mir-338,Stomach Neoplasms,yes,1117,1307
+hsa-mir-22,Myelodysplastic Syndromes,yes,1050,1505
+hsa-mir-22,Breast Neoplasms,yes,1050,1303
+hsa-mir-210,Pancreatic Neoplasms,yes,1037,1315
+hsa-mir-23b,Urinary Bladder Neoplasms,yes,1056,1306
+hsa-mir-199a,Endometrial Neoplasms,yes,1013,1362
+hsa-mir-205,"Carcinoma, Non-Small-Cell Lung",yes,1029,1312
+hsa-mir-124,"Colitis, Ulcerative",yes,903,1428
+hsa-mir-17,Encephalomyelitis,yes,977,1571
+hsa-mir-196b,Uterine Cervical Neoplasms,yes,1009,1300
+hsa-mir-23a,Glioma,yes,1055,1322
+hsa-mir-329,Glioma,yes,1112,1322
+hsa-mir-19b,Stomach Neoplasms,yes,1018,1307
+hsa-mir-92a,Stomach Neoplasms,yes,1282,1307
+hsa-mir-26a,Glioma,yes,1062,1322
+hsa-mir-122,Crohn Disease,yes,899,1317
+hsa-mir-340,Osteosarcoma,yes,1122,1305
+hsa-mir-149,Myocardial Infarction,yes,964,1388
+hsa-mir-130a,Diabetes Mellitus,yes,934,1379
+hsa-mir-329,Hemangiosarcoma,yes,1112,1646
+hsa-mir-218,Osteosarcoma,yes,1046,1305
+hsa-mir-206,Osteosarcoma,yes,1030,1305
+hsa-mir-1291,"Carcinoma, Renal Cell",yes,926,1324
+hsa-mir-92b,Glioblastoma,yes,1285,1301
+hsa-mir-376c,Cholangiocarcinoma,yes,1143,1326
+hsa-mir-212,"Carcinoma, Hepatocellular",yes,1039,1310
+hsa-mir-26b,Colorectal Neoplasms,yes,1065,1304
+hsa-mir-214,"Carcinoma, Non-Small-Cell Lung",yes,1040,1312
+hsa-mir-29c,Lung Neoplasms,yes,1078,1308
+hsa-mir-124,Colorectal Neoplasms,yes,903,1304
+hsa-mir-223,Glioma,yes,1053,1322
+hsa-mir-205,Wounds and Injuries,yes,1029,1644
+hsa-mir-218,Glioma,yes,1046,1322
+hsa-mir-16,"Carcinoma, Non-Small-Cell Lung",yes,974,1312
+hsa-mir-155,Heart Diseases,yes,971,1321
+hsa-mir-101,Melanoma,yes,879,1347
+hsa-mir-203,"Carcinoma, Merkel Cell",yes,1026,1647
+hsa-mir-15a,"Lymphoma, Extranodal NK-T-Cell",yes,972,1648
+hsa-mir-335,Small Cell Lung Carcinoma,yes,1116,1476
+hsa-mir-221,Pancreatic Neoplasms,yes,1051,1315
+hsa-mir-30b,Aortic Valve Insufficiency,yes,1090,1649
+hsa-mir-17,Gastrointestinal Stromal Tumors,yes,977,1371
+hsa-mir-221,Gastrointestinal Stromal Tumors,yes,1051,1371
+hsa-mir-222,Gastrointestinal Stromal Tumors,yes,1052,1371
+hsa-mir-92-1,Gastrointestinal Stromal Tumors,yes,1280,1371
+hsa-mir-155,Glioma,yes,971,1322
+hsa-mir-335,Osteosarcoma,yes,1116,1305
+hsa-mir-363,Stomach Neoplasms,yes,1132,1307
+hsa-let-7c,"Carcinoma, Non-Small-Cell Lung",yes,867,1312
+hsa-mir-30c,"Carcinoma, Non-Small-Cell Lung",yes,1091,1312
+hsa-mir-21,"Carcinoma, Pancreatic Ductal",yes,1036,1577
+hsa-mir-429,Esophageal Neoplasms,yes,1160,1351
+hsa-mir-21,Mouth Neoplasms,yes,1036,1386
+hsa-mir-23b,Glioma,yes,1056,1322
+hsa-mir-199a,Heart Diseases,yes,1013,1321
+hsa-mir-192,Breast Neoplasms,yes,998,1303
+hsa-mir-141,Pancreatic Neoplasms,yes,955,1315
+hsa-mir-106a,Astrocytoma,yes,889,1298
+hsa-mir-135a,Ovarian Neoplasms,yes,944,1309
+hsa-mir-182,Endometrial Neoplasms,yes,987,1362
+hsa-mir-100,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,878,1344
+hsa-mir-99a,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,1296,1344
+hsa-mir-143,"Carcinoma, Renal Cell",yes,957,1324
+hsa-mir-145,"Carcinoma, Renal Cell",yes,959,1324
+hsa-mir-93,Lung Neoplasms,yes,1286,1308
+hsa-mir-140,"Carcinoma, Non-Small-Cell Lung",yes,954,1312
+hsa-mir-130b,Pancreatic Neoplasms,yes,935,1315
+hsa-mir-206,Bronchopulmonary Dysplasia,yes,1030,1650
+hsa-mir-125b,Glioma,yes,914,1322
+hsa-mir-26a,Ischemia,yes,1062,1575
+hsa-mir-142,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,956,1344
+hsa-mir-590,Kidney Neoplasms,yes,1229,1418
+hsa-mir-34,Gallbladder Neoplasms,yes,1121,1328
+hsa-mir-223,Tuberculosis,yes,1053,1562
+hsa-mir-720,Breast Neoplasms,yes,1267,1303
+hsa-mir-15a,Hepatitis B,yes,972,1556
+hsa-mir-16,Hepatitis B,yes,974,1556
+hsa-mir-10b,"Carcinoma, Pancreatic Ductal",yes,893,1577
+hsa-mir-23a,"Carcinoma, Hepatocellular",yes,1055,1310
+hsa-let-7d,"Diabetes Mellitus, Type 2",yes,868,1399
+hsa-mir-206,Muscular Diseases,yes,1030,1651
+hsa-mir-320,Mouth Neoplasms,yes,1099,1386
+hsa-mir-19a,Cardiomegaly,yes,1017,1370
+hsa-mir-19b,Cardiomegaly,yes,1018,1370
+hsa-mir-378,"Carcinoma, Hepatocellular",yes,1145,1310
+hsa-mir-106a,Glioma,yes,889,1322
+hsa-mir-133a,Ovarian Neoplasms,yes,938,1309
+hsa-mir-30d,Neurilemmoma,yes,1094,1652
+hsa-mir-378,Stomach Neoplasms,yes,1145,1307
+hsa-mir-338,Neuroblastoma,yes,1117,1302
+hsa-mir-331,Glioblastoma,yes,1115,1301
+hsa-mir-137,Ovarian Neoplasms,yes,949,1309
+hsa-mir-187,"Diabetes Mellitus, Type 2",yes,992,1399
+hsa-mir-200b,Colorectal Neoplasms,yes,1023,1304
+hsa-mir-199a,Endometriosis,yes,1013,1380
+hsa-mir-297,Glioblastoma,yes,1071,1301
+hsa-mir-132,"Carcinoma, Non-Small-Cell Lung",yes,936,1312
+hsa-mir-92b,"Carcinoma, Non-Small-Cell Lung",yes,1285,1312
+hsa-mir-200a,Glioma,yes,1022,1322
+hsa-mir-138,Colorectal Neoplasms,yes,950,1304
+hsa-mir-373,Stomach Neoplasms,yes,1138,1307
+hsa-mir-124,Urinary Bladder Neoplasms,yes,903,1306
+hsa-mir-101,Liver Neoplasms,yes,879,1313
+hsa-mir-126,Colorectal Neoplasms,yes,917,1304
+hsa-mir-26a,"Carcinoma, Hepatocellular",yes,1062,1310
+hsa-mir-191,Colorectal Neoplasms,yes,997,1304
+hsa-mir-133a,Esophageal Neoplasms,yes,938,1351
+hsa-mir-150,Neoplasms,yes,965,1299
+hsa-mir-582,Tuberculosis,yes,1226,1562
+hsa-mir-29a,Stomach Neoplasms,yes,1074,1307
+hsa-mir-124,"Carcinoma, Hepatocellular",yes,903,1310
+hsa-mir-449a,Lung Neoplasms,yes,1166,1308
+hsa-mir-101,"Carcinoma, Hepatocellular",yes,879,1310
+hsa-mir-451,Osteosarcoma,yes,1168,1305
+hsa-mir-490,Urinary Bladder Neoplasms,yes,1181,1306
+hsa-mir-335,Neoplasms,yes,1116,1299
+hsa-mir-192,Neuroblastoma,yes,998,1302
+hsa-mir-96,Pain,yes,1294,1653
+hsa-mir-154,Colorectal Neoplasms,yes,970,1304
+hsa-mir-100,Glioblastoma,yes,878,1301
+hsa-mir-218,"Carcinoma, Non-Small-Cell Lung",yes,1046,1312
+hsa-mir-124,Stomach Neoplasms,yes,903,1307
+hsa-mir-29b-1,Urinary Bladder Neoplasms,yes,1076,1306
+hsa-mir-29c,Urinary Bladder Neoplasms,yes,1078,1306
+hsa-mir-181b,Uterine Cervical Neoplasms,yes,982,1300
+hsa-mir-126,Neoplasms,yes,917,1299
+hsa-mir-141,Stomach Neoplasms,yes,955,1307
+hsa-mir-326,Pulmonary Fibrosis,yes,1110,1601
+hsa-mir-204,Cholangiocarcinoma,yes,1028,1326
+hsa-mir-29a,Colorectal Neoplasms,yes,1074,1304
+hsa-mir-7,"Carcinoma, Non-Small-Cell Lung",yes,1261,1312
+hsa-mir-143,Stomach Neoplasms,yes,957,1307
+hsa-mir-124,Endometrial Neoplasms,yes,903,1362
+hsa-mir-590,Uterine Cervical Neoplasms,yes,1229,1300
+hsa-mir-101,Uterine Cervical Neoplasms,yes,879,1300
+hsa-mir-183,Retinoblastoma,yes,988,1348
+hsa-mir-30b,Colorectal Neoplasms,yes,1090,1304
+hsa-mir-495,"Carcinoma, Non-Small-Cell Lung",yes,1186,1312
+hsa-mir-195,Endometriosis,yes,1005,1380
+hsa-mir-223,"Lymphoma, T-Cell",yes,1053,1654
+hsa-mir-150,Breast Neoplasms,yes,965,1303
+hsa-mir-301a,Breast Neoplasms,yes,1081,1303
+hsa-mir-494,Glioma,yes,1185,1322
+hsa-mir-329,Neuroblastoma,yes,1112,1302
+hsa-mir-328,Hepatoblastoma,yes,1111,1402
+hsa-mir-202,Colorectal Neoplasms,yes,1025,1304
+hsa-mir-133b,Colorectal Neoplasms,yes,941,1304
+hsa-mir-135b,Colorectal Neoplasms,yes,947,1304
+hsa-mir-181c,Neuroblastoma,yes,985,1302
+hsa-mir-339,Alzheimer Disease,yes,1118,1342
+hsa-mir-125b,Glioblastoma,yes,914,1301
+hsa-mir-198,Lung Neoplasms,yes,1011,1308
+hsa-mir-129,Uterine Cervical Neoplasms,yes,924,1300
+hsa-mir-107,Stomach Neoplasms,yes,891,1307
+hsa-mir-218,Gastrointestinal Stromal Tumors,yes,1046,1371
+hsa-mir-10b,Intervertebral Disc Degeneration,yes,893,1335
+hsa-mir-503,Glioblastoma,yes,1195,1301
+hsa-mir-452,"Carcinoma, Hepatocellular",yes,1170,1310
+hsa-mir-224,Prostatic Neoplasms,yes,1054,1339
+hsa-mir-150,"Lymphoma, T-Cell, Cutaneous",yes,965,1615
+hsa-mir-1,Diabetes Mellitus,yes,875,1379
+hsa-mir-542,Breast Neoplasms,yes,1218,1303
+hsa-mir-155,Keratitis,yes,971,1655
+hsa-mir-381,Glioma,yes,1148,1322
+hsa-mir-503,"Carcinoma, Hepatocellular",yes,1195,1310
+hsa-mir-138,Kidney Neoplasms,yes,950,1418
+hsa-mir-200b,Biliary Atresia,yes,1023,1656
+hsa-mir-199a,Neoplasms,yes,1013,1299
+hsa-mir-200a,"Carcinoma, Endometrioid",yes,1022,1636
+hsa-mir-148a,Glioblastoma,yes,962,1301
+hsa-mir-490,Lung Neoplasms,yes,1181,1308
+hsa-mir-320a,Urinary Bladder Neoplasms,yes,1100,1306
+hsa-mir-451,Neoplasms,yes,1168,1299
+hsa-mir-182,Gallbladder Neoplasms,yes,987,1328
+hsa-mir-148b,Pancreatic Neoplasms,yes,963,1315
+hsa-mir-152,Pancreatic Neoplasms,yes,966,1315
+hsa-mir-363,Colorectal Neoplasms,yes,1132,1304
+hsa-mir-99a,Pancreatic Neoplasms,yes,1296,1315
+hsa-mir-874,Reperfusion Injury,yes,1273,1557
+hsa-mir-17,Osteosarcoma,yes,977,1305
+hsa-mir-196a,Neoplasms,yes,1006,1299
+hsa-mir-133a,Colonic Neoplasms,yes,938,1336
+hsa-mir-506,Lung Neoplasms,yes,1198,1308
+hsa-mir-193a,Lung Neoplasms,yes,1000,1308
+hsa-mir-96,Lung Neoplasms,yes,1294,1308
+hsa-mir-216a,Atherosclerosis,yes,1043,1376
+hsa-mir-1207,Stomach Neoplasms,yes,898,1307
+hsa-mir-125a,"Leukemia, Myeloid, Acute",yes,913,1366
+hsa-mir-195,"Carcinoma, Non-Small-Cell Lung",yes,1005,1312
+hsa-mir-197,Lung Neoplasms,yes,1010,1308
+hsa-mir-362,Stomach Neoplasms,yes,1131,1307
+hsa-mir-193b,Glioma,yes,1001,1322
+hsa-mir-520c,"Lymphoma, Large B-Cell, Diffuse",yes,1212,1470
+hsa-mir-222,Endometrial Neoplasms,yes,1052,1362
+hsa-mir-134,"Carcinoma, Hepatocellular",yes,942,1310
+hsa-mir-135a,Uterine Cervical Neoplasms,yes,944,1300
+hsa-mir-196a,Pancreatic Neoplasms,yes,1006,1315
+hsa-mir-545,Lung Neoplasms,yes,1221,1308
+hsa-mir-200c,Pituitary Neoplasms,yes,1024,1369
+hsa-mir-210,Neurilemmoma,yes,1037,1652
+hsa-mir-127,Glioblastoma,yes,918,1301
+hsa-mir-205,Dermatomyositis,yes,1029,1657
+hsa-mir-296,Breast Neoplasms,yes,1070,1303
+hsa-mir-325,Heart Diseases,yes,1109,1321
+hsa-mir-150,"Carcinoma, Non-Small-Cell Lung",yes,965,1312
+hsa-mir-210,Ovarian Neoplasms,yes,1037,1309
+hsa-mir-503,"Carcinoma, Non-Small-Cell Lung",yes,1195,1312
+hsa-mir-146a,Melanoma,yes,960,1347
+hsa-mir-1258,"Sarcoma, Kaposi",yes,912,1525
+hsa-mir-27a,Osteosarcoma,yes,1066,1305
+hsa-mir-489,Cardiomegaly,yes,1180,1370
+hsa-mir-142,"Carcinoma, Non-Small-Cell Lung",yes,956,1312
+hsa-mir-184,"Carcinoma, Hepatocellular",yes,989,1310
+hsa-mir-126,Parkinson Disease,yes,917,1455
+hsa-mir-592,Ischemia,yes,1230,1575
+hsa-mir-10b,Urinary Bladder Neoplasms,yes,893,1306
+hsa-mir-22,Medulloblastoma,yes,1050,1367
+hsa-mir-155,"Colitis, Ulcerative",yes,971,1428
+hsa-mir-431,Glioblastoma,yes,1161,1301
+hsa-mir-431,Medulloblastoma,yes,1161,1367
+hsa-mir-1247,Pancreatic Neoplasms,yes,908,1315
+hsa-mir-21,Coronary Artery Disease,yes,1036,1373
+hsa-mir-29a,Glioma,yes,1074,1322
+hsa-mir-30,Neoplasms,yes,1079,1299
+hsa-mir-506,Ovarian Neoplasms,yes,1198,1309
+hsa-mir-506,Uterine Cervical Neoplasms,yes,1198,1300
+hsa-mir-149,Breast Neoplasms,yes,964,1303
+hsa-mir-494,Stomach Neoplasms,yes,1185,1307
+hsa-mir-23b,Ovarian Neoplasms,yes,1056,1309
+hsa-mir-133a,Stomach Neoplasms,yes,938,1307
+hsa-mir-34a,Chordoma,yes,1126,1482
+hsa-mir-608,Chordoma,yes,1234,1482
+hsa-mir-132,Lung Neoplasms,yes,936,1308
+hsa-mir-100,Colorectal Neoplasms,yes,878,1304
+hsa-mir-363,"Carcinoma, Hepatocellular",yes,1132,1310
+hsa-mir-129,Thyroid Neoplasms,yes,924,1330
+hsa-mir-625,"Carcinoma, Hepatocellular",yes,1241,1310
+hsa-mir-99a,Breast Neoplasms,yes,1296,1303
+hsa-mir-1303,Stomach Neoplasms,yes,932,1307
+hsa-mir-199a,Stomach Neoplasms,yes,1013,1307
+hsa-mir-18a,Glioblastoma,yes,994,1301
+hsa-mir-99a,Uterine Cervical Neoplasms,yes,1296,1300
+hsa-mir-99b,Uterine Cervical Neoplasms,yes,1297,1300
+hsa-mir-217,"Carcinoma, Hepatocellular",yes,1045,1310
+hsa-mir-19a,Stomach Neoplasms,yes,1017,1307
+hsa-mir-26a,Gallbladder Neoplasms,yes,1062,1328
+hsa-mir-543,Endometrial Neoplasms,yes,1219,1362
+hsa-mir-202,"Carcinoma, Hepatocellular",yes,1025,1310
+hsa-mir-15b,Hepatitis C,yes,973,1472
+hsa-mir-324,Glioma,yes,1108,1322
+hsa-mir-199a,Ovarian Neoplasms,yes,1013,1309
+hsa-mir-135a,"Pancreatitis, Acute Necrotizing",yes,944,1658
+hsa-mir-22,"Pancreatitis, Acute Necrotizing",yes,1050,1658
+hsa-mir-138,Arbovirus Infections,yes,950,1645
+hsa-mir-942,Hepatitis C,yes,1291,1472
+hsa-mir-34a,"Cardiomyopathy, Hypertrophic",yes,1126,1341
+hsa-mir-181b,Ovarian Neoplasms,yes,982,1309
+hsa-mir-330,Glioblastoma,yes,1114,1301
+hsa-mir-335,Glioma,yes,1116,1322
+hsa-mir-19b,Neoplasms,yes,1018,1299
+hsa-mir-194,Stomach Neoplasms,yes,1002,1307
+hsa-mir-22,Osteosarcoma,yes,1050,1305
+hsa-mir-200c,Leiomyoma,yes,1024,1602
+hsa-mir-219,Medulloblastoma,yes,1049,1367
+hsa-mir-1,Chordoma,yes,875,1482
+hsa-mir-98,Ovarian Neoplasms,yes,1295,1309
+hsa-mir-152,"Carcinoma, Non-Small-Cell Lung",yes,966,1312
+hsa-mir-145,Thyroid Neoplasms,yes,959,1330
+hsa-mir-130a,Uterine Cervical Neoplasms,yes,934,1300
+hsa-mir-155,Colorectal Neoplasms,yes,971,1304
+hsa-mir-31,Uterine Cervical Neoplasms,yes,1096,1300
+hsa-mir-509,Neoplasms,yes,1201,1299
+hsa-mir-129,"Carcinoma, Renal Cell",yes,924,1324
+hsa-mir-101,Retinoblastoma,yes,879,1348
+hsa-mir-125b,"Carcinoma, Hepatocellular",yes,914,1310
+hsa-mir-152,Atherosclerosis,yes,966,1376
+hsa-mir-218,Prostatic Neoplasms,yes,1046,1339
+hsa-mir-101,Liver Cirrhosis,yes,879,1337
+hsa-mir-224,Colorectal Neoplasms,yes,1054,1304
+hsa-mir-29,Prostatic Neoplasms,yes,1069,1339
+hsa-mir-126,Urinary Bladder Neoplasms,yes,917,1306
+hsa-mir-19b,Osteosarcoma,yes,1018,1305
+hsa-mir-331,"Carcinoma, Hepatocellular",yes,1115,1310
+hsa-mir-103,Colorectal Neoplasms,yes,882,1304
+hsa-mir-320a,Granulosa Cell Tumor,yes,1100,1659
+hsa-mir-383,Granulosa Cell Tumor,yes,1150,1659
+hsa-mir-204,"Carcinoma, Hepatocellular",yes,1028,1310
+hsa-mir-1231,Hepatitis B,yes,901,1556
+hsa-mir-95,"Carcinoma, Non-Small-Cell Lung",yes,1293,1312
+hsa-mir-218,Melanoma,yes,1046,1347
+hsa-mir-199a,Multiple Myeloma,yes,1013,1368
+hsa-mir-638,Lung Neoplasms,yes,1246,1308
+hsa-mir-20b,Encephalomyelitis,yes,1035,1571
+hsa-mir-517a,Lung Neoplasms,yes,1207,1308
+hsa-mir-145,Aneurysm,yes,959,1572
+hsa-mir-497,Ovarian Neoplasms,yes,1187,1309
+hsa-mir-335,Pancreatic Neoplasms,yes,1116,1315
+hsa-mir-128,Prostatic Neoplasms,yes,921,1339
+hsa-mir-429,"Carcinoma, Non-Small-Cell Lung",yes,1160,1312
+hsa-mir-155,"Encephalitis Viruses, Japanese",yes,971,1660
+hsa-mir-638,Colorectal Neoplasms,yes,1246,1304
+hsa-mir-21,Diabetic Nephropathies,yes,1036,1487
+hsa-mir-34b,Parkinson Disease,yes,1127,1455
+hsa-mir-135a,Gallbladder Neoplasms,yes,944,1328
+hsa-mir-497,Uterine Cervical Neoplasms,yes,1187,1300
+hsa-mir-185,"Carcinoma, Hepatocellular",yes,990,1310
+hsa-mir-29b,Colorectal Neoplasms,yes,1075,1304
+hsa-mir-382,Neoplasms,yes,1149,1299
+hsa-mir-200b,Triple Negative Breast Neoplasms,yes,1023,1398
+hsa-mir-222,Colorectal Neoplasms,yes,1052,1304
+hsa-mir-1236,HIV Infections,yes,902,1632
+hsa-mir-196a,Stomach Neoplasms,yes,1006,1307
+hsa-mir-196b,Stomach Neoplasms,yes,1009,1307
+hsa-mir-26a,Uterine Cervical Neoplasms,yes,1062,1300
+hsa-mir-211,Pancreatic Neoplasms,yes,1038,1315
+hsa-mir-141,"Carcinoma, Non-Small-Cell Lung",yes,955,1312
+hsa-mir-922,Alzheimer Disease,yes,1281,1342
+hsa-mir-103,Stroke,yes,882,1397
+hsa-mir-451,Liver Neoplasms,yes,1168,1313
+hsa-mir-1,Osteosarcoma,yes,875,1305
+hsa-mir-126,Stomach Neoplasms,yes,917,1307
+hsa-mir-124,Prostatic Neoplasms,yes,903,1339
+hsa-mir-34,Stomach Neoplasms,yes,1121,1307
+hsa-mir-20a,Endometriosis,yes,1034,1380
+hsa-mir-126,Giant Cell Tumor of Bone,yes,917,1661
+hsa-mir-218,Choriocarcinoma,yes,1046,1439
+hsa-mir-210,Pre-Eclampsia,yes,1037,1459
+hsa-mir-143,Glioma,yes,957,1322
+hsa-mir-23a,Colorectal Neoplasms,yes,1055,1304
+hsa-mir-449a,Endometrial Neoplasms,yes,1166,1362
+hsa-mir-203,Pneumonia,yes,1026,1662
+hsa-mir-24-1,Urinary Bladder Neoplasms,yes,1059,1306
+hsa-mir-128,"Carcinoma, Non-Small-Cell Lung",yes,921,1312
+hsa-mir-375,"Carcinoma, Non-Small-Cell Lung",yes,1141,1312
+hsa-mir-129-1,Stomach Neoplasms,yes,925,1307
+hsa-mir-218,Pancreatic Neoplasms,yes,1046,1315
+hsa-mir-646,"Carcinoma, Renal Cell",yes,1248,1324
+hsa-mir-421,Neuroblastoma,yes,1155,1302
+hsa-mir-26a,Arbovirus Infections,yes,1062,1645
+hsa-mir-135a,"Carcinoma, Pancreatic Ductal",yes,944,1577
+hsa-mir-137,Gastrointestinal Stromal Tumors,yes,949,1371
+hsa-mir-195,Neoplasms,yes,1005,1299
+hsa-mir-200a,Liver Cirrhosis,yes,1022,1337
+hsa-mir-200c,Ovarian Neoplasms,yes,1024,1309
+hsa-mir-16-1,Parkinson Disease,yes,975,1455
+hsa-mir-29b,Diabetes Mellitus,yes,1075,1379
+hsa-mir-10b,Lung Neoplasms,yes,893,1308
+hsa-mir-373,"Carcinoma, Non-Small-Cell Lung",yes,1138,1312
+hsa-mir-370,Ovarian Neoplasms,yes,1135,1309
+hsa-mir-342,Uterine Cervical Neoplasms,yes,1123,1300
+hsa-mir-153,Lung Neoplasms,yes,967,1308
+hsa-mir-18a,Breast Neoplasms,yes,994,1303
+hsa-mir-144,"Carcinoma, Hepatocellular",yes,958,1310
+hsa-mir-24,"Carcinoma, Hepatocellular",yes,1058,1310
+hsa-mir-199a,"Diabetes Mellitus, Type 2",yes,1013,1399
+hsa-mir-506,"Carcinoma, Hepatocellular",yes,1198,1310
+hsa-mir-638,Neoplasms,yes,1246,1299
+hsa-mir-513b,Stomach Neoplasms,yes,1204,1307
+hsa-mir-194,Osteosarcoma,yes,1002,1305
+hsa-mir-26a,Lung Neoplasms,yes,1062,1308
+hsa-mir-493,Lung Neoplasms,yes,1184,1308
+hsa-mir-183,"Carcinoma, Pancreatic Ductal",yes,988,1577
+hsa-mir-200,Hirschsprung Disease,yes,1021,1432
+hsa-mir-320a,Glioma,yes,1100,1322
+hsa-mir-152,Stomach Neoplasms,yes,966,1307
+hsa-mir-203a,"Carcinoma, Renal Cell",yes,1027,1324
+hsa-mir-639,Tongue Neoplasms,yes,1247,1353
+hsa-mir-410,Stomach Neoplasms,yes,1153,1307
+hsa-mir-132,Multiple Sclerosis,yes,936,1466
+hsa-mir-326,Neoplasms,yes,1110,1299
+hsa-mir-590,Atherosclerosis,yes,1229,1376
+hsa-mir-144,Neoplasms,yes,958,1299
+hsa-mir-340,Lung Neoplasms,yes,1122,1308
+hsa-mir-133,Stomach Neoplasms,yes,937,1307
+hsa-mir-183,Kidney Neoplasms,yes,988,1418
+hsa-mir-101,Endometrial Neoplasms,yes,879,1362
+hsa-mir-202,Osteosarcoma,yes,1025,1305
+hsa-mir-944,Uterine Cervical Neoplasms,yes,1292,1300
+hsa-mir-372,Glioma,yes,1137,1322
+hsa-mir-191,Pancreatic Neoplasms,yes,997,1315
+hsa-mir-198,Colorectal Neoplasms,yes,1011,1304
+hsa-mir-424,"Carcinoma, Hepatocellular",yes,1158,1310
+hsa-mir-182,Sarcoma,yes,987,1474
+hsa-mir-7,Neoplasms,yes,1261,1299
+hsa-mir-539,Heart Diseases,yes,1217,1321
+hsa-mir-99a,Lung Neoplasms,yes,1296,1308
+hsa-mir-204,"Anemia, Aplastic",yes,1028,1663
+hsa-mir-135b,Osteosarcoma,yes,947,1305
+hsa-mir-138,Ovarian Neoplasms,yes,950,1309
+hsa-mir-339,Colonic Neoplasms,yes,1118,1336
+hsa-mir-29c,Colorectal Neoplasms,yes,1078,1304
+hsa-mir-212,Ovarian Neoplasms,yes,1039,1309
+hsa-mir-181a,Hypersensitivity,yes,980,1624
+hsa-mir-218,Hypersensitivity,yes,1046,1624
+hsa-mir-27a,Enterovirus Infections,yes,1066,1664
+hsa-mir-23a,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1055,1440
+hsa-mir-126,Osteosarcoma,yes,917,1305
+hsa-mir-34c,Colorectal Neoplasms,yes,1128,1304
+hsa-mir-193b,Pancreatic Neoplasms,yes,1001,1315
+hsa-mir-124,Uterine Cervical Neoplasms,yes,903,1300
+hsa-mir-152,Glioblastoma,yes,966,1301
+hsa-mir-216a,Pancreatic Neoplasms,yes,1043,1315
+hsa-mir-150,Colorectal Neoplasms,yes,965,1304
+hsa-mir-125a,Stomach Neoplasms,yes,913,1307
+hsa-mir-193b,"Leukemia, Lymphoid",yes,1001,1416
+hsa-mir-24,"Influenza, Human",yes,1058,1599
+hsa-mir-29b,Arbovirus Infections,yes,1075,1645
+hsa-mir-222,Coronary Artery Disease,yes,1052,1373
+hsa-mir-222,Biliary Atresia,yes,1052,1656
+hsa-mir-17,Cholangiocarcinoma,yes,977,1326
+hsa-mir-18,Cholangiocarcinoma,yes,978,1326
+hsa-mir-19a,Cholangiocarcinoma,yes,1017,1326
+hsa-mir-19b-1,Cholangiocarcinoma,yes,1019,1326
+hsa-mir-20a,Cholangiocarcinoma,yes,1034,1326
+hsa-mir-92-1,Cholangiocarcinoma,yes,1280,1326
+hsa-mir-610,Lung Neoplasms,yes,1235,1308
+hsa-mir-377,Myocardial Ischemia,yes,1144,1665
+hsa-mir-125b-1,Pre-Eclampsia,yes,915,1459
+hsa-mir-422a,"Carcinoma, Hepatocellular",yes,1156,1310
+hsa-mir-630,Lung Neoplasms,yes,1244,1308
+hsa-mir-622,Glioma,yes,1240,1322
+hsa-mir-30a,Osteosarcoma,yes,1089,1305
+hsa-mir-524,Melanoma,yes,1216,1347
+hsa-mir-93,Glioma,yes,1286,1322
+hsa-mir-98,Melanoma,yes,1295,1347
+hsa-mir-874,Breast Neoplasms,yes,1273,1303
+hsa-mir-217,Osteosarcoma,yes,1045,1305
+hsa-mir-382,Osteosarcoma,yes,1149,1305
+hsa-mir-132,Pituitary Neoplasms,yes,936,1369
+hsa-mir-16,Pituitary Neoplasms,yes,974,1369
+hsa-mir-146a,Osteoarthritis,yes,960,1403
+hsa-mir-152,Neoplasms,yes,966,1299
+hsa-mir-199a,"Carcinoma, Hepatocellular",yes,1013,1310
+hsa-mir-545,"Carcinoma, Pancreatic Ductal",yes,1221,1577
+hsa-mir-134,Brain Ischemia,yes,942,1578
+hsa-mir-185,Breast Neoplasms,yes,990,1303
+hsa-mir-140,Esophageal Neoplasms,yes,954,1351
+hsa-mir-143,Lung Neoplasms,yes,957,1308
+hsa-mir-183,Stomach Neoplasms,yes,988,1307
+hsa-mir-155,Prostatic Neoplasms,yes,971,1339
+hsa-mir-26b,Hepatitis B,yes,1065,1556
+hsa-mir-100,Pancreatic Neoplasms,yes,878,1315
+hsa-mir-410,Retinal Degeneration,yes,1153,1500
+hsa-mir-429,Prostatic Neoplasms,yes,1160,1339
+hsa-mir-133b,Glioma,yes,941,1322
+hsa-mir-455,Colorectal Neoplasms,yes,1172,1304
+hsa-mir-30a,"Scleroderma, Systemic",yes,1089,1666
+hsa-mir-96,Colorectal Neoplasms,yes,1294,1304
+hsa-mir-129-1,Lung Neoplasms,yes,925,1308
+hsa-mir-203,Stomach Neoplasms,yes,1026,1307
+hsa-mir-193b,"Scleroderma, Systemic",yes,1001,1666
+hsa-mir-646,Osteosarcoma,yes,1248,1305
+hsa-mir-142,Breast Neoplasms,yes,956,1303
+hsa-mir-940,Prostatic Neoplasms,yes,1290,1339
+hsa-mir-492,Breast Neoplasms,yes,1183,1303
+hsa-mir-124a,"Diabetes Mellitus, Type 2",yes,909,1399
+hsa-mir-375,"Diabetes Mellitus, Type 2",yes,1141,1399
+hsa-mir-194,Metabolic Diseases,yes,1002,1667
+hsa-mir-200a,Liver Neoplasms,yes,1022,1313
+hsa-mir-383,Neoplasms,yes,1150,1299
+hsa-mir-132,Breast Neoplasms,yes,936,1303
+hsa-mir-96,Esophageal Neoplasms,yes,1294,1351
+hsa-mir-495,Atherosclerosis,yes,1186,1376
+hsa-mir-144,Cholangiocarcinoma,yes,958,1326
+hsa-mir-155,Lymphoma,yes,971,1417
+hsa-mir-466,Adenoviridae Infections,yes,1173,1611
+hsa-mir-21,Cardiomegaly,yes,1036,1370
+hsa-mir-486,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1177,1440
+hsa-mir-183,Esophageal Neoplasms,yes,988,1351
+hsa-mir-196a,Head and Neck Neoplasms,yes,1006,1614
+hsa-mir-106b,Mitochondrial Diseases,yes,890,1668
+hsa-mir-143,"Rhinitis, Allergic",yes,957,1669
+hsa-mir-103a,Stomach Neoplasms,yes,883,1307
+hsa-mir-144,Non-alcoholic Fatty Liver Disease,yes,958,1481
+hsa-mir-200a,"Thyroid Carcinoma, Anaplastic",yes,1022,1538
+hsa-mir-33b,Osteosarcoma,yes,1120,1305
+hsa-mir-185,Liver Diseases,yes,990,1465
+hsa-mir-25,Lung Neoplasms,yes,1061,1308
+hsa-mir-10a,"Cicatrix, Hypertrophic",yes,892,1597
+hsa-mir-181c,"Cicatrix, Hypertrophic",yes,985,1597
+hsa-mir-101,Stomach Neoplasms,yes,879,1307
+hsa-mir-17,Ovarian Neoplasms,yes,977,1309
+hsa-mir-302b,Ovarian Neoplasms,yes,1085,1309
+hsa-mir-378,Liver Neoplasms,yes,1145,1313
+hsa-mir-25,Uterine Cervical Neoplasms,yes,1061,1300
+hsa-mir-377,Osteosarcoma,yes,1144,1305
+hsa-mir-1246,"Carcinoma, Hepatocellular",yes,907,1310
+hsa-mir-130a,Hepatitis B,yes,934,1556
+hsa-mir-155,Liver Neoplasms,yes,971,1313
+hsa-mir-142,Inflammation,yes,956,1564
+hsa-mir-24,Inflammation,yes,1058,1564
+hsa-mir-30b,Inflammation,yes,1090,1564
+hsa-mir-29c,Pancreatic Neoplasms,yes,1078,1315
+hsa-mir-511,"Carcinoma, Hepatocellular",yes,1202,1310
+hsa-mir-26a,Atherosclerosis,yes,1062,1376
+hsa-mir-101,"Diabetes, Gestational",yes,879,1670
+hsa-mir-29b,Breast Neoplasms,yes,1075,1303
+hsa-mir-148a,Inflammation,yes,962,1564
+hsa-mir-1178,Pancreatic Neoplasms,yes,894,1315
+hsa-mir-203a,Prostatic Neoplasms,yes,1027,1339
+hsa-mir-210,Laryngeal Neoplasms,yes,1037,1415
+hsa-mir-410,Pancreatic Neoplasms,yes,1153,1315
+hsa-let-7a,Osteosarcoma,yes,862,1305
+hsa-mir-32,"Carcinoma, Hepatocellular",yes,1098,1310
+hsa-mir-362,"Carcinoma, Hepatocellular",yes,1131,1310
+hsa-mir-204,"Lymphoma, B-Cell",yes,1028,1429
+hsa-mir-503,Neoplasms,yes,1195,1299
+hsa-mir-136,Keratitis,yes,948,1655
+hsa-mir-329,Stomach Neoplasms,yes,1112,1307
+hsa-mir-214,Heart Diseases,yes,1040,1321
+hsa-mir-185,Diabetes Mellitus,yes,990,1379
+hsa-mir-34a,Growth Hormone-Secreting Pituitary Adenoma,yes,1126,1541
+hsa-mir-1182,Stomach Neoplasms,yes,896,1307
+hsa-mir-182,"Carcinoma, Hepatocellular",yes,987,1310
+hsa-mir-96,"Carcinoma, Hepatocellular",yes,1294,1310
+hsa-mir-342,"Carcinoma, Non-Small-Cell Lung",yes,1123,1312
+hsa-mir-29a,"Glomerulonephritis, IGA",yes,1074,1671
+hsa-mir-346,Graves Disease,yes,1125,1672
+hsa-mir-873,Glioblastoma,yes,1272,1301
+hsa-mir-155,Kidney Diseases,yes,971,1518
+hsa-mir-940,Breast Neoplasms,yes,1290,1303
+hsa-mir-29a,"Colitis, Ulcerative",yes,1074,1428
+hsa-mir-584,Glioma,yes,1227,1322
+hsa-mir-10a,Glioma,yes,892,1322
+hsa-let-7,Tuberculosis,yes,861,1562
+hsa-mir-1271,"Carcinoma, Non-Small-Cell Lung",yes,919,1312
+hsa-mir-1207,Esophageal Neoplasms,yes,898,1351
+hsa-mir-181c,Breast Neoplasms,yes,985,1303
+hsa-mir-138,Small Cell Lung Carcinoma,yes,950,1476
+hsa-mir-23a,Prostatic Neoplasms,yes,1055,1339
+hsa-mir-1236,"Carcinoma, Hepatocellular",yes,902,1310
+hsa-mir-188,Prostatic Neoplasms,yes,993,1339
+hsa-mir-129,"Carcinoma, Non-Small-Cell Lung",yes,924,1312
+hsa-mir-212,Glioblastoma,yes,1039,1301
+hsa-mir-137,Multiple Myeloma,yes,949,1368
+hsa-mir-197,Multiple Myeloma,yes,1010,1368
+hsa-mir-33b,Melanoma,yes,1120,1347
+hsa-mir-491,Breast Neoplasms,yes,1182,1303
+hsa-mir-24,"Carcinoma, Non-Small-Cell Lung",yes,1058,1312
+hsa-mir-575,"Carcinoma, Non-Small-Cell Lung",yes,1224,1312
+hsa-mir-125b,Inflammation,yes,914,1564
+hsa-mir-143,Inflammation,yes,957,1564
+hsa-mir-193b,Inflammation,yes,1001,1564
+hsa-mir-320a,Atherosclerosis,yes,1100,1376
+hsa-mir-664,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,1256,1344
+hsa-mir-124,"Spondylitis, Ankylosing",yes,903,1673
+hsa-mir-494,Uterine Cervical Neoplasms,yes,1185,1300
+hsa-mir-125b,Arteriosclerosis Obliterans,yes,914,1674
+hsa-mir-182,Colorectal Neoplasms,yes,987,1304
+hsa-mir-377,"Carcinoma, Hepatocellular",yes,1144,1310
+hsa-mir-328,Melanoma,yes,1111,1347
+hsa-mir-373,Uterine Cervical Neoplasms,yes,1138,1300
+hsa-mir-130a,Breast Neoplasms,yes,934,1303
+hsa-mir-155,"Angina, Unstable",yes,971,1675
+hsa-mir-146b,Gallbladder Neoplasms,yes,961,1328
+hsa-mir-30d,Prostatic Neoplasms,yes,1094,1339
+hsa-mir-26b,Osteosarcoma,yes,1065,1305
+hsa-mir-206,"Myasthenic Syndromes, Congenital",yes,1030,1676
+hsa-mir-940,"Carcinoma, Pancreatic Ductal",yes,1290,1577
+hsa-mir-155,"Hepatitis C, Chronic",yes,971,1677
+hsa-mir-191,Osteosarcoma,yes,997,1305
+hsa-mir-215,Colorectal Neoplasms,yes,1041,1304
+hsa-mir-325,"Carcinoma, Non-Small-Cell Lung",yes,1109,1312
+hsa-mir-183,Pancreatic Neoplasms,yes,988,1315
+hsa-mir-411,"Carcinoma, Hepatocellular",yes,1154,1310
+hsa-mir-522,Glioblastoma,yes,1215,1301
+hsa-mir-423,Heart Failure,yes,1157,1318
+hsa-mir-224,Meningioma,yes,1054,1453
+hsa-mir-17,Atherosclerosis,yes,977,1376
+hsa-mir-153,Osteosarcoma,yes,967,1305
+hsa-mir-153,Breast Neoplasms,yes,967,1303
+hsa-mir-31,Liver Neoplasms,yes,1096,1313
+hsa-mir-183,Lung Neoplasms,yes,988,1308
+hsa-mir-200,Lung Neoplasms,yes,1021,1308
+hsa-mir-30c,Colorectal Neoplasms,yes,1091,1304
+hsa-mir-152,Diabetic Retinopathy,yes,966,1508
+hsa-mir-146a,Hepatitis B,yes,960,1556
+hsa-mir-28,Ischemia,yes,1068,1575
+hsa-mir-134,"Carcinoma, Renal Cell",yes,942,1324
+hsa-mir-218,Myxoma,yes,1046,1678
+hsa-mir-200a,"Carcinoma, Renal Cell",yes,1022,1324
+hsa-mir-200b,"Diabetes Mellitus, Type 2",yes,1023,1399
+hsa-mir-146b,Diabetes Mellitus,yes,961,1379
+hsa-mir-509,"Carcinoma, Renal Cell",yes,1201,1324
+hsa-mir-520a,"Carcinoma, Hepatocellular",yes,1210,1310
+hsa-let-7g,Follicular Atresia,yes,873,1679
+hsa-mir-93,Intervertebral Disc Degeneration,yes,1286,1335
+hsa-mir-200a,Colorectal Neoplasms,yes,1022,1304
+hsa-mir-191,Endometriosis,yes,997,1380
+hsa-mir-494,"Carcinoma, Hepatocellular",yes,1185,1310
+hsa-mir-142,Aneurysm,yes,956,1572
+hsa-mir-429,"Carcinoma, Pancreatic Ductal",yes,1160,1577
+hsa-mir-489,"Carcinoma, Non-Small-Cell Lung",yes,1180,1312
+hsa-mir-139,Neoplasms,yes,953,1299
+hsa-mir-30,Glioma,yes,1079,1322
+hsa-mir-30d,"Carcinoma, Non-Small-Cell Lung",yes,1094,1312
+hsa-mir-34c,Endometrial Neoplasms,yes,1128,1362
+hsa-mir-506,Stomach Neoplasms,yes,1198,1307
+hsa-mir-107,Triple Negative Breast Neoplasms,yes,891,1398
+hsa-mir-199a,Glioma,yes,1013,1322
+hsa-mir-192,Hirschsprung Disease,yes,998,1432
+hsa-mir-215,Hirschsprung Disease,yes,1041,1432
+hsa-mir-375,Neuroblastoma,yes,1141,1302
+hsa-mir-217,Stomach Neoplasms,yes,1045,1307
+hsa-mir-155,Down Syndrome,yes,971,1524
+hsa-mir-203,Oral Submucous Fibrosis,yes,1026,1680
+hsa-mir-181b,Retinoblastoma,yes,982,1348
+hsa-mir-1,Stomach Neoplasms,yes,875,1307
+hsa-mir-10b,Laryngeal Neoplasms,yes,893,1415
+hsa-mir-33a,Osteoarthritis,yes,1119,1403
+hsa-mir-211,"Carcinoma, Hepatocellular",yes,1038,1310
+hsa-mir-135a,Urinary Bladder Neoplasms,yes,944,1306
+hsa-mir-203,Kidney Neoplasms,yes,1026,1418
+hsa-mir-342,Obesity,yes,1123,1357
+hsa-mir-320,Glioma,yes,1099,1322
+hsa-mir-135b,Prostatic Neoplasms,yes,947,1339
+hsa-mir-200c,"Carcinoma, Hepatocellular",yes,1024,1310
+hsa-mir-429,"Carcinoma, Hepatocellular",yes,1160,1310
+hsa-mir-21,"Lymphoma, B-Cell",yes,1036,1429
+hsa-mir-144,Osteosarcoma,yes,958,1305
+hsa-mir-129,"Carcinoma, Hepatocellular",yes,924,1310
+hsa-mir-451,Multiple Myeloma,yes,1168,1368
+hsa-mir-33b,Breast Neoplasms,yes,1120,1303
+hsa-mir-144,Stomach Neoplasms,yes,958,1307
+hsa-mir-124,Esophageal Neoplasms,yes,903,1351
+hsa-mir-193a,Inflammatory Bowel Diseases,yes,1000,1364
+hsa-mir-330,"Carcinoma, Non-Small-Cell Lung",yes,1114,1312
+hsa-mir-135b,Glioblastoma,yes,947,1301
+hsa-mir-19a,Prostatic Neoplasms,yes,1017,1339
+hsa-mir-132,Ischemia,yes,936,1575
+hsa-mir-212,Ischemia,yes,1039,1575
+hsa-mir-429,"Carcinoma, Renal Cell",yes,1160,1324
+hsa-mir-125b,Liver Neoplasms,yes,914,1313
+hsa-mir-1,Endometrial Neoplasms,yes,875,1362
+hsa-mir-133a,Endometrial Neoplasms,yes,938,1362
+hsa-mir-494,Breast Neoplasms,yes,1185,1303
+hsa-mir-139,Pancreatic Neoplasms,yes,953,1315
+hsa-mir-18a,Pregnancy Complications,yes,994,1681
+hsa-mir-25,Glioma,yes,1061,1322
+hsa-mir-128,"Carcinoma, Hepatocellular",yes,921,1310
+hsa-mir-494,Pancreatic Neoplasms,yes,1185,1315
+hsa-mir-361,Colorectal Neoplasms,yes,1129,1304
+hsa-mir-218,Urinary Bladder Neoplasms,yes,1046,1306
+hsa-mir-448,"Carcinoma, Hepatocellular",yes,1165,1310
+hsa-mir-126,Liver Cirrhosis,yes,917,1337
+hsa-mir-24,Osteomyelitis,yes,1058,1682
+hsa-mir-370,"Carcinoma, Non-Small-Cell Lung",yes,1135,1312
+hsa-mir-142,Uterine Cervical Neoplasms,yes,956,1300
+hsa-mir-144,Bronchiolitis Obliterans,yes,958,1683
+hsa-mir-194,Inflammation,yes,1002,1564
+hsa-mir-200,"Diabetes Mellitus, Type 2",yes,1021,1399
+hsa-mir-125b,Multiple Myeloma,yes,914,1368
+hsa-mir-197,Leiomyoma,yes,1010,1602
+hsa-mir-409,Colorectal Neoplasms,yes,1152,1304
+hsa-mir-191,Neoplasms,yes,997,1299
+hsa-mir-148b,Liver Neoplasms,yes,963,1313
+hsa-mir-377,Stomach Neoplasms,yes,1144,1307
+hsa-mir-204,Osteosarcoma,yes,1028,1305
+hsa-mir-582,"Carcinoma, Hepatocellular",yes,1226,1310
+hsa-mir-148a,Ovarian Neoplasms,yes,962,1309
+hsa-mir-300,Osteosarcoma,yes,1080,1305
+hsa-mir-429,Breast Neoplasms,yes,1160,1303
+hsa-mir-218,Glioblastoma,yes,1046,1301
+hsa-mir-26b,Obesity,yes,1065,1357
+hsa-mir-106a,Kidney Neoplasms,yes,889,1418
+hsa-mir-301a,Pancreatic Neoplasms,yes,1081,1315
+hsa-mir-495,Breast Neoplasms,yes,1186,1303
+hsa-mir-139,"Carcinoma, Hepatocellular",yes,953,1310
+hsa-mir-30a,Lung Neoplasms,yes,1089,1308
+hsa-mir-199a,Hepatitis C,yes,1013,1472
+hsa-mir-101,Atherosclerosis,yes,879,1376
+hsa-mir-491,Uterine Cervical Neoplasms,yes,1182,1300
+hsa-mir-29a,Pancreatic Neoplasms,yes,1074,1315
+hsa-mir-330,Pancreatic Neoplasms,yes,1114,1315
+hsa-mir-101,Triple Negative Breast Neoplasms,yes,879,1398
+hsa-mir-375,Osteosarcoma,yes,1141,1305
+hsa-mir-18b,"Leukemia, Promyelocytic, Acute",yes,995,1475
+hsa-mir-138,Psoriasis,yes,950,1467
+hsa-mir-98,"Aortic Aneurysm, Abdominal",yes,1295,1374
+hsa-mir-570,Lung Neoplasms,yes,1222,1308
+hsa-mir-106b,Giant Cell Tumor of Bone,yes,890,1661
+hsa-mir-498,Ovarian Neoplasms,yes,1188,1309
+hsa-mir-485,"Carcinoma, Hepatocellular",yes,1176,1310
+hsa-mir-29a,Atherosclerosis,yes,1074,1376
+hsa-mir-19a,"Carcinoma, Renal Cell",yes,1017,1324
+hsa-mir-153,"Carcinoma, Pancreatic Ductal",yes,967,1577
+hsa-mir-26b,Prostatic Neoplasms,yes,1065,1339
+hsa-mir-125a,Melanoma,yes,913,1347
+hsa-mir-362,Neuroblastoma,yes,1131,1302
+hsa-mir-199a,Osteosarcoma,yes,1013,1305
+hsa-mir-139,Breast Neoplasms,yes,953,1303
+hsa-mir-219,Glioblastoma,yes,1049,1301
+hsa-mir-340,Heart Diseases,yes,1122,1321
+hsa-mir-570,"Carcinoma, Hepatocellular",yes,1222,1310
+hsa-mir-26b,"Arthritis, Rheumatoid",yes,1065,1423
+hsa-mir-9,Neoplasms,yes,1276,1299
+hsa-mir-132,Liver Neoplasms,yes,936,1313
+hsa-mir-29a,Neoplasms,yes,1074,1299
+hsa-mir-29b,Neoplasms,yes,1075,1299
+hsa-mir-29c,Neoplasms,yes,1078,1299
+hsa-mir-106a,Lung Neoplasms,yes,889,1308
+hsa-mir-139,Lung Neoplasms,yes,953,1308
+hsa-mir-34a,Liver Diseases,yes,1126,1465
+hsa-mir-370,Osteoarthritis,yes,1135,1403
+hsa-mir-373,Osteoarthritis,yes,1138,1403
+hsa-mir-448,Ovarian Neoplasms,yes,1165,1309
+hsa-mir-9,Melanoma,yes,1276,1347
+hsa-mir-19b,Atherosclerosis,yes,1018,1376
+hsa-mir-221,Atherosclerosis,yes,1051,1376
+hsa-mir-222,Atherosclerosis,yes,1052,1376
+hsa-mir-130a,Stomach Neoplasms,yes,934,1307
+hsa-mir-133a,Uterine Cervical Neoplasms,yes,938,1300
+hsa-mir-99b,"Carcinoma, Hepatocellular",yes,1297,1310
+hsa-mir-203,Neuroblastoma,yes,1026,1302
+hsa-mir-410,Lung Neoplasms,yes,1153,1308
+hsa-mir-9,Urinary Bladder Neoplasms,yes,1276,1306
+hsa-mir-29b,Glioblastoma,yes,1075,1301
+hsa-mir-133a,"Carcinoma, Hepatocellular",yes,938,1310
+hsa-mir-612,Colorectal Neoplasms,yes,1236,1304
+hsa-mir-1271,Stomach Neoplasms,yes,919,1307
+hsa-mir-495,Medulloblastoma,yes,1186,1367
+hsa-mir-28,"Carcinoma, Hepatocellular",yes,1068,1310
+hsa-mir-99a,"Thyroid Carcinoma, Anaplastic",yes,1296,1538
+hsa-mir-95,Glioma,yes,1293,1322
+hsa-mir-20a,Acute Kidney Injury,yes,1034,1561
+hsa-mir-20b,Urinary Bladder Neoplasms,yes,1035,1306
+hsa-mir-134,Lung Neoplasms,yes,942,1308
+hsa-mir-208,"Carcinoma, Hepatocellular",yes,1031,1310
+hsa-mir-205,Osteoporosis,yes,1029,1684
+hsa-mir-7,Prostatic Neoplasms,yes,1261,1339
+hsa-mir-206,Coronary Artery Disease,yes,1030,1373
+hsa-mir-17,"Lupus Erythematosus, Systemic",yes,977,1501
+hsa-mir-302c,Glioma,yes,1086,1322
+hsa-mir-324,"Carcinoma, Hepatocellular",yes,1108,1310
+hsa-mir-200a,Lung Neoplasms,yes,1022,1308
+hsa-mir-135b,Atherosclerosis,yes,947,1376
+hsa-mir-499a,Atherosclerosis,yes,1190,1376
+hsa-mir-34a,HIV Infections,yes,1126,1632
+hsa-mir-302a,Colorectal Neoplasms,yes,1084,1304
+hsa-mir-139,Mouth Neoplasms,yes,953,1386
+hsa-mir-182,Uterine Cervical Neoplasms,yes,987,1300
+hsa-mir-365,Lymphoma,yes,1133,1417
+hsa-mir-1297,"Carcinoma, Hepatocellular",yes,928,1310
+hsa-mir-204,Breast Neoplasms,yes,1028,1303
+hsa-mir-185,Stomach Neoplasms,yes,990,1307
+hsa-mir-107,"Carcinoma, Hepatocellular",yes,891,1310
+hsa-mir-720,"Hepatitis B, Chronic",yes,1267,1592
+hsa-mir-15b,"Encephalitis Viruses, Japanese",yes,973,1660
+hsa-mir-539,Thyroid Neoplasms,yes,1217,1330
+hsa-mir-29c,Alzheimer Disease,yes,1078,1342
+hsa-mir-335,Gastrointestinal Stromal Tumors,yes,1116,1371
+hsa-mir-34a,Gastrointestinal Stromal Tumors,yes,1126,1371
+hsa-mir-198,Neoplasms,yes,1011,1299
+hsa-mir-320a,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1100,1440
+hsa-mir-503,Prostatic Neoplasms,yes,1195,1339
+hsa-mir-135a,Lung Neoplasms,yes,944,1308
+hsa-mir-146a,"Carcinoma, Non-Small-Cell Lung",yes,960,1312
+hsa-mir-200c,"Carcinoma, Renal Cell",yes,1024,1324
+hsa-mir-638,Stomach Neoplasms,yes,1246,1307
+hsa-mir-34c,"Carcinoma, Non-Small-Cell Lung",yes,1128,1312
+hsa-mir-144,Glioblastoma,yes,958,1301
+hsa-mir-24,Urinary Bladder Neoplasms,yes,1058,1306
+hsa-mir-338,Breast Neoplasms,yes,1117,1303
+hsa-mir-130a,Liver Cirrhosis,yes,934,1337
+hsa-mir-27b,Liver Cirrhosis,yes,1067,1337
+hsa-mir-378a,Breast Neoplasms,yes,1146,1303
+hsa-mir-145,Cholangiocarcinoma,yes,959,1326
+hsa-mir-99b,Colorectal Neoplasms,yes,1297,1304
+hsa-mir-744,Inflammation,yes,1268,1564
+hsa-mir-7,Stomach Neoplasms,yes,1261,1307
+hsa-mir-126,Breast Neoplasms,yes,917,1303
+hsa-mir-17,Myocardial Infarction,yes,977,1388
+hsa-mir-761,"Carcinoma, Non-Small-Cell Lung",yes,1271,1312
+hsa-mir-205,Laryngeal Neoplasms,yes,1029,1415
+hsa-mir-664,Lymphoma,yes,1256,1417
+hsa-mir-411,Rhabdomyosarcoma,yes,1154,1515
+hsa-let-7b,Reperfusion Injury,yes,866,1557
+hsa-mir-137,Osteosarcoma,yes,949,1305
+hsa-mir-340,Esophageal Neoplasms,yes,1122,1351
+hsa-mir-10a,"Carcinoma, Non-Small-Cell Lung",yes,892,1312
+hsa-mir-494,Chondrosarcoma,yes,1185,1349
+hsa-mir-940,Stomach Neoplasms,yes,1290,1307
+hsa-mir-542,Esophageal Neoplasms,yes,1218,1351
+hsa-mir-1908,Osteosarcoma,yes,996,1305
+hsa-mir-16,Osteoarthritis,yes,974,1403
+hsa-mir-128,Colorectal Neoplasms,yes,921,1304
+hsa-mir-675,Breast Neoplasms,yes,1259,1303
+hsa-mir-183,Endometriosis,yes,988,1380
+hsa-mir-326,Stomach Neoplasms,yes,1110,1307
+hsa-mir-141,Myocardial Ischemia,yes,955,1665
+hsa-mir-203,Osteosarcoma,yes,1026,1305
+hsa-mir-133b,Ovarian Neoplasms,yes,941,1309
+hsa-mir-205,Adrenocortical Carcinoma,yes,1029,1436
+hsa-mir-18a,Colorectal Neoplasms,yes,994,1304
+hsa-mir-34c,Alzheimer Disease,yes,1128,1342
+hsa-mir-140,Colorectal Neoplasms,yes,954,1304
+hsa-mir-100,Stomach Neoplasms,yes,878,1307
+hsa-mir-584,Thyroid Neoplasms,yes,1227,1330
+hsa-mir-217,Lung Neoplasms,yes,1045,1308
+hsa-mir-96,"Carcinoma, Renal Cell",yes,1294,1324
+hsa-mir-135b,"Carcinoma, Hepatocellular",yes,947,1310
+hsa-mir-137,Astrocytoma,yes,949,1298
+hsa-mir-139,Glioblastoma,yes,953,1301
+hsa-mir-208a,Breast Neoplasms,yes,1032,1303
+hsa-mir-128,Stomach Neoplasms,yes,921,1307
+hsa-mir-29,Neoplasms,yes,1069,1299
+hsa-mir-1271,Ovarian Neoplasms,yes,919,1309
+hsa-mir-506,Colorectal Neoplasms,yes,1198,1304
+hsa-mir-542,Osteosarcoma,yes,1218,1305
+hsa-mir-652,Pancreatic Neoplasms,yes,1251,1315
+hsa-mir-616,"Carcinoma, Hepatocellular",yes,1239,1310
+hsa-mir-519,"Leukemia, Myeloid, Acute",yes,1208,1366
+hsa-mir-221,Choriocarcinoma,yes,1051,1439
+hsa-mir-449a,Glioma,yes,1166,1322
+hsa-mir-154,"Carcinoma, Hepatocellular",yes,970,1310
+hsa-mir-223,Prostatic Neoplasms,yes,1053,1339
+hsa-mir-30a,Enterovirus Infections,yes,1089,1664
+hsa-mir-182,Hepatitis C,yes,987,1472
+hsa-mir-346,Uterine Cervical Neoplasms,yes,1125,1300
+hsa-mir-381,Kidney Neoplasms,yes,1148,1418
+hsa-mir-506,Liver Neoplasms,yes,1198,1313
+hsa-mir-30a,Pre-Eclampsia,yes,1089,1459
+hsa-mir-590,Glioblastoma,yes,1229,1301
+hsa-mir-181a,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,980,1344
+hsa-mir-661,Glioma,yes,1253,1322
+hsa-mir-124,Alzheimer Disease,yes,903,1342
+hsa-mir-302c,"Influenza, Human",yes,1086,1599
+hsa-mir-200b,Retinal Degeneration,yes,1023,1500
+hsa-mir-181b,Acute Lung Injury,yes,982,1579
+hsa-mir-186,Ovarian Neoplasms,yes,991,1309
+hsa-mir-150,Prostatic Neoplasms,yes,965,1339
+hsa-mir-512,"Carcinoma, Non-Small-Cell Lung",yes,1203,1312
+hsa-mir-130b,Glioma,yes,935,1322
+hsa-mir-127,Neoplasms,yes,918,1299
+hsa-mir-376a,Neoplasms,yes,1142,1299
+hsa-mir-31,Lung Neoplasms,yes,1096,1308
+hsa-mir-218,Iron Metabolism Disorders,yes,1046,1685
+hsa-mir-205,Osteosarcoma,yes,1029,1305
+hsa-mir-135b,Triple Negative Breast Neoplasms,yes,947,1398
+hsa-mir-125a,Leukemia,yes,913,1385
+hsa-mir-125a,Neoplasms,yes,913,1299
+hsa-mir-150,Uterine Cervical Neoplasms,yes,965,1300
+hsa-mir-663,Glioblastoma,yes,1254,1301
+hsa-mir-331,Colorectal Neoplasms,yes,1115,1304
+hsa-mir-194,"Carcinoma, Hepatocellular",yes,1002,1310
+hsa-mir-592,"Carcinoma, Hepatocellular",yes,1230,1310
+hsa-mir-34c,"Carcinoma, Hepatocellular",yes,1128,1310
+hsa-mir-204,Esophageal Neoplasms,yes,1028,1351
+hsa-mir-140,Lung Neoplasms,yes,954,1308
+hsa-mir-365,Osteosarcoma,yes,1133,1305
+hsa-mir-935,"Carcinoma, Signet Ring Cell",yes,1287,1686
+hsa-mir-320,Inflammatory Bowel Diseases,yes,1099,1364
+hsa-mir-328,Esophageal Neoplasms,yes,1111,1351
+hsa-mir-96,Cardiomegaly,yes,1294,1370
+hsa-mir-148a,Lupus Nephritis,yes,962,1619
+hsa-mir-142,Neoplasms,yes,956,1299
+hsa-mir-625,Breast Neoplasms,yes,1241,1303
+hsa-mir-519,Stomach Neoplasms,yes,1208,1307
+hsa-mir-26b,"Carcinoma, Non-Small-Cell Lung",yes,1065,1312
+hsa-mir-489,Breast Neoplasms,yes,1180,1303
+hsa-mir-505,Endometrial Neoplasms,yes,1197,1362
+hsa-mir-103,Atherosclerosis,yes,882,1376
+hsa-mir-320a,Reperfusion Injury,yes,1100,1557
+hsa-mir-504,Glioma,yes,1196,1322
+hsa-mir-26a,Osteoarthritis,yes,1062,1403
+hsa-mir-124,Arbovirus Infections,yes,903,1645
+hsa-mir-125,Arbovirus Infections,yes,910,1645
+hsa-mir-133,Arbovirus Infections,yes,937,1645
+hsa-mir-142,Arbovirus Infections,yes,956,1645
+hsa-mir-208,Arbovirus Infections,yes,1031,1645
+hsa-mir-486,Ovarian Neoplasms,yes,1177,1309
+hsa-mir-130b,Colorectal Neoplasms,yes,935,1304
+hsa-mir-122,Sepsis,yes,899,1558
+hsa-mir-145,Sepsis,yes,959,1558
+hsa-mir-210,Sepsis,yes,1037,1558
+hsa-mir-34a,Sepsis,yes,1126,1558
+hsa-mir-9,Diabetic Cardiomyopathies,yes,1276,1442
+hsa-mir-193a,Osteosarcoma,yes,1000,1305
+hsa-mir-21,"Corneal Dystrophies, Hereditary",yes,1036,1623
+hsa-mir-101,Breast Neoplasms,yes,879,1303
+hsa-mir-16,Atherosclerosis,yes,974,1376
+hsa-mir-19b,"Encephalitis Viruses, Japanese",yes,1018,1660
+hsa-mir-1271,Pancreatic Neoplasms,yes,919,1315
+hsa-mir-21,Oral Submucous Fibrosis,yes,1036,1680
+hsa-mir-379,"Carcinoma, Hepatocellular",yes,1147,1310
+hsa-mir-133b,Liver Neoplasms,yes,941,1313
+hsa-mir-183,Choriocarcinoma,yes,988,1439
+hsa-mir-130b,Pulmonary Fibrosis,yes,935,1601
+hsa-mir-30,Pancreatic Neoplasms,yes,1079,1315
+hsa-mir-30e,"Carcinoma, Hepatocellular",yes,1095,1310
+hsa-mir-21,Endomyocardial Fibrosis,yes,1036,1618
+hsa-mir-198,Osteosarcoma,yes,1011,1305
+hsa-mir-31,Sepsis,yes,1096,1558
+hsa-mir-26a,"Carcinoma, Renal Cell",yes,1062,1324
+hsa-mir-409,Osteosarcoma,yes,1152,1305
+hsa-mir-138,Brain Ischemia,yes,950,1578
+hsa-mir-495,Prostatic Neoplasms,yes,1186,1339
+hsa-mir-720,Triple Negative Breast Neoplasms,yes,1267,1398
+hsa-mir-192,Neoplasms,yes,998,1299
+hsa-mir-143,"Dermatitis, Atopic",yes,957,1687
+hsa-mir-491,"Carcinoma, Hepatocellular",yes,1182,1310
+hsa-mir-181b,Osteosarcoma,yes,982,1305
+hsa-mir-192,Choriocarcinoma,yes,998,1439
+hsa-mir-143,Glioblastoma,yes,957,1301
+hsa-mir-205,Stomach Neoplasms,yes,1029,1307
+hsa-mir-124,Astrocytoma,yes,903,1298
+hsa-mir-181b,Breast Neoplasms,yes,982,1303
+hsa-mir-200a,Diabetes Mellitus,yes,1022,1379
+hsa-mir-204,"Hypertension, Pulmonary",yes,1028,1559
+hsa-mir-135b,"Liposarcoma, Myxoid",yes,947,1688
+hsa-mir-296,Ovarian Neoplasms,yes,1070,1309
+hsa-mir-23a,"Leukemia, Myeloid, Acute",yes,1055,1366
+hsa-mir-186,Myocardial Infarction,yes,991,1388
+hsa-mir-19b,Heart Diseases,yes,1018,1321
+hsa-mir-135b,Endometrial Neoplasms,yes,947,1362
+hsa-mir-203,"Carcinoma, Non-Small-Cell Lung",yes,1026,1312
+hsa-mir-381,Tuberculosis,yes,1148,1562
+hsa-mir-200b,Osteosarcoma,yes,1023,1305
+hsa-mir-134,Liver Cirrhosis,yes,942,1337
+hsa-mir-301a,Osteosarcoma,yes,1081,1305
+hsa-mir-204,Diabetes Mellitus,yes,1028,1379
+hsa-mir-99a,Atherosclerosis,yes,1296,1376
+hsa-mir-133a,Diabetes Mellitus,yes,938,1379
+hsa-mir-20b,Diabetic Retinopathy,yes,1035,1508
+hsa-mir-1273g,Hepatitis C,yes,920,1472
+hsa-mir-1273g,Liver Cirrhosis,yes,920,1337
+hsa-mir-29a,"Glomerulosclerosis, Focal Segmental",yes,1074,1689
+hsa-mir-214,Lung Neoplasms,yes,1040,1308
+hsa-mir-98,Alzheimer Disease,yes,1295,1342
+hsa-mir-146a,"Arthritis, Juvenile",yes,960,1594
+hsa-mir-384,"Carcinoma, Hepatocellular",yes,1151,1310
+hsa-mir-100,"Glomerulonephritis, IGA",yes,878,1671
+hsa-mir-187,"Carcinoma, Hepatocellular",yes,992,1310
+hsa-mir-138,Prostatic Neoplasms,yes,950,1339
+hsa-mir-106a,"Cardiomyopathy, Hypertrophic",yes,889,1341
+hsa-mir-451,Urinary Bladder Neoplasms,yes,1168,1306
+hsa-mir-15a,Papillomaviridae,yes,972,1690
+hsa-mir-216,Urinary Bladder Neoplasms,yes,1042,1306
+hsa-mir-421,Breast Neoplasms,yes,1155,1303
+hsa-mir-7,Intervertebral Disc Degeneration,yes,1261,1335
+hsa-mir-98,Osteoarthritis,yes,1295,1403
+hsa-mir-125b,Heart Diseases,yes,914,1321
+hsa-mir-31,Triple Negative Breast Neoplasms,yes,1096,1398
+hsa-mir-181a,Osteosarcoma,yes,980,1305
+hsa-mir-19b,Breast Neoplasms,yes,1018,1303
+hsa-mir-9,"Osteoarthritis, Knee",yes,1276,1691
+hsa-mir-139,Leukemia,yes,953,1385
+hsa-mir-15a,Endometriosis,yes,972,1380
+hsa-mir-141,Glioma,yes,955,1322
+hsa-mir-200c,Glioma,yes,1024,1322
+hsa-mir-148a,Reperfusion Injury,yes,962,1557
+hsa-mir-34a,"Influenza, Human",yes,1126,1599
+hsa-mir-1271,"Diabetes Mellitus, Type 2",yes,919,1399
+hsa-mir-346,Pre-Eclampsia,yes,1125,1459
+hsa-mir-582,Pre-Eclampsia,yes,1226,1459
+hsa-mir-224,Uterine Cervical Neoplasms,yes,1054,1300
+hsa-mir-4262,Breast Neoplasms,yes,1159,1303
+hsa-mir-22,Parkinson Disease,yes,1050,1455
+hsa-mir-30e,Heart Diseases,yes,1095,1321
+hsa-let-7g,Glioblastoma,yes,873,1301
+hsa-mir-17,"Hypertension, Pulmonary",yes,977,1559
+hsa-mir-181b,Psoriasis,yes,982,1467
+hsa-mir-361,"Carcinoma, Hepatocellular",yes,1129,1310
+hsa-mir-218,Stomach Neoplasms,yes,1046,1307
+hsa-mir-181b,Colorectal Neoplasms,yes,982,1304
+hsa-mir-138,"Hypertension, Pulmonary",yes,950,1559
+hsa-mir-25,"Hypertension, Pulmonary",yes,1061,1559
+hsa-mir-29,Osteosarcoma,yes,1069,1305
+hsa-mir-370,Hepatitis B,yes,1135,1556
+hsa-mir-210,"Carcinoma, Hepatocellular",yes,1037,1310
+hsa-mir-19a,Diabetes Mellitus,yes,1017,1379
+hsa-mir-372,Prostatic Neoplasms,yes,1137,1339
+hsa-mir-16,Stomach Neoplasms,yes,974,1307
+hsa-mir-192,Osteosarcoma,yes,998,1305
+hsa-mir-939,Breast Neoplasms,yes,1289,1303
+hsa-mir-1207,Prostatic Neoplasms,yes,898,1339
+hsa-mir-9,Laryngeal Neoplasms,yes,1276,1415
+hsa-mir-935,"Carcinoma, Hepatocellular",yes,1287,1310
+hsa-mir-509,Stomach Neoplasms,yes,1201,1307
+hsa-mir-1298,Lung Neoplasms,yes,929,1308
+hsa-mir-186,Melanoma,yes,991,1347
+hsa-mir-27b,"Carcinoma, Hepatocellular",yes,1067,1310
+hsa-mir-491,Osteosarcoma,yes,1182,1305
+hsa-mir-296,"Carcinoma, Hepatocellular",yes,1070,1310
+hsa-mir-144,"Carcinoma, Renal Cell",yes,958,1324
+hsa-mir-216b,Breast Neoplasms,yes,1044,1303
+hsa-mir-320,Osteosarcoma,yes,1099,1305
+hsa-mir-326,Osteosarcoma,yes,1110,1305
+hsa-mir-126,"Arthritis, Rheumatoid",yes,917,1423
+hsa-mir-133a,Laryngeal Neoplasms,yes,938,1415
+hsa-mir-21,Wound Healing,yes,1036,1598
+hsa-mir-105,Glioma,yes,888,1322
+hsa-mir-149,"Diabetes Mellitus, Type 1",yes,964,1479
+hsa-mir-23a,"Diabetes Mellitus, Type 1",yes,1055,1479
+hsa-mir-23b,"Diabetes Mellitus, Type 1",yes,1056,1479
+hsa-mir-1297,Prostatic Neoplasms,yes,928,1339
+hsa-mir-155,Idiopathic Pulmonary Fibrosis,yes,971,1622
+hsa-mir-16,"Abortion, Spontaneous",yes,974,1692
+hsa-mir-203,Multiple Myeloma,yes,1026,1368
+hsa-mir-382,Prostatic Neoplasms,yes,1149,1339
+hsa-mir-455,"Carcinoma, Hepatocellular",yes,1172,1310
+hsa-mir-520a,"Carcinoma, Non-Small-Cell Lung",yes,1210,1312
+hsa-mir-27b,Atherosclerosis,yes,1067,1376
+hsa-mir-302,Neoplasms,yes,1083,1299
+hsa-mir-9,Non-alcoholic Fatty Liver Disease,yes,1276,1481
+hsa-mir-10b,Osteosarcoma,yes,893,1305
+hsa-mir-451,"Leukemia, Myeloid, Acute",yes,1168,1366
+hsa-mir-29c,Idiopathic Pulmonary Fibrosis,yes,1078,1622
+hsa-mir-33a,Gallbladder Neoplasms,yes,1119,1328
+hsa-mir-590,"Carcinoma, Non-Small-Cell Lung",yes,1229,1312
+hsa-mir-125b,Diabetic Nephropathies,yes,914,1487
+hsa-mir-574,Prostatic Neoplasms,yes,1223,1339
+hsa-mir-148a,Thyroid Neoplasms,yes,962,1330
+hsa-mir-34b,Spinal Cord Injuries,yes,1127,1567
+hsa-mir-34c,Spinal Cord Injuries,yes,1128,1567
+hsa-mir-203a,"Carcinoma, Hepatocellular",yes,1027,1310
+hsa-mir-379,Osteosarcoma,yes,1147,1305
+hsa-mir-637,"Hypertension, Pulmonary",yes,1245,1559
+hsa-mir-133a,Osteosarcoma,yes,938,1305
+hsa-mir-145,Polycystic Ovary Syndrome,yes,959,1314
+hsa-mir-25,Melanoma,yes,1061,1347
+hsa-mir-92a,Glioma,yes,1282,1322
+hsa-mir-181a,Acute Lung Injury,yes,980,1579
+hsa-mir-20a,Tuberculosis,yes,1034,1562
+hsa-mir-940,"Carcinoma, Hepatocellular",yes,1290,1310
+hsa-mir-222,Ovarian Neoplasms,yes,1052,1309
+hsa-mir-155,"Carcinoma, Non-Small-Cell Lung",yes,971,1312
+hsa-mir-199a,Urinary Bladder Neoplasms,yes,1013,1306
+hsa-mir-542,"Carcinoma, Hepatocellular",yes,1218,1310
+hsa-mir-10a,"Lymphoma, Large B-Cell, Diffuse",yes,892,1470
+hsa-mir-1,Neoplasms,yes,875,1299
+hsa-mir-639,Thyroid Neoplasms,yes,1247,1330
+hsa-mir-503,Atherosclerosis,yes,1195,1376
+hsa-mir-378a,Liver Cirrhosis,yes,1146,1337
+hsa-mir-22,Astrocytoma,yes,1050,1298
+hsa-mir-34a,Cataract,yes,1126,1628
+hsa-mir-148a,Multiple Myeloma,yes,962,1368
+hsa-mir-33a,"Carcinoma, Non-Small-Cell Lung",yes,1119,1312
+hsa-mir-16,Colorectal Neoplasms,yes,974,1304
+hsa-mir-383,Lung Neoplasms,yes,1150,1308
+hsa-mir-187,Stomach Neoplasms,yes,992,1307
+hsa-mir-377,"Carcinoma, Non-Small-Cell Lung",yes,1144,1312
+hsa-mir-373,"Lymphoma, T-Cell",yes,1138,1654
+hsa-mir-371,Lupus Nephritis,yes,1136,1619
+hsa-mir-362,Uterine Cervical Neoplasms,yes,1131,1300
+hsa-mir-3619,Prostatic Neoplasms,yes,1130,1339
+hsa-mir-638,"Carcinoma, Hepatocellular",yes,1246,1310
+hsa-mir-148a,"Carcinoma, Renal Cell",yes,962,1324
+hsa-mir-421,Uterine Cervical Neoplasms,yes,1155,1300
+hsa-let-7g,"Hypertension, Pulmonary",yes,873,1559
+hsa-mir-98,"Carcinoma, Hepatocellular",yes,1295,1310
+hsa-mir-383,Prostatic Neoplasms,yes,1150,1339
+hsa-mir-509,"Carcinoma, Non-Small-Cell Lung",yes,1201,1312
+hsa-mir-15b,Glioblastoma,yes,973,1301
+hsa-mir-138,Uterine Cervical Neoplasms,yes,950,1300
+hsa-mir-206,Urinary Bladder Neoplasms,yes,1030,1306
+hsa-mir-491,Glioma,yes,1182,1322
+hsa-mir-140,Gout,yes,954,1566
+hsa-mir-146a,Aneurysm,yes,960,1572
+hsa-mir-346,Breast Neoplasms,yes,1125,1303
+hsa-mir-181a,Keloid,yes,980,1338
+hsa-mir-21,Pulmonary Fibrosis,yes,1036,1601
+hsa-mir-217,Breast Neoplasms,yes,1045,1303
+hsa-mir-15a,Osteoarthritis,yes,972,1403
+hsa-mir-33a,Prostatic Neoplasms,yes,1119,1339
+hsa-mir-145,Osteoarthritis,yes,959,1403
+hsa-mir-152,"Carcinoma, Hepatocellular",yes,966,1310
+hsa-mir-211,Uterine Cervical Neoplasms,yes,1038,1300
+hsa-mir-206,"Carcinoma, Renal Cell",yes,1030,1324
+hsa-mir-205,Uterine Cervical Neoplasms,yes,1029,1300
+hsa-mir-205,Lung Neoplasms,yes,1029,1308
+hsa-mir-145,Uterine Cervical Neoplasms,yes,959,1300
+hsa-mir-23a,"Arthritis, Rheumatoid",yes,1055,1423
+hsa-mir-181b,Glioma,yes,982,1322
+hsa-mir-98,"Carcinoma, Non-Small-Cell Lung",yes,1295,1312
+hsa-mir-141,Prostatic Neoplasms,yes,955,1339
+hsa-mir-194,Prostatic Neoplasms,yes,1002,1339
+hsa-mir-451a,Cardiomyopathies,yes,1169,1542
+hsa-mir-124,Inflammatory Bowel Diseases,yes,903,1364
+hsa-mir-138,Urinary Bladder Neoplasms,yes,950,1306
+hsa-mir-200b,Inflammatory Bowel Diseases,yes,1023,1364
+hsa-mir-130a,Prostatic Neoplasms,yes,934,1339
+hsa-mir-497,Heart Diseases,yes,1187,1321
+hsa-mir-520b,Stomach Neoplasms,yes,1211,1307
+hsa-mir-520e,Stomach Neoplasms,yes,1214,1307
+hsa-mir-143,Uterine Cervical Neoplasms,yes,957,1300
+hsa-mir-340,"Carcinoma, Hepatocellular",yes,1122,1310
+hsa-mir-487b,Colorectal Neoplasms,yes,1178,1304
+hsa-mir-302a,Glioma,yes,1084,1322
+hsa-mir-367,"Carcinoma, Non-Small-Cell Lung",yes,1134,1312
+hsa-mir-221,Neuroblastoma,yes,1051,1302
+hsa-mir-592,"Carcinoma, Non-Small-Cell Lung",yes,1230,1312
+hsa-mir-382,"Carcinoma, Non-Small-Cell Lung",yes,1149,1312
+hsa-mir-155,Reperfusion Injury,yes,971,1557
+hsa-mir-381,Breast Neoplasms,yes,1148,1303
+hsa-mir-149,"Leukemia, Myeloid, Acute",yes,964,1366
+hsa-mir-33b,"Carcinoma, Hepatocellular",yes,1120,1310
+hsa-mir-96,"Diabetes Mellitus, Type 2",yes,1294,1399
+hsa-mir-10b,"Spondylitis, Ankylosing",yes,893,1673
+hsa-mir-194,Psoriasis,yes,1002,1467
+hsa-mir-130b,Urinary Bladder Neoplasms,yes,935,1306
+hsa-mir-181a,Stomach Neoplasms,yes,980,1307
+hsa-mir-330,"Carcinoma, Hepatocellular",yes,1114,1310
+hsa-mir-761,Triple Negative Breast Neoplasms,yes,1271,1398
+hsa-mir-92a,"Leukemia, Myeloid, Acute",yes,1282,1366
+hsa-mir-107,Acute Kidney Injury,yes,891,1561
+hsa-mir-129,Glioblastoma,yes,924,1301
+hsa-mir-202,"Scleroderma, Systemic",yes,1025,1666
+hsa-mir-495,Urinary Bladder Neoplasms,yes,1186,1306
+hsa-mir-718,"Carcinoma, Hepatocellular",yes,1266,1310
+hsa-mir-375,Breast Neoplasms,yes,1141,1303
+hsa-mir-15a,Intervertebral Disc Degeneration,yes,972,1335
+hsa-mir-424,Uterine Cervical Neoplasms,yes,1158,1300
+hsa-mir-130a,Psoriasis,yes,934,1467
+hsa-mir-449b,Liver Neoplasms,yes,1167,1313
+hsa-mir-30c,Non-alcoholic Fatty Liver Disease,yes,1091,1481
+hsa-mir-345,"Carcinoma, Hepatocellular",yes,1124,1310
+hsa-mir-194,Glioma,yes,1002,1322
+hsa-mir-9,Liver Cirrhosis,yes,1276,1337
+hsa-mir-1296,Stomach Neoplasms,yes,927,1307
+hsa-mir-939,Coronary Artery Disease,yes,1289,1373
+hsa-mir-590,Breast Neoplasms,yes,1229,1303
+hsa-mir-1307,Prostatic Neoplasms,yes,933,1339
+hsa-mir-125b,"Thyroid Carcinoma, Anaplastic",yes,914,1538
+hsa-mir-34c,Neoplasms,yes,1128,1299
+hsa-mir-187,Uterine Cervical Neoplasms,yes,992,1300
+hsa-mir-650,"Arthritis, Rheumatoid",yes,1250,1423
+hsa-mir-34a,"Carcinoma, Hepatocellular",yes,1126,1310
+hsa-mir-365,Heart Diseases,yes,1133,1321
+hsa-mir-1271,Prostatic Neoplasms,yes,919,1339
+hsa-mir-1,Breast Neoplasms,yes,875,1303
+hsa-mir-130b,Breast Neoplasms,yes,935,1303
+hsa-mir-212,Uterine Cervical Neoplasms,yes,1039,1300
+hsa-mir-599,"Carcinoma, Non-Small-Cell Lung",yes,1232,1312
+hsa-mir-181,Osteoarthritis,yes,979,1403
+hsa-mir-361,Glioma,yes,1129,1322
+hsa-mir-922,"Carcinoma, Hepatocellular",yes,1281,1310
+hsa-mir-520c,Glioma,yes,1212,1322
+hsa-mir-93,Bone Diseases,yes,1286,1404
+hsa-mir-28,Hodgkin Disease,yes,1068,1537
+hsa-mir-29a,Diabetic Retinopathy,yes,1074,1508
+hsa-mir-24,Osteosarcoma,yes,1058,1305
+hsa-mir-30b,Esophageal Neoplasms,yes,1090,1351
+hsa-mir-218,Lung Neoplasms,yes,1046,1308
+hsa-mir-143,"Carcinoma, Pancreatic Ductal",yes,957,1577
+hsa-mir-146a,Stroke,yes,960,1397
+hsa-mir-15a,"Aortic Aneurysm, Abdominal",yes,972,1374
+hsa-mir-32,Tuberculosis,yes,1098,1562
+hsa-mir-139,Alzheimer Disease,yes,953,1342
+hsa-mir-181,Breast Neoplasms,yes,979,1303
+hsa-mir-216a,Melanoma,yes,1043,1347
+hsa-mir-15b,Multiple Sclerosis,yes,973,1466
+hsa-mir-22,Prostatic Neoplasms,yes,1050,1339
+hsa-mir-543,Uterine Cervical Neoplasms,yes,1219,1300
+hsa-mir-122,"Carcinoma, Renal Cell",yes,899,1324
+hsa-mir-221,Chemical and Drug Induced Liver Injury,yes,1051,1574
+hsa-mir-106b,Inferior Wall Myocardial Infarction,yes,890,1576
+hsa-mir-148b,Inferior Wall Myocardial Infarction,yes,963,1576
+hsa-mir-204,Inferior Wall Myocardial Infarction,yes,1028,1576
+hsa-mir-520e,"Carcinoma, Non-Small-Cell Lung",yes,1214,1312
+hsa-mir-130,Obesity,yes,930,1357
+hsa-mir-543,Prostatic Neoplasms,yes,1219,1339
+hsa-mir-98,Endomyocardial Fibrosis,yes,1295,1618
+hsa-mir-15b,Coronary Artery Disease,yes,973,1373
+hsa-mir-133a,Atherosclerosis,yes,938,1376
+hsa-mir-185,Keloid,yes,990,1338
+hsa-mir-365,Glioma,yes,1133,1322
+hsa-mir-134,Stomach Neoplasms,yes,942,1307
+hsa-mir-125b,Osteoarthritis,yes,914,1403
+hsa-mir-422a,Glioma,yes,1156,1322
+hsa-mir-146a,Graves Disease,yes,960,1672
+hsa-mir-181a,Osteoarthritis,yes,980,1403
+hsa-mir-21,"Diabetes Mellitus, Type 1",yes,1036,1479
+hsa-mir-93,Neuralgia,yes,1286,1605
+hsa-mir-181d,Glioblastoma,yes,986,1301
+hsa-mir-182,"Leukemia, Promyelocytic, Acute",yes,987,1475
+hsa-mir-146a,Diabetes Mellitus,yes,960,1379
+hsa-mir-302b,Glioma,yes,1085,1322
+hsa-mir-181b,Cardiovascular Diseases,yes,982,1377
+hsa-mir-199,Urinary Bladder Neoplasms,yes,1012,1306
+hsa-mir-122,Stomach Neoplasms,yes,899,1307
+hsa-mir-370,Intracranial Aneurysm,yes,1135,1384
+hsa-mir-448,Multiple Sclerosis,yes,1165,1466
+hsa-mir-590,Prostatic Neoplasms,yes,1229,1339
+hsa-mir-455,Prostatic Neoplasms,yes,1172,1339
+hsa-mir-613,Retinoblastoma,yes,1237,1348
+hsa-mir-145,Pituitary Neoplasms,yes,959,1369
+hsa-mir-302d,"Carcinoma, Hepatocellular",yes,1087,1310
+hsa-mir-155,Biliary Atresia,yes,971,1656
+hsa-mir-27a,Adenoviridae Infections,yes,1066,1611
+hsa-mir-27b,Adenoviridae Infections,yes,1067,1611
+hsa-mir-194,Melanoma,yes,1002,1347
+hsa-mir-200,Glioma,yes,1021,1322
+hsa-mir-19b,Lung Neoplasms,yes,1018,1308
+hsa-mir-494,Spinal Cord Injuries,yes,1185,1567
+hsa-mir-125b,"Carcinoma, Non-Small-Cell Lung",yes,914,1312
+hsa-mir-144,"Influenza, Human",yes,958,1599
+hsa-mir-370,"Carcinoma, Hepatocellular",yes,1135,1310
+hsa-mir-181a,Glioblastoma,yes,980,1301
+hsa-mir-661,Osteosarcoma,yes,1253,1305
+hsa-mir-539,"Carcinoma, Hepatocellular",yes,1217,1310
+hsa-mir-329,Uterine Cervical Neoplasms,yes,1112,1300
+hsa-mir-150,Psoriasis,yes,965,1467
+hsa-mir-30a,"Carcinoma, Non-Small-Cell Lung",yes,1089,1312
+hsa-mir-302c,"Carcinoma, Renal Cell",yes,1086,1324
+hsa-mir-330,Breast Neoplasms,yes,1114,1303
+hsa-mir-193a,Prostatic Neoplasms,yes,1000,1339
+hsa-mir-16,Myocardial Infarction,yes,974,1388
+hsa-mir-223,Pancreatic Neoplasms,yes,1053,1315
+hsa-mir-299,Neoplasms,yes,1073,1299
+hsa-mir-494,Intervertebral Disc Degeneration,yes,1185,1335
+hsa-mir-429,Fibrosarcoma,yes,1160,1491
+hsa-mir-590,Colorectal Neoplasms,yes,1229,1304
+hsa-mir-146a,Diabetic Retinopathy,yes,960,1508
+hsa-mir-217,Triple Negative Breast Neoplasms,yes,1045,1398
+hsa-mir-15a,Reperfusion Injury,yes,972,1557
+hsa-mir-1202,Glioma,yes,897,1322
+hsa-mir-409,Breast Neoplasms,yes,1152,1303
+hsa-mir-19b,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1018,1440
+hsa-mir-1228,Stomach Neoplasms,yes,900,1307
+hsa-mir-19a,Osteosarcoma,yes,1017,1305
+hsa-mir-493,Melanoma,yes,1184,1347
+hsa-mir-34a,"Leukemia, Myeloid, Acute",yes,1126,1366
+hsa-mir-195,Esophageal Neoplasms,yes,1005,1351
+hsa-mir-21,Atrial Fibrillation,yes,1036,1560
+hsa-mir-24-1,Liver Neoplasms,yes,1059,1313
+hsa-mir-140,Spinal Cord Injuries,yes,954,1567
+hsa-mir-874,"Carcinoma, Non-Small-Cell Lung",yes,1273,1312
+hsa-mir-130a,"Hypertension, Pulmonary",yes,934,1559
+hsa-mir-29a,"Carcinoma, Non-Small-Cell Lung",yes,1074,1312
+hsa-mir-181a,Stroke,yes,980,1397
+hsa-mir-16,Hypertension,yes,974,1383
+hsa-mir-19b,Hypertension,yes,1018,1383
+hsa-mir-181a,Small Cell Lung Carcinoma,yes,980,1476
+hsa-mir-30b,"Carcinoma, Renal Cell",yes,1090,1324
+hsa-let-7,Chemical and Drug Induced Liver Injury,yes,861,1574
+hsa-mir-126,Esophageal Neoplasms,yes,917,1351
+hsa-mir-210,Atherosclerosis,yes,1037,1376
+hsa-mir-106b,Pre-Eclampsia,yes,890,1459
+hsa-mir-26a,Tuberculosis,yes,1062,1562
+hsa-mir-146b,Colorectal Neoplasms,yes,961,1304
+hsa-mir-211,Triple Negative Breast Neoplasms,yes,1038,1398
+hsa-mir-199b,"Carcinoma, Hepatocellular",yes,1016,1310
+hsa-mir-18a,Ovarian Neoplasms,yes,994,1309
+hsa-mir-181a,Myocardial Infarction,yes,980,1388
+hsa-mir-375,Esophageal Neoplasms,yes,1141,1351
+hsa-mir-630,Stomach Neoplasms,yes,1244,1307
+hsa-mir-208b,Osteosarcoma,yes,1033,1305
+hsa-mir-31,"Carcinoma, Hepatocellular",yes,1096,1310
+hsa-mir-495,Pre-Eclampsia,yes,1186,1459
+hsa-mir-500,Prostatic Neoplasms,yes,1191,1339
+hsa-mir-1236,Lung Neoplasms,yes,902,1308
+hsa-mir-370,Lung Neoplasms,yes,1135,1308
+hsa-mir-646,Stomach Neoplasms,yes,1248,1307
+hsa-mir-193a,"Carcinoma, Renal Cell",yes,1000,1324
+hsa-mir-26a,"Lymphoma, Large B-Cell, Diffuse",yes,1062,1470
+hsa-mir-26a,Colorectal Neoplasms,yes,1062,1304
+hsa-mir-133b,Lung Neoplasms,yes,941,1308
+hsa-mir-217,Myxoma,yes,1045,1678
+hsa-mir-129,Stomach Neoplasms,yes,924,1307
+hsa-mir-136,Stomach Neoplasms,yes,948,1307
+hsa-let-7b,"Carcinoma, Hepatocellular",yes,866,1310
+hsa-mir-138,"Carcinoma, Hepatocellular",yes,950,1310
+hsa-mir-107,Osteosarcoma,yes,891,1305
+hsa-mir-150,Neuralgia,yes,965,1605
+hsa-mir-155,Lung Neoplasms,yes,971,1308
+hsa-let-7a,Melanoma,yes,862,1347
+hsa-mir-26a,Melanoma,yes,1062,1347
+hsa-mir-613,Stomach Neoplasms,yes,1237,1307
+hsa-mir-25,Osteosarcoma,yes,1061,1305
+hsa-mir-320,Stomach Neoplasms,yes,1099,1307
+hsa-mir-219,"Carcinoma, Non-Small-Cell Lung",yes,1049,1312
+hsa-mir-592,Glioma,yes,1230,1322
+hsa-mir-378,Colonic Neoplasms,yes,1145,1336
+hsa-let-7c,Breast Neoplasms,yes,867,1303
+hsa-mir-143,Lymphoma,yes,957,1417
+hsa-mir-21,Pituitary Neoplasms,yes,1036,1369
+hsa-mir-133a,Colorectal Neoplasms,yes,938,1304
+hsa-mir-429,Glioblastoma,yes,1160,1301
+hsa-mir-1254,"Carcinoma, Non-Small-Cell Lung",yes,911,1312
+hsa-mir-21,Cardio-Renal Syndrome,yes,1036,1693
+hsa-mir-143,"Carcinoma, Hepatocellular",yes,957,1310
+hsa-mir-144,Pre-Eclampsia,yes,958,1459
+hsa-mir-18a,Muscular Atrophy,yes,994,1617
+hsa-mir-195,Laryngeal Neoplasms,yes,1005,1415
+hsa-mir-4262,Uterine Cervical Neoplasms,yes,1159,1300
+hsa-mir-204,Uterine Cervical Neoplasms,yes,1028,1300
+hsa-mir-154,Stomach Neoplasms,yes,970,1307
+hsa-mir-181c,Lung Neoplasms,yes,985,1308
+hsa-mir-152,Osteosarcoma,yes,966,1305
+hsa-mir-367,Melanoma,yes,1134,1347
+hsa-mir-31,Stomach Neoplasms,yes,1096,1307
+hsa-mir-204,Hypertension,yes,1028,1383
+hsa-mir-22,Arteriosclerosis Obliterans,yes,1050,1674
+hsa-mir-15a,"Carcinoma, Renal Cell",yes,972,1324
+hsa-mir-127,Bone Neoplasms,yes,918,1543
+hsa-mir-376a,Bone Neoplasms,yes,1142,1543
+hsa-mir-4317,Stomach Neoplasms,yes,1162,1307
+hsa-mir-106a,Prostatic Neoplasms,yes,889,1339
+hsa-mir-34a,Non-alcoholic Fatty Liver Disease,yes,1126,1481
+hsa-mir-149,"Carcinoma, Renal Cell",yes,964,1324
+hsa-mir-217,Colorectal Neoplasms,yes,1045,1304
+hsa-mir-16,Cholangiocarcinoma,yes,974,1326
+hsa-mir-21,Rectal Neoplasms,yes,1036,1539
+hsa-mir-126,Diabetic Retinopathy,yes,917,1508
+hsa-mir-181a,"Carcinoma, Non-Small-Cell Lung",yes,980,1312
+hsa-mir-125a,Osteosarcoma,yes,913,1305
+hsa-mir-124,"Hypertension, Pulmonary",yes,903,1559
+hsa-mir-629,Ovarian Neoplasms,yes,1243,1309
+hsa-mir-23b,Stomach Neoplasms,yes,1056,1307
+hsa-mir-17,"Carcinoma, Pancreatic Ductal",yes,977,1577
+hsa-mir-29a,"Arthritis, Rheumatoid",yes,1074,1423
+hsa-mir-210,Pheochromocytoma,yes,1037,1434
+hsa-mir-34a,Pre-Eclampsia,yes,1126,1459
+hsa-mir-150,Thyroid Neoplasms,yes,965,1330
+hsa-mir-29a,Neurilemmoma,yes,1074,1652
+hsa-mir-29c,Neurilemmoma,yes,1078,1652
+hsa-mir-124,Melanoma,yes,903,1347
+hsa-mir-17,Endometriosis,yes,977,1380
+hsa-mir-145,Stroke,yes,959,1397
+hsa-mir-21,"Lymphoma, Large B-Cell, Diffuse",yes,1036,1470
+hsa-mir-140,Cartilage Diseases,yes,954,1694
+hsa-mir-489,Colorectal Neoplasms,yes,1180,1304
+hsa-mir-30a,"Carcinoma, Renal Cell",yes,1089,1324
+hsa-mir-146a,Inflammation,yes,960,1564
+hsa-let-7d,Parkinson Disease,yes,868,1455
+hsa-mir-106b,Retinoblastoma,yes,890,1348
+hsa-mir-27a,Diabetes Mellitus,yes,1066,1379
+hsa-mir-27a,Non-alcoholic Fatty Liver Disease,yes,1066,1481
+hsa-mir-146a,Asthma,yes,960,1529
+hsa-mir-155,Colonic Neoplasms,yes,971,1336
+hsa-mir-150,Non-alcoholic Fatty Liver Disease,yes,965,1481
+hsa-mir-107,"Carcinoma, Pancreatic Ductal",yes,891,1577
+hsa-mir-200c,Endometriosis,yes,1024,1380
+hsa-mir-449a,Osteosarcoma,yes,1166,1305
+hsa-mir-24,Osteoarthritis,yes,1058,1403
+hsa-mir-27a,"Carcinoma, Hepatocellular",yes,1066,1310
+hsa-mir-146a,"Spondylitis, Ankylosing",yes,960,1673
+hsa-mir-34b,Acute Lung Injury,yes,1127,1579
+hsa-mir-200c,Neuralgia,yes,1024,1605
+hsa-mir-429,Neuralgia,yes,1160,1605
+hsa-mir-145,Neuralgia,yes,959,1605
+hsa-mir-20b,Prostatic Neoplasms,yes,1035,1339
+hsa-mir-326,Multiple Sclerosis,yes,1110,1466
+hsa-mir-519d,Breast Neoplasms,yes,1209,1303
+hsa-mir-1202,"Carcinoma, Hepatocellular",yes,897,1310
+hsa-mir-182,Atherosclerosis,yes,987,1376
+hsa-mir-155,Kidney Neoplasms,yes,971,1418
+hsa-mir-143,Melanoma,yes,957,1347
+hsa-mir-29a,Reperfusion Injury,yes,1074,1557
+hsa-mir-296,Uterine Cervical Neoplasms,yes,1070,1300
+hsa-mir-24,Atherosclerosis,yes,1058,1376
+hsa-mir-29a,Retinoblastoma,yes,1074,1348
+hsa-mir-188,Glioma,yes,993,1322
+hsa-mir-181a,Thyroid Neoplasms,yes,980,1330
+hsa-mir-30e,Parkinson Disease,yes,1095,1455
+hsa-mir-124a,Liver Neoplasms,yes,909,1313
+hsa-mir-346,"Carcinoma, Hepatocellular",yes,1125,1310
+hsa-mir-136,"Carcinoma, Hepatocellular",yes,948,1310
+hsa-mir-19a,Osteoarthritis,yes,1017,1403
+hsa-mir-492,Hepatoblastoma,yes,1183,1402
+hsa-mir-125b,"Diabetes Mellitus, Type 2",yes,914,1399
+hsa-mir-519d,Uterine Cervical Neoplasms,yes,1209,1300
+hsa-mir-501,Polycystic Kidney Diseases,yes,1193,1629
+hsa-mir-21,"Carcinoma, Adenoid Cystic",yes,1036,1534
+hsa-mir-301a,Prostatic Neoplasms,yes,1081,1339
+hsa-mir-494,Diabetes Mellitus,yes,1185,1379
+hsa-mir-144,Osteoporosis,yes,958,1684
+hsa-mir-181a,Pre-Eclampsia,yes,980,1459
+hsa-mir-124,Ovarian Neoplasms,yes,903,1309
+hsa-mir-138,"Carcinoma, Renal Cell",yes,950,1324
+hsa-let-7b,"Ectodermal Dysplasia 1, Anhidrotic",yes,866,1695
+hsa-mir-199a,"Respiratory Distress Syndrome, Adult",yes,1013,1696
+hsa-mir-15b,Prostatic Neoplasms,yes,973,1339
+hsa-mir-448,Breast Neoplasms,yes,1165,1303
+hsa-mir-330,Alzheimer Disease,yes,1114,1342
+hsa-mir-424,Endometrial Neoplasms,yes,1158,1362
+hsa-mir-760,"Carcinoma, Non-Small-Cell Lung",yes,1270,1312
+hsa-mir-522,Colorectal Neoplasms,yes,1215,1304
+hsa-mir-383,Lymphoma,yes,1150,1417
+hsa-mir-206,Legg-Calve-Perthes Disease,yes,1030,1697
+hsa-mir-210,Acute Kidney Injury,yes,1037,1561
+hsa-mir-646,Colorectal Neoplasms,yes,1248,1304
+hsa-mir-29b,Neuroblastoma,yes,1075,1302
+hsa-mir-204,Colorectal Neoplasms,yes,1028,1304
+hsa-mir-31,Arteriosclerosis Obliterans,yes,1096,1674
+hsa-mir-143,Gallbladder Neoplasms,yes,957,1328
+hsa-mir-493,Prostatic Neoplasms,yes,1184,1339
+hsa-mir-152,Ovarian Neoplasms,yes,966,1309
+hsa-mir-150,Melanoma,yes,965,1347
+hsa-mir-34c,Laryngeal Neoplasms,yes,1128,1415
+hsa-mir-340,Thyroid Neoplasms,yes,1122,1330
+hsa-mir-365,Stroke,yes,1133,1397
+hsa-mir-19b,"Carcinoma, Non-Small-Cell Lung",yes,1018,1312
+hsa-mir-372,Breast Neoplasms,yes,1137,1303
+hsa-mir-210,Reperfusion Injury,yes,1037,1557
+hsa-mir-17,"Diabetes Mellitus, Type 2",yes,977,1399
+hsa-mir-216b,Diabetic Angiopathies,yes,1044,1698
+hsa-mir-149,Osteoarthritis,yes,964,1403
+hsa-mir-378,Osteosarcoma,yes,1145,1305
+hsa-mir-342,Melanoma,yes,1123,1347
+hsa-mir-29c,"Carcinoma, Non-Small-Cell Lung",yes,1078,1312
+hsa-mir-139,Adrenocortical Carcinoma,yes,953,1436
+hsa-mir-483,Adrenocortical Carcinoma,yes,1175,1436
+hsa-mir-223,Myocarditis,yes,1053,1699
+hsa-mir-30a,Gallbladder Neoplasms,yes,1089,1328
+hsa-mir-124,Angiomyolipoma,yes,903,1700
+hsa-mir-132,Angiomyolipoma,yes,936,1700
+hsa-mir-9,Angiomyolipoma,yes,1276,1700
+hsa-mir-320,Brain Ischemia,yes,1099,1578
+hsa-mir-98,Atherosclerosis,yes,1295,1376
+hsa-mir-613,"Carcinoma, Hepatocellular",yes,1237,1310
+hsa-mir-183,"Carcinoma, Renal Cell",yes,988,1324
+hsa-mir-625,Thyroid Neoplasms,yes,1241,1330
+hsa-mir-199,"Carcinoma, Hepatocellular",yes,1012,1310
+hsa-mir-24,Hyperglycemia,yes,1058,1495
+hsa-mir-143,Crohn Disease,yes,957,1317
+hsa-mir-302a,Osteosarcoma,yes,1084,1305
+hsa-mir-422a,Colorectal Neoplasms,yes,1156,1304
+hsa-mir-375,Non-alcoholic Fatty Liver Disease,yes,1141,1481
+hsa-mir-491,Stomach Neoplasms,yes,1182,1307
+hsa-mir-374b,Uterine Cervical Neoplasms,yes,1140,1300
+hsa-mir-30a,Liver Cirrhosis,yes,1089,1337
+hsa-mir-146a,"Epilepsy, Temporal Lobe",yes,960,1325
+hsa-mir-9,Uterine Cervical Neoplasms,yes,1276,1300
+hsa-mir-451a,Non-alcoholic Fatty Liver Disease,yes,1169,1481
+hsa-mir-181c,Diabetes Mellitus,yes,985,1379
+hsa-mir-204,Neuroblastoma,yes,1028,1302
+hsa-mir-612,Urinary Bladder Neoplasms,yes,1236,1306
+hsa-mir-328,Breast Neoplasms,yes,1111,1303
+hsa-mir-429,Peripheral Nerve Injuries,yes,1160,1643
+hsa-mir-103a,"Carcinoma, Hepatocellular",yes,883,1310
+hsa-mir-20a,Atherosclerosis,yes,1034,1376
+hsa-mir-96,Osteosarcoma,yes,1294,1305
+hsa-mir-146a,Acute Lung Injury,yes,960,1579
+hsa-mir-222,"Cicatrix, Hypertrophic",yes,1052,1597
+hsa-mir-92a,Diabetes Mellitus,yes,1282,1379
+hsa-mir-155,Esophageal Neoplasms,yes,971,1351
+hsa-mir-758,Atherosclerosis,yes,1269,1376
+hsa-mir-29b,"Hypertension, Pulmonary",yes,1075,1559
+hsa-mir-370,Atherosclerosis,yes,1135,1376
+hsa-mir-135a,Atherosclerosis,yes,944,1376
+hsa-mir-19a,Hypertrophy,yes,1017,1565
+hsa-mir-19b,Hypertrophy,yes,1018,1565
+hsa-mir-29b,Inflammation,yes,1075,1564
+hsa-mir-224,"Carcinoma, Renal Cell",yes,1054,1324
+hsa-mir-182,Myocardial Infarction,yes,987,1388
+hsa-mir-375,"Rhinitis, Allergic",yes,1141,1669
+hsa-mir-577,Osteoarthritis,yes,1225,1403
+hsa-mir-485,Breast Neoplasms,yes,1176,1303
+hsa-mir-338,"Carcinoma, Adenoid Cystic",yes,1117,1534
+hsa-mir-876,"Carcinoma, Hepatocellular",yes,1274,1310
+hsa-mir-485,Colorectal Neoplasms,yes,1176,1304
+hsa-mir-222,Liver Neoplasms,yes,1052,1313
+hsa-mir-125,Colorectal Neoplasms,yes,910,1304
+hsa-mir-221,Myocardial Reperfusion Injury,yes,1051,1522
+hsa-mir-146a,Uterine Cervical Neoplasms,yes,960,1300
+hsa-mir-384,Breast Neoplasms,yes,1151,1303
+hsa-mir-27a,Heart Failure,yes,1066,1318
+hsa-mir-382,Diabetic Nephropathies,yes,1149,1487
+hsa-mir-124a,"Carcinoma, Non-Small-Cell Lung",yes,909,1312
+hsa-mir-146a,Coronavirus Infections,yes,960,1701
+hsa-mir-34a,Atherosclerosis,yes,1126,1376
+hsa-mir-502,Esophageal Neoplasms,yes,1194,1351
+hsa-mir-338,Melanoma,yes,1117,1347
+hsa-mir-340,Hemangiosarcoma,yes,1122,1646
+hsa-mir-122,Stroke,yes,899,1397
+hsa-mir-29c,Prostatic Neoplasms,yes,1078,1339
+hsa-mir-652,Prostatic Neoplasms,yes,1251,1339
+hsa-mir-545,Stomach Neoplasms,yes,1221,1307
+hsa-mir-182,Acute Kidney Injury,yes,987,1561
+hsa-mir-339,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,1118,1344
+hsa-mir-411,Spinal Cord Injuries,yes,1154,1567
+hsa-mir-129,Wound Healing,yes,924,1598
+hsa-mir-335,Wound Healing,yes,1116,1598
+hsa-mir-215,Hepatitis C,yes,1041,1472
+hsa-mir-486,Osteoarthritis,yes,1177,1403
+hsa-mir-665,Intervertebral Disc Degeneration,yes,1257,1335
+hsa-mir-130,Myocardial Infarction,yes,930,1388
+hsa-mir-155,Lymphocytic Choriomeningitis,yes,971,1702
+hsa-mir-1247,Pneumonia,yes,908,1662
+hsa-mir-1231,Glioma,yes,901,1322
+hsa-mir-7,White spot syndrome virus 1,yes,1261,1703
+hsa-mir-608,"Carcinoma, Hepatocellular",yes,1234,1310
+hsa-mir-616,Stomach Neoplasms,yes,1239,1307
+hsa-mir-1178,Tuberculosis,yes,894,1562
+hsa-mir-19a,Ovarian Neoplasms,yes,1017,1309
+hsa-mir-155,"Cicatrix, Hypertrophic",yes,971,1597
+hsa-mir-24,Obesity,yes,1058,1357
+hsa-mir-216b,Glioma,yes,1044,1322
+hsa-mir-320a,"Carcinoma, Non-Small-Cell Lung",yes,1100,1312
+hsa-mir-124,Congenital Hypothyroidism,yes,903,1704
+hsa-mir-381,Myocarditis,yes,1148,1699
+hsa-mir-206,Prostatic Neoplasms,yes,1030,1339
+hsa-mir-100,Nasopharyngeal Neoplasms,yes,878,1533
+hsa-mir-128,Osteosarcoma,yes,921,1305
+hsa-mir-155,Lichen Planus,yes,971,1705
+hsa-mir-19a,Lichen Planus,yes,1017,1705
+hsa-mir-148b,Wound Healing,yes,963,1598
+hsa-mir-148a,Endometriosis,yes,962,1380
+hsa-mir-215,Endometrial Neoplasms,yes,1041,1362
+hsa-mir-1,Colonic Neoplasms,yes,875,1336
+hsa-mir-23a,Sepsis,yes,1055,1558
+hsa-mir-613,Osteosarcoma,yes,1237,1305
+hsa-mir-193a,Stomach Neoplasms,yes,1000,1307
+hsa-mir-143,Myocardial Infarction,yes,957,1388
+hsa-mir-411,Urinary Bladder Neoplasms,yes,1154,1306
+hsa-mir-27b,Ocular Motility Disorders,yes,1067,1706
+hsa-mir-365,Melanoma,yes,1133,1347
+hsa-mir-876,Psoriasis,yes,1274,1467
+hsa-mir-23a,"Hypertension, Pulmonary",yes,1055,1559
+hsa-mir-129,Neuroblastoma,yes,924,1302
+hsa-mir-20a,Triple Negative Breast Neoplasms,yes,1034,1398
+hsa-mir-200b,Metabolic Syndrome,yes,1023,1504
+hsa-mir-300,"Carcinoma, Hepatocellular",yes,1080,1310
+hsa-mir-140,Cardiovascular Diseases,yes,954,1377
+hsa-mir-1247,Urinary Bladder Neoplasms,yes,908,1306
+hsa-mir-21,Periodontitis,yes,1036,1392
+hsa-mir-20a,Skin Diseases,yes,1034,1707
+hsa-mir-208a,Stomach Neoplasms,yes,1032,1307
+hsa-mir-873,Esophageal Neoplasms,yes,1272,1351
+hsa-mir-744,Ovarian Neoplasms,yes,1268,1309
+hsa-mir-30a,Melanoma,yes,1089,1347
+hsa-mir-125b,Alzheimer Disease,yes,914,1342
+hsa-mir-142,Ovarian Neoplasms,yes,956,1309
+hsa-mir-106b,Cholesteatoma,yes,890,1600
+hsa-mir-302c,Colorectal Neoplasms,yes,1086,1304
+hsa-mir-499a,Glioma,yes,1190,1322
+hsa-mir-590,Crohn Disease,yes,1229,1317
+hsa-mir-590,Osteosarcoma,yes,1229,1305
+hsa-mir-1297,Uterine Cervical Neoplasms,yes,928,1300
+hsa-mir-324,Polycystic Ovary Syndrome,yes,1108,1314
+hsa-mir-197,Uterine Cervical Neoplasms,yes,1010,1300
+hsa-mir-216b,"Carcinoma, Non-Small-Cell Lung",yes,1044,1312
+hsa-mir-154,"Carcinoma, Non-Small-Cell Lung",yes,970,1312
+hsa-mir-455,"Carcinoma, Renal Cell",yes,1172,1324
+hsa-mir-455,Diabetic Nephropathies,yes,1172,1487
+hsa-mir-340,"Carcinoma, Non-Small-Cell Lung",yes,1122,1312
+hsa-mir-155,"Pancreatitis, Acute Necrotizing",yes,971,1658
+hsa-mir-29b-2,"Carcinoma, Pancreatic Ductal",yes,1077,1577
+hsa-mir-378,Glioma,yes,1145,1322
+hsa-mir-592,Stomach Neoplasms,yes,1230,1307
+hsa-mir-142,Atherosclerosis,yes,956,1376
+hsa-mir-34a,Liver Cirrhosis,yes,1126,1337
+hsa-mir-9,Head and Neck Neoplasms,yes,1276,1614
+hsa-mir-320,Diabetes Mellitus,yes,1099,1379
+hsa-mir-20a,Multiple Myeloma,yes,1034,1368
+hsa-mir-139,Prostatic Neoplasms,yes,953,1339
+hsa-mir-599,Glioma,yes,1232,1322
+hsa-mir-31,Melanoma,yes,1096,1347
+hsa-mir-500a,"Carcinoma, Hepatocellular",yes,1192,1310
+hsa-mir-98,"Carcinoma, Pancreatic Ductal",yes,1295,1577
+hsa-mir-378,Melanoma,yes,1145,1347
+hsa-mir-203a,Stomach Neoplasms,yes,1027,1307
+hsa-mir-99b,Stomach Neoplasms,yes,1297,1307
+hsa-mir-137,Triple Negative Breast Neoplasms,yes,949,1398
+hsa-mir-498,Breast Neoplasms,yes,1188,1303
+hsa-mir-124,"Carcinoma, Pancreatic Ductal",yes,903,1577
+hsa-mir-193b,Chemical and Drug Induced Liver Injury,yes,1001,1574
+hsa-mir-298,"Carcinoma, Hepatocellular",yes,1072,1310
+hsa-mir-186,Alzheimer Disease,yes,991,1342
+hsa-mir-135b,Brain Ischemia,yes,947,1578
+hsa-mir-874,Ovarian Neoplasms,yes,1273,1309
+hsa-mir-205,"Carcinoma, Hepatocellular",yes,1029,1310
+hsa-mir-210,Osteosarcoma,yes,1037,1305
+hsa-mir-650,Colorectal Neoplasms,yes,1250,1304
+hsa-mir-638,Glioma,yes,1246,1322
+hsa-mir-589,Stomach Neoplasms,yes,1228,1307
+hsa-mir-665,Ovarian Neoplasms,yes,1257,1309
+hsa-mir-577,"Carcinoma, Non-Small-Cell Lung",yes,1225,1312
+hsa-mir-500a,Glioblastoma,yes,1192,1301
+hsa-mir-92a-1,Bone Diseases,yes,1283,1404
+hsa-mir-149,Uterine Cervical Neoplasms,yes,964,1300
+hsa-mir-15a,Uterine Cervical Neoplasms,yes,972,1300
+hsa-mir-519d,Colorectal Neoplasms,yes,1209,1304
+hsa-mir-26a,Lung Injury,yes,1062,1627
+hsa-mir-16,Polycystic Ovary Syndrome,yes,974,1314
+hsa-mir-1296,Colorectal Neoplasms,yes,927,1304
+hsa-mir-616,Pre-Eclampsia,yes,1239,1459
+hsa-mir-30d,Pulmonary Fibrosis,yes,1094,1601
+hsa-mir-181d,Osteosarcoma,yes,986,1305
+hsa-mir-140,Breast Neoplasms,yes,954,1303
+hsa-mir-181a,Glioma,yes,980,1322
+hsa-mir-135b,Hypertrophy,yes,947,1565
+hsa-mir-194,Hepatitis B,yes,1002,1556
+hsa-mir-143,"Leukemia, Myeloid, Acute",yes,957,1366
+hsa-mir-1273g,Colorectal Neoplasms,yes,920,1304
+hsa-mir-384,Osteoarthritis,yes,1151,1403
+hsa-mir-455,Urinary Bladder Neoplasms,yes,1172,1306
+hsa-mir-342,Nasopharyngeal Neoplasms,yes,1123,1533
+hsa-mir-122,Glioma,yes,899,1322
+hsa-mir-543,Esophageal Neoplasms,yes,1219,1351
+hsa-mir-638,Asthma,yes,1246,1529
+hsa-mir-27b,Mucocutaneous Lymph Node Syndrome,yes,1067,1708
+hsa-mir-506,Retinoblastoma,yes,1198,1348
+hsa-mir-125b,Lung Neoplasms,yes,914,1308
+hsa-mir-191,Breast Neoplasms,yes,997,1303
+hsa-mir-302c,"Carcinoma, Hepatocellular",yes,1086,1310
+hsa-mir-323a,Osteosarcoma,yes,1107,1305
+hsa-mir-613,Triple Negative Breast Neoplasms,yes,1237,1398
+hsa-mir-942,Liver Cirrhosis,yes,1291,1337
+hsa-mir-217,Urinary Bladder Neoplasms,yes,1045,1306
+hsa-mir-148b,Kidney Neoplasms,yes,963,1418
+hsa-mir-758,Glioblastoma,yes,1269,1301
+hsa-mir-33a,Laryngeal Neoplasms,yes,1119,1415
+hsa-mir-23c,"Carcinoma, Hepatocellular",yes,1057,1310
+hsa-mir-520b,Lung Neoplasms,yes,1211,1308
+hsa-mir-96,Uterine Cervical Neoplasms,yes,1294,1300
+hsa-mir-30b,Glioma,yes,1090,1322
+hsa-mir-582,Endometrial Neoplasms,yes,1226,1362
+hsa-mir-4728,Burkitt Lymphoma,yes,1174,1510
+hsa-mir-206,Sarcoma,yes,1030,1474
+hsa-mir-153,Stomach Neoplasms,yes,967,1307
+hsa-mir-6852,Colorectal Neoplasms,yes,1260,1304
+hsa-mir-379,Nasopharyngeal Neoplasms,yes,1147,1533
+hsa-mir-26a,Neuralgia,yes,1062,1605
+hsa-mir-30c,Atherosclerosis,yes,1091,1376
+hsa-mir-494,"Respiratory Distress Syndrome, Adult",yes,1185,1696
+hsa-mir-122,Bile Duct Neoplasms,yes,899,1545
+hsa-mir-486,Myocardial Infarction,yes,1177,1388
+hsa-mir-223,"Lymphoma, Mantle-Cell",yes,1053,1430
+hsa-mir-524,Osteosarcoma,yes,1216,1305
+hsa-mir-18a,Osteosarcoma,yes,994,1305
+hsa-mir-761,Stomach Neoplasms,yes,1271,1307
+hsa-mir-449b,"Carcinoma, Non-Small-Cell Lung",yes,1167,1312
+hsa-mir-124a,Glioma,yes,909,1322
+hsa-mir-1254,Breast Neoplasms,yes,911,1303
+hsa-mir-424,Hemangioma,yes,1158,1493
+hsa-mir-154,"Carcinoma, Renal Cell",yes,970,1324
+hsa-mir-454,Pre-Eclampsia,yes,1171,1459
+hsa-mir-504,"Carcinoma, Hepatocellular",yes,1196,1310
+hsa-mir-1258,Colorectal Neoplasms,yes,912,1304
+hsa-mir-383,Cholangiocarcinoma,yes,1150,1326
+hsa-mir-27a,Reperfusion Injury,yes,1066,1557
+hsa-mir-133a,Asthma,yes,938,1529
+hsa-mir-451,Osteoporosis,yes,1168,1684
+hsa-mir-29,"Carcinoma, Renal Cell",yes,1069,1324
+hsa-mir-590,Asthma,yes,1229,1529
+hsa-mir-362,Lung Neoplasms,yes,1131,1308
+hsa-mir-138,Sepsis,yes,950,1558
+hsa-mir-381,Uterine Cervical Neoplasms,yes,1148,1300
+hsa-mir-139,Glioma,yes,953,1322
+hsa-mir-483,"Thyroid Carcinoma, Anaplastic",yes,1175,1538
+hsa-mir-874,Diabetic Nephropathies,yes,1273,1487
+hsa-mir-200a,Kidney Neoplasms,yes,1022,1418
+hsa-mir-497,Glioma,yes,1187,1322
+hsa-mir-1301,Osteosarcoma,yes,931,1305
+hsa-mir-29a,Spinal Cord Injuries,yes,1074,1567
+hsa-mir-483,Colonic Neoplasms,yes,1175,1336
+hsa-mir-205,"Diabetes Mellitus, Type 2",yes,1029,1399
+hsa-mir-543,Stomach Neoplasms,yes,1219,1307
+hsa-mir-125b,Breast Neoplasms,yes,914,1303
+hsa-mir-214,Acute Kidney Injury,yes,1040,1561
+hsa-mir-1179,"Carcinoma, Non-Small-Cell Lung",yes,895,1312
+hsa-mir-320,Reperfusion Injury,yes,1099,1557
+hsa-mir-21,Hodgkin Disease,yes,1036,1537
+hsa-mir-137,"Cicatrix, Hypertrophic",yes,949,1597
+hsa-mir-338,"Arthritis, Rheumatoid",yes,1117,1423
+hsa-mir-192,"Diabetes Mellitus, Type 1",yes,998,1479
+hsa-mir-134,Neuralgia,yes,942,1605
+hsa-mir-210,Breast Neoplasms,yes,1037,1303
+hsa-mir-23b,Wound Healing,yes,1056,1598
+hsa-mir-590,Cerebral Hemorrhage,yes,1229,1709
+hsa-mir-384,Diabetic Retinopathy,yes,1151,1508
+hsa-mir-125b,Reperfusion Injury,yes,914,1557
+hsa-mir-663a,"Infertility, Male",yes,1255,1710
+hsa-mir-7,Pulmonary Fibrosis,yes,1261,1601
+hsa-mir-146b,"Carcinoma, Renal Cell",yes,961,1324
+hsa-mir-451a,"Carcinoma, Basal Cell",yes,1169,1361
+hsa-mir-218,Uterine Cervical Neoplasms,yes,1046,1300
+hsa-mir-637,Melanoma,yes,1245,1347
+hsa-mir-6852,Stomach Neoplasms,yes,1260,1307
+hsa-mir-184,Nasopharyngeal Neoplasms,yes,989,1533
+hsa-mir-338,Glioma,yes,1117,1322
+hsa-mir-23a,Atherosclerosis,yes,1055,1376
+hsa-mir-4317,"Carcinoma, Non-Small-Cell Lung",yes,1162,1312
+hsa-mir-204,Triple Negative Breast Neoplasms,yes,1028,1398
+hsa-mir-363,"Carcinoma, Renal Cell",yes,1132,1324
+hsa-mir-27a,Acute Lung Injury,yes,1066,1579
+hsa-mir-628,Breast Neoplasms,yes,1242,1303
+hsa-mir-146a,Spinal Cord Injuries,yes,960,1567
+hsa-mir-665,"Carcinoma, Hepatocellular",yes,1257,1310
+hsa-mir-3619,Urinary Bladder Neoplasms,yes,1130,1306
+hsa-mir-520b,Prostatic Neoplasms,yes,1211,1339
+hsa-mir-181a,"Kidney Failure, Chronic",yes,980,1711
+hsa-mir-218,Pterygium,yes,1046,1427
+hsa-mir-30d,Intervertebral Disc Degeneration,yes,1094,1335
+hsa-mir-423,Diabetic Nephropathies,yes,1157,1487
+hsa-mir-589,"Carcinoma, Hepatocellular",yes,1228,1310
+hsa-mir-494,Glioblastoma,yes,1185,1301
+hsa-mir-203,Wound Healing,yes,1026,1598
+hsa-mir-340,"Carcinoma, Squamous Cell",yes,1122,1320
+hsa-mir-20a,Glioma,yes,1034,1322
+hsa-mir-301b,Breast Neoplasms,yes,1082,1303
+hsa-mir-1307,Cartilage Diseases,yes,933,1694
+hsa-mir-374b,Ovarian Neoplasms,yes,1140,1309
+hsa-mir-345,"Leukemia, Myeloid, Acute",yes,1124,1366
+hsa-mir-944,Osteosarcoma,yes,1292,1305
+hsa-mir-223,Cardiovascular Diseases,yes,1053,1377
+hsa-mir-671,Glioma,yes,1258,1322
+hsa-mir-409,"Carcinoma, Non-Small-Cell Lung",yes,1152,1312
+hsa-mir-590,Arbovirus Infections,yes,1229,1645
+hsa-mir-140,Retinoblastoma,yes,954,1348
+hsa-mir-132,"Pulmonary Disease, Chronic Obstructive",yes,936,1424
+hsa-mir-183,Uterine Cervical Neoplasms,yes,988,1300
+hsa-mir-409,Encephalomyelitis,yes,1152,1571
+hsa-mir-650,Mouth Neoplasms,yes,1250,1386
+hsa-mir-216a,Asthma,yes,1043,1529
+hsa-mir-10a,Prostatic Neoplasms,yes,892,1339
+hsa-mir-494,Medulloblastoma,yes,1185,1367
+hsa-mir-17,Pulmonary Embolism,yes,977,1712
+hsa-mir-148b,Reperfusion Injury,yes,963,1557
+hsa-mir-150,Pulmonary Embolism,yes,965,1712
+hsa-mir-150,Thrombosis,yes,965,1713
+hsa-mir-150,Venous Thromboembolism,yes,965,1714
+hsa-mir-431,Pre-Eclampsia,yes,1161,1459
+hsa-mir-105,Lung Neoplasms,yes,888,1308
+hsa-mir-448,Aneurysm,yes,1165,1572
+hsa-mir-129,Glioma,yes,924,1322
+hsa-mir-328,Atherosclerosis,yes,1111,1376
+hsa-mir-33a,Fatty Liver,yes,1119,1489
+hsa-mir-128,Alzheimer Disease,yes,921,1342
+hsa-mir-575,Atherosclerosis,yes,1224,1376
+hsa-mir-3178,Breast Neoplasms,yes,1097,1303
+hsa-mir-206,"Pulmonary Disease, Chronic Obstructive",yes,1030,1424
+hsa-mir-27a,Cerebral Hemorrhage,yes,1066,1709
+hsa-mir-424,Glioma,yes,1158,1322
+hsa-mir-508,Breast Neoplasms,yes,1200,1303
+hsa-mir-128,"Diabetes Mellitus, Type 2",yes,921,1399
+hsa-mir-140,Acute Lung Injury,yes,954,1579
+hsa-mir-217,Uterine Cervical Neoplasms,yes,1045,1300
+hsa-mir-342,Neoplasms,yes,1123,1299
+hsa-mir-129,Cardiovascular Diseases,yes,924,1377
+hsa-mir-708,"Arthritis, Rheumatoid",yes,1265,1423
+hsa-mir-374b,Urinary Bladder Neoplasms,yes,1140,1306
+hsa-mir-454,Urinary Bladder Neoplasms,yes,1171,1306
+hsa-mir-23b,"Carcinoma, Pancreatic Ductal",yes,1056,1577
+hsa-mir-302b,"Carcinoma, Non-Small-Cell Lung",yes,1085,1312
+hsa-mir-302a,"Carcinoma, Pancreatic Ductal",yes,1084,1577
+hsa-mir-326,"Carcinoma, Hepatocellular",yes,1110,1310
+hsa-mir-342,Parkinson Disease,yes,1123,1455
+hsa-mir-657,Diabetes Mellitus,yes,1252,1379
+hsa-mir-15a,Inflammation,yes,972,1564
+hsa-mir-500a,Acute Kidney Injury,yes,1192,1561
+hsa-mir-744,Glioblastoma,yes,1268,1301
+hsa-mir-139,"Leukemia, Myeloid, Acute",yes,953,1366
+hsa-mir-542,Liver Cirrhosis,yes,1218,1337
+hsa-mir-33b,"Carcinoma, Non-Small-Cell Lung",yes,1120,1312
+hsa-mir-29b,"Depressive Disorder, Major",yes,1075,1412
+hsa-mir-125,Atherosclerosis,yes,910,1376
+hsa-mir-874,Myocardial Ischemia,yes,1273,1665
+hsa-mir-125,Urinary Bladder Neoplasms,yes,910,1306
+hsa-mir-500,"Carcinoma, Non-Small-Cell Lung",yes,1191,1312
+hsa-mir-628,"Carcinoma, Non-Small-Cell Lung",yes,1242,1312
+hsa-mir-22,Uterine Cervical Neoplasms,yes,1050,1300
+hsa-mir-221,Diarrhea,yes,1051,1715
+hsa-mir-27b,Aneurysm,yes,1067,1572
+hsa-mir-17,"Thyroid Carcinoma, Anaplastic",yes,977,1538
+hsa-mir-18,"Thyroid Carcinoma, Anaplastic",yes,978,1538
+hsa-mir-19a,"Thyroid Carcinoma, Anaplastic",yes,1017,1538
+hsa-mir-19b-1,"Thyroid Carcinoma, Anaplastic",yes,1019,1538
+hsa-mir-20a,"Thyroid Carcinoma, Anaplastic",yes,1034,1538
+hsa-mir-92-1,"Thyroid Carcinoma, Anaplastic",yes,1280,1538
+hsa-mir-205,"Carcinoma, Squamous Cell",yes,1029,1320
+hsa-mir-34,Breast Neoplasms,yes,1121,1303
+hsa-mir-92a,Ischemia,yes,1282,1575
+hsa-mir-16,Ovarian Neoplasms,yes,974,1309
+hsa-mir-326,Brain Neoplasms,yes,1110,1405
+hsa-mir-29a,"Scleroderma, Systemic",yes,1074,1666
+hsa-let-7a,Prostatic Neoplasms,yes,862,1339
+hsa-mir-101-1,Prostatic Neoplasms,yes,880,1339
+hsa-mir-101-2,Prostatic Neoplasms,yes,881,1339
+hsa-mir-221,Gastrointestinal Neoplasms,yes,1051,1346
+hsa-mir-222,Gastrointestinal Neoplasms,yes,1052,1346
+hsa-mir-27a,Pancreatic Neoplasms,yes,1066,1315
+hsa-mir-144,Myocardial Ischemia,yes,958,1665
+hsa-mir-451,Myocardial Ischemia,yes,1168,1665
+hsa-mir-125b,Prostatic Neoplasms,yes,914,1339
+hsa-mir-10b,Breast Neoplasms,yes,893,1303
+hsa-mir-328,Adenoviridae Infections,yes,1111,1611
+hsa-mir-516a-1,Stomach Neoplasms,yes,1205,1307
+hsa-mir-516a-2,Stomach Neoplasms,yes,1206,1307
+hsa-mir-124-1,"Arthritis, Rheumatoid",yes,904,1423
+hsa-mir-124-2,"Arthritis, Rheumatoid",yes,905,1423
+hsa-mir-124-3,"Arthritis, Rheumatoid",yes,906,1423
+hsa-mir-221,Liver Failure,yes,1051,1603
+hsa-mir-221,Rectal Neoplasms,yes,1051,1539
+hsa-mir-34a,Hepatoblastoma,yes,1126,1402
+hsa-mir-33a,Colorectal Neoplasms,yes,1119,1304
+hsa-mir-103a-1,Pain,yes,884,1653
+hsa-mir-103a-2,Pain,yes,885,1653
+hsa-mir-208a,Heart Diseases,yes,1032,1321
+hsa-mir-7-1,Glioma,yes,1262,1322
+hsa-mir-7-2,Glioma,yes,1263,1322
+hsa-mir-7-3,Glioma,yes,1264,1322
+hsa-mir-200,Pulmonary Fibrosis,yes,1021,1601
+hsa-mir-148a,"Carcinoma, Hepatocellular",yes,962,1310
+hsa-mir-101-1,"Carcinoma, Renal Cell",yes,880,1324
+hsa-mir-101-2,"Carcinoma, Renal Cell",yes,881,1324
+hsa-mir-145,Reperfusion Injury,yes,959,1557
+hsa-mir-23b,Neuralgia,yes,1056,1605
+hsa-mir-199a,Colorectal Neoplasms,yes,1013,1304
+hsa-mir-153-1,Glioblastoma,yes,968,1301
+hsa-mir-153-2,Glioblastoma,yes,969,1301
+hsa-mir-155,Waldenstrom Macroglobulinemia,yes,971,1716
+hsa-mir-106b,Gastrointestinal Neoplasms,yes,890,1346
+hsa-mir-429,Stomach Neoplasms,yes,1160,1307
+hsa-mir-181b,Prostatic Neoplasms,yes,982,1339
+hsa-mir-146a,Autoimmune Lymphoproliferative Syndrome,yes,960,1717
+hsa-mir-20a,Gallbladder Neoplasms,yes,1034,1328
+hsa-mir-203,Uterine Cervical Neoplasms,yes,1026,1300
+hsa-mir-196a,Laryngeal Neoplasms,yes,1006,1415
+hsa-let-7a-1,Prostatic Neoplasms,yes,863,1339
+hsa-mir-124,Inflammation,yes,903,1564
+hsa-mir-101,Osteoarthritis,yes,879,1403
+hsa-mir-106a,Diabetic Retinopathy,yes,889,1508
+hsa-mir-130b,Fragile X Syndrome,yes,935,1333
+hsa-mir-92a,Colorectal Neoplasms,yes,1282,1304
+hsa-mir-1,Asthma,yes,875,1529
+hsa-mir-29,"Leukemia, Myeloid, Acute",yes,1069,1366
+hsa-mir-210,"Hypoxia-Ischemia, Brain",yes,1037,1718
+hsa-mir-26a,Pancreatic Neoplasms,yes,1062,1315
+hsa-mir-196a,Uterine Cervical Neoplasms,yes,1006,1300
+hsa-mir-29,Stomach Neoplasms,yes,1069,1307
+hsa-mir-7,Colorectal Neoplasms,yes,1261,1304
+hsa-mir-10b,"Carcinoma, Non-Small-Cell Lung",yes,893,1312
+hsa-mir-129,Neoplasms,yes,924,1299
+hsa-mir-507,Neoplasms,yes,1199,1299
+hsa-mir-9-3,Lung Neoplasms,yes,1279,1308
+hsa-mir-200a,Obesity,yes,1022,1357
+hsa-mir-1,"Carcinoma, Non-Small-Cell Lung",yes,875,1312
+hsa-mir-10a,Stomach Neoplasms,yes,892,1307
+hsa-mir-125b,"Sarcoma, Ewing",yes,914,1419
+hsa-mir-378,Colorectal Neoplasms,yes,1145,1304
+hsa-mir-31,Coronary Artery Disease,yes,1096,1373
+hsa-mir-720,Coronary Artery Disease,yes,1267,1373
+hsa-mir-29b,Cardiovascular Diseases,yes,1075,1377
+hsa-mir-21,Psoriasis,yes,1036,1467
+hsa-mir-7,Reperfusion Injury,yes,1261,1557
+hsa-mir-30c,Endometrial Neoplasms,yes,1091,1362
+hsa-mir-150,Burkitt Lymphoma,yes,965,1510
+hsa-mir-197,"Carcinoma, Hepatocellular",yes,1010,1310
+hsa-mir-199a,Prostatic Neoplasms,yes,1013,1339
+hsa-mir-429,Osteosarcoma,yes,1160,1305
+hsa-mir-494,Prostatic Neoplasms,yes,1185,1339
+hsa-mir-210,Spinal Cord Injuries,yes,1037,1567
+hsa-mir-144,Atherosclerosis,yes,958,1376
+hsa-mir-100,Thyroid Neoplasms,yes,878,1330
+hsa-mir-205,"Aortic Aneurysm, Abdominal",yes,1029,1374
+hsa-mir-335,Colorectal Neoplasms,yes,1116,1304
+hsa-mir-20a,Thyroid Neoplasms,yes,1034,1330
+hsa-mir-494,"Carcinoma, Pancreatic Ductal",yes,1185,1577
+hsa-mir-361,Coronary Artery Disease,yes,1129,1373
+hsa-mir-34a,Kidney Neoplasms,yes,1126,1418
+hsa-mir-520a,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1210,1440
+hsa-mir-300,Neoplasms,yes,1080,1299
+hsa-mir-24,Stomach Neoplasms,yes,1058,1307
+hsa-mir-182,"Carcinoma, Renal Cell",yes,987,1324
+hsa-mir-222,Uterine Cervical Neoplasms,yes,1052,1300
+hsa-mir-135a,Diabetic Nephropathies,yes,944,1487
+hsa-mir-132,Atherosclerosis,yes,936,1376
+hsa-mir-31,Cystic Fibrosis,yes,1096,1719
+hsa-mir-377,Glioblastoma,yes,1144,1301
+hsa-mir-133b,Infertility,yes,941,1451
+hsa-mir-193,"Pulmonary Disease, Chronic Obstructive",yes,999,1424
+hsa-mir-409,Prostatic Neoplasms,yes,1152,1339
+hsa-mir-200a,Neuroblastoma,yes,1022,1302
+hsa-mir-302a,Breast Neoplasms,yes,1084,1303
+hsa-mir-542,Neuroblastoma,yes,1218,1302
+hsa-mir-520d,Stomach Neoplasms,yes,1213,1307
+hsa-mir-21,Cardiovascular Diseases,yes,1036,1377
+hsa-mir-133,Inflammatory Bowel Diseases,yes,937,1364
+hsa-mir-29b,Atherosclerosis,yes,1075,1376
+hsa-mir-30b,Stomach Neoplasms,yes,1090,1307
+hsa-mir-30,Ischemia,yes,1079,1575
+hsa-mir-146b,Prostatic Neoplasms,yes,961,1339
+hsa-mir-184,Glioma,yes,989,1322
+hsa-mir-155,Myocarditis,yes,971,1699
+hsa-mir-638,Breast Neoplasms,yes,1246,1303
+hsa-mir-27a,Laryngeal Neoplasms,yes,1066,1415
+hsa-mir-30e,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1095,1440
+hsa-mir-106b,Atrial Fibrillation,yes,890,1560
+hsa-mir-25,Atrial Fibrillation,yes,1061,1560
+hsa-mir-93,Atrial Fibrillation,yes,1286,1560
+hsa-mir-7,Glioma,yes,1261,1322
+hsa-mir-451a,"Carcinoma, Renal Cell",yes,1169,1324
+hsa-mir-224,Lung Neoplasms,yes,1054,1308
+hsa-mir-433,"Carcinoma, Hepatocellular",yes,1163,1310
+hsa-mir-133a,Cardiovascular Diseases,yes,938,1377
+hsa-mir-1297,Colorectal Neoplasms,yes,928,1304
+hsa-mir-378,Rhabdomyosarcoma,yes,1145,1515
+hsa-mir-378a,Rhabdomyosarcoma,yes,1146,1515
+hsa-mir-542,Stomach Neoplasms,yes,1218,1307
+hsa-mir-212,Lung Neoplasms,yes,1039,1308
+hsa-mir-133a,Arteriosclerosis Obliterans,yes,938,1674
+hsa-mir-638,Leukemia,yes,1246,1385
+hsa-mir-373,Ovarian Neoplasms,yes,1138,1309
+hsa-mir-23a,Arbovirus Infections,yes,1055,1645
+hsa-mir-127,Breast Neoplasms,yes,918,1303
+hsa-mir-210,Glioma,yes,1037,1322
+hsa-mir-449a,Glioblastoma,yes,1166,1301
+hsa-mir-367,Stomach Neoplasms,yes,1134,1307
+hsa-mir-24,Colorectal Neoplasms,yes,1058,1304
+hsa-mir-106a,"Carcinoma, Hepatocellular",yes,889,1310
+hsa-mir-200b,Graft vs Host Disease,yes,1023,1573
+hsa-mir-302a,Atherosclerosis,yes,1084,1376
+hsa-mir-155,Leukemia,yes,971,1385
+hsa-mir-130b,"Scleroderma, Systemic",yes,935,1666
+hsa-mir-374a,Stomach Neoplasms,yes,1139,1307
+hsa-mir-323a,Neoplasms,yes,1107,1299
+hsa-mir-125a,Glioma,yes,913,1322
+hsa-mir-328,Glioma,yes,1111,1322
+hsa-mir-129,Osteosarcoma,yes,924,1305
+hsa-mir-708,Ovarian Neoplasms,yes,1265,1309
+hsa-mir-466,Lymphoma,yes,1173,1417
+hsa-mir-219,Tauopathies,yes,1049,1720
+hsa-mir-145,Nasopharyngeal Neoplasms,yes,959,1533
+hsa-mir-342,"Carcinoma, Hepatocellular",yes,1123,1310
+hsa-mir-221,Laryngeal Neoplasms,yes,1051,1415
+hsa-mir-199a,Polycystic Kidney Diseases,yes,1013,1629
+hsa-mir-874,Stomach Neoplasms,yes,1273,1307
+hsa-mir-637,Glioma,yes,1245,1322
+hsa-mir-204,Thyroid Neoplasms,yes,1028,1330
+hsa-mir-196b,Colorectal Neoplasms,yes,1009,1304
+hsa-mir-21,Liver Diseases,yes,1036,1465
+hsa-mir-206,Colorectal Neoplasms,yes,1030,1304
+hsa-mir-10b,Atherosclerosis,yes,893,1376
+hsa-mir-203,Colorectal Neoplasms,yes,1026,1304
+hsa-mir-92a,Uterine Cervical Neoplasms,yes,1282,1300
+hsa-mir-29c,Endometriosis,yes,1078,1380
+hsa-mir-148b,"Carcinoma, Hepatocellular",yes,963,1310
+hsa-mir-1246,Inflammatory Bowel Diseases,yes,907,1364
+hsa-mir-135,Breast Neoplasms,yes,943,1303
+hsa-mir-487b,Nervous System Diseases,yes,1178,1334
+hsa-mir-370,Liver Cirrhosis,yes,1135,1337
+hsa-mir-511,Depressive Disorder,yes,1202,1721
+hsa-mir-424,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1158,1440
+hsa-mir-23a,"Carcinoma, Pancreatic Ductal",yes,1055,1577
+hsa-mir-217,Esophageal Neoplasms,yes,1045,1351
+hsa-mir-16-1,Stomach Neoplasms,yes,975,1307
+hsa-mir-663,Pancreatic Neoplasms,yes,1254,1315
+hsa-mir-497,Kidney Neoplasms,yes,1187,1418
+hsa-mir-27b,"Hypertension, Pulmonary",yes,1067,1559
+hsa-mir-26a,Diabetic Nephropathies,yes,1062,1487
+hsa-mir-519d,Pre-Eclampsia,yes,1209,1459
+hsa-mir-204,Aneurysm,yes,1028,1572
+hsa-mir-155,Chordoma,yes,971,1482
+hsa-mir-99a,Multiple Myeloma,yes,1296,1368
+hsa-mir-4458,"Carcinoma, Hepatocellular",yes,1164,1310
+hsa-mir-615,"Carcinoma, Pancreatic Ductal",yes,1238,1577
+hsa-mir-30a,Tuberculosis,yes,1089,1562
+hsa-mir-367,"Carcinoma, Pancreatic Ductal",yes,1134,1577
+hsa-mir-21,Graves Ophthalmopathy,yes,1036,1722
+hsa-mir-138,Pancreatic Neoplasms,yes,950,1315
+hsa-mir-145,"Cicatrix, Hypertrophic",yes,959,1597
+hsa-mir-454,Osteosarcoma,yes,1171,1305
+hsa-mir-30c,"Hypertension, Pulmonary",yes,1091,1559
+hsa-mir-16,Neoplasms,yes,974,1299
+hsa-mir-675,"Carcinoma, Non-Small-Cell Lung",yes,1259,1312
+hsa-mir-33a,Melanoma,yes,1119,1347
+hsa-mir-328,"Pulmonary Disease, Chronic Obstructive",yes,1111,1424
+hsa-mir-122,Liver Cirrhosis,yes,899,1337
+hsa-mir-17,Liver Cirrhosis,yes,977,1337
+hsa-mir-27a,Rhabdomyosarcoma,yes,1066,1515
+hsa-mir-501,"Carcinoma, Hepatocellular",yes,1193,1310
+hsa-mir-375,Hyperaldosteronism,yes,1141,1723
+hsa-mir-451,Non-alcoholic Fatty Liver Disease,yes,1168,1481
+hsa-mir-188,"Carcinoma, Hepatocellular",yes,993,1310
+hsa-mir-204,Pre-Eclampsia,yes,1028,1459
+hsa-mir-451,Esophageal Neoplasms,yes,1168,1351
+hsa-mir-1298,Arteriosclerosis Obliterans,yes,929,1674
+hsa-mir-130a,Osteoarthritis,yes,934,1403
+hsa-mir-9,Diabetes Mellitus,yes,1276,1379
+hsa-mir-29b,Lung Neoplasms,yes,1075,1308
+hsa-mir-494,"Carcinoma, Squamous Cell",yes,1185,1320
+hsa-mir-98,"Hypertension, Pulmonary",yes,1295,1559
+hsa-mir-374b,"Lymphoma, Non-Hodgkin",yes,1140,1422
+hsa-mir-29b,Brain Ischemia,yes,1075,1578
+hsa-mir-23b,Burns,yes,1056,1724
+hsa-mir-24,Arteriosclerosis Obliterans,yes,1058,1674
+hsa-mir-17,Cystic Fibrosis,yes,977,1719
+hsa-mir-221,"Carcinoma, Renal Cell",yes,1051,1324
+hsa-mir-22,"Diabetes Mellitus, Type 2",yes,1050,1399
+hsa-mir-212,"Hepatitis, Alcoholic",yes,1039,1586
+hsa-mir-150,Osteoporosis,yes,965,1684
+hsa-mir-106b,Colorectal Neoplasms,yes,890,1304
+hsa-mir-34c,Myocardial Infarction,yes,1128,1388
+hsa-mir-18,"Carcinoma, Hepatocellular",yes,978,1310
+hsa-mir-92-1,"Carcinoma, Hepatocellular",yes,1280,1310
+hsa-mir-345,Pancreatic Neoplasms,yes,1124,1315
+hsa-mir-1228,Breast Neoplasms,yes,900,1303
+hsa-mir-205,Ovarian Neoplasms,yes,1029,1309
+hsa-mir-181b,Glioblastoma,yes,982,1301
+hsa-mir-101,Laryngeal Neoplasms,yes,879,1415
+hsa-mir-542,Astrocytoma,yes,1218,1298
+hsa-mir-186,Urinary Bladder Neoplasms,yes,991,1306
+hsa-mir-107,Stroke,yes,891,1397
+hsa-mir-17,Vulvar Neoplasms,yes,977,1725
+hsa-mir-101,Cholangiocarcinoma,yes,879,1326
+hsa-mir-27b,Pulmonary Fibrosis,yes,1067,1601
+hsa-mir-106a,Esophageal Neoplasms,yes,889,1351
+hsa-mir-23b,"Carcinoma, Non-Small-Cell Lung",yes,1056,1312
+hsa-mir-625,Colorectal Neoplasms,yes,1241,1304
+hsa-mir-937,Alzheimer Disease,yes,1288,1342
+hsa-mir-106b,Thyroid Neoplasms,yes,890,1330
+hsa-mir-92a,"Carcinoma, Hepatocellular",yes,1282,1310
+hsa-mir-498,Lung Neoplasms,yes,1188,1308
+hsa-mir-132,Stomach Neoplasms,yes,936,1307
+hsa-mir-146b,Breast Neoplasms,yes,961,1303
+hsa-mir-539,Osteosarcoma,yes,1217,1305
+hsa-mir-490,Osteosarcoma,yes,1181,1305
+hsa-mir-497,Neoplasms,yes,1187,1299
+hsa-mir-144,Colorectal Neoplasms,yes,958,1304
+hsa-mir-4262,Acute Lung Injury,yes,1159,1579
+hsa-mir-126,Precursor Cell Lymphoblastic Leukemia-Lymphoma,yes,917,1344
+hsa-mir-132,Alzheimer Disease,yes,936,1342
+hsa-mir-212,Alzheimer Disease,yes,1039,1342
+hsa-mir-582,Colorectal Neoplasms,yes,1226,1304
+hsa-mir-125a,Uterine Cervical Neoplasms,yes,913,1300
+hsa-mir-451,Ovarian Neoplasms,yes,1168,1309
+hsa-mir-339,Stomach Neoplasms,yes,1118,1307
+hsa-mir-16,"Sarcoma, Ewing",yes,974,1419
+hsa-mir-29b,"Sarcoma, Ewing",yes,1075,1419
+hsa-mir-340,Prostatic Neoplasms,yes,1122,1339
+hsa-mir-622,"Carcinoma, Hepatocellular",yes,1240,1310
+hsa-mir-302,Neurodegenerative Diseases,yes,1083,1607
+hsa-mir-367,Neurodegenerative Diseases,yes,1134,1607
+hsa-mir-29a,Cholangiocarcinoma,yes,1074,1326
+hsa-mir-139,Osteoarthritis,yes,953,1403
+hsa-mir-9,Metabolic Diseases,yes,1276,1667
+hsa-mir-25,"Carcinoma, Non-Small-Cell Lung",yes,1061,1312
+hsa-mir-451,Stomach Neoplasms,yes,1168,1307
+hsa-mir-301a,Multiple Myeloma,yes,1081,1368
+hsa-mir-582,Lung Neoplasms,yes,1226,1308
+hsa-mir-205,Urinary Bladder Neoplasms,yes,1029,1306
+hsa-mir-608,Neoplasms,yes,1234,1299
+hsa-mir-744,Pancreatic Neoplasms,yes,1268,1315
+hsa-mir-320b,Colorectal Neoplasms,yes,1101,1304
+hsa-mir-29,"Hypertension, Pulmonary",yes,1069,1559
+hsa-mir-22,"Carcinoma, Renal Cell",yes,1050,1324
+hsa-mir-30d,Ovarian Neoplasms,yes,1094,1309
+hsa-mir-98,Glioma,yes,1295,1322
+hsa-mir-129-1,Glioblastoma,yes,925,1301
+hsa-mir-138,Periodontal Diseases,yes,950,1726
+hsa-mir-33,Alzheimer Disease,yes,1113,1342
+hsa-mir-362,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",yes,1131,1440
+hsa-mir-326,"Carcinoma, Non-Small-Cell Lung",yes,1110,1312
+hsa-mir-296,"Carcinoma, Non-Small-Cell Lung",yes,1070,1312
+hsa-mir-146b,Osteosarcoma,yes,961,1305
+hsa-mir-506,Glioma,yes,1198,1322
+hsa-mir-543,Hypertension,yes,1219,1383
+hsa-mir-1246,Colorectal Neoplasms,yes,907,1304
+hsa-mir-148a,"Carcinoma, Non-Small-Cell Lung",yes,962,1312
+hsa-mir-125b,Endomyocardial Fibrosis,yes,914,1618
+hsa-mir-155,Pneumonia,yes,971,1662
+hsa-mir-184,Ovarian Neoplasms,yes,989,1309
+hsa-mir-21,Peritoneal Fibrosis,yes,1036,1727
+hsa-mir-126,Glioma,yes,917,1322
+hsa-mir-374a,Osteosarcoma,yes,1139,1305
+hsa-mir-185,"Carcinoma, Non-Small-Cell Lung",yes,990,1312
+hsa-mir-23b,Diabetic Nephropathies,yes,1056,1487
+hsa-mir-103,"Carcinoma, Hepatocellular",yes,882,1310
+hsa-mir-362,Kidney Neoplasms,yes,1131,1418
+hsa-mir-21,Diabetes Mellitus,yes,1036,1379
+hsa-mir-126,Thrombosis,yes,917,1713
+hsa-mir-34a,Triple Negative Breast Neoplasms,yes,1126,1398
+hsa-mir-186,Multiple Myeloma,yes,991,1368
+hsa-mir-181c,Glioblastoma,yes,985,1301
+hsa-mir-155,"Arthritis, Rheumatoid",yes,971,1423
+hsa-mir-613,Prostatic Neoplasms,yes,1237,1339
+hsa-mir-195,Sepsis,yes,1005,1558
+hsa-mir-127,Osteosarcoma,yes,918,1305
+hsa-mir-127,"Carcinoma, Hepatocellular",yes,918,1310
+hsa-mir-503,Colorectal Neoplasms,yes,1195,1304
+hsa-mir-542,Urinary Bladder Neoplasms,yes,1218,1306
+hsa-mir-208a,Lung Neoplasms,yes,1032,1308
+hsa-mir-103,Prostatic Neoplasms,yes,882,1339
+hsa-mir-367,"Carcinoma, Hepatocellular",yes,1134,1310
+hsa-mir-1182,Urinary Bladder Neoplasms,yes,896,1306
+hsa-mir-206,Uterine Cervical Neoplasms,yes,1030,1300
+hsa-mir-508,Stomach Neoplasms,yes,1200,1307
+hsa-mir-483,Thrombosis,yes,1175,1713
+hsa-mir-130a,"Carcinoma, Hepatocellular",yes,934,1310
+hsa-mir-24,Prostatic Neoplasms,yes,1058,1339
+hsa-mir-708,Asthma,yes,1265,1529
+hsa-mir-124,Stroke,yes,903,1397
+hsa-mir-24,Diabetic Angiopathies,yes,1058,1698
+hsa-mir-23a,"Leukemia, Erythroblastic, Acute",yes,1055,1588
+hsa-mir-24,"Leukemia, Erythroblastic, Acute",yes,1058,1588
+hsa-mir-27a,"Leukemia, Erythroblastic, Acute",yes,1066,1588
+hsa-mir-29b,Multiple Myeloma,yes,1075,1368
+hsa-mir-93,Macular Degeneration,yes,1286,1580
+hsa-mir-493,Breast Neoplasms,yes,1184,1303
+hsa-mir-155,Colitis,yes,971,1585
+hsa-mir-146b,Neoplasms,yes,961,1299
+hsa-mir-22,Rhabdomyosarcoma,yes,1050,1515
+hsa-mir-193a,Neoplasms,yes,1000,1299
+hsa-mir-16,"Leukemia, Lymphocytic, Chronic, B-Cell",yes,974,1401
+hsa-mir-647,Stomach Neoplasms,yes,1249,1307
+hsa-mir-126,"Carcinoma, Renal Cell",yes,917,1324
+hsa-mir-629,Breast Neoplasms,yes,1243,1303
+hsa-mir-26a,Glaucoma,yes,1062,1382
+hsa-mir-122,"Leukemia, Myeloid, Acute",yes,899,1366
+hsa-mir-34b,Thyroid Neoplasms,yes,1127,1330
+hsa-mir-132,Colonic Neoplasms,yes,936,1336
+hsa-mir-21,Keloid,yes,1036,1338
+hsa-mir-150,"Pulmonary Disease, Chronic Obstructive",yes,965,1424
+hsa-mir-100,Atherosclerosis,yes,878,1376
+hsa-mir-34a,Heart Failure,yes,1126,1318
+hsa-mir-205,"Thyroid Carcinoma, Anaplastic",yes,1029,1538
+hsa-mir-221,Parkinson Disease,yes,1051,1455
+hsa-mir-155,Chemical and Drug Induced Liver Injury,yes,971,1574
+hsa-mir-192,Urinary Bladder Neoplasms,yes,998,1306
+hsa-mir-143,Endometrial Neoplasms,yes,957,1362
+hsa-mir-145,Endometrial Neoplasms,yes,959,1362
+hsa-mir-378,Bone Diseases,yes,1145,1404
+hsa-mir-21,Seizures,yes,1036,1316
+hsa-mir-204,"Leukemia, Myeloid, Acute",yes,1028,1366
+hsa-mir-543,Periodontitis,yes,1219,1392
+hsa-mir-335,Sepsis,yes,1116,1558
+hsa-mir-1297,Melanoma,yes,928,1347
+hsa-mir-146a,Autism Spectrum Disorder,yes,960,1411
+hsa-mir-155,"Epilepsy, Temporal Lobe",yes,971,1325
+hsa-mir-33,Atherosclerosis,yes,1113,1376
+hsa-mir-21,Hyperaldosteronism,yes,1036,1723
+hsa-mir-383,Heart Diseases,yes,1150,1321
+hsa-mir-126,Vascular System Injuries,yes,917,1582
+hsa-mir-221,Non-alcoholic Fatty Liver Disease,yes,1051,1481
+hsa-mir-222,Non-alcoholic Fatty Liver Disease,yes,1052,1481
+hsa-mir-20a,"Leukemia, T-Cell",yes,1034,1431
+hsa-mir-647,"Carcinoma, Non-Small-Cell Lung",yes,1249,1312
+hsa-mir-33b,Atherosclerosis,yes,1120,1376
+hsa-mir-1247,Prostatic Neoplasms,yes,908,1339
+hsa-mir-20b,Tuberculosis,yes,1035,1562
+hsa-mir-20a,Retinoblastoma,yes,1034,1348
+hsa-mir-34b,Neoplasms,yes,1127,1299
+hsa-mir-146a,Leukemia,yes,960,1385
+hsa-mir-192,Colonic Neoplasms,yes,998,1336
+hsa-mir-215,Colonic Neoplasms,yes,1041,1336
+hsa-mir-183,Rectal Neoplasms,yes,988,1539
+hsa-mir-200c,Rectal Neoplasms,yes,1024,1539
+hsa-mir-203,Rectal Neoplasms,yes,1026,1539
+hsa-mir-17,"Lymphoma, B-Cell",yes,977,1429
+hsa-mir-18,"Lymphoma, B-Cell",yes,978,1429
+hsa-mir-19a,"Lymphoma, B-Cell",yes,1017,1429
+hsa-mir-19b-1,"Lymphoma, B-Cell",yes,1019,1429
+hsa-mir-20a,"Lymphoma, B-Cell",yes,1034,1429
+hsa-mir-92-1,"Lymphoma, B-Cell",yes,1280,1429
+hsa-mir-223,"Leukemia, Myeloid, Acute",yes,1053,1366
+hsa-mir-21,Gliosis,yes,1036,1728
+hsa-let-7d,Idiopathic Pulmonary Fibrosis,yes,868,1622
+hsa-mir-322,Myocardial Infarction,yes,1106,1388
+hsa-mir-424,Myocardial Infarction,yes,1158,1388
+hsa-mir-15a,Retinoblastoma,yes,972,1348
+hsa-mir-15b,Retinoblastoma,yes,973,1348
+hsa-mir-16-1,Retinoblastoma,yes,975,1348
+hsa-mir-16-2,Retinoblastoma,yes,976,1348
+hsa-mir-124,Liver Neoplasms,yes,903,1313
+hsa-mir-24,Liver Neoplasms,yes,1058,1313
+hsa-mir-629,Liver Neoplasms,yes,1243,1313
+hsa-mir-26a,Lymphoma,yes,1062,1417
+hsa-mir-183,Neuroblastoma,yes,988,1302
+hsa-mir-126,Aneurysm,yes,917,1572
+hsa-mir-127,Lung Neoplasms,yes,918,1308
+hsa-mir-148a,Urinary Bladder Neoplasms,yes,962,1306
+hsa-mir-493,Neoplasms,yes,1184,1299
+hsa-mir-574,Stomach Neoplasms,yes,1223,1307
+hsa-mir-423,"Diabetes Mellitus, Type 2",yes,1157,1399
+hsa-mir-143,Atherosclerosis,yes,957,1376
+hsa-mir-221,Melanoma,yes,1051,1347
+hsa-mir-222,Melanoma,yes,1052,1347
+hsa-mir-17,"Leukemia-Lymphoma, Adult T-Cell",yes,977,1483
+hsa-mir-18a,"Leukemia-Lymphoma, Adult T-Cell",yes,994,1483
+hsa-mir-19a,"Leukemia-Lymphoma, Adult T-Cell",yes,1017,1483
+hsa-mir-19b-1,"Leukemia-Lymphoma, Adult T-Cell",yes,1019,1483
+hsa-mir-19b-2,"Leukemia-Lymphoma, Adult T-Cell",yes,1020,1483
+hsa-mir-20a,"Leukemia-Lymphoma, Adult T-Cell",yes,1034,1483
+hsa-mir-92a-1,"Leukemia-Lymphoma, Adult T-Cell",yes,1283,1483
+hsa-mir-92a-2,"Leukemia-Lymphoma, Adult T-Cell",yes,1284,1483
+hsa-mir-23a,"Cardiomyopathy, Hypertrophic",yes,1055,1341
+hsa-mir-143,Wounds and Injuries,yes,957,1644
+hsa-mir-145,Wounds and Injuries,yes,959,1644
+hsa-mir-106b,Prostatic Neoplasms,yes,890,1339
+hsa-mir-25,Prostatic Neoplasms,yes,1061,1339
+hsa-mir-93,Prostatic Neoplasms,yes,1286,1339
+hsa-mir-23a,"Leukemia, Myeloid",yes,1055,1512
+hsa-mir-10b,Nasopharyngeal Neoplasms,yes,893,1533
+hsa-mir-199b,Heart Diseases,yes,1016,1321
+hsa-mir-200b,Lung Neoplasms,yes,1023,1308
+hsa-mir-132,Myocardial Infarction,yes,936,1388
+hsa-mir-135a-1,"Carcinoma, Hepatocellular",yes,945,1310
+hsa-mir-135a-2,"Carcinoma, Hepatocellular",yes,946,1310
+hsa-mir-135b,Lymphoma,yes,947,1417
+hsa-mir-125b-1,Osteosarcoma,yes,915,1305
+hsa-mir-125b-2,Osteosarcoma,yes,916,1305
+hsa-mir-29b-1,Lung Neoplasms,yes,1076,1308
+hsa-mir-29b-2,Lung Neoplasms,yes,1077,1308
+hsa-mir-10b,Colonic Neoplasms,yes,893,1336
+hsa-mir-9-1,Colonic Neoplasms,yes,1277,1336
+hsa-mir-9-2,Colonic Neoplasms,yes,1278,1336
+hsa-mir-9-3,Colonic Neoplasms,yes,1279,1336
+hsa-mir-302a,Head and Neck Neoplasms,yes,1084,1614
+hsa-mir-302b,Head and Neck Neoplasms,yes,1085,1614
+hsa-mir-302c,Head and Neck Neoplasms,yes,1086,1614
+hsa-mir-302d,Head and Neck Neoplasms,yes,1087,1614
+hsa-mir-302e,Head and Neck Neoplasms,yes,1088,1614
+hsa-mir-29c,"Influenza, Human",yes,1078,1599
+hsa-mir-9-1,Glioma,yes,1277,1322
+hsa-mir-9-2,Glioma,yes,1278,1322
+hsa-mir-21,Liver Neoplasms,yes,1036,1313
+hsa-mir-30d,"Carcinoma, Renal Cell",yes,1094,1324
+hsa-mir-199a-1,"Muscular Dystrophy, Duchenne",yes,1014,1408
+hsa-mir-199a-2,"Muscular Dystrophy, Duchenne",yes,1015,1408
+hsa-mir-373,Pancreatic Neoplasms,yes,1138,1315
+hsa-mir-23a,Gastrointestinal Neoplasms,yes,1055,1346
+hsa-mir-20b,Breast Neoplasms,yes,1035,1303
+hsa-mir-198,Pancreatic Neoplasms,yes,1011,1315
+hsa-mir-365,Stomach Neoplasms,yes,1133,1307
+hsa-mir-183,Neoplasms,yes,988,1299
+hsa-mir-15a,Colorectal Neoplasms,yes,972,1304
+hsa-mir-146a,Colorectal Neoplasms,yes,960,1304
+hsa-mir-100,Neoplasms,yes,878,1299
+hsa-mir-146b,Esophageal Neoplasms,yes,961,1351
+hsa-mir-26a,Idiopathic Pulmonary Fibrosis,yes,1062,1622
+hsa-mir-28,"Lymphoma, B-Cell",yes,1068,1429
+hsa-mir-210,Idiopathic Pulmonary Fibrosis,yes,1037,1622
+hsa-mir-125b-1,"Leukemia, Myeloid, Acute",yes,915,1366
+hsa-mir-224,Melanoma,yes,1054,1347
+hsa-mir-452,Melanoma,yes,1170,1347
+hsa-mir-188,Alzheimer Disease,yes,993,1342
+hsa-mir-139,Stomach Neoplasms,yes,953,1307
+hsa-mir-638,Melanoma,yes,1246,1347
+hsa-mir-148a,Neoplasms,yes,962,1299
+hsa-mir-183,"Carcinoma, Hepatocellular",yes,988,1310
+hsa-mir-371,Colorectal Neoplasms,yes,1136,1304
+hsa-mir-124,"Lymphoma, B-Cell",yes,903,1429
+hsa-mir-148a,Obesity,yes,962,1357
+hsa-mir-19a,Pancreatic Neoplasms,yes,1017,1315
+hsa-mir-143,"Hypertension, Pulmonary",yes,957,1559
+hsa-mir-212,Breast Neoplasms,yes,1039,1303
+hsa-mir-22,Emphysema,yes,1050,1729
+hsa-mir-23b,Multiple Myeloma,yes,1056,1368

@@ -1,0 +1,4518 @@
+﻿21A,Astrocytoma,0,1298
+21A,Neoplasms,0,1299
+21A,Uterine Cervical Neoplasms,0,1300
+21A,Glioblastoma,0,1301
+21A,Neuroblastoma,0,1302
+91H,Breast Neoplasms,1,1303
+91H,Colorectal Neoplasms,1,1304
+91H,Osteosarcoma,1,1305
+AATBC,Urinary Bladder Neoplasms,2,1306
+ABHD11-AS1,Stomach Neoplasms,3,1307
+ABHD11-AS1,Urinary Bladder Neoplasms,3,1306
+Abhd11os,Lung Neoplasms,4,1308
+Abhd11os,Ovarian Neoplasms,4,1309
+AC003681.1,Astrocytoma,5,1298
+AC003681.1,"Carcinoma, Hepatocellular",5,1310
+AC004528.1,Astrocytoma,6,1298
+AC004528.1,"Carcinoma, Hepatocellular",6,1310
+AC004528.1,Stomach Neoplasms,6,1307
+AC005696.4,Astrocytoma,7,1298
+AC005696.4,Stomach Neoplasms,7,1307
+AC007388.1,Astrocytoma,8,1298
+AC007743.1,Astrocytoma,9,1298
+AC007743.1,"Telangiectasia, Hereditary Hemorrhagic",9,1311
+AC008392.1,Uterine Cervical Neoplasms,10,1300
+AC008392.1,"Carcinoma, Hepatocellular",10,1310
+AC008691.1,Astrocytoma,11,1298
+AC008691.1,"Carcinoma, Non-Small-Cell Lung",11,1312
+AC022075.3,Astrocytoma,12,1298
+AC022075.3,Colorectal Neoplasms,12,1304
+AC022257.1,Astrocytoma,13,1298
+AC023590.1,Astrocytoma,14,1298
+AC025263.1,Astrocytoma,15,1298
+AC025580.1,Astrocytoma,16,1298
+AC025580.1,Neuroblastoma,16,1302
+AC025580.3,Astrocytoma,17,1298
+AC037441.1,Astrocytoma,18,1298
+AC062028.1,Astrocytoma,19,1298
+AC062028.1,Liver Neoplasms,19,1313
+AC068282.1,Astrocytoma,20,1298
+AC068282.1,Polycystic Ovary Syndrome,20,1314
+AC087521.1,Pancreatic Neoplasms,21,1315
+AC087521.1,Seizures,21,1316
+AC090510.3,Colorectal Neoplasms,22,1304
+AC090510.3,Crohn Disease,22,1317
+AC090510.3,"Carcinoma, Hepatocellular",22,1310
+AC090510.3,Stomach Neoplasms,22,1307
+AC091891.2,Breast Neoplasms,23,1303
+AC091891.2,Colorectal Neoplasms,23,1304
+AC091891.2,Heart Failure,23,1318
+AC091891.2,Lung Neoplasms,23,1308
+AC091891.2,Ovarian Neoplasms,23,1309
+AC091891.2,Stomach Neoplasms,23,1307
+AC092802.1,Astrocytoma,24,1298
+AC100786.1,Astrocytoma,25,1298
+AC100786.1,Nasopharyngeal Carcinoma,25,1319
+AC104809.1,Astrocytoma,26,1298
+AC109322.1,"Carcinoma, Non-Small-Cell Lung",27,1312
+AC125807.2,Astrocytoma,28,1298
+AC125807.2,"Carcinoma, Hepatocellular",28,1310
+AC125807.2,"Carcinoma, Squamous Cell",28,1320
+AC139887.2,Astrocytoma,29,1298
+AC139887.2,Lung Neoplasms,29,1308
+AC144450.1,Astrocytoma,30,1298
+AC144450.1,Nasopharyngeal Carcinoma,30,1319
+AC245452.1,Astrocytoma,31,1298
+AC245452.1,Heart Diseases,31,1321
+AC245452.1,"Carcinoma, Hepatocellular",31,1310
+ADAMTS9-AS1,Glioma,32,1322
+ADAMTS9-AS1,"Carcinoma, Ovarian Epithelial",32,1323
+ADAMTS9-AS2,"Carcinoma, Renal Cell",33,1324
+ADAMTS9-AS2,Glioma,33,1322
+ADAMTS9-AS2,"Carcinoma, Non-Small-Cell Lung",33,1312
+ADARB2-AS1,Breast Neoplasms,34,1303
+ADARB2-AS1,"Epilepsy, Temporal Lobe",34,1325
+AFAP1-AS1,Neoplasms,35,1299
+AFAP1-AS1,Cholangiocarcinoma,35,1326
+AFAP1-AS1,Colorectal Neoplasms,35,1304
+AFAP1-AS1,Esophageal Squamous Cell Carcinoma,35,1327
+AFAP1-AS1,Gallbladder Neoplasms,35,1328
+AFAP1-AS1,"Carcinoma, Hepatocellular",35,1310
+AFAP1-AS1,Adenocarcinoma of Lung,35,1329
+AFAP1-AS1,Lung Neoplasms,35,1308
+AFAP1-AS1,Nasopharyngeal Carcinoma,35,1319
+AFAP1-AS1,"Carcinoma, Non-Small-Cell Lung",35,1312
+AFAP1-AS1,Ovarian Neoplasms,35,1309
+AFAP1-AS1,Pancreatic Neoplasms,35,1315
+AFAP1-AS1,Stomach Neoplasms,35,1307
+AFAP1-AS1,Thyroid Neoplasms,35,1330
+AGAP2-AS1,Glioma,36,1322
+AGAP2-AS1,"Carcinoma, Non-Small-Cell Lung",36,1312
+AGAP2-AS1,Stomach Neoplasms,36,1307
+AIRN,Astrocytoma,37,1298
+AIRN,Wilms Tumor,37,1331
+AL022322.2,Astrocytoma,38,1298
+AL022322.2,Lung Neoplasms,38,1308
+AL031123.2,Astrocytoma,39,1298
+AL031123.2,Pancreatic Neoplasms,39,1315
+AL031595.2,Astrocytoma,40,1298
+AL031710.1,Astrocytoma,41,1298
+AL031710.1,"Thyroid Cancer, Papillary",41,1332
+AL121895.1,Astrocytoma,42,1298
+AL121895.1,Stomach Neoplasms,42,1307
+AL139011.1,Astrocytoma,43,1298
+AL162457.1,Breast Neoplasms,44,1303
+AL162457.1,Fragile X Syndrome,44,1333
+AL162457.1,Nervous System Diseases,44,1334
+AL162457.1,Ovarian Neoplasms,44,1309
+AL357033.4,Astrocytoma,45,1298
+AL358334.2,Astrocytoma,46,1298
+AL358334.2,"Carcinoma, Hepatocellular",46,1310
+AL590666.3,Astrocytoma,47,1298
+AL590666.3,Colorectal Neoplasms,47,1304
+AL627422.2,Intervertebral Disc Degeneration,48,1335
+AL627422.2,Stomach Neoplasms,48,1307
+AOC4P,Colonic Neoplasms,49,1336
+AOC4P,"Carcinoma, Hepatocellular",49,1310
+AP002380.1,Astrocytoma,50,1298
+AP002380.1,Stomach Neoplasms,50,1307
+APTR,Glioblastoma,51,1301
+APTR,Liver Cirrhosis,51,1337
+ASAP1-IT1,Astrocytoma,52,1298
+ASAP1-IT1,"Carcinoma, Non-Small-Cell Lung",52,1312
+ASAP1-IT1,Ovarian Neoplasms,52,1309
+ATB,Breast Neoplasms,53,1303
+ATB,Esophageal Squamous Cell Carcinoma,53,1327
+ATB,Keloid,53,1338
+ATB,Glioma,53,1322
+ATB,Prostatic Neoplasms,53,1339
+ATP6V1G2-DDX39B,"Cardiomyopathy, Dilated",54,1340
+ATP6V1G2-DDX39B,"Cardiomyopathy, Hypertrophic",54,1341
+BAALC-AS1,Astrocytoma,55,1298
+BACE1-AS,Alzheimer Disease,56,1342
+BACE1-AS,Colonic Neoplasms,56,1336
+BACE1-AS,Heart Failure,56,1318
+BACE1-AS,"Myositis, Inclusion Body",56,1343
+BACE1-AS,Ovarian Neoplasms,56,1309
+BAIAP2-AS1,"Carcinoma, Hepatocellular",57,1310
+BALR-2,Precursor Cell Lymphoblastic Leukemia-Lymphoma,58,1344
+BANCR,Colorectal Neoplasms,59,1304
+BANCR,Eosinophilic Esophagitis,59,1345
+BANCR,Esophageal Squamous Cell Carcinoma,59,1327
+BANCR,Gastrointestinal Neoplasms,59,1346
+BANCR,"Carcinoma, Hepatocellular",59,1310
+BANCR,Lung Neoplasms,59,1308
+BANCR,Melanoma,59,1347
+BANCR,"Carcinoma, Non-Small-Cell Lung",59,1312
+BANCR,Osteosarcoma,59,1305
+BANCR,"Thyroid Cancer, Papillary",59,1332
+BANCR,Retinoblastoma,59,1348
+BANCR,Stomach Neoplasms,59,1307
+BANCR,Urinary Bladder Neoplasms,59,1306
+BCAR4,Breast Neoplasms,60,1303
+BCAR4,Uterine Cervical Neoplasms,60,1300
+BCAR4,Chondrosarcoma,60,1349
+BCAR4,Colonic Neoplasms,60,1336
+BCAR4,Colorectal Neoplasms,60,1304
+BCAR4,"Carcinoma, Non-Small-Cell Lung",60,1312
+BCAR4,Osteosarcoma,60,1305
+BCAR4,Stomach Neoplasms,60,1307
+BCYRN1,Aging,61,1350
+BCYRN1,Alzheimer Disease,61,1342
+BCYRN1,Astrocytoma,61,1298
+BCYRN1,Breast Neoplasms,61,1303
+BCYRN1,Neoplasms,61,1299
+BCYRN1,Uterine Cervical Neoplasms,61,1300
+BCYRN1,Colonic Neoplasms,61,1336
+BCYRN1,Esophageal Neoplasms,61,1351
+BCYRN1,Glioblastoma,61,1301
+BCYRN1,Lung Neoplasms,61,1308
+BCYRN1,Glioma,61,1322
+BCYRN1,"Carcinoma, Non-Small-Cell Lung",61,1312
+BCYRN1,Ovarian Neoplasms,61,1309
+BCYRN1,Parotid Neoplasms,61,1352
+BCYRN1,"Carcinoma, Squamous Cell",61,1320
+BCYRN1,Tongue Neoplasms,61,1353
+BDNF-AS,Depression,62,1354
+BDNF-AS,Huntington Disease,62,1355
+BDNF-AS,Mental Disorders,62,1356
+BDNF-AS,Obesity,62,1357
+BDNF-AS,Retinoblastoma,62,1348
+BDNF-AS,Schizophrenia,62,1358
+BDNF-AS,Seizures,62,1316
+BLACAT1,Neoplasms,63,1299
+BLACAT1,Uterine Cervical Neoplasms,63,1300
+BLACAT1,Colorectal Neoplasms,63,1304
+BLACAT1,Adenocarcinoma of Lung,63,1329
+BLACAT1,"Carcinoma, Non-Small-Cell Lung",63,1312
+BLACAT1,Stomach Neoplasms,63,1307
+BLACAT1,Urinary Bladder Neoplasms,63,1306
+BOK-AS1,Neoplasms,64,1299
+BOK-AS1,"Carcinoma, Squamous Cell",64,1320
+BOK-AS1,Testicular Neoplasms,64,1359
+C14orf132,"Carcinoma, Hepatocellular",65,1310
+C14orf132,"Carcinoma, Non-Small-Cell Lung",65,1312
+C21orf62-AS1,Astrocytoma,66,1298
+C21orf62-AS1,"Carcinoma, Renal Cell",66,1324
+C5orf66-AS1,Esophageal Squamous Cell Carcinoma,67,1327
+C5orf66-AS1,Squamous Cell Carcinoma of Head and Neck,67,1360
+C5orf66-AS1,"Carcinoma, Squamous Cell",67,1320
+C5orf66-AS1,Urinary Bladder Neoplasms,67,1306
+CADM3-AS1,Astrocytoma,68,1298
+CADM3-AS1,Urinary Bladder Neoplasms,68,1306
+CAHM,Astrocytoma,69,1298
+CAHM,Colorectal Neoplasms,69,1304
+CASC11,Astrocytoma,70,1298
+CASC11,Colorectal Neoplasms,70,1304
+CASC11,"Carcinoma, Hepatocellular",70,1310
+CASC15,Astrocytoma,71,1298
+CASC15,"Carcinoma, Basal Cell",71,1361
+CASC15,"Carcinoma, Hepatocellular",71,1310
+CASC15,Melanoma,71,1347
+CASC15,Neuroblastoma,71,1302
+CASC15,Stomach Neoplasms,71,1307
+CASC2,Astrocytoma,72,1298
+CASC2,Breast Neoplasms,72,1303
+CASC2,Neoplasms,72,1299
+CASC2,Colorectal Neoplasms,72,1304
+CASC2,Endometrial Neoplasms,72,1362
+CASC2,Glioma,72,1322
+CASC2,"Carcinoma, Hepatocellular",72,1310
+CASC2,Adenocarcinoma of Lung,72,1329
+CASC2,Lung Neoplasms,72,1308
+CASC2,Osteosarcoma,72,1305
+CASC2,Pancreatic Neoplasms,72,1315
+CASC2,Prostatic Neoplasms,72,1339
+CASC2,"Carcinoma, Renal Cell",72,1324
+CASC2,Stomach Neoplasms,72,1307
+CASC2,Thyroid Neoplasms,72,1330
+CASC2c,Astrocytoma,73,1298
+CASC8,Colorectal Neoplasms,74,1304
+CASC8,Lung Neoplasms,74,1308
+CASC8,Urinary Bladder Neoplasms,74,1306
+CASC9,Esophageal Neoplasms,75,1351
+CASC9,Esophageal Squamous Cell Carcinoma,75,1327
+CASC9,Nasopharyngeal Carcinoma,75,1319
+CASC9,"Carcinoma, Non-Small-Cell Lung",75,1312
+CASC9,"Carcinoma, Squamous Cell",75,1320
+CASC9,Stomach Neoplasms,75,1307
+CAT104,Breast Neoplasms,76,1303
+CBR3-AS1,Carcinoma,77,1363
+CBR3-AS1,Colorectal Neoplasms,77,1304
+CBR3-AS1,Glioma,77,1322
+CBR3-AS1,"Carcinoma, Hepatocellular",77,1310
+CBR3-AS1,Inflammatory Bowel Diseases,77,1364
+CBR3-AS1,Prostate,77,1365
+CBR3-AS1,Prostatic Neoplasms,77,1339
+CBR3-AS1,"Carcinoma, Squamous Cell",77,1320
+CBR3-AS1,Stomach Neoplasms,77,1307
+CCAL,Colorectal Neoplasms,78,1304
+CCAL,"Carcinoma, Hepatocellular",78,1310
+CCAL,Osteosarcoma,78,1305
+CCAL,Stomach Neoplasms,78,1307
+CCAL,"Thyroid Cancer, Papillary",78,1332
+CCAT1,"Leukemia, Myeloid, Acute",79,1366
+CCAT1,Breast Neoplasms,79,1303
+CCAT1,Neoplasms,79,1299
+CCAT1,Uterine Cervical Neoplasms,79,1300
+CCAT1,Colonic Neoplasms,79,1336
+CCAT1,Colorectal Neoplasms,79,1304
+CCAT1,Endometrial Neoplasms,79,1362
+CCAT1,Esophageal Squamous Cell Carcinoma,79,1327
+CCAT1,Gallbladder Neoplasms,79,1328
+CCAT1,Glioma,79,1322
+CCAT1,"Carcinoma, Hepatocellular",79,1310
+CCAT1,Cholangiocarcinoma,79,1326
+CCAT1,Squamous Cell Carcinoma of Head and Neck,79,1360
+CCAT1,Adenocarcinoma of Lung,79,1329
+CCAT1,Lung Neoplasms,79,1308
+CCAT1,Medulloblastoma,79,1367
+CCAT1,Multiple Myeloma,79,1368
+CCAT1,Nasopharyngeal Carcinoma,79,1319
+CCAT1,"Carcinoma, Non-Small-Cell Lung",79,1312
+CCAT1,Osteosarcoma,79,1305
+CCAT1,Ovarian Neoplasms,79,1309
+CCAT1,"Carcinoma, Ovarian Epithelial",79,1323
+CCAT1,Pancreatic Neoplasms,79,1315
+CCAT1,"Carcinoma, Renal Cell",79,1324
+CCAT1,Retinoblastoma,79,1348
+CCAT1,Stomach Neoplasms,79,1307
+CCAT2,Breast Neoplasms,80,1303
+CCAT2,Neoplasms,80,1299
+CCAT2,Uterine Cervical Neoplasms,80,1300
+CCAT2,Cholangiocarcinoma,80,1326
+CCAT2,Colonic Neoplasms,80,1336
+CCAT2,Colorectal Neoplasms,80,1304
+CCAT2,Glioma,80,1322
+CCAT2,"Carcinoma, Hepatocellular",80,1310
+CCAT2,Lung Neoplasms,80,1308
+CCAT2,"Carcinoma, Non-Small-Cell Lung",80,1312
+CCAT2,Squamous Cell Carcinoma of Head and Neck,80,1360
+CCAT2,Osteosarcoma,80,1305
+CCAT2,Ovarian Neoplasms,80,1309
+CCAT2,"Carcinoma, Ovarian Epithelial",80,1323
+CCAT2,Pituitary Neoplasms,80,1369
+CCAT2,Prostatic Neoplasms,80,1339
+CCAT2,"Carcinoma, Renal Cell",80,1324
+CCAT2,"Carcinoma, Squamous Cell",80,1320
+CCAT2,Stomach Neoplasms,80,1307
+CCAT2,Urinary Bladder Neoplasms,80,1306
+CCDC144NL-AS1,Astrocytoma,81,1298
+CCDC144NL-AS1,Cardiomegaly,81,1370
+CCDC144NL-AS1,Urinary Bladder Neoplasms,81,1306
+CCDC26,"Leukemia, Myeloid, Acute",82,1366
+CCDC26,Astrocytoma,82,1298
+CCDC26,Breast Neoplasms,82,1303
+CCDC26,Gastrointestinal Stromal Tumors,82,1371
+CCDC26,Hematologic Neoplasms,82,1372
+CCDC26,Glioma,82,1322
+CCDC26,Pancreatic Neoplasms,82,1315
+CCEPR,Uterine Cervical Neoplasms,83,1300
+CCEPR,"Carcinoma, Hepatocellular",83,1310
+CCEPR,Urinary Bladder Neoplasms,83,1306
+CCND1,Neoplasms,84,1299
+CCND1,Uterine Cervical Neoplasms,84,1300
+CCND2-AS1,Glioma,85,1322
+CCND2-AS1,"Thyroid Cancer, Papillary",85,1332
+CDKN2B,Coronary Artery Disease,86,1373
+CDKN2B,Ovarian Neoplasms,86,1309
+CDKN2B-AS1,"Aortic Aneurysm, Abdominal",87,1374
+CDKN2B-AS1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,87,1344
+CDKN2B-AS1,"Leukemia, Myeloid, Acute",87,1366
+CDKN2B-AS1,Alzheimer Disease,87,1342
+CDKN2B-AS1,Aortic Aneurysm,87,1375
+CDKN2B-AS1,Atherosclerosis,87,1376
+CDKN2B-AS1,Astrocytoma,87,1298
+CDKN2B-AS1,"Carcinoma, Basal Cell",87,1361
+CDKN2B-AS1,Breast Neoplasms,87,1303
+CDKN2B-AS1,Neoplasms,87,1299
+CDKN2B-AS1,Cardiovascular Diseases,87,1377
+CDKN2B-AS1,Carotid Stenosis,87,1378
+CDKN2B-AS1,Uterine Cervical Neoplasms,87,1300
+CDKN2B-AS1,Colorectal Neoplasms,87,1304
+CDKN2B-AS1,Heart Failure,87,1318
+CDKN2B-AS1,Coronary Artery Disease,87,1373
+CDKN2B-AS1,Diabetes Mellitus,87,1379
+CDKN2B-AS1,Endometriosis,87,1380
+CDKN2B-AS1,Esophageal Neoplasms,87,1351
+CDKN2B-AS1,Frailty,87,1381
+CDKN2B-AS1,Gallbladder Neoplasms,87,1328
+CDKN2B-AS1,Glaucoma,87,1382
+CDKN2B-AS1,Glioma,87,1322
+CDKN2B-AS1,"Carcinoma, Hepatocellular",87,1310
+CDKN2B-AS1,Hypertension,87,1383
+CDKN2B-AS1,Intracranial Aneurysm,87,1384
+CDKN2B-AS1,Squamous Cell Carcinoma of Head and Neck,87,1360
+CDKN2B-AS1,Leukemia,87,1385
+CDKN2B-AS1,Lung Neoplasms,87,1308
+CDKN2B-AS1,Medulloblastoma,87,1367
+CDKN2B-AS1,Melanoma,87,1347
+CDKN2B-AS1,Mouth Neoplasms,87,1386
+CDKN2B-AS1,Primary Myelofibrosis,87,1387
+CDKN2B-AS1,Myocardial Infarction,87,1388
+CDKN2B-AS1,Nasopharyngeal Carcinoma,87,1319
+CDKN2B-AS1,"Neoplasms, Nerve Tissue",87,1389
+CDKN2B-AS1,Neurofibromatoses,87,1390
+CDKN2B-AS1,Neurofibromatosis 1,87,1391
+CDKN2B-AS1,"Carcinoma, Non-Small-Cell Lung",87,1312
+CDKN2B-AS1,Osteosarcoma,87,1305
+CDKN2B-AS1,Ovarian Neoplasms,87,1309
+CDKN2B-AS1,Pancreatic Neoplasms,87,1315
+CDKN2B-AS1,Periodontitis,87,1392
+CDKN2B-AS1,Peripheral Arterial Disease,87,1393
+CDKN2B-AS1,"Neurofibroma, Plexiform",87,1394
+CDKN2B-AS1,"Glaucoma, Open-Angle",87,1395
+CDKN2B-AS1,Prostate,87,1365
+CDKN2B-AS1,Prostatic Neoplasms,87,1339
+CDKN2B-AS1,Prostatic Hyperplasia,87,1396
+CDKN2B-AS1,"Carcinoma, Squamous Cell",87,1320
+CDKN2B-AS1,Stomach Neoplasms,87,1307
+CDKN2B-AS1,Stroke,87,1397
+CDKN2B-AS1,Thyroid Neoplasms,87,1330
+CDKN2B-AS1,Triple Negative Breast Neoplasms,87,1398
+CDKN2B-AS1,"Diabetes Mellitus, Type 2",87,1399
+CDKN2B-AS1,Urinary Bladder Neoplasms,87,1306
+CEBPA-AS1,Squamous Cell Carcinoma of Head and Neck,88,1360
+CEBPA-AS1,Stomach Neoplasms,88,1307
+CERNA2,Breast Neoplasms,89,1303
+CERNA2,Ovarian Neoplasms,89,1309
+CERNA2,"Carcinoma, Ovarian Epithelial",89,1323
+CFLAR-AS1,Astrocytoma,90,1298
+CFLAR-AS1,Esophageal Squamous Cell Carcinoma,90,1327
+CHRF,Cardiomegaly,91,1370
+CHRF,Silicosis,91,1400
+CLMAT3,Astrocytoma,92,1298
+CLMAT3,Colorectal Neoplasms,92,1304
+CPS1-IT1,"Carcinoma, Hepatocellular",93,1310
+CPS1-IT1,Cholangiocarcinoma,93,1326
+CPS1-IT1,Lung Neoplasms,93,1308
+CPS1-IT1,"Carcinoma, Ovarian Epithelial",93,1323
+CRNDE,Breast Neoplasms,94,1303
+CRNDE,Uterine Cervical Neoplasms,94,1300
+CRNDE,Medulloblastoma,94,1367
+CRNDE,"Leukemia, Lymphocytic, Chronic, B-Cell",94,1401
+CRNDE,Colorectal Neoplasms,94,1304
+CRNDE,Gallbladder Neoplasms,94,1328
+CRNDE,Glioma,94,1322
+CRNDE,Hepatoblastoma,94,1402
+CRNDE,"Carcinoma, Hepatocellular",94,1310
+CRNDE,Ovarian Neoplasms,94,1309
+CRNDE,Pancreatic Neoplasms,94,1315
+CRNDE,"Carcinoma, Renal Cell",94,1324
+CRNDE,Stomach Neoplasms,94,1307
+CRNDE,"Thyroid Cancer, Papillary",94,1332
+CTBP1-AS,Prostate,95,1365
+CTBP1-AS,Prostatic Neoplasms,95,1339
+CTD-2574D22.4,"Carcinoma, Hepatocellular",96,1310
+CTD-2574D22.4,Osteoarthritis,96,1403
+CYTOR,Astrocytoma,97,1298
+CYTOR,Breast Neoplasms,97,1303
+CYTOR,Neoplasms,97,1299
+CYTOR,Colonic Neoplasms,97,1336
+CYTOR,Colorectal Neoplasms,97,1304
+CYTOR,Esophageal Squamous Cell Carcinoma,97,1327
+CYTOR,Gallbladder Neoplasms,97,1328
+CYTOR,Glioblastoma,97,1301
+CYTOR,Glioma,97,1322
+CYTOR,Squamous Cell Carcinoma of Head and Neck,97,1360
+CYTOR,"Carcinoma, Hepatocellular",97,1310
+CYTOR,Adenocarcinoma of Lung,97,1329
+CYTOR,Pancreatic Neoplasms,97,1315
+CYTOR,"Carcinoma, Renal Cell",97,1324
+CYTOR,Stomach Neoplasms,97,1307
+CYTOR,Triple Negative Breast Neoplasms,97,1398
+DANCR,Astrocytoma,98,1298
+DANCR,Bone Diseases,98,1404
+DANCR,Brain Neoplasms,98,1405
+DANCR,Breast Neoplasms,98,1303
+DANCR,Colorectal Neoplasms,98,1304
+DANCR,"Carcinoma, Hepatocellular",98,1310
+DANCR,"Carcinoma, Non-Small-Cell Lung",98,1312
+DANCR,Osteosarcoma,98,1305
+DANCR,Prostatic Neoplasms,98,1339
+DANCR,"Carcinoma, Renal Cell",98,1324
+DANCR,Stomach Neoplasms,98,1307
+DANCR,Triple Negative Breast Neoplasms,98,1398
+DAOA-AS1,Bipolar Disorder,99,1406
+DAOA-AS1,Panic Disorder,99,1407
+DAOA-AS1,Schizophrenia,99,1358
+DBET,"Muscular Dystrophy, Duchenne",100,1408
+DBET,"Muscular Dystrophy, Facioscapulohumeral",100,1409
+DBH-AS1,"Carcinoma, Hepatocellular",101,1310
+DBH-AS1,Neuroblastoma,101,1302
+DCTN1-AS1,Astrocytoma,102,1298
+DCTN1-AS1,"Thyroid Cancer, Papillary",102,1332
+DGCR5,Astrocytoma,103,1298
+DGCR5,DiGeorge Syndrome,103,1410
+DGCR5,Glioblastoma,103,1301
+DGCR5,"Carcinoma, Hepatocellular",103,1310
+DGCR5,Huntington Disease,103,1355
+DGCR5,Adenocarcinoma of Lung,103,1329
+DGCR5,Lung Neoplasms,103,1308
+DGCR5,"Carcinoma, Renal Cell",103,1324
+DISC1,Schizophrenia,104,1358
+DISC2,Astrocytoma,105,1298
+DISC2,Autism Spectrum Disorder,105,1411
+DISC2,Bipolar Disorder,105,1406
+DISC2,Depression,105,1354
+DISC2,"Depressive Disorder, Major",105,1412
+DISC2,Mood Disorders,105,1413
+DISC2,Psychotic Disorders,105,1414
+DISC2,Schizophrenia,105,1358
+DLEU1,Breast Neoplasms,106,1303
+DLEU1,"Leukemia, Lymphocytic, Chronic, B-Cell",106,1401
+DLEU1,"Carcinoma, Ovarian Epithelial",106,1323
+DLEU1,Stomach Neoplasms,106,1307
+DLEU2,Astrocytoma,107,1298
+DLEU2,"Leukemia, Lymphocytic, Chronic, B-Cell",107,1401
+DLEU2,Laryngeal Neoplasms,107,1415
+DLEU2,"Leukemia, Lymphoid",107,1416
+DLEU2,Lymphoma,107,1417
+DLEU2,Pancreatic Neoplasms,107,1315
+DLG1-AS1,Astrocytoma,108,1298
+DLX6-AS1,Astrocytoma,109,1298
+DLX6-AS1,Adenocarcinoma of Lung,109,1329
+DLX6-AS1,Nervous System Diseases,109,1334
+DNM3OS,Ovarian Neoplasms,110,1309
+DNM3OS,"Carcinoma, Ovarian Epithelial",110,1323
+DPP10-AS1,Breast Neoplasms,111,1303
+DPP10-AS1,Colorectal Neoplasms,111,1304
+DRAIC,Breast Neoplasms,112,1303
+DRAIC,"Carcinoma, Hepatocellular",112,1310
+DRAIC,Adenocarcinoma of Lung,112,1329
+DRAIC,Prostatic Neoplasms,112,1339
+DRAIC,"Carcinoma, Renal Cell",112,1324
+DRAIC,Urinary Bladder Neoplasms,112,1306
+DSCAM-AS1,Breast Neoplasms,113,1303
+DUXAP10,Colorectal Neoplasms,114,1304
+DUXAP10,Ovarian Neoplasms,114,1309
+DUXAP8,"Carcinoma, Renal Cell",115,1324
+DUXAP8,Stomach Neoplasms,115,1307
+EGFR-AS1,"Carcinoma, Hepatocellular",116,1310
+EGFR-AS1,Osteosarcoma,116,1305
+EgoA,Astrocytoma,117,1298
+EgoA,Glioblastoma,117,1301
+EGOB,Astrocytoma,118,1298
+EGOB,Glioblastoma,118,1301
+EGOT,Breast Neoplasms,119,1303
+EGOT,Glioma,119,1322
+EGOT,Prostatic Neoplasms,119,1339
+EGOT,"Carcinoma, Renal Cell",119,1324
+EGOT,Stomach Neoplasms,119,1307
+EMX2OS,Astrocytoma,120,1298
+EMX2OS,Hypertension,120,1383
+ENST00000537266,Astrocytoma,121,1298
+ENST00000537266,"Thyroid Cancer, Papillary",121,1332
+ENTPD1-AS1,Astrocytoma,122,1298
+ENTPD1-AS1,Stomach Neoplasms,122,1307
+EPB41L4A-AS2,Breast Neoplasms,123,1303
+EPB41L4A-AS2,Squamous Cell Carcinoma of Head and Neck,123,1360
+EPB41L4A-AS2,Kidney Neoplasms,123,1418
+EPB41L4A-AS2,Lung Neoplasms,123,1308
+ERVH48-1,Breast Neoplasms,124,1303
+ERVH48-1,Stomach Neoplasms,124,1307
+ESCCAL-5,"Carcinoma, Squamous Cell",125,1320
+EWSAT1,Uterine Cervical Neoplasms,126,1300
+EWSAT1,"Sarcoma, Ewing",126,1419
+EWSAT1,Osteosarcoma,126,1305
+FALEC,Astrocytoma,127,1298
+FALEC,"Carcinoma, Hepatocellular",127,1310
+FALEC,Prostatic Neoplasms,127,1339
+FALEC,Thyroid Neoplasms,127,1330
+FAM215A,Astrocytoma,128,1298
+FAM215A,Ovarian Neoplasms,128,1309
+FAM3D-AS1,Squamous Cell Carcinoma of Head and Neck,129,1360
+FAM3D-AS1,Laryngeal Neoplasms,129,1415
+FAM3D-AS1,Pharyngeal Neoplasms,129,1420
+FAM3D-AS1,Tongue Neoplasms,129,1353
+FAM83H-AS1,Colorectal Neoplasms,130,1304
+FAM83H-AS1,Lung Neoplasms,130,1308
+FAS-AS1,Ataxia Telangiectasia,131,1421
+FAS-AS1,"Lymphoma, Non-Hodgkin",131,1422
+FBXL19-AS1,Astrocytoma,132,1298
+FBXL19-AS1,Colorectal Neoplasms,132,1304
+FBXL19-AS1,"Arthritis, Rheumatoid",132,1423
+FENDRR,"Pulmonary Disease, Chronic Obstructive",133,1424
+FENDRR,Gallbladder Neoplasms,133,1328
+FENDRR,Adenocarcinoma of Lung,133,1329
+FENDRR,Lung Neoplasms,133,1308
+FENDRR,"Carcinoma, Non-Small-Cell Lung",133,1312
+FENDRR,Osteosarcoma,133,1305
+FENDRR,Prostatic Neoplasms,133,1339
+FENDRR,Stomach Neoplasms,133,1307
+FER1L4,Colonic Neoplasms,134,1336
+FER1L4,Endometrial Neoplasms,134,1362
+FER1L4,"Carcinoma, Hepatocellular",134,1310
+FER1L4,Stomach Neoplasms,134,1307
+FEZF1-AS1,Colorectal Neoplasms,135,1304
+FEZF1-AS1,"Carcinoma, Non-Small-Cell Lung",135,1312
+FEZF1-AS1,Stomach Neoplasms,135,1307
+FGF10-AS1,Astrocytoma,136,1298
+FGF10-AS1,"Heart Septal Defects, Ventricular",136,1425
+FGFR3-AS1,Osteosarcoma,137,1305
+FMR1-AS1,Fragile X Syndrome,138,1333
+FMR1-AS1,Neurodevelopmental Disorders,138,1426
+FMR5,Fragile X Syndrome,139,1333
+FMR6,Fragile X Syndrome,140,1333
+FOXC2-AS1,Breast Neoplasms,141,1303
+FOXC2-AS1,Osteosarcoma,141,1305
+FOXCUT,Breast Neoplasms,142,1303
+FOXCUT,Nasopharyngeal Carcinoma,142,1319
+FOXCUT,Squamous Cell Carcinoma of Head and Neck,142,1360
+FOXCUT,"Carcinoma, Squamous Cell",142,1320
+FOXD2-AS1,Astrocytoma,143,1298
+FOXD2-AS1,Esophageal Squamous Cell Carcinoma,143,1327
+FOXD2-AS1,Nasopharyngeal Carcinoma,143,1319
+FOXD2-AS1,"Carcinoma, Non-Small-Cell Lung",143,1312
+FOXD2-AS1,Pterygium,143,1427
+FOXD2-AS1,"Colitis, Ulcerative",143,1428
+FOXD3-AS1,Glioma,144,1322
+FR0348383,Prostatic Neoplasms,145,1339
+FTH1P3,Squamous Cell Carcinoma of Head and Neck,146,1360
+FTX,Colorectal Neoplasms,147,1304
+FTX,Glioma,147,1322
+FTX,"Carcinoma, Hepatocellular",147,1310
+FTX,"Carcinoma, Renal Cell",147,1324
+GABPB1-AS1,Astrocytoma,148,1298
+GABPB1-AS1,Colorectal Neoplasms,148,1304
+GACAT2,"Carcinoma, Non-Small-Cell Lung",149,1312
+GACAT2,Pancreatic Neoplasms,149,1315
+GACAT2,Stomach Neoplasms,149,1307
+GACAT3,Ovarian Neoplasms,150,1309
+GACAT3,Stomach Neoplasms,150,1307
+GAPLINC,Colorectal Neoplasms,151,1304
+GAPLINC,Stomach Neoplasms,151,1307
+GAS5,Astrocytoma,152,1298
+GAS5,"Lymphoma, B-Cell",152,1429
+GAS5,Breast Neoplasms,152,1303
+GAS5,Neoplasms,152,1299
+GAS5,Uterine Cervical Neoplasms,152,1300
+GAS5,Colorectal Neoplasms,152,1304
+GAS5,Coronary Artery Disease,152,1373
+GAS5,Endometrial Neoplasms,152,1362
+GAS5,Esophageal Neoplasms,152,1351
+GAS5,Esophageal Squamous Cell Carcinoma,152,1327
+GAS5,Glioblastoma,152,1301
+GAS5,Glioma,152,1322
+GAS5,"Carcinoma, Hepatocellular",152,1310
+GAS5,Hypertension,152,1383
+GAS5,Inflammatory Bowel Diseases,152,1364
+GAS5,Kidney Neoplasms,152,1418
+GAS5,Leukemia,152,1385
+GAS5,Liver Cirrhosis,152,1337
+GAS5,Adenocarcinoma of Lung,152,1329
+GAS5,Lung Neoplasms,152,1308
+GAS5,Lymphoma,152,1417
+GAS5,"Lymphoma, Mantle-Cell",152,1430
+GAS5,Melanoma,152,1347
+GAS5,Multiple Myeloma,152,1368
+GAS5,Nasopharyngeal Carcinoma,152,1319
+GAS5,Neuroblastoma,152,1302
+GAS5,"Carcinoma, Non-Small-Cell Lung",152,1312
+GAS5,Osteoarthritis,152,1403
+GAS5,Osteosarcoma,152,1305
+GAS5,Ovarian Neoplasms,152,1309
+GAS5,Pancreatic Neoplasms,152,1315
+GAS5,Polycystic Ovary Syndrome,152,1314
+GAS5,Prostate,152,1365
+GAS5,Prostatic Neoplasms,152,1339
+GAS5,"Carcinoma, Renal Cell",152,1324
+GAS5,Stomach Neoplasms,152,1307
+GAS5,"Leukemia, T-Cell",152,1431
+GAS5,Thyroid Neoplasms,152,1330
+GAS5,"Thyroid Cancer, Papillary",152,1332
+GAS5,"Diabetes Mellitus, Type 2",152,1399
+GAS5,Urinary Bladder Neoplasms,152,1306
+GAS5-AS1,"Carcinoma, Hepatocellular",153,1310
+GAS5-AS1,"Carcinoma, Non-Small-Cell Lung",153,1312
+GAS5-family,Astrocytoma,154,1298
+GAS5-family,Glioblastoma,154,1301
+GAS8-AS1,"Thyroid Cancer, Papillary",155,1332
+GATA6-AS1,"Leukemia, Lymphocytic, Chronic, B-Cell",156,1401
+GATA6-AS1,Stomach Neoplasms,156,1307
+GClnc1,Stomach Neoplasms,157,1307
+GFRA1,Hirschsprung Disease,158,1432
+GFRA1,Nasal Polyps,158,1433
+GHET1,Colorectal Neoplasms,159,1304
+GHET1,"Carcinoma, Hepatocellular",159,1310
+GHET1,"Carcinoma, Non-Small-Cell Lung",159,1312
+GHET1,Pancreatic Neoplasms,159,1315
+GHET1,Stomach Neoplasms,159,1307
+GHET1,Urinary Bladder Neoplasms,159,1306
+GNAS-AS1,Astrocytoma,160,1298
+GNAS-AS1,"Carcinoma, Non-Small-Cell Lung",160,1312
+GPR65,Nasal Polyps,161,1433
+GPR65,Stomach Neoplasms,161,1307
+gtl2-as,Neoplasms,162,1299
+gtl2-as,Wilms Tumor,162,1331
+gtl2-as,Neuroblastoma,162,1302
+gtl2-as,Pheochromocytoma,162,1434
+H19,"Aortic Aneurysm, Abdominal",163,1374
+H19,Adenocarcinoma,163,1435
+H19,Adrenocortical Carcinoma,163,1436
+H19,Astrocytoma,163,1298
+H19,Atherosclerosis,163,1376
+H19,Beckwith-Wiedemann Syndrome,163,1437
+H19,Breast Neoplasms,163,1303
+H19,Neoplasms,163,1299
+H19,Central Nervous System Diseases,163,1438
+H19,Uterine Cervical Neoplasms,163,1300
+H19,Cholangiocarcinoma,163,1326
+H19,Choriocarcinoma,163,1439
+H19,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",163,1440
+H19,Colonic Neoplasms,163,1336
+H19,Colorectal Neoplasms,163,1304
+H19,Congenital Hyperinsulinism,163,1441
+H19,Coronary Artery Disease,163,1373
+H19,Diabetic Cardiomyopathies,163,1442
+H19,"Carcinoma, Embryonal",163,1443
+H19,Endometrial Neoplasms,163,1362
+H19,Endometriosis,163,1380
+H19,Esophageal Neoplasms,163,1351
+H19,Gallbladder Neoplasms,163,1328
+H19,Gastrointestinal Neoplasms,163,1346
+H19,"Neoplasms, Germ Cell and Embryonal",163,1444
+H19,Gestational Trophoblastic Disease,163,1445
+H19,Glioblastoma,163,1301
+H19,Glioma,163,1322
+H19,Squamous Cell Carcinoma of Head and Neck,163,1360
+H19,"Heart Defects, Congenital",163,1446
+H19,Heart Diseases,163,1321
+H19,Hematopoiesis,163,1447
+H19,"Carcinoma, Hepatocellular",163,1310
+H19,Hydatidiform Mole,163,1448
+H19,Hyperhomocysteinemia,163,1449
+H19,Hyperprolactinemia,163,1450
+H19,Infertility,163,1451
+H19,Keloid,163,1338
+H19,Kidney Neoplasms,163,1418
+H19,Liver Neoplasms,163,1313
+H19,Adenocarcinoma of Lung,163,1329
+H19,Lung Neoplasms,163,1308
+H19,Marek Disease,163,1452
+H19,Medulloblastoma,163,1367
+H19,Melanoma,163,1347
+H19,Meningioma,163,1453
+H19,Multiple Myeloma,163,1368
+H19,Nasopharyngeal Carcinoma,163,1319
+H19,Wilms Tumor,163,1331
+H19,Neural Tube Defects,163,1454
+H19,Neuroblastoma,163,1302
+H19,"Carcinoma, Non-Small-Cell Lung",163,1312
+H19,Obesity,163,1357
+H19,Osteoarthritis,163,1403
+H19,Osteosarcoma,163,1305
+H19,Ovarian Neoplasms,163,1309
+H19,"Carcinoma, Ovarian Epithelial",163,1323
+H19,Pancreatic Neoplasms,163,1315
+H19,"Thyroid Cancer, Papillary",163,1332
+H19,Parkinson Disease,163,1455
+H19,Pheochromocytoma,163,1434
+H19,Pituitary Neoplasms,163,1369
+H19,Pneumoconiosis,163,1456
+H19,Polycythemia Vera,163,1457
+H19,Prader-Willi Syndrome,163,1458
+H19,Pre-Eclampsia,163,1459
+H19,Prostate,163,1365
+H19,Prostatic Neoplasms,163,1339
+H19,"Carcinoma, Renal Cell",163,1324
+H19,"Arthritis, Rheumatoid",163,1423
+H19,Silver-Russell Syndrome,163,1460
+H19,"Carcinoma, Squamous Cell",163,1320
+H19,Stomach Neoplasms,163,1307
+H19,Thyroid Neoplasms,163,1330
+H19,Trophoblastic Neoplasms,163,1461
+H19,"Colitis, Ulcerative",163,1428
+H19,Urinary Bladder Neoplasms,163,1306
+HAGLR,Uterine Cervical Neoplasms,164,1300
+HAGLR,Glioma,164,1322
+HAGLR,"Carcinoma, Hepatocellular",164,1310
+HAGLR,Neuroblastoma,164,1302
+HAGLR,"Carcinoma, Non-Small-Cell Lung",164,1312
+HAGLR,Ovarian Neoplasms,164,1309
+HAGLR,"Carcinoma, Ovarian Epithelial",164,1323
+HAGLR,Stomach Neoplasms,164,1307
+HAGLR,"Thyroid Cancer, Papillary",164,1332
+HAGLR,Urinary Bladder Neoplasms,164,1306
+HAGLROS,"Thyroid Cancer, Papillary",165,1332
+HAGLROS,Stomach Neoplasms,165,1307
+HAND2-AS1,Endometrial Neoplasms,166,1362
+HAND2-AS1,Squamous Cell Carcinoma of Head and Neck,166,1360
+HAR1,Huntington Disease,167,1355
+HAR1A,Alzheimer Disease,168,1342
+HAR1A,Astrocytoma,168,1298
+HAR1A,Central Nervous System Diseases,168,1438
+HAR1A,Huntington Disease,168,1355
+HAR1A,Schizophrenia,168,1358
+HAR1B,Alzheimer Disease,169,1342
+HAR1B,Astrocytoma,169,1298
+HAR1B,"Telangiectasia, Hereditary Hemorrhagic",169,1311
+HAR1B,Huntington Disease,169,1355
+HAR1B,Schizophrenia,169,1358
+HAS2-AS1,Squamous Cell Carcinoma of Head and Neck,170,1360
+HCG11,Astrocytoma,171,1298
+HCG11,Prostatic Neoplasms,171,1339
+HCP5,Acquired Immunodeficiency Syndrome,172,1462
+HCP5,"Adenocarcinoma, Follicular",172,1463
+HEIH,Colorectal Neoplasms,173,1304
+HEIH,Squamous Cell Carcinoma of Head and Neck,173,1360
+HEIH,"Carcinoma, Hepatocellular",173,1310
+HIF1A-AS1,Aortic Aneurysm,174,1375
+HIF1A-AS1,Cardiovascular Diseases,174,1377
+HIF1A-AS1,Colorectal Neoplasms,174,1304
+HIF1A-AS1,Kidney Neoplasms,174,1418
+HIF1A-AS1,"Carcinoma, Non-Small-Cell Lung",174,1312
+HIF1A-AS1,"Aortic Aneurysm, Thoracic",174,1464
+HIF1A-AS2,Breast Neoplasms,175,1303
+HIF1A-AS2,Glioblastoma,175,1301
+HIF1A-AS2,Kidney Neoplasms,175,1418
+HIF1A-AS2,Osteosarcoma,175,1305
+HIF1A-AS2,Stomach Neoplasms,175,1307
+HIF1A-AS2,Urinary Bladder Neoplasms,175,1306
+HLA-AS1,Acquired Immunodeficiency Syndrome,176,1462
+HLA-AS1,Liver Diseases,176,1465
+HLA-AS1,Multiple Sclerosis,176,1466
+HLA-AS1,Psoriasis,176,1467
+HNF1A-AS1,Adenocarcinoma,177,1435
+HNF1A-AS1,Astrocytoma,177,1298
+HNF1A-AS1,Colonic Neoplasms,177,1336
+HNF1A-AS1,Colorectal Neoplasms,177,1304
+HNF1A-AS1,"Carcinoma, Hepatocellular",177,1310
+HNF1A-AS1,Adenocarcinoma of Lung,177,1329
+HNF1A-AS1,Nasopharyngeal Carcinoma,177,1319
+HNF1A-AS1,"Carcinoma, Non-Small-Cell Lung",177,1312
+HNF1A-AS1,Osteosarcoma,177,1305
+HNF1A-AS1,Pancreatic Neoplasms,177,1315
+HNF1A-AS1,"Carcinoma, Squamous Cell",177,1320
+HNF1A-AS1,Stomach Neoplasms,177,1307
+HOTAIR,"Leukemia, Myeloid, Acute",178,1366
+HOTAIR,Asthenozoospermia,178,1468
+HOTAIR,Astrocytoma,178,1298
+HOTAIR,"Lymphoma, B-Cell",178,1429
+HOTAIR,Breast Neoplasms,178,1303
+HOTAIR,Neoplasms,178,1299
+HOTAIR,Cerebrovascular Disorders,178,1469
+HOTAIR,Uterine Cervical Neoplasms,178,1300
+HOTAIR,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",178,1440
+HOTAIR,Colonic Neoplasms,178,1336
+HOTAIR,Colorectal Neoplasms,178,1304
+HOTAIR,Heart Failure,178,1318
+HOTAIR,"Lymphoma, Large B-Cell, Diffuse",178,1470
+HOTAIR,"Neoplasms, Germ Cell and Embryonal",178,1444
+HOTAIR,Endometrial Neoplasms,178,1362
+HOTAIR,Ependymoma,178,1471
+HOTAIR,Esophageal Neoplasms,178,1351
+HOTAIR,Esophageal Squamous Cell Carcinoma,178,1327
+HOTAIR,Gallbladder Neoplasms,178,1328
+HOTAIR,Gastrointestinal Stromal Tumors,178,1371
+HOTAIR,Gastrointestinal Neoplasms,178,1346
+HOTAIR,Glioblastoma,178,1301
+HOTAIR,Glioma,178,1322
+HOTAIR,Squamous Cell Carcinoma of Head and Neck,178,1360
+HOTAIR,Heart Diseases,178,1321
+HOTAIR,Hepatitis C,178,1472
+HOTAIR,"Carcinoma, Hepatocellular",178,1310
+HOTAIR,Kidney Neoplasms,178,1418
+HOTAIR,Lemierre Syndrome,178,1473
+HOTAIR,Leukemia,178,1385
+HOTAIR,"Leukemia, Lymphoid",178,1416
+HOTAIR,Liver Neoplasms,178,1313
+HOTAIR,Liver Cirrhosis,178,1337
+HOTAIR,Adenocarcinoma of Lung,178,1329
+HOTAIR,Lung Neoplasms,178,1308
+HOTAIR,"Carcinoma, Non-Small-Cell Lung",178,1312
+HOTAIR,Medulloblastoma,178,1367
+HOTAIR,Melanoma,178,1347
+HOTAIR,Multiple Myeloma,178,1368
+HOTAIR,Nasopharyngeal Carcinoma,178,1319
+HOTAIR,Neuroblastoma,178,1302
+HOTAIR,Osteoarthritis,178,1403
+HOTAIR,Osteosarcoma,178,1305
+HOTAIR,Ovarian Neoplasms,178,1309
+HOTAIR,"Carcinoma, Ovarian Epithelial",178,1323
+HOTAIR,Pancreatic Neoplasms,178,1315
+HOTAIR,"Thyroid Cancer, Papillary",178,1332
+HOTAIR,Parkinson Disease,178,1455
+HOTAIR,Pituitary Neoplasms,178,1369
+HOTAIR,Pre-Eclampsia,178,1459
+HOTAIR,Prostatic Neoplasms,178,1339
+HOTAIR,"Carcinoma, Renal Cell",178,1324
+HOTAIR,Retinoblastoma,178,1348
+HOTAIR,"Arthritis, Rheumatoid",178,1423
+HOTAIR,Sarcoma,178,1474
+HOTAIR,"Carcinoma, Squamous Cell",178,1320
+HOTAIR,Stomach Neoplasms,178,1307
+HOTAIR,Thyroid Neoplasms,178,1330
+HOTAIR,Urinary Bladder Neoplasms,178,1306
+HOTAIRM1,"Leukemia, Myeloid, Acute",179,1366
+HOTAIRM1,"Leukemia, Promyelocytic, Acute",179,1475
+HOTAIRM1,Astrocytoma,179,1298
+HOTAIRM1,Colorectal Neoplasms,179,1304
+HOTAIRM1,Glioblastoma,179,1301
+HOTAIRM1,Leukemia,179,1385
+HOTAIRM1,Glioma,179,1322
+HOTAIRM1,Melanoma,179,1347
+HOTTIP,Breast Neoplasms,180,1303
+HOTTIP,Neoplasms,180,1299
+HOTTIP,Colorectal Neoplasms,180,1304
+HOTTIP,Coronary Artery Disease,180,1373
+HOTTIP,Esophageal Squamous Cell Carcinoma,180,1327
+HOTTIP,Glioma,180,1322
+HOTTIP,"Carcinoma, Hepatocellular",180,1310
+HOTTIP,Hirschsprung Disease,180,1432
+HOTTIP,Lung Neoplasms,180,1308
+HOTTIP,"Carcinoma, Non-Small-Cell Lung",180,1312
+HOTTIP,Osteosarcoma,180,1305
+HOTTIP,Pancreatic Neoplasms,180,1315
+HOTTIP,"Thyroid Cancer, Papillary",180,1332
+HOTTIP,Prostatic Neoplasms,180,1339
+HOTTIP,Small Cell Lung Carcinoma,180,1476
+HOTTIP,Stomach Neoplasms,180,1307
+HOXA-AS2,"Leukemia, Promyelocytic, Acute",181,1475
+HOXA-AS2,Breast Neoplasms,181,1303
+HOXA-AS2,Colorectal Neoplasms,181,1304
+HOXA-AS2,"Carcinoma, Hepatocellular",181,1310
+HOXA-AS2,Glioma,181,1322
+HOXA-AS2,Melanoma,181,1347
+HOXA-AS2,Stomach Neoplasms,181,1307
+HOXA-AS3,Astrocytoma,182,1298
+HOXA-AS3,Glioblastoma,182,1301
+HOXA-AS3,Glioma,182,1322
+HOXA11,Glioma,183,1322
+HOXA11,Ovarian Neoplasms,183,1309
+HOXA11-AS,Astrocytoma,184,1298
+HOXA11-AS,Breast Neoplasms,184,1303
+HOXA11-AS,Neoplasms,184,1299
+HOXA11-AS,Uterine Cervical Neoplasms,184,1300
+HOXA11-AS,Colorectal Neoplasms,184,1304
+HOXA11-AS,Esophageal Squamous Cell Carcinoma,184,1327
+HOXA11-AS,Glioma,184,1322
+HOXA11-AS,"Carcinoma, Hepatocellular",184,1310
+HOXA11-AS,Squamous Cell Carcinoma of Head and Neck,184,1360
+HOXA11-AS,"Carcinoma, Non-Small-Cell Lung",184,1312
+HOXA11-AS,Osteosarcoma,184,1305
+HOXA11-AS,Ovarian Neoplasms,184,1309
+HOXA11-AS,Stomach Neoplasms,184,1307
+HOXA13,"Carcinoma, Hepatocellular",185,1310
+HOXA13,Stomach Neoplasms,185,1307
+HOXB-AS3,Colonic Neoplasms,186,1336
+HOXB-AS3,Colorectal Neoplasms,186,1304
+HTT-AS,Huntington Disease,187,1355
+HULC,Atherosclerosis,188,1376
+HULC,Neoplasms,188,1299
+HULC,Uterine Cervical Neoplasms,188,1300
+HULC,Cholangiocarcinoma,188,1326
+HULC,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",188,1440
+HULC,Colorectal Neoplasms,188,1304
+HULC,"Lymphoma, Large B-Cell, Diffuse",188,1470
+HULC,Esophageal Neoplasms,188,1351
+HULC,Glioma,188,1322
+HULC,"Carcinoma, Hepatocellular",188,1310
+HULC,Liver Neoplasms,188,1313
+HULC,Liver Cirrhosis,188,1337
+HULC,Nasopharyngeal Carcinoma,188,1319
+HULC,Osteosarcoma,188,1305
+HULC,"Carcinoma, Ovarian Epithelial",188,1323
+HULC,Pancreatic Neoplasms,188,1315
+HULC,"Thyroid Cancer, Papillary",188,1332
+HULC,Prostatic Neoplasms,188,1339
+HULC,Stomach Neoplasms,188,1307
+HULC,Triple Negative Breast Neoplasms,188,1398
+IFNG-AS1,Astrocytoma,189,1298
+IFNG-AS1,"Thyroiditis, Autoimmune",189,1477
+IFNG-AS1,Melanoma,189,1347
+IFNG-AS1,Multiple Sclerosis,189,1466
+IFNG-AS1,Sjogren's Syndrome,189,1478
+IFNG-AS1,"Colitis, Ulcerative",189,1428
+IGF2-AS,Astrocytoma,190,1298
+IGF2-AS,Beckwith-Wiedemann Syndrome,190,1437
+IGF2-AS,Coronary Artery Disease,190,1373
+IGF2-AS,"Carcinoma, Hepatocellular",190,1310
+IGF2-AS,Liver Neoplasms,190,1313
+IGF2-AS,Wilms Tumor,190,1331
+IGF2-AS,"Carcinoma, Non-Small-Cell Lung",190,1312
+IGF2-AS,Prostate,190,1365
+IGF2-AS,Prostatic Neoplasms,190,1339
+IGF2-AS,"Diabetes Mellitus, Type 1",190,1479
+IGF2BP2-AS1,Astrocytoma,191,1298
+IGF2BP2-AS1,Adenocarcinoma of Lung,191,1329
+IGFBP7-AS1,Astrocytoma,192,1298
+IGFBP7-AS1,Nasal Polyps,192,1433
+ILF3-AS1,Melanoma,193,1347
+INHBA-AS1,Astrocytoma,194,1298
+INHBA-AS1,Stomach Neoplasms,194,1307
+intergenic lncrna(be008094),Pancreatic Neoplasms,195,1315
+intergenic lncrna(be155946),Pancreatic Neoplasms,196,1315
+intergenic lncrna(be702744),Pancreatic Neoplasms,197,1315
+intergenic lncrna(bf736784),Pancreatic Neoplasms,198,1315
+intergenic lncrna(bf754591),Pancreatic Neoplasms,199,1315
+intergenic lncrna(bf918966),Pancreatic Neoplasms,200,1315
+intergenic lncrna(bf944704),Pancreatic Neoplasms,201,1315
+intergenic lncrna(bf956245),Pancreatic Neoplasms,202,1315
+intronic lncrna in arhgap12 locus(be007885),Pancreatic Neoplasms,203,1315
+intronic lncrna in arrb1 locus(bf944729),Pancreatic Neoplasms,204,1315
+intronic lncrna in ascc3 locus(aw937483),Pancreatic Neoplasms,205,1315
+intronic lncrna in atf3 locus(bf875569),Pancreatic Neoplasms,206,1315
+intronic lncrna in c11orf49 locus(aw846670),Pancreatic Neoplasms,207,1315
+intronic lncrna in c16orf46 locus(bf364131),Pancreatic Neoplasms,208,1315
+intronic lncrna in c20orf7 locus(be089575),Pancreatic Neoplasms,209,1315
+intronic lncrna in ctnnd1 locus(bf919473),Pancreatic Neoplasms,210,1315
+intronic lncrna in dazap1 locus(bg010309),Pancreatic Neoplasms,211,1315
+intronic lncrna in dip2b locus(aw852151),Pancreatic Neoplasms,212,1315
+intronic lncrna in dst locus(aw860958),Pancreatic Neoplasms,213,1315
+intronic lncrna in enosf1 locus(bf334142),Pancreatic Neoplasms,214,1315
+intronic lncrna in gldn locus(aw901803),Pancreatic Neoplasms,215,1315
+intronic lncrna in gphn locus(be160464),Pancreatic Neoplasms,216,1315
+intronic lncrna in itpr1 locus(bf857841),Pancreatic Neoplasms,217,1315
+intronic lncrna in lepr locus(ck327186),Pancreatic Neoplasms,218,1315
+intronic lncrna in maea locus(be168993),Pancreatic Neoplasms,219,1315
+intronic lncrna in map2k5 locus(bf893298),Pancreatic Neoplasms,220,1315
+intronic lncrna in mkl1 locus(bf898694),Pancreatic Neoplasms,221,1315
+intronic lncrna in n4bp2l2 locus(bq316935),Pancreatic Neoplasms,222,1315
+intronic lncrna in nbpf10 locus(bg004239),Pancreatic Neoplasms,223,1315
+intronic lncrna in nkain2 locus(be160056),Pancreatic Neoplasms,224,1315
+intronic lncrna in nop58 locus(aw865910),Pancreatic Neoplasms,225,1315
+intronic lncrna in nr2c2 locus(be166370),Pancreatic Neoplasms,226,1315
+intronic lncrna in pask locus(be168353),Pancreatic Neoplasms,227,1315
+intronic lncrna in ppp4r1 locus(be003587),Pancreatic Neoplasms,228,1315
+intronic lncrna in sorbs1 locus(bf368581),Pancreatic Neoplasms,229,1315
+intronic lncrna in stx12 locus(aw820168),Pancreatic Neoplasms,230,1315
+intronic lncrna in tmem189-ube2v1 locus(be062809),Pancreatic Neoplasms,231,1315
+intronic lncrna in tnk2 locus(ck327106),Pancreatic Neoplasms,232,1315
+intronic lncrna in ube2v1 locus(be062809),Pancreatic Neoplasms,233,1315
+intronic lncrna in usp15 locus(bf894929),Pancreatic Neoplasms,234,1315
+IPW,Prader-Willi Syndrome,235,1458
+IRAIN,"Leukemia, Myeloid, Acute",236,1366
+IRAIN,Breast Neoplasms,236,1303
+IRAIN,"Carcinoma, Non-Small-Cell Lung",236,1312
+IRAIN,Pancreatic Neoplasms,236,1315
+ITGB1,Breast Neoplasms,237,1303
+ITGB1,Gallbladder Neoplasms,237,1328
+KCNK15-AS1,Breast Neoplasms,238,1303
+KCNK15-AS1,Osteoarthritis,238,1403
+KCNQ1DN,Aging,239,1350
+KCNQ1DN,Wilms Tumor,239,1331
+KCNQ1OT1,Astrocytoma,240,1298
+KCNQ1OT1,Beckwith-Wiedemann Syndrome,240,1437
+KCNQ1OT1,Breast Neoplasms,240,1303
+KCNQ1OT1,Colorectal Neoplasms,240,1304
+KCNQ1OT1,Esophageal Neoplasms,240,1351
+KCNQ1OT1,"Carcinoma, Hepatocellular",240,1310
+KCNQ1OT1,Kidney Neoplasms,240,1418
+KCNQ1OT1,Adenocarcinoma of Lung,240,1329
+KCNQ1OT1,Lung Neoplasms,240,1308
+KCNQ1OT1,"Carcinoma, Non-Small-Cell Lung",240,1312
+KCNQ1OT1,Prostatic Neoplasms,240,1339
+KCNQ1OT1,"Carcinoma, Renal Cell",240,1324
+KCNQ1OT1,Seizures,240,1316
+KCNQ1OT1,Stomach Neoplasms,240,1307
+KIAA0087,Endometrial Neoplasms,241,1362
+KIAA0087,Pancreatic Neoplasms,241,1315
+KMT2E-AS1,Astrocytoma,242,1298
+KMT2E-AS1,Osteosarcoma,242,1305
+KRTAP5-AS1,Astrocytoma,243,1298
+KRTAP5-AS1,"Carcinoma, Hepatocellular",243,1310
+l1pa16,Breast Neoplasms,244,1303
+l1pa16,"Carcinoma, Hepatocellular",244,1310
+l1pa16,Melanoma,244,1347
+l1pa16,"Carcinoma, Non-Small-Cell Lung",244,1312
+LBX2-AS1,Astrocytoma,245,1298
+LBX2-AS1,"Carcinoma, Renal Cell",245,1324
+LEF1-AS1,Astrocytoma,246,1298
+LEF1-AS1,Colorectal Neoplasms,246,1304
+LEF1-AS1,"Telangiectasia, Hereditary Hemorrhagic",246,1311
+LEIGC,Stomach Neoplasms,247,1307
+LET,Nasopharyngeal Carcinoma,248,1319
+LET,"Carcinoma, Non-Small-Cell Lung",248,1312
+LET,Stomach Neoplasms,248,1307
+LINC-ITGB1,"Carcinoma, Hepatocellular",249,1310
+LINC-ROR,Breast Neoplasms,250,1303
+LINC-ROR,Colonic Neoplasms,250,1336
+LINC-ROR,Colorectal Neoplasms,250,1304
+LINC-ROR,Endometrial Neoplasms,250,1362
+LINC-ROR,Esophageal Squamous Cell Carcinoma,250,1327
+LINC-ROR,Gallbladder Neoplasms,250,1328
+LINC-ROR,"Carcinoma, Hepatocellular",250,1310
+LINC-ROR,Adenocarcinoma of Lung,250,1329
+LINC-ROR,Glioma,250,1322
+LINC-ROR,Melanoma,250,1347
+LINC-ROR,Nasopharyngeal Carcinoma,250,1319
+LINC-ROR,"Carcinoma, Non-Small-Cell Lung",250,1312
+LINC-ROR,Ovarian Neoplasms,250,1309
+LINC-ROR,Pancreatic Neoplasms,250,1315
+LINC-ROR,"Thyroid Cancer, Papillary",250,1332
+LINC-ROR,"Carcinoma, Renal Cell",250,1324
+LINC-ROR,Stomach Neoplasms,250,1307
+LINC00052,Breast Neoplasms,251,1303
+LINC00052,Stomach Neoplasms,251,1307
+LINC00115,Astrocytoma,252,1298
+LINC00115,Adenocarcinoma of Lung,252,1329
+LINC00173,Astrocytoma,253,1298
+LINC00173,Glioblastoma,253,1301
+LINC00173,"Carcinoma, Hepatocellular",253,1310
+LINC00176,Neoplasms,254,1299
+LINC00176,Esophageal Neoplasms,254,1351
+LINC00176,"Carcinoma, Hepatocellular",254,1310
+LINC00210,Liver Neoplasms,255,1313
+LINC00210,"Carcinoma, Non-Small-Cell Lung",255,1312
+LINC00261,Colonic Neoplasms,256,1336
+LINC00261,"Carcinoma, Hepatocellular",256,1310
+LINC00261,"Carcinoma, Non-Small-Cell Lung",256,1312
+LINC00261,Pancreatic Neoplasms,256,1315
+LINC00261,Stomach Neoplasms,256,1307
+LINC00271,Schizophrenia,257,1358
+LINC00271,"Thyroid Cancer, Papillary",257,1332
+LINC00271,"Diabetes Mellitus, Type 2",257,1399
+LINC00312,Nasopharyngeal Carcinoma,258,1319
+LINC00312,"Carcinoma, Non-Small-Cell Lung",258,1312
+LINC00312,Thyroid Neoplasms,258,1330
+LINC00312,Urinary Bladder Neoplasms,258,1306
+LINC00336,"Carcinoma, Renal Cell",259,1324
+LINC00336,"Telangiectasia, Hereditary Hemorrhagic",259,1311
+LINC00339,Astrocytoma,260,1298
+LINC00339,Breast Neoplasms,260,1303
+LINC00346,"Carcinoma, Hepatocellular",261,1310
+LINC00346,Urinary Bladder Neoplasms,261,1306
+LINC00460,Colorectal Neoplasms,262,1304
+LINC00460,Esophageal Squamous Cell Carcinoma,262,1327
+LINC00460,Nasopharyngeal Carcinoma,262,1319
+LINC00460,"Carcinoma, Non-Small-Cell Lung",262,1312
+LINC00461,Astrocytoma,263,1298
+LINC00461,Glioma,263,1322
+LINC00467,Astrocytoma,264,1298
+LINC00467,Neuroblastoma,264,1302
+LINC00472,Astrocytoma,265,1298
+LINC00472,Breast Neoplasms,265,1303
+LINC00472,Colorectal Neoplasms,265,1304
+LINC00472,Adenocarcinoma of Lung,265,1329
+LINC00472,Ovarian Neoplasms,265,1309
+LINC00473,Astrocytoma,266,1298
+LINC00473,Lung Neoplasms,266,1308
+LINC00473,"Carcinoma, Mucoepidermoid",266,1480
+LINC00473,Wilms Tumor,266,1331
+LINC00473,"Carcinoma, Non-Small-Cell Lung",266,1312
+LINC00473,"Carcinoma, Renal Cell",266,1324
+LINC00511,Breast Neoplasms,267,1303
+LINC00511,Adenocarcinoma of Lung,267,1329
+LINC00511,"Carcinoma, Non-Small-Cell Lung",267,1312
+LINC00538,Neoplasms,268,1299
+LINC00538,Colorectal Neoplasms,268,1304
+LINC00572,Glioblastoma,269,1301
+LINC00572,Stomach Neoplasms,269,1307
+LINC00598,Breast Neoplasms,270,1303
+LINC00628,Breast Neoplasms,271,1303
+LINC00628,Stomach Neoplasms,271,1307
+LINC00668,Squamous Cell Carcinoma of Head and Neck,272,1360
+LINC00668,Stomach Neoplasms,272,1307
+LINC00673,Melanoma,273,1347
+LINC00673,"Carcinoma, Non-Small-Cell Lung",273,1312
+LINC00673,Pancreatic Neoplasms,273,1315
+LINC00673,Stomach Neoplasms,273,1307
+LINC00675,Colorectal Neoplasms,274,1304
+LINC00675,Stomach Neoplasms,274,1307
+LINC00689,Astrocytoma,275,1298
+LINC00689,Glioblastoma,275,1301
+LINC00707,Adenocarcinoma of Lung,276,1329
+LINC00707,Melanoma,276,1347
+LINC00850,"Muscular Dystrophy, Duchenne",277,1408
+LINC00858,Colorectal Neoplasms,278,1304
+LINC00858,"Carcinoma, Non-Small-Cell Lung",278,1312
+LINC0086,Nasopharyngeal Carcinoma,279,1319
+LINC00882,Neoplasms,280,1299
+LINC00882,"Carcinoma, Renal Cell",280,1324
+LINC00887,Astrocytoma,281,1298
+LINC00887,"Carcinoma, Renal Cell",281,1324
+LINC00901,Breast Neoplasms,282,1303
+LINC00901,Osteosarcoma,282,1305
+LINC00901,Stomach Neoplasms,282,1307
+LINC00926,Astrocytoma,283,1298
+LINC00926,"Carcinoma, Hepatocellular",283,1310
+LINC00941,Adenocarcinoma of Lung,284,1329
+LINC00941,Stomach Neoplasms,284,1307
+LINC00963,Glioblastoma,285,1301
+LINC00963,Glioma,285,1322
+LINC00963,Prostate,285,1365
+LINC00963,Prostatic Neoplasms,285,1339
+LINC00963,"Carcinoma, Renal Cell",285,1324
+LINC00982,Stomach Neoplasms,286,1307
+LINC01013,Astrocytoma,287,1298
+LINC01013,"Thyroid Cancer, Papillary",287,1332
+LINC01018,Astrocytoma,288,1298
+LINC01018,"Carcinoma, Hepatocellular",288,1310
+LINC01089,Astrocytoma,289,1298
+LINC01089,Breast Neoplasms,289,1303
+LINC01104,Astrocytoma,290,1298
+LINC01104,Glioblastoma,290,1301
+LINC01116,Breast Neoplasms,291,1303
+LINC01116,Glioblastoma,291,1301
+LINC01116,Glioma,291,1322
+LINC01116,"Carcinoma, Non-Small-Cell Lung",291,1312
+LINC01133,Colorectal Neoplasms,292,1304
+LINC01133,"Carcinoma, Non-Small-Cell Lung",292,1312
+LINC01138,"Carcinoma, Hepatocellular",293,1310
+LINC01138,Prostatic Neoplasms,293,1339
+LINC01139,Glioma,294,1322
+LINC01139,"Telangiectasia, Hereditary Hemorrhagic",294,1311
+LINC01158,Astrocytoma,295,1298
+LINC01158,Glioma,295,1322
+LINC01158,"Carcinoma, Squamous Cell",295,1320
+LINC01158,Stomach Neoplasms,295,1307
+LINC01186,Lung Neoplasms,296,1308
+LINC01225,"Carcinoma, Hepatocellular",297,1310
+LINC01234,Astrocytoma,298,1298
+LINC01234,Breast Neoplasms,298,1303
+LINC01234,"Carcinoma, Squamous Cell",298,1320
+LINC01234,Stomach Neoplasms,298,1307
+LINC01262,Parkinson Disease,299,1455
+LINC01296,Colorectal Neoplasms,300,1304
+LINC01296,Prostatic Neoplasms,300,1339
+LINC01296,Stomach Neoplasms,300,1307
+LINC01296,Urinary Bladder Neoplasms,300,1306
+LINC01315,Nasopharyngeal Carcinoma,301,1319
+LINC01419,"Carcinoma, Hepatocellular",302,1310
+LINC01426,Astrocytoma,303,1298
+LINC01426,"Carcinoma, Squamous Cell",303,1320
+LINC01503,"Carcinoma, Squamous Cell",304,1320
+LINC01616,Alzheimer Disease,305,1342
+LINC01772,Alzheimer Disease,306,1342
+LINC01772,Astrocytoma,306,1298
+LINC01772,Ovarian Neoplasms,306,1309
+LINC01772,Pancreatic Neoplasms,306,1315
+LINC01772,Stomach Neoplasms,306,1307
+LINC01852,Adenocarcinoma of Lung,307,1329
+LINC01852,"Carcinoma, Non-Small-Cell Lung",307,1312
+LINC02041,Astrocytoma,308,1298
+LINC02041,Pancreatic Neoplasms,308,1315
+LINC02042,"Carcinoma, Non-Small-Cell Lung",309,1312
+LINC02424,Astrocytoma,310,1298
+LINC02424,Intervertebral Disc Degeneration,310,1335
+LINCRNA-p21,Glioma,311,1322
+LINCRNA-p21,"Carcinoma, Hepatocellular",311,1310
+LINCRNA-p21,"Carcinoma, Non-Small-Cell Lung",311,1312
+LINCRNA-p21,Prostatic Neoplasms,311,1339
+LINCRNA-p21,Stomach Neoplasms,311,1307
+lincRNA-ROR,Neoplasms,312,1299
+lincRNA-ROR,Colonic Neoplasms,312,1336
+LincRNAFEZF1-AS1,Stomach Neoplasms,313,1307
+LINP1,Breast Neoplasms,314,1303
+LINP1,Uterine Cervical Neoplasms,314,1300
+lnc-AL355149.1-1,Nasopharyngeal Carcinoma,315,1319
+lnc-DC,Coronary Artery Disease,316,1373
+lnc-DC,Pre-Eclampsia,316,1459
+lnc-DC,"Diabetes Mellitus, Type 2",316,1399
+lnc-EGFR,"Carcinoma, Hepatocellular",317,1310
+lnc-LCE5A-1,Squamous Cell Carcinoma of Head and Neck,318,1360
+lnc-LCE5A-1,Laryngeal Neoplasms,318,1415
+lnc-LCE5A-1,Pharyngeal Neoplasms,318,1420
+lnc-LCE5A-1,Tongue Neoplasms,318,1353
+lnc-Sox5,Tongue Neoplasms,319,1353
+lnc-ZNF674-1,Nasopharyngeal Carcinoma,320,1319
+lncARSR,Non-alcoholic Fatty Liver Disease,321,1481
+lncARSR,"Carcinoma, Renal Cell",321,1324
+LncRNA ROR,Urinary Bladder Neoplasms,322,1306
+lncRNA-422,Colorectal Neoplasms,323,1304
+lncRNA-ATB,Breast Neoplasms,324,1303
+lncRNA-ATB,Colonic Neoplasms,324,1336
+lncRNA-ATB,Colorectal Neoplasms,324,1304
+lncRNA-ATB,"Carcinoma, Hepatocellular",324,1310
+lncRNA-ATB,"Carcinoma, Non-Small-Cell Lung",324,1312
+lncRNA-ATB,Osteosarcoma,324,1305
+lncRNA-ATB,Pancreatic Neoplasms,324,1315
+lncRNA-ATB,Stomach Neoplasms,324,1307
+lncRNA-ATB,"Thyroid Cancer, Papillary",324,1332
+LncRNA-BCAT1,Colorectal Neoplasms,325,1304
+LncRNA-LALR1,Liver Neoplasms,326,1313
+lncRNA-MVIH,"Carcinoma, Hepatocellular",327,1310
+lncRNA-MVIH,"Carcinoma, Non-Small-Cell Lung",327,1312
+lncRNA-ROR,Colorectal Neoplasms,328,1304
+lncRNA625,Esophageal Squamous Cell Carcinoma,329,1327
+lncTCF7,Colorectal Neoplasms,330,1304
+LOC100130476,"Carcinoma, Squamous Cell",331,1320
+LOC100507661,Colorectal Neoplasms,332,1304
+LOC100507661,Thyroid Neoplasms,332,1330
+LOC109207222,Pneumoconiosis,333,1456
+LOC109207222,"Carcinoma, Renal Cell",333,1324
+LOC344887,"Carcinoma, Non-Small-Cell Lung",334,1312
+LOC440905,Adenocarcinoma of Lung,335,1329
+LOC440905,"Carcinoma, Non-Small-Cell Lung",335,1312
+LOC553103,Nasopharyngeal Carcinoma,336,1319
+LOC553103,Stomach Neoplasms,336,1307
+LOC554202,Breast Neoplasms,337,1303
+LOC554202,Uterine Cervical Neoplasms,337,1300
+LOC554202,Chordoma,337,1482
+LOC554202,Colorectal Neoplasms,337,1304
+LOC554202,Stomach Neoplasms,337,1307
+LOC730101,"Carcinoma, Non-Small-Cell Lung",338,1312
+LOC730101,Osteosarcoma,338,1305
+LRRC2-AS1,Astrocytoma,339,1298
+LRRC2-AS1,Schizophrenia,339,1358
+LRRC75A-AS1,Astrocytoma,340,1298
+LRRC75A-AS1,"Arthritis, Rheumatoid",340,1423
+LSINCT1,Breast Neoplasms,341,1303
+LSINCT1,Lung Neoplasms,341,1308
+LSINCT10,Breast Neoplasms,342,1303
+LSINCT10,Lung Neoplasms,342,1308
+LSINCT11,Breast Neoplasms,343,1303
+LSINCT11,Lung Neoplasms,343,1308
+LSINCT12,Breast Neoplasms,344,1303
+LSINCT12,Lung Neoplasms,344,1308
+LSINCT2,Breast Neoplasms,345,1303
+LSINCT2,Lung Neoplasms,345,1308
+LSINCT3,Breast Neoplasms,346,1303
+LSINCT3,Lung Neoplasms,346,1308
+LSINCT4,Breast Neoplasms,347,1303
+LSINCT4,Lung Neoplasms,347,1308
+LSINCT6,Breast Neoplasms,348,1303
+LSINCT6,Lung Neoplasms,348,1308
+LSINCT7,Breast Neoplasms,349,1303
+LSINCT7,Lung Neoplasms,349,1308
+LSINCT8,Breast Neoplasms,350,1303
+LSINCT8,Lung Neoplasms,350,1308
+LSINCT9,Breast Neoplasms,351,1303
+LSINCT9,Lung Neoplasms,351,1308
+LUADT1,Adenocarcinoma of Lung,352,1329
+LUCAT1,"Carcinoma, Renal Cell",353,1324
+LUCAT1,Esophageal Squamous Cell Carcinoma,353,1327
+LUCAT1,Glioma,353,1322
+LUCAT1,Squamous Cell Carcinoma of Head and Neck,353,1360
+LUCAT1,Lung Neoplasms,353,1308
+LUCAT1,"Carcinoma, Non-Small-Cell Lung",353,1312
+LUCAT1,Osteosarcoma,353,1305
+LUCAT1,Ovarian Neoplasms,353,1309
+LUNAR1,"Leukemia-Lymphoma, Adult T-Cell",354,1483
+LUNAR1,"Lymphoma, Large B-Cell, Diffuse",354,1470
+MALAT1,"Leukemia, Monocytic, Acute",355,1484
+MALAT1,"Leukemia, Myeloid, Acute",355,1366
+MALAT1,Amyotrophic Lateral Sclerosis,355,1485
+MALAT1,Astrocytoma,355,1298
+MALAT1,"Lymphoma, B-Cell",355,1429
+MALAT1,Breast Neoplasms,355,1303
+MALAT1,Neoplasms,355,1299
+MALAT1,Uterine Cervical Neoplasms,355,1300
+MALAT1,Cholangiocarcinoma,355,1326
+MALAT1,Choriocarcinoma,355,1439
+MALAT1,Colonic Neoplasms,355,1336
+MALAT1,Colorectal Neoplasms,355,1304
+MALAT1,Congenital Microtia,355,1486
+MALAT1,Diabetes Mellitus,355,1379
+MALAT1,Diabetic Cardiomyopathies,355,1442
+MALAT1,Diabetic Nephropathies,355,1487
+MALAT1,"Sarcoma, Endometrial Stromal",355,1488
+MALAT1,Esophageal Neoplasms,355,1351
+MALAT1,Esophageal Squamous Cell Carcinoma,355,1327
+MALAT1,Fatty Liver,355,1489
+MALAT1,Fibroma,355,1490
+MALAT1,Fibrosarcoma,355,1491
+MALAT1,Flavivirus Infections,355,1492
+MALAT1,Gallbladder Neoplasms,355,1328
+MALAT1,Gastrointestinal Neoplasms,355,1346
+MALAT1,Glioblastoma,355,1301
+MALAT1,Glioma,355,1322
+MALAT1,"Carcinoma, Hepatocellular",355,1310
+MALAT1,Hemangioma,355,1493
+MALAT1,HIV,355,1494
+MALAT1,Hyperglycemia,355,1495
+MALAT1,Kidney Neoplasms,355,1418
+MALAT1,Klatskin Tumor,355,1496
+MALAT1,Squamous Cell Carcinoma of Head and Neck,355,1360
+MALAT1,Liver Neoplasms,355,1313
+MALAT1,Liver Cirrhosis,355,1337
+MALAT1,Adenocarcinoma of Lung,355,1329
+MALAT1,Lung Neoplasms,355,1308
+MALAT1,"Carcinoma, Non-Small-Cell Lung",355,1312
+MALAT1,Lymphatic Metastasis,355,1497
+MALAT1,"Lymphoma, Mantle-Cell",355,1430
+MALAT1,Melanoma,355,1347
+MALAT1,Multiple Myeloma,355,1368
+MALAT1,Nasopharyngeal Carcinoma,355,1319
+MALAT1,Neuroblastoma,355,1302
+MALAT1,Osteosarcoma,355,1305
+MALAT1,Ovarian Neoplasms,355,1309
+MALAT1,"Carcinoma, Ovarian Epithelial",355,1323
+MALAT1,Pancreatic Neoplasms,355,1315
+MALAT1,"Thyroid Cancer, Papillary",355,1332
+MALAT1,Parkinson Disease,355,1455
+MALAT1,Pituitary Neoplasms,355,1369
+MALAT1,Pre-Eclampsia,355,1459
+MALAT1,Familial Primary Pulmonary Hypertension,355,1498
+MALAT1,"Vitreoretinopathy, Proliferative",355,1499
+MALAT1,Prostate,355,1365
+MALAT1,Prostatic Neoplasms,355,1339
+MALAT1,"Carcinoma, Renal Cell",355,1324
+MALAT1,Retinal Degeneration,355,1500
+MALAT1,Retinoblastoma,355,1348
+MALAT1,"Arthritis, Rheumatoid",355,1423
+MALAT1,Seizures,355,1316
+MALAT1,"Carcinoma, Squamous Cell",355,1320
+MALAT1,Stomach Neoplasms,355,1307
+MALAT1,"Lupus Erythematosus, Systemic",355,1501
+MALAT1,Thyroid Neoplasms,355,1330
+MALAT1,Tongue Neoplasms,355,1353
+MALAT1,Triple Negative Breast Neoplasms,355,1398
+MALAT1,Urinary Bladder Neoplasms,355,1306
+MALAT1,Uterine Neoplasms,355,1502
+MALAT2,Stomach Neoplasms,356,1307
+MALINC1,Lung Neoplasms,357,1308
+MALINC1,Osteosarcoma,357,1305
+MAPT-AS1,Parkinson Disease,358,1455
+MAPT-AS1,Triple Negative Breast Neoplasms,358,1398
+MDC1-AS1,Glioma,359,1322
+MDC1-AS1,Melanoma,359,1347
+MDC1-AS1,Stomach Neoplasms,359,1307
+MDC1-AS1,Urinary Bladder Neoplasms,359,1306
+MEG3,"Leukemia, Myeloid, Acute",360,1366
+MEG3,Breast Neoplasms,360,1303
+MEG3,Neoplasms,360,1299
+MEG3,Cerebrovascular Disorders,360,1469
+MEG3,Uterine Cervical Neoplasms,360,1300
+MEG3,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",360,1440
+MEG3,"Pulmonary Disease, Chronic Obstructive",360,1424
+MEG3,Colonic Neoplasms,360,1336
+MEG3,Colorectal Neoplasms,360,1304
+MEG3,Diabetes Mellitus,360,1379
+MEG3,Endometrial Neoplasms,360,1362
+MEG3,Esophageal Neoplasms,360,1351
+MEG3,Esophageal Squamous Cell Carcinoma,360,1327
+MEG3,Gallbladder Neoplasms,360,1328
+MEG3,Glioblastoma,360,1301
+MEG3,Glioma,360,1322
+MEG3,"Carcinoma, Hepatocellular",360,1310
+MEG3,Heroin Dependence,360,1503
+MEG3,Hirschsprung Disease,360,1432
+MEG3,Huntington Disease,360,1355
+MEG3,Kidney Neoplasms,360,1418
+MEG3,Liver Neoplasms,360,1313
+MEG3,Liver Cirrhosis,360,1337
+MEG3,Liver Diseases,360,1465
+MEG3,Adenocarcinoma of Lung,360,1329
+MEG3,Lung Neoplasms,360,1308
+MEG3,Melanoma,360,1347
+MEG3,Meningioma,360,1453
+MEG3,Metabolic Syndrome,360,1504
+MEG3,Multiple Myeloma,360,1368
+MEG3,Myelodysplastic Syndromes,360,1505
+MEG3,Primary Myelofibrosis,360,1387
+MEG3,Nasopharyngeal Carcinoma,360,1319
+MEG3,Wilms Tumor,360,1331
+MEG3,Neuroblastoma,360,1302
+MEG3,"Carcinoma, Non-Small-Cell Lung",360,1312
+MEG3,Squamous Cell Carcinoma of Head and Neck,360,1360
+MEG3,Osteoarthritis,360,1403
+MEG3,Osteosarcoma,360,1305
+MEG3,Ovarian Neoplasms,360,1309
+MEG3,"Carcinoma, Ovarian Epithelial",360,1323
+MEG3,Pancreatic Neoplasms,360,1315
+MEG3,"Carcinoma, Islet Cell",360,1506
+MEG3,"Thyroid Cancer, Papillary",360,1332
+MEG3,Pheochromocytoma,360,1434
+MEG3,Pituitary Neoplasms,360,1369
+MEG3,Prostate,360,1365
+MEG3,Prostatic Neoplasms,360,1339
+MEG3,"Purpura, Thrombotic Thrombocytopenic",360,1507
+MEG3,"Carcinoma, Renal Cell",360,1324
+MEG3,Retinoblastoma,360,1348
+MEG3,Stomach Neoplasms,360,1307
+MEG3,"Diabetes Mellitus, Type 1",360,1479
+MEG3,Urinary Bladder Neoplasms,360,1306
+mer11c,Breast Neoplasms,361,1303
+mer11c,"Carcinoma, Hepatocellular",361,1310
+mer11c,Melanoma,361,1347
+mer11c,"Carcinoma, Non-Small-Cell Lung",361,1312
+MESTIT1,Astrocytoma,362,1298
+MESTIT1,Silver-Russell Syndrome,362,1460
+MIAT,Alzheimer Disease,363,1342
+MIAT,Breast Neoplasms,363,1303
+MIAT,Neoplasms,363,1299
+MIAT,"Leukemia, Lymphocytic, Chronic, B-Cell",363,1401
+MIAT,Diabetic Retinopathy,363,1508
+MIAT,"Cardiomyopathy, Dilated",363,1340
+MIAT,Glioblastoma,363,1301
+MIAT,Heroin Dependence,363,1503
+MIAT,Adenocarcinoma of Lung,363,1329
+MIAT,Lung Neoplasms,363,1308
+MIAT,Myocardial Infarction,363,1388
+MIAT,Nervous System Diseases,363,1334
+MIAT,"Carcinoma, Non-Small-Cell Lung",363,1312
+MIAT,Ovarian Neoplasms,363,1309
+MIAT,Prostatic Neoplasms,363,1339
+MIAT,Schizophrenia,363,1358
+MIAT,Seizures,363,1316
+MIAT,Stomach Neoplasms,363,1307
+MIAT,Substance-Related Disorders,363,1509
+MINCR,Burkitt Lymphoma,364,1510
+MINCR,Gallbladder Neoplasms,364,1328
+MIR100HG,Uterine Cervical Neoplasms,365,1300
+MIR100HG,"Carcinoma, Hepatocellular",365,1310
+MIR100HG,"Leukemia, Megakaryoblastic, Acute",365,1511
+MIR100HG,"Leukemia, Myeloid",365,1512
+MIR100HG,Myopia,365,1513
+MIR100HG,Neuroblastoma,365,1302
+MIR155HG,Astrocytoma,366,1298
+MIR155HG,"Leukemia, Lymphocytic, Chronic, B-Cell",366,1401
+MIR155HG,Glioblastoma,366,1301
+MIR155HG,Glioma,366,1322
+MIR17HG,Astrocytoma,367,1298
+MIR17HG,Neoplasms,367,1299
+MIR17HG,"Lymphoma, Large B-Cell, Diffuse",367,1470
+MIR17HG,Glioblastoma,367,1301
+MIR17HG,Syndrome,367,1514
+MIR210HG,Osteosarcoma,368,1305
+MIR22HG,Astrocytoma,369,1298
+MIR22HG,"Carcinoma, Hepatocellular",369,1310
+MIR22HG,Lung Neoplasms,369,1308
+MIR22HG,Ovarian Neoplasms,369,1309
+MIR31HG,Hirschsprung Disease,370,1432
+MIR31HG,Adenocarcinoma of Lung,370,1329
+MIR31HG,"Carcinoma, Non-Small-Cell Lung",370,1312
+MIR31HG,Stomach Neoplasms,370,1307
+MIR31HG,Urinary Bladder Neoplasms,370,1306
+MIR34AHG,Osteosarcoma,371,1305
+MIR4435-2HG,Lung Neoplasms,372,1308
+MIR4435-2HG,"Carcinoma, Non-Small-Cell Lung",372,1312
+MIR4435-2HG,Stomach Neoplasms,372,1307
+MIR503HG,Astrocytoma,373,1298
+MIR503HG,Choriocarcinoma,373,1439
+MIR7-3HG,Astrocytoma,374,1298
+MIR7-3HG,"Carcinoma, Hepatocellular",374,1310
+MIR7-3HG,Liver Neoplasms,374,1313
+MIR7515HG,Astrocytoma,375,1298
+MIR99AHG,"Leukemia, Megakaryoblastic, Acute",376,1511
+MIR99AHG,"Leukemia, Myeloid",376,1512
+MNX1-AS1,Breast Neoplasms,377,1303
+MNX1-AS1,Colorectal Neoplasms,377,1304
+MNX1-AS1,Ovarian Neoplasms,377,1309
+MSR1,Breast Neoplasms,378,1303
+MSR1,Non-alcoholic Fatty Liver Disease,378,1481
+MSR1,Polycystic Ovary Syndrome,378,1314
+MT-LIPCAR,Heart Failure,379,1318
+MT-LIPCAR,Myocardial Infarction,379,1388
+MT1JP,Neoplasms,380,1299
+MUC20-OT1,Astrocytoma,381,1298
+MUC20-OT1,"Carcinoma, Non-Small-Cell Lung",381,1312
+MVIH,Breast Neoplasms,382,1303
+MVIH,Glioma,382,1322
+MVIH,"Carcinoma, Hepatocellular",382,1310
+MVIH,"Carcinoma, Non-Small-Cell Lung",382,1312
+MYCNOS-01,Neuroblastoma,383,1302
+MYCNOS-01,Rhabdomyosarcoma,383,1515
+MYEF2,Nasal Polyps,384,1433
+MYEF2,"Carcinoma, Non-Small-Cell Lung",384,1312
+MYLK-AS1,Astrocytoma,385,1298
+MYLK-AS1,Stomach Neoplasms,385,1307
+NAMA,Astrocytoma,386,1298
+NAMA,"Thyroid Cancer, Papillary",386,1332
+NBAT1,Astrocytoma,387,1298
+NBAT1,Breast Neoplasms,387,1303
+NBAT1,Neuroblastoma,387,1302
+NBAT1,Ovarian Neoplasms,387,1309
+NBAT1,"Carcinoma, Renal Cell",387,1324
+NBR2,Astrocytoma,388,1298
+NBR2,Neoplasms,388,1299
+NCRUPAR,Astrocytoma,389,1298
+NCRUPAR,Colorectal Neoplasms,389,1304
+NCRUPAR,Glioblastoma,389,1301
+NCRUPAR,Stomach Neoplasms,389,1307
+NDM29,Astrocytoma,390,1298
+NDM29,Glioblastoma,390,1301
+NDM29,Neuroblastoma,390,1302
+NEAT1,Acquired Immunodeficiency Syndrome,391,1462
+NEAT1,"Leukemia, Promyelocytic, Acute",391,1475
+NEAT1,Amyotrophic Lateral Sclerosis,391,1485
+NEAT1,Astrocytoma,391,1298
+NEAT1,Breast Neoplasms,391,1303
+NEAT1,Burkitt Lymphoma,391,1510
+NEAT1,Neoplasms,391,1299
+NEAT1,Uterine Cervical Neoplasms,391,1300
+NEAT1,Cholangiocarcinoma,391,1326
+NEAT1,"Leukemia, Lymphocytic, Chronic, B-Cell",391,1401
+NEAT1,Colorectal Neoplasms,391,1304
+NEAT1,Intervertebral Disc Degeneration,391,1335
+NEAT1,Dengue,391,1516
+NEAT1,Endometrial Neoplasms,391,1362
+NEAT1,Frontotemporal Dementia,391,1517
+NEAT1,Glioma,391,1322
+NEAT1,"Carcinoma, Hepatocellular",391,1310
+NEAT1,HIV,391,1494
+NEAT1,Huntington Disease,391,1355
+NEAT1,Kidney Diseases,391,1518
+NEAT1,Squamous Cell Carcinoma of Head and Neck,391,1360
+NEAT1,Leukemia,391,1385
+NEAT1,Nasopharyngeal Carcinoma,391,1319
+NEAT1,"Carcinoma, Non-Small-Cell Lung",391,1312
+NEAT1,Osteosarcoma,391,1305
+NEAT1,Ovarian Neoplasms,391,1309
+NEAT1,Pancreatic Neoplasms,391,1315
+NEAT1,"Thyroid Cancer, Papillary",391,1332
+NEAT1,Parkinson Disease,391,1455
+NEAT1,Prostatic Neoplasms,391,1339
+NEAT1,"Multiple Sclerosis, Relapsing-Remitting",391,1519
+NEAT1,Seizures,391,1316
+NEAT1,"Carcinoma, Squamous Cell",391,1320
+NEAT1,Stomach Neoplasms,391,1307
+NEAT1,"Lupus Erythematosus, Systemic",391,1501
+NEAT1,Thyroid Neoplasms,391,1330
+NEAT1_2,Amyotrophic Lateral Sclerosis,392,1485
+NEAT1_2,"Thyroid Cancer, Papillary",392,1332
+NEXN-AS1,Astrocytoma,393,1298
+NEXN-AS1,Lung Neoplasms,393,1308
+NKILA,Breast Neoplasms,394,1303
+NKILA,Esophageal Squamous Cell Carcinoma,394,1327
+NKILA,"Carcinoma, Hepatocellular",394,1310
+NKILA,Melanoma,394,1347
+NKILA,Nasopharyngeal Carcinoma,394,1319
+NKILA,Neoplasm Metastasis,394,1520
+NKILA,"Carcinoma, Non-Small-Cell Lung",394,1312
+NNT-AS1,Breast Neoplasms,395,1303
+NNT-AS1,Uterine Cervical Neoplasms,395,1300
+NNT-AS1,Colorectal Neoplasms,395,1304
+NNT-AS1,"Carcinoma, Hepatocellular",395,1310
+NNT-AS1,Osteosarcoma,395,1305
+NNT-AS1,Ovarian Neoplasms,395,1309
+NONRATT021972,Chronic Pain,396,1521
+NONRATT021972,Diabetes Mellitus,396,1379
+NONRATT021972,Diabetic Nephropathies,396,1487
+NONRATT021972,Myocardial Reperfusion Injury,396,1522
+NONRATT021972,"Diabetes Mellitus, Type 2",396,1399
+NORAD,Breast Neoplasms,397,1303
+NORAD,Colorectal Neoplasms,397,1304
+NORAD,Esophageal Squamous Cell Carcinoma,397,1327
+NORAD,"Carcinoma, Hepatocellular",397,1310
+NORAD,Pancreatic Neoplasms,397,1315
+NOS2,Glioblastoma,398,1301
+NOS2,Meningioma,398,1453
+NPAP1,Angelman Syndrome,399,1523
+NPAP1,Prader-Willi Syndrome,399,1458
+NPTN-IT1,Neoplasms,400,1299
+NPTN-IT1,Uterine Cervical Neoplasms,400,1300
+NPTN-IT1,Colorectal Neoplasms,400,1304
+NPTN-IT1,Esophageal Squamous Cell Carcinoma,400,1327
+NPTN-IT1,Gallbladder Neoplasms,400,1328
+NPTN-IT1,"Carcinoma, Hepatocellular",400,1310
+NPTN-IT1,Adenocarcinoma of Lung,400,1329
+NPTN-IT1,Nasopharyngeal Carcinoma,400,1319
+NPTN-IT1,"Carcinoma, Renal Cell",400,1324
+NPTN-IT1,Stomach Neoplasms,400,1307
+NR2F1-AS1,Astrocytoma,401,1298
+NR2F1-AS1,"Carcinoma, Hepatocellular",401,1310
+NR2F1-AS1,Rhabdomyosarcoma,401,1515
+NRIR,Hepatitis C,402,1472
+NRIR,Melanoma,402,1347
+NRON,Acquired Immunodeficiency Syndrome,403,1462
+NRON,Down Syndrome,403,1524
+NRON,Heart Failure,403,1318
+NRON,Inflammatory Bowel Diseases,403,1364
+OIP5-AS1,Astrocytoma,404,1298
+OIP5-AS1,Glioma,404,1322
+OIP5-AS1,Hepatoblastoma,404,1402
+OVCH1-AS1,Astrocytoma,405,1298
+OVCH1-AS1,"Carcinoma, Hepatocellular",405,1310
+PACERR,Osteoarthritis,406,1403
+PACERR,Osteosarcoma,406,1305
+PAN,"Sarcoma, Kaposi",407,1525
+PANDAR,Breast Neoplasms,408,1303
+PANDAR,Neoplasms,408,1299
+PANDAR,Uterine Cervical Neoplasms,408,1300
+PANDAR,Cholangiocarcinoma,408,1326
+PANDAR,Colorectal Neoplasms,408,1304
+PANDAR,"Lymphoma, Large B-Cell, Diffuse",408,1470
+PANDAR,"Carcinoma, Hepatocellular",408,1310
+PANDAR,"Carcinoma, Non-Small-Cell Lung",408,1312
+PANDAR,Osteosarcoma,408,1305
+PANDAR,"Carcinoma, Renal Cell",408,1324
+PANDAR,Stomach Neoplasms,408,1307
+PANDAR,Thyroid Neoplasms,408,1330
+PANDAR,Tumor Suppressor Protein p53,408,1526
+PANDAR,Urinary Bladder Neoplasms,408,1306
+PAUPAR,Melanoma,409,1347
+PAUPAR,Neuroblastoma,409,1302
+PCA3,Astrocytoma,410,1298
+PCA3,"Carcinoma, Ovarian Epithelial",410,1323
+PCA3,Parkinson Disease,410,1455
+PCA3,Prostate,410,1365
+PCA3,Prostatic Neoplasms,410,1339
+PCAT1,Neoplasms,411,1299
+PCAT1,Uterine Cervical Neoplasms,411,1300
+PCAT1,Cholangiocarcinoma,411,1326
+PCAT1,Colorectal Neoplasms,411,1304
+PCAT1,Esophageal Neoplasms,411,1351
+PCAT1,Glioblastoma,411,1301
+PCAT1,"Carcinoma, Hepatocellular",411,1310
+PCAT1,Lung Neoplasms,411,1308
+PCAT1,Multiple Myeloma,411,1368
+PCAT1,Osteosarcoma,411,1305
+PCAT1,Prostate,411,1365
+PCAT1,Prostatic Neoplasms,411,1339
+PCAT1,"Carcinoma, Squamous Cell",411,1320
+PCAT1,Stomach Neoplasms,411,1307
+PCAT1,Urinary Bladder Neoplasms,411,1306
+PCAT14,Prostatic Neoplasms,412,1339
+PCAT29,"Carcinoma, Hepatocellular",413,1310
+PCAT29,Adenocarcinoma of Lung,413,1329
+PCAT29,Prostatic Neoplasms,413,1339
+PCAT29,"Carcinoma, Renal Cell",413,1324
+PCAT29,Urinary Bladder Neoplasms,413,1306
+PCAT6,Lung Neoplasms,414,1308
+PCAT6,"Carcinoma, Non-Small-Cell Lung",414,1312
+PCAT7,Nasopharyngeal Carcinoma,415,1319
+PCAT7,"Carcinoma, Non-Small-Cell Lung",415,1312
+PCAT7,Prostatic Neoplasms,415,1339
+PCBP2-OT1,"Carcinoma, Hepatocellular",416,1310
+PCBP2-OT1,Lung Neoplasms,416,1308
+PCGEM1,Glioma,417,1322
+PCGEM1,Osteoarthritis,417,1403
+PCGEM1,Prostate,417,1365
+PCGEM1,Prostatic Neoplasms,417,1339
+PCNA-AS1,Neoplasms,418,1299
+PCNA-AS1,"Carcinoma, Hepatocellular",418,1310
+PCNA-AS1,Stomach Neoplasms,418,1307
+PEG10,"Lymphoma, Large B-Cell, Diffuse",419,1470
+PEG10,Esophageal Neoplasms,419,1351
+PEG10,Squamous Cell Carcinoma of Head and Neck,419,1360
+PHBP1,Esophageal Squamous Cell Carcinoma,420,1327
+PICSAR,Narcolepsy,421,1527
+PICSAR,"Carcinoma, Squamous Cell",421,1320
+PINCR,Colorectal Neoplasms,422,1304
+PINK1-AS,Astrocytoma,423,1298
+PINK1-AS,Breast Neoplasms,423,1303
+PINK1-AS,Glucose Metabolism Disorders,423,1528
+PINK1-AS,Parkinson Disease,423,1455
+PRAL,"Carcinoma, Hepatocellular",424,1310
+PRAL,Lung Neoplasms,424,1308
+PRINS,Prostatic Neoplasms,425,1339
+PRINS,Psoriasis,425,1467
+PRNCR1,Astrocytoma,426,1298
+PRNCR1,Colorectal Neoplasms,426,1304
+PRNCR1,Glioma,426,1322
+PRNCR1,Prostate,426,1365
+PRNCR1,Prostatic Neoplasms,426,1339
+PRNCR1,Stomach Neoplasms,426,1307
+PSMD6-AS1,Glioma,427,1322
+PSMD6-AS1,"Thyroid Cancer, Papillary",427,1332
+PTCSC2,Glioblastoma,428,1301
+PTCSC2,"Thyroid Cancer, Papillary",428,1332
+PTCSC3,Glioma,429,1322
+PTCSC3,"Thyroid Cancer, Papillary",429,1332
+PTCSC3,Thyroid Neoplasms,429,1330
+PTENP1,Breast Neoplasms,430,1303
+PTENP1,Neoplasms,430,1299
+PTENP1,"Carcinoma, Hepatocellular",430,1310
+PTENP1,Prostate,430,1365
+PTENP1,"Carcinoma, Renal Cell",430,1324
+PTENP1,Stomach Neoplasms,430,1307
+PTPRG-AS1,Breast Neoplasms,431,1303
+PVT1,Asthma,432,1529
+PVT1,Astrocytoma,432,1298
+PVT1,"Lymphoma, B-Cell",432,1429
+PVT1,Breast Neoplasms,432,1303
+PVT1,Burkitt Lymphoma,432,1510
+PVT1,Neoplasms,432,1299
+PVT1,Cardiomegaly,432,1370
+PVT1,Uterine Cervical Neoplasms,432,1300
+PVT1,"Carcinoma, Renal Cell",432,1324
+PVT1,Cleft Lip,432,1530
+PVT1,Colorectal Neoplasms,432,1304
+PVT1,Diabetic Nephropathies,432,1487
+PVT1,Esophageal Squamous Cell Carcinoma,432,1327
+PVT1,Glioma,432,1322
+PVT1,Hematologic Neoplasms,432,1372
+PVT1,"Carcinoma, Hepatocellular",432,1310
+PVT1,Lymphoma,432,1417
+PVT1,Multiple Myeloma,432,1368
+PVT1,"Carcinoma, Non-Small-Cell Lung",432,1312
+PVT1,Osteosarcoma,432,1305
+PVT1,Pancreatic Neoplasms,432,1315
+PVT1,Plasmacytoma,432,1531
+PVT1,Prostatic Neoplasms,432,1339
+PVT1,Stomach Neoplasms,432,1307
+PVT1,Thyroid Neoplasms,432,1330
+PVT1,Urinary Bladder Neoplasms,432,1306
+RAMP2-AS1,Astrocytoma,433,1298
+RBM5-AS1,Astrocytoma,434,1298
+RBM5-AS1,Colonic Neoplasms,434,1336
+RFPL1S,Astrocytoma,435,1298
+RMRP,Stomach Neoplasms,436,1307
+RMST,Rhabdomyosarcoma,437,1515
+RMST,Triple Negative Breast Neoplasms,437,1398
+RN7SK,Acquired Immunodeficiency Syndrome,438,1462
+RN7SK,Cardiomegaly,438,1370
+RN7SL1,Acquired Immunodeficiency Syndrome,439,1462
+RN7SL1,Leishmaniasis,439,1532
+RNY1,Uterine Cervical Neoplasms,440,1300
+RNY1,Prostatic Neoplasms,440,1339
+RNY3,Kidney Neoplasms,441,1418
+RNY3,Lung Neoplasms,441,1308
+LINC00152,Uterine Cervical Neoplasms,442,1300
+AATBC,Nasopharyngeal Neoplasms,2,1533
+AB019562,Squamous Cell Carcinoma of Head and Neck,443,1360
+AB019562,"Carcinoma, Hepatocellular",443,1310
+AB073614,Uterine Cervical Neoplasms,444,1300
+AB073614,"Carcinoma, Ovarian Epithelial",444,1323
+AB073614,Stomach Neoplasms,444,1307
+AB073614,Colorectal Neoplasms,444,1304
+AB073614,"Carcinoma, Non-Small-Cell Lung",444,1312
+AB073614,Ovarian Neoplasms,444,1309
+AB073614,Glioma,444,1322
+AB209630,Pancreatic Neoplasms,445,1315
+AB209630,"Carcinoma, Hepatocellular",445,1310
+AB209630,Squamous Cell Carcinoma of Head and Neck,445,1360
+ABHD11-AS1,Endometrial Neoplasms,3,1362
+ABHD11-AS1,Ovarian Neoplasms,3,1309
+ABHD11-AS1,Colorectal Neoplasms,3,1304
+ABHD11-AS1,"Thyroid Cancer, Papillary",3,1332
+ABHD11-AS1,Pancreatic Neoplasms,3,1315
+AC026904.1,Lung Neoplasms,446,1308
+AC026904.1,Breast Neoplasms,446,1303
+AC138128.1,Lung Neoplasms,447,1308
+AC138128.1,Stomach Neoplasms,447,1307
+ACTN4,Kidney Neoplasms,448,1418
+ACTN4,"Carcinoma, Renal Cell",448,1324
+ADAMTS9-AS1,Prostatic Neoplasms,32,1339
+ADAMTS9-AS1,Urinary Bladder Neoplasms,32,1306
+ADAMTS9-AS2,Stomach Neoplasms,33,1307
+ADAMTS9-AS2,Breast Neoplasms,33,1303
+ADAMTS9-AS2,Ovarian Neoplasms,33,1309
+ADAMTS9-AS2,"Carcinoma, Adenoid Cystic",33,1534
+ADAMTS9-AS2,Glioblastoma,33,1301
+ADAMTS9-AS2,Colorectal Neoplasms,33,1304
+ADPGK-AS1,Colorectal Neoplasms,449,1304
+ADPGK-AS1,Stomach Neoplasms,449,1307
+ADPGK-AS1,Breast Neoplasms,449,1303
+ADPGK-AS1,Pancreatic Neoplasms,449,1315
+AFAP1-AS1,Breast Neoplasms,35,1303
+AFAP1-AS1,Laryngeal Neoplasms,35,1415
+AFAP1-AS1,"Carcinoma, Renal Cell",35,1324
+AFAP1-AS1,Uterine Cervical Neoplasms,35,1300
+AFAP1-AS1,Squamous Cell Carcinoma of Head and Neck,35,1360
+AFAP1-AS1,Prostatic Neoplasms,35,1339
+AFAP1-AS1,Osteosarcoma,35,1305
+AFAP1-AS1,Glioma,35,1322
+AFAP1-AS1,Nasopharyngeal Neoplasms,35,1533
+AFAP1-AS1,Colonic Neoplasms,35,1336
+AFAP1-AS1,Triple Negative Breast Neoplasms,35,1398
+AFAP1-AS1,Retinoblastoma,35,1348
+AGAP2-AS1,Colorectal Neoplasms,36,1304
+AGAP2-AS1,Esophageal Neoplasms,36,1351
+AGAP2-AS1,Breast Neoplasms,36,1303
+AGAP2-AS1,Pancreatic Neoplasms,36,1315
+AGAP2-AS1,Glioblastoma,36,1301
+AGAP2-AS1,"Carcinoma, Hepatocellular",36,1310
+AGAP2-AS1,Ovarian Neoplasms,36,1309
+aHIF,"Carcinoma, Ovarian Epithelial",450,1323
+aHIF,Glioblastoma,450,1301
+aHIF,"Carcinoma, Hepatocellular",450,1310
+AK001058,Colorectal Neoplasms,451,1304
+AK001058,Stomach Neoplasms,451,1307
+AK001796,"Carcinoma, Hepatocellular",452,1310
+AK001796,"Carcinoma, Non-Small-Cell Lung",452,1312
+AK001796,Esophageal Squamous Cell Carcinoma,452,1327
+AK001796,Lung Neoplasms,452,1308
+AK023948,"Carcinoma, Hepatocellular",453,1310
+AK023948,"Thyroid Cancer, Papillary",453,1332
+AK027294,"Carcinoma, Non-Small-Cell Lung",454,1312
+AK027294,Nasopharyngeal Neoplasms,454,1533
+AK027294,Stomach Neoplasms,454,1307
+AK027294,Colorectal Neoplasms,454,1304
+AL359062,Nasopharyngeal Neoplasms,455,1533
+ANCR,"Carcinoma, Non-Small-Cell Lung",456,1312
+ANCR,Stomach Neoplasms,456,1307
+ANCR,"Carcinoma, Hepatocellular",456,1310
+ANCR,Nasopharyngeal Neoplasms,456,1533
+ANCR,Glioma,456,1322
+ANCR,Breast Neoplasms,456,1303
+ANCR,Colorectal Neoplasms,456,1304
+ANCR,Osteosarcoma,456,1305
+ANRASSF1,Breast Neoplasms,457,1303
+ANRASSF1,Prostatic Neoplasms,457,1339
+ANRASSF1,Uterine Cervical Neoplasms,457,1300
+ANRIL,Urinary Bladder Neoplasms,458,1306
+ANRIL,Osteosarcoma,458,1305
+ANRIL,"Leukemia, Myeloid, Acute",458,1366
+ANRIL,"Carcinoma, Hepatocellular",458,1310
+ANRIL,Ovarian Neoplasms,458,1309
+ANRIL,Retinoblastoma,458,1348
+ANRIL,Breast Neoplasms,458,1303
+ANRIL,Stomach Neoplasms,458,1307
+ANRIL,Glioblastoma,458,1301
+ANRIL,Colorectal Neoplasms,458,1304
+ANRIL,"Leukemia-Lymphoma, Adult T-Cell",458,1483
+ANRIL,Glioma,458,1322
+ANRIL,"Thyroid Cancer, Papillary",458,1332
+ANRIL,Esophageal Neoplasms,458,1351
+ANRIL,Pancreatic Neoplasms,458,1315
+ANRIL,Squamous Cell Carcinoma of Head and Neck,458,1360
+ANRIL,Pancreatic Intraductal Neoplasms,458,1535
+ANRIL,Neurofibromatosis 1,458,1391
+ANRIL,Medulloblastoma,458,1367
+ANRIL,Lung Neoplasms,458,1308
+ANRIL,Colonic Neoplasms,458,1336
+ANRIL,Mouth Neoplasms,458,1386
+ANRIL,Triple Negative Breast Neoplasms,458,1398
+ANRIL,"Carcinoma, Renal Cell",458,1324
+ANRIL,Adenocarcinoma of Lung,458,1329
+ANRIL,Gallbladder Neoplasms,458,1328
+ANRIL,Thyroid Neoplasms,458,1330
+ANRIL,Esophageal Squamous Cell Carcinoma,458,1327
+ANRIL,Precursor Cell Lymphoblastic Leukemia-Lymphoma,458,1344
+ANRIL,Prostatic Neoplasms,458,1339
+ANRIL,Melanoma,458,1347
+ANRIL,Nasopharyngeal Neoplasms,458,1533
+ANRIL,Uterine Cervical Neoplasms,458,1300
+ANRIL,"Carcinoma, Non-Small-Cell Lung",458,1312
+anti-NOS2A,Glioblastoma,459,1301
+anti-NOS2A,Meningioma,459,1453
+AOC4P,Ovarian Neoplasms,49,1309
+AOC4P,"Carcinoma, Non-Small-Cell Lung",49,1312
+AOC4P,Stomach Neoplasms,49,1307
+AOC4P,Gastrointestinal Stromal Tumors,49,1371
+APTR,Osteosarcoma,51,1305
+ARAP1-AS1,Stomach Neoplasms,460,1307
+ARAP1-AS1,Breast Neoplasms,460,1303
+ARAP1-AS1,Uterine Cervical Neoplasms,460,1300
+ARAP1-AS1,Colorectal Neoplasms,460,1304
+ARAP1-AS1,Urinary Bladder Neoplasms,460,1306
+ASAP1-IT1,"Carcinoma, Ovarian Epithelial",52,1323
+ASAP1-IT1,Cholangiocarcinoma,52,1326
+ASAP1-IT1,Urinary Bladder Neoplasms,52,1306
+ASB16-AS1,Uterine Cervical Neoplasms,461,1300
+ASB16-AS1,Osteosarcoma,461,1305
+ASB16-AS1,Glioma,461,1322
+ASB16-AS1,"Carcinoma, Hepatocellular",461,1310
+ASBEL,Osteosarcoma,462,1305
+ASBEL,Breast Neoplasms,462,1303
+ATB,"Carcinoma, Non-Small-Cell Lung",53,1312
+ATB,Melanoma,53,1347
+ATB,Uterine Cervical Neoplasms,53,1300
+ATB,"Carcinoma, Hepatocellular",53,1310
+ATB,Cholangiocarcinoma,53,1326
+ATB,Lung Neoplasms,53,1308
+ATB,"Carcinoma, Renal Cell",53,1324
+ATB,Colorectal Neoplasms,53,1304
+AWPPH,Glioma,463,1322
+AWPPH,"Carcinoma, Non-Small-Cell Lung",463,1312
+AWPPH,Ovarian Neoplasms,463,1309
+AWPPH,Osteosarcoma,463,1305
+AWPPH,Triple Negative Breast Neoplasms,463,1398
+AWPPH,Colonic Neoplasms,463,1336
+AWPPH,Stomach Neoplasms,463,1307
+AWPPH,Urinary Bladder Neoplasms,463,1306
+AWPPH,"Carcinoma, Hepatocellular",463,1310
+B3GALT5-AS1,Colorectal Neoplasms,464,1304
+B3GALT5-AS1,Colonic Neoplasms,464,1336
+B3GALT5-AS1,Stomach Neoplasms,464,1307
+BANCR,Thyroid Neoplasms,59,1330
+BANCR,Pancreatic Neoplasms,59,1315
+BANCR,"Carcinoma, Renal Cell",59,1324
+BANCR,Squamous Cell Carcinoma of Head and Neck,59,1360
+BANCR,Endometrial Neoplasms,59,1362
+BANCR,Breast Neoplasms,59,1303
+BC029135,"Carcinoma, Renal Cell",465,1324
+BC029135,Colorectal Neoplasms,465,1304
+BC032469,Stomach Neoplasms,466,1307
+BC032469,Esophageal Squamous Cell Carcinoma,466,1327
+BC040587,Stomach Neoplasms,467,1307
+BC040587,Breast Neoplasms,467,1303
+BC040587,Osteosarcoma,467,1305
+BC200,"Carcinoma, Non-Small-Cell Lung",468,1312
+BC200,"Carcinoma, Hepatocellular",468,1310
+BC200,Esophageal Neoplasms,468,1351
+BC200,Triple Negative Breast Neoplasms,468,1398
+BC200,Esophageal Squamous Cell Carcinoma,468,1327
+BC200,Uterine Cervical Neoplasms,468,1300
+BC200,Parotid Neoplasms,468,1352
+BC200,Tongue Neoplasms,468,1353
+BC200,Glioma,468,1322
+BC200,Colonic Neoplasms,468,1336
+BC200,Lung Neoplasms,468,1308
+BC200,Ovarian Neoplasms,468,1309
+BC200,Breast Neoplasms,468,1303
+BCAR4,Liver Neoplasms,60,1313
+BCAR4,Urinary Bladder Neoplasms,60,1306
+BCAR4,Glioma,60,1322
+BCAR4,Prostatic Neoplasms,60,1339
+BCYRN1,Colorectal Neoplasms,61,1304
+BCYRN1,"Carcinoma, Hepatocellular",61,1310
+BCYRN1,Stomach Neoplasms,61,1307
+BDNF-AS,Glioblastoma,62,1301
+BDNF-AS,Colorectal Neoplasms,62,1304
+BDNF-AS,Osteosarcoma,62,1305
+BDNF-AS,Prostatic Neoplasms,62,1339
+BLACAT1,Ovarian Neoplasms,63,1309
+BLACAT1,Breast Neoplasms,63,1303
+BLACAT1,Prostatic Neoplasms,63,1339
+BLACAT1,Squamous Cell Carcinoma of Head and Neck,63,1360
+BLACAT1,"Carcinoma, Hepatocellular",63,1310
+BLACAT1,Glioma,63,1322
+BLACAT1,Small Cell Lung Carcinoma,63,1476
+BLACAT1,"Thyroid Cancer, Papillary",63,1332
+BLACAT2,Stomach Neoplasms,469,1307
+BLACAT2,Colorectal Neoplasms,469,1304
+BM742401,"Leukemia, Lymphocytic, Chronic, B-Cell",470,1401
+BM742401,Stomach Neoplasms,470,1307
+BOKAS,Esophageal Squamous Cell Carcinoma,471,1327
+BOKAS,Testicular Neoplasms,471,1359
+BORG,Colorectal Neoplasms,472,1304
+BORG,Triple Negative Breast Neoplasms,472,1398
+BORG,Breast Neoplasms,472,1303
+BRE-AS1,Prostatic Neoplasms,473,1339
+BRE-AS1,"Carcinoma, Non-Small-Cell Lung",473,1312
+BX357664,Colorectal Neoplasms,474,1304
+BX357664,Lung Neoplasms,474,1308
+BX357664,"Carcinoma, Non-Small-Cell Lung",474,1312
+BX357664,"Carcinoma, Renal Cell",474,1324
+C5orf66-AS1,Stomach Neoplasms,67,1307
+C5orf66-AS1,Uterine Cervical Neoplasms,67,1300
+CACNA1G-AS1,"Carcinoma, Hepatocellular",475,1310
+CACNA1G-AS1,Colorectal Neoplasms,475,1304
+CACNA1G-AS1,"Carcinoma, Non-Small-Cell Lung",475,1312
+CACS15,Ovarian Neoplasms,476,1309
+CACS15,Squamous Cell Carcinoma of Head and Neck,476,1360
+CACS15,Colorectal Neoplasms,476,1304
+CADM1-AS1,"Carcinoma, Hepatocellular",477,1310
+CADM1-AS1,Stomach Neoplasms,477,1307
+CADM1-AS1,"Carcinoma, Renal Cell",477,1324
+CALML3-AS1,Urinary Bladder Neoplasms,478,1306
+CALML3-AS1,Uterine Cervical Neoplasms,478,1300
+CAR10,Uterine Cervical Neoplasms,479,1300
+CAR10,Adenocarcinoma of Lung,479,1329
+CAR10,"Carcinoma, Non-Small-Cell Lung",479,1312
+CARLo-5,Stomach Neoplasms,480,1307
+CARLo-5,Endometrial Neoplasms,480,1362
+CARLo-5,"Carcinoma, Hepatocellular",480,1310
+CASC11,Small Cell Lung Carcinoma,70,1476
+CASC11,Urinary Bladder Neoplasms,70,1306
+CASC11,Osteosarcoma,70,1305
+CASC11,Esophageal Neoplasms,70,1351
+CASC11,Glioma,70,1322
+CASC11,Stomach Neoplasms,70,1307
+CASC11,Lung Neoplasms,70,1308
+CASC11,Uterine Cervical Neoplasms,70,1300
+CASC15,Uterine Cervical Neoplasms,71,1300
+CASC15,Urinary Bladder Neoplasms,71,1306
+CASC15,Glioma,71,1322
+CASC15,Nasopharyngeal Neoplasms,71,1533
+CASC15,Ovarian Neoplasms,71,1309
+CASC15,"Carcinoma, Non-Small-Cell Lung",71,1312
+CASC15,Breast Neoplasms,71,1303
+CASC15,Prostatic Neoplasms,71,1339
+CASC15,"Leukemia, Myeloid, Acute",71,1366
+CASC19,"Carcinoma, Renal Cell",481,1324
+CASC19,Colorectal Neoplasms,481,1304
+CASC19,Stomach Neoplasms,481,1307
+CASC19,"Carcinoma, Non-Small-Cell Lung",481,1312
+CASC2,Squamous Cell Carcinoma of Head and Neck,72,1360
+CASC2,Esophageal Squamous Cell Carcinoma,72,1327
+CASC2,"Carcinoma, Non-Small-Cell Lung",72,1312
+CASC2,Uterine Cervical Neoplasms,72,1300
+CASC2,"Carcinoma, Ovarian Epithelial",72,1323
+CASC2,"Thyroid Cancer, Papillary",72,1332
+CASC2,Nasopharyngeal Neoplasms,72,1533
+CASC2,Melanoma,72,1347
+CASC2,Esophageal Neoplasms,72,1351
+CASC2,Urinary Bladder Neoplasms,72,1306
+CASC21,Colorectal Neoplasms,482,1304
+CASC21,Colonic Neoplasms,482,1336
+CASC2c,Glioblastoma,73,1301
+CASC2c,"Carcinoma, Non-Small-Cell Lung",73,1312
+CASC7,Neuroblastoma,483,1302
+CASC7,Glioma,483,1322
+CASC7,Colonic Neoplasms,483,1336
+CASC8,Esophageal Neoplasms,74,1351
+CASC9,Colorectal Neoplasms,75,1304
+CASC9,"Carcinoma, Hepatocellular",75,1310
+CASC9,Breast Neoplasms,75,1303
+CASC9,"Thyroid Cancer, Papillary",75,1332
+CASC9,Nasopharyngeal Neoplasms,75,1533
+CASC9,Lung Neoplasms,75,1308
+CASC9,Laryngeal Neoplasms,75,1415
+CASC9,Uterine Cervical Neoplasms,75,1300
+CASC9,Squamous Cell Carcinoma of Head and Neck,75,1360
+CASC9,Hemangioma,75,1493
+CASC9,Adenocarcinoma of Lung,75,1329
+CASC9,"Carcinoma, Hepatocellular",75,1310
+CASC9,Glioma,75,1322
+CAT104,Stomach Neoplasms,76,1307
+CAT104,Osteosarcoma,76,1305
+CBR3-AS1,Osteosarcoma,77,1305
+CCAL,Ovarian Neoplasms,78,1309
+CCAT1,Prostatic Neoplasms,79,1339
+CCAT1,Nasopharyngeal Neoplasms,79,1533
+CCAT1,Thyroid Neoplasms,79,1330
+CCAT1,Esophageal Neoplasms,79,1351
+CCAT1,Urinary Bladder Neoplasms,79,1306
+CCAT1,Triple Negative Breast Neoplasms,79,1398
+CCAT1,Melanoma,79,1347
+CCAT2,"Leukemia, Myeloid, Acute",80,1366
+CCAT2,Triple Negative Breast Neoplasms,80,1398
+CCAT2,Esophageal Neoplasms,80,1351
+CCAT2,Endometrial Neoplasms,80,1362
+CCAT2,Small Cell Lung Carcinoma,80,1476
+CCAT2,Esophageal Squamous Cell Carcinoma,80,1327
+CCEPR,Osteosarcoma,83,1305
+CCHE1,Squamous Cell Carcinoma of Head and Neck,484,1360
+CCHE1,Stomach Neoplasms,484,1307
+CCHE1,Colorectal Neoplasms,484,1304
+CCHE1,Uterine Cervical Neoplasms,484,1300
+CCHE1,"Carcinoma, Non-Small-Cell Lung",484,1312
+CCHE1,"Carcinoma, Hepatocellular",484,1310
+CDKN2BAS,"Carcinoma, Hepatocellular",485,1310
+CDKN2BAS,Glioblastoma,485,1301
+CDKN2B-AS1,Liver Neoplasms,87,1313
+CDKN2B-AS1,Esophageal Squamous Cell Carcinoma,87,1327
+CEBPA-AS1,Osteosarcoma,88,1305
+CEBPA-AS1,Adenocarcinoma of Lung,88,1329
+CEBPA-AS1,Liver Neoplasms,88,1313
+CHIAP2,Adenocarcinoma of Lung,486,1329
+CHRF,Stomach Neoplasms,91,1307
+CHRF,Adenocarcinoma of Lung,91,1329
+CHRF,Colorectal Neoplasms,91,1304
+CPS1-IT1,Glioma,93,1322
+CPS1-IT1,Klatskin Tumor,93,1496
+CPS1-IT1,Ovarian Neoplasms,93,1309
+CPS1-IT1,Colorectal Neoplasms,93,1304
+CRNDE,Wilms Tumor,94,1331
+CRNDE,Prostatic Neoplasms,94,1339
+CRNDE,"Carcinoma, Non-Small-Cell Lung",94,1312
+CRNDE,Osteosarcoma,94,1305
+CRNDE,Melanoma,94,1347
+CRNDE,Liver Neoplasms,94,1313
+CRNDE,Cholangiocarcinoma,94,1326
+CRNDE,Urinary Bladder Neoplasms,94,1306
+CRNDE,Multiple Myeloma,94,1368
+CRNDE,"Leukemia, Myeloid, Acute",94,1366
+CRNDE,Adenocarcinoma of Lung,94,1329
+CRYBG3,Lung Neoplasms,487,1308
+CTC-276P9.1,Urinary Bladder Neoplasms,488,1306
+CTC-276P9.1,Esophageal Squamous Cell Carcinoma,488,1327
+CUDR,"Carcinoma, Hepatocellular",489,1310
+CUDR,Lung Neoplasms,489,1308
+CYTOR,"Carcinoma, Non-Small-Cell Lung",97,1312
+DANCR,Uterine Cervical Neoplasms,98,1300
+DANCR,Glioma,98,1322
+DANCR,Esophageal Neoplasms,98,1351
+DANCR,Esophageal Squamous Cell Carcinoma,98,1327
+DANCR,Cholangiocarcinoma,98,1326
+DANCR,"Thyroid Cancer, Papillary",98,1332
+DANCR,Nasopharyngeal Neoplasms,98,1533
+DANCR,Ovarian Neoplasms,98,1309
+DANCR,Pancreatic Neoplasms,98,1315
+DANCR,Endometrial Neoplasms,98,1362
+DANCR,Colonic Neoplasms,98,1336
+DANCR,Urinary Bladder Neoplasms,98,1306
+DANCR,Adenocarcinoma of Lung,98,1329
+DANCR,Lung Neoplasms,98,1308
+DANCR,Retinoblastoma,98,1348
+DANCR,Glioblastoma,98,1301
+DARS-AS1,Ovarian Neoplasms,490,1309
+DARS-AS1,Thyroid Neoplasms,490,1330
+DBH-AS1,Osteosarcoma,101,1305
+DCST1-AS1,Endometrial Neoplasms,491,1362
+DCST1-AS1,Stomach Neoplasms,491,1307
+DCST1-AS1,Triple Negative Breast Neoplasms,491,1398
+DCST1-AS1,"Carcinoma, Hepatocellular",491,1310
+DDX11-AS1,Osteosarcoma,492,1305
+DDX11-AS1,Esophageal Neoplasms,492,1351
+DDX11-AS1,Stomach Neoplasms,492,1307
+DDX11-AS1,"Carcinoma, Non-Small-Cell Lung",492,1312
+DDX11-AS1,"Carcinoma, Hepatocellular",492,1310
+DDX11-AS1,Colorectal Neoplasms,492,1304
+DGCR5,"Carcinoma, Non-Small-Cell Lung",103,1312
+DGCR5,Laryngeal Neoplasms,103,1415
+DGCR5,Prostatic Neoplasms,103,1339
+DGCR5,Urinary Bladder Neoplasms,103,1306
+DGCR5,Colorectal Neoplasms,103,1304
+DGCR5,Thyroid Neoplasms,103,1330
+DGCR5,Uterine Cervical Neoplasms,103,1300
+DGCR5,Stomach Neoplasms,103,1307
+DILC,Colorectal Neoplasms,493,1304
+DILC,Gallbladder Neoplasms,493,1328
+DLEU1,Glioblastoma,106,1301
+DLEU1,Endometrial Neoplasms,106,1362
+DLEU1,Nasopharyngeal Neoplasms,106,1533
+DLEU1,"Carcinoma, Renal Cell",106,1324
+DLEU1,Urinary Bladder Neoplasms,106,1306
+DLEU1,Colorectal Neoplasms,106,1304
+DLEU1,Squamous Cell Carcinoma of Head and Neck,106,1360
+DLEU1,Uterine Cervical Neoplasms,106,1300
+DLEU1,"Carcinoma, Non-Small-Cell Lung",106,1312
+DLEU1,Osteosarcoma,106,1305
+DLEU1,Glioma,106,1322
+DLEU1,"Carcinoma, Hepatocellular",106,1310
+DLEU1,Ovarian Neoplasms,106,1309
+DLEU2,"Carcinoma, Hepatocellular",107,1310
+DLEU2,"Carcinoma, Non-Small-Cell Lung",107,1312
+DLEU2,Stomach Neoplasms,107,1307
+DLEU2,Osteosarcoma,107,1305
+DLEU2,Esophageal Neoplasms,107,1351
+DLG1-AS1,"Thyroid Cancer, Papillary",108,1332
+DLG1-AS1,Uterine Cervical Neoplasms,108,1300
+DLX6-AS1,Esophageal Squamous Cell Carcinoma,109,1327
+DLX6-AS1,Uterine Cervical Neoplasms,109,1300
+DLX6-AS1,"Sarcoma, Ewing",109,1419
+DLX6-AS1,Breast Neoplasms,109,1303
+DLX6-AS1,Laryngeal Neoplasms,109,1415
+DLX6-AS1,Neuroblastoma,109,1302
+DLX6-AS1,Stomach Neoplasms,109,1307
+DLX6-AS1,Nasopharyngeal Neoplasms,109,1533
+DLX6-AS1,Osteosarcoma,109,1305
+DLX6-AS1,Liver Neoplasms,109,1313
+DLX6-AS1,Thyroid Neoplasms,109,1330
+DLX6-AS1,Pancreatic Neoplasms,109,1315
+DLX6-AS1,Colorectal Neoplasms,109,1304
+DLX6-AS1,Ovarian Neoplasms,109,1309
+DLX6-AS1,"Carcinoma, Non-Small-Cell Lung",109,1312
+DLX6-AS1,Glioma,109,1322
+DLX6-AS1,"Carcinoma, Renal Cell",109,1324
+DLX6-AS1,Adrenocortical Carcinoma,109,1436
+DLX6-AS1,"Carcinoma, Hepatocellular",109,1310
+DNM3OS,Stomach Neoplasms,110,1307
+DNM3OS,Esophageal Squamous Cell Carcinoma,110,1327
+DQ786243,Ovarian Neoplasms,494,1309
+DQ786243,Stomach Neoplasms,494,1307
+DQ786243,Colorectal Neoplasms,494,1304
+DQ786243,"Carcinoma, Hepatocellular",494,1310
+DRAIC,Stomach Neoplasms,112,1307
+DRAIC,Nasopharyngeal Neoplasms,112,1533
+DSCAM-AS1,Uterine Cervical Neoplasms,113,1300
+DSCAM-AS1,Colorectal Neoplasms,113,1304
+DSCAM-AS1,"Carcinoma, Non-Small-Cell Lung",113,1312
+DSCAM-AS1,Lung Neoplasms,113,1308
+DSCAM-AS1,Ovarian Neoplasms,113,1309
+DSCAM-AS1,Melanoma,113,1347
+DSCAM-AS1,"Carcinoma, Hepatocellular",113,1310
+DUXAP10,Prostatic Neoplasms,114,1339
+DUXAP10,"Carcinoma, Hepatocellular",114,1310
+DUXAP10,Esophageal Squamous Cell Carcinoma,114,1327
+DUXAP10,Urinary Bladder Neoplasms,114,1306
+DUXAP10,Pancreatic Neoplasms,114,1315
+DUXAP10,"Carcinoma, Non-Small-Cell Lung",114,1312
+DUXAP8,"Carcinoma, Hepatocellular",115,1310
+DUXAP8,Urinary Bladder Neoplasms,115,1306
+DUXAP8,Esophageal Squamous Cell Carcinoma,115,1327
+DUXAP8,Mouth Neoplasms,115,1386
+DUXAP8,"Carcinoma, Non-Small-Cell Lung",115,1312
+DUXAP8,Colorectal Neoplasms,115,1304
+DUXAP8,Pancreatic Neoplasms,115,1315
+DUXAP8,Esophageal Neoplasms,115,1351
+ecCEBPA,"Carcinoma, Hepatocellular",495,1310
+ecCEBPA,Stomach Neoplasms,495,1307
+EGFR-AS1,Esophageal Squamous Cell Carcinoma,116,1327
+EGFR-AS1,Urinary Bladder Neoplasms,116,1306
+EGFR-AS1,Kidney Neoplasms,116,1418
+EGFR-AS1,Lung Neoplasms,116,1308
+EGFR-AS1,Glioma,116,1322
+EGFR-AS1,Stomach Neoplasms,116,1307
+EGFR-AS1,"Carcinoma, Squamous Cell",116,1320
+EGFR-AS1,"Carcinoma, Non-Small-Cell Lung",116,1312
+EGOT,"Carcinoma, Hepatocellular",119,1310
+EIF3J-AS1,Colorectal Neoplasms,496,1304
+EIF3J-AS1,"Carcinoma, Hepatocellular",496,1310
+ELF3-AS1,Osteosarcoma,497,1305
+ELF3-AS1,Squamous Cell Carcinoma of Head and Neck,497,1360
+ELF3-AS1,Urinary Bladder Neoplasms,497,1306
+ENST00000434223,Stomach Neoplasms,498,1307
+ENST00000434223,Kidney Neoplasms,498,1418
+ENST00000434223,"Carcinoma, Non-Small-Cell Lung",498,1312
+ENST00000434223,Adenocarcinoma of Lung,498,1329
+ENST00000457799,"Leukemia, Myeloid, Acute",499,1366
+ENST00000457799,Nasopharyngeal Neoplasms,499,1533
+EPB41L4A-AS2,"Carcinoma, Hepatocellular",123,1310
+EPB41L4A-AS2,"Carcinoma, Non-Small-Cell Lung",123,1312
+EPB41L4A-AS2,Ovarian Neoplasms,123,1309
+EPEL,Osteosarcoma,500,1305
+EPEL,Stomach Neoplasms,500,1307
+EPIC1,Glioma,501,1322
+EPIC1,Pancreatic Neoplasms,501,1315
+EPIC1,Lung Neoplasms,501,1308
+EPIC1,Cholangiocarcinoma,501,1326
+EPIC1,Osteosarcoma,501,1305
+EPIC1,Breast Neoplasms,501,1303
+Erbb4-IR,Prostatic Neoplasms,502,1339
+Erbb4-IR,Esophageal Squamous Cell Carcinoma,502,1327
+EWSAT1,Nasopharyngeal Neoplasms,126,1533
+EWSAT1,Colorectal Neoplasms,126,1304
+EWSAT1,Ovarian Neoplasms,126,1309
+EZR-AS1,Colorectal Neoplasms,503,1304
+EZR-AS1,Breast Neoplasms,503,1303
+EZR-AS1,Esophageal Squamous Cell Carcinoma,503,1327
+FAL1,Osteosarcoma,504,1305
+FAL1,Ovarian Neoplasms,504,1309
+FAL1,Esophageal Neoplasms,504,1351
+FAL1,Colonic Neoplasms,504,1336
+FAL1,Colorectal Neoplasms,504,1304
+FAL1,Stomach Neoplasms,504,1307
+FAL1,Esophageal Squamous Cell Carcinoma,504,1327
+FAL1,Squamous Cell Carcinoma of Head and Neck,504,1360
+FAL1,"Thyroid Cancer, Papillary",504,1332
+FAL1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,504,1344
+FAL1,Breast Neoplasms,504,1303
+FAL1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",504,1440
+FAL1,Glioblastoma,504,1301
+FAL1,"Lymphoma, Large-Cell, Immunoblastic",504,1536
+FAL1,Melanoma,504,1347
+FAL1,Prostatic Neoplasms,504,1339
+FAL1,Kidney Neoplasms,504,1418
+FAL1,"Carcinoma, Hepatocellular",504,1310
+FAL1,"Carcinoma, Non-Small-Cell Lung",504,1312
+FALEC,Stomach Neoplasms,127,1307
+FALEC,Endometrial Neoplasms,127,1362
+FALEC,Uterine Cervical Neoplasms,127,1300
+FALEC,Melanoma,127,1347
+FAM201A,Esophageal Squamous Cell Carcinoma,505,1327
+FAM201A,"Carcinoma, Non-Small-Cell Lung",505,1312
+FAM215A,Liver Neoplasms,128,1313
+FAM215A,"Carcinoma, Ovarian Epithelial",128,1323
+FAM83A-AS1,"Carcinoma, Hepatocellular",506,1310
+FAM83A-AS1,"Carcinoma, Non-Small-Cell Lung",506,1312
+FAM83H-AS1,Triple Negative Breast Neoplasms,130,1398
+FAM83H-AS1,Glioma,130,1322
+FAM83H-AS1,Breast Neoplasms,130,1303
+FAM83H-AS1,Uterine Cervical Neoplasms,130,1300
+FAM83H-AS1,Ovarian Neoplasms,130,1309
+FAM83H-AS1,Colonic Neoplasms,130,1336
+FAM83H-AS1,"Carcinoma, Hepatocellular",130,1310
+FAM83H-AS1,Urinary Bladder Neoplasms,130,1306
+FAM83H-AS1,Stomach Neoplasms,130,1307
+FAM83H-AS1,Adenocarcinoma of Lung,130,1329
+FAS-AS1,"Carcinoma, Non-Small-Cell Lung",131,1312
+FAS-AS1,Breast Neoplasms,131,1303
+FAS-AS1,"Lymphoma, B-Cell",131,1429
+FBXL19-AS1,Breast Neoplasms,132,1303
+FBXL19-AS1,Adenocarcinoma of Lung,132,1329
+FBXL19-AS1,Lung Neoplasms,132,1308
+FBXL19-AS1,Osteosarcoma,132,1305
+FBXL19-AS1,"Carcinoma, Non-Small-Cell Lung",132,1312
+FENDRR,Melanoma,133,1347
+FENDRR,Colorectal Neoplasms,133,1304
+FENDRR,"Carcinoma, Hepatocellular",133,1310
+FENDRR,Colonic Neoplasms,133,1336
+FENDRR,Breast Neoplasms,133,1303
+FER1L4,Prostatic Neoplasms,134,1339
+FER1L4,Esophageal Squamous Cell Carcinoma,134,1327
+FER1L4,"Carcinoma, Renal Cell",134,1324
+FER1L4,Lung Neoplasms,134,1308
+FER1L4,Osteosarcoma,134,1305
+FER1L4,Ovarian Neoplasms,134,1309
+FER1L4,Adenocarcinoma of Lung,134,1329
+FER1L4,Glioblastoma,134,1301
+FER1L4,Esophageal Neoplasms,134,1351
+FEZF1-AS1,"Carcinoma, Ovarian Epithelial",135,1323
+FEZF1-AS1,"Carcinoma, Hepatocellular",135,1310
+FEZF1-AS1,Uterine Cervical Neoplasms,135,1300
+FEZF1-AS1,Multiple Myeloma,135,1368
+FEZF1-AS1,Breast Neoplasms,135,1303
+FEZF1-AS1,Osteosarcoma,135,1305
+FEZF1-AS1,Glioblastoma,135,1301
+FEZF1-AS1,Prostatic Neoplasms,135,1339
+FEZF1-AS1,Esophageal Squamous Cell Carcinoma,135,1327
+FEZF1-AS1,Retinoblastoma,135,1348
+FEZF1-AS1,Ovarian Neoplasms,135,1309
+FEZF1-AS1,Nasopharyngeal Neoplasms,135,1533
+FEZF1-AS1,Squamous Cell Carcinoma of Head and Neck,135,1360
+FEZF1-AS1,Adenocarcinoma of Lung,135,1329
+FGD5-AS1,"Carcinoma, Non-Small-Cell Lung",507,1312
+FGD5-AS1,Squamous Cell Carcinoma of Head and Neck,507,1360
+FGD5-AS1,Colorectal Neoplasms,507,1304
+FGFR3-AS1,"Carcinoma, Hepatocellular",137,1310
+FGFR3-AS1,Urinary Bladder Neoplasms,137,1306
+FLJ33360,"Carcinoma, Hepatocellular",508,1310
+FLJ33360,Ovarian Neoplasms,508,1309
+FLVCR1-AS1,Stomach Neoplasms,509,1307
+FLVCR1-AS1,Glioma,509,1322
+FLVCR1-AS1,Lung Neoplasms,509,1308
+FLVCR1-AS1,Ovarian Neoplasms,509,1309
+FLVCR1-AS1,Cholangiocarcinoma,509,1326
+FLVCR1-AS1,"Carcinoma, Hepatocellular",509,1310
+FOXC2-AS1,Prostatic Neoplasms,141,1339
+FOXC2-AS1,"Carcinoma, Non-Small-Cell Lung",141,1312
+FOXCUT,Esophageal Squamous Cell Carcinoma,142,1327
+FOXD2-AS1,Uterine Cervical Neoplasms,143,1300
+FOXD2-AS1,Stomach Neoplasms,143,1307
+FOXD2-AS1,Glioma,143,1322
+FOXD2-AS1,"Carcinoma, Hepatocellular",143,1310
+FOXD2-AS1,Colorectal Neoplasms,143,1304
+FOXD2-AS1,Osteosarcoma,143,1305
+FOXD2-AS1,Thyroid Neoplasms,143,1330
+FOXD2-AS1,"Thyroid Cancer, Papillary",143,1332
+FOXD2-AS1,Urinary Bladder Neoplasms,143,1306
+FOXD2-AS1,Nasopharyngeal Neoplasms,143,1533
+FOXD3-AS1,Nasopharyngeal Neoplasms,144,1533
+FOXD3-AS1,Melanoma,144,1347
+FOXD3-AS1,"Carcinoma, Non-Small-Cell Lung",144,1312
+FOXD3-AS1,"Carcinoma, Hepatocellular",144,1310
+FOXD3-AS1,Thyroid Neoplasms,144,1330
+FOXD3-AS1,Colorectal Neoplasms,144,1304
+FOXD3-AS1,Breast Neoplasms,144,1303
+FOXD3-AS1,Neuroblastoma,144,1302
+FOXF1-AS1,"Carcinoma, Non-Small-Cell Lung",510,1312
+FOXF1-AS1,Osteosarcoma,510,1305
+FOXP4-AS1,Esophageal Squamous Cell Carcinoma,511,1327
+FOXP4-AS1,Osteosarcoma,511,1305
+FOXP4-AS1,Uterine Cervical Neoplasms,511,1300
+FOXP4-AS1,Stomach Neoplasms,511,1307
+FOXP4-AS1,"Carcinoma, Hepatocellular",511,1310
+FOXP4-AS1,Prostatic Neoplasms,511,1339
+FOXP4-AS1,Colorectal Neoplasms,511,1304
+FTH1P3,Breast Neoplasms,146,1303
+FTH1P3,Uterine Cervical Neoplasms,146,1300
+FTH1P3,"Carcinoma, Non-Small-Cell Lung",146,1312
+FTH1P3,Esophageal Squamous Cell Carcinoma,146,1327
+FTX,"Carcinoma, Non-Small-Cell Lung",147,1312
+FTX,Stomach Neoplasms,147,1307
+FTX,Adenocarcinoma of Lung,147,1329
+FTX,Osteosarcoma,147,1305
+FTX,"Leukemia, Myeloid, Acute",147,1366
+GACAT1,Breast Neoplasms,512,1303
+GACAT1,Stomach Neoplasms,512,1307
+GACAT3,Breast Neoplasms,150,1303
+GACAT3,Liver Neoplasms,150,1313
+GACAT3,Glioma,150,1322
+GACAT3,Colorectal Neoplasms,150,1304
+GACAT3,"Carcinoma, Non-Small-Cell Lung",150,1312
+GAPLINC,Osteosarcoma,151,1305
+GAPLINC,Klatskin Tumor,151,1496
+GAPLINC,"Carcinoma, Non-Small-Cell Lung",151,1312
+GAPLINC,"Carcinoma, Hepatocellular",151,1310
+GAPLINC,Glioblastoma,151,1301
+GAPLINC,Urinary Bladder Neoplasms,151,1306
+GAS5,Liver Neoplasms,152,1313
+GAS5,Triple Negative Breast Neoplasms,152,1398
+GAS5,Squamous Cell Carcinoma of Head and Neck,152,1360
+GAS5,"Carcinoma, Ovarian Epithelial",152,1323
+GAS5,Colonic Neoplasms,152,1336
+GAS5,"Leukemia, Myeloid",152,1512
+GAS5,Nasopharyngeal Neoplasms,152,1533
+GAS5,"Carcinoma, Squamous Cell",152,1320
+GAS5-AS1,Glioma,153,1322
+GAS5-AS1,Uterine Cervical Neoplasms,153,1300
+GAS6-AS1,"Carcinoma, Hepatocellular",513,1310
+GAS6-AS1,Stomach Neoplasms,513,1307
+GAS6-AS1,"Carcinoma, Renal Cell",513,1324
+GAS6-AS1,"Carcinoma, Non-Small-Cell Lung",513,1312
+GAS6-AS2,Osteosarcoma,514,1305
+GAS6-AS2,"Carcinoma, Hepatocellular",514,1310
+GAS6-AS2,Breast Neoplasms,514,1303
+GAS6-AS2,Melanoma,514,1347
+GAS6-AS2,Urinary Bladder Neoplasms,514,1306
+GAS6-AS2,"Leukemia, Myeloid, Acute",514,1366
+GAS8-AS1,Osteosarcoma,155,1305
+GAS8-AS1,"Carcinoma, Hepatocellular",155,1310
+GASL1,Glioma,515,1322
+GASL1,Prostatic Neoplasms,515,1339
+GASL1,Stomach Neoplasms,515,1307
+GASL1,"Carcinoma, Non-Small-Cell Lung",515,1312
+GASL1,Osteosarcoma,515,1305
+GATA6-AS,Glioma,516,1322
+GATA6-AS,Stomach Neoplasms,516,1307
+GATA6-AS,"Lymphoma, Mantle-Cell",516,1430
+GClnc1,Osteosarcoma,157,1305
+GClnc1,Urinary Bladder Neoplasms,157,1306
+GClnc1,Colorectal Neoplasms,157,1304
+GCRL1,Stomach Neoplasms,517,1307
+GHET1,Osteosarcoma,159,1305
+GHET1,Uterine Cervical Neoplasms,159,1300
+GHET1,Glioma,159,1322
+GHET1,Prostatic Neoplasms,159,1339
+GHET1,Breast Neoplasms,159,1303
+GIHCG,Colorectal Neoplasms,518,1304
+GIHCG,Uterine Cervical Neoplasms,518,1300
+GIHCG,Breast Neoplasms,518,1303
+GIHCG,Ovarian Neoplasms,518,1309
+GIHCG,"Carcinoma, Hepatocellular",518,1310
+GIHCG,"Carcinoma, Renal Cell",518,1324
+GLIS3-AS1,Urinary Bladder Neoplasms,519,1306
+GLIS3-AS1,Pancreatic Intraductal Neoplasms,519,1535
+GMAN,"Carcinoma, Hepatocellular",520,1310
+GMAN,Stomach Neoplasms,520,1307
+GNAS-AS1,Nasopharyngeal Neoplasms,160,1533
+GPC3-AS1,Uterine Cervical Neoplasms,521,1300
+GPC3-AS1,"Carcinoma, Hepatocellular",521,1310
+H19,"Leukemia-Lymphoma, Adult T-Cell",163,1483
+H19,Retinoblastoma,163,1348
+H19,"Adenocarcinoma, Follicular",163,1463
+H19,Nasopharyngeal Neoplasms,163,1533
+H19,Esophageal Squamous Cell Carcinoma,163,1327
+H19,Hodgkin Disease,163,1537
+H19,Triple Negative Breast Neoplasms,163,1398
+H19,"Leukemia, Myeloid, Acute",163,1366
+H19,"Thyroid Carcinoma, Anaplastic",163,1538
+H19,Rectal Neoplasms,163,1539
+H19,"Leukemia, Myelomonocytic, Chronic",163,1540
+H19,Growth Hormone-Secreting Pituitary Adenoma,163,1541
+H19,"Leukemia, Promyelocytic, Acute",163,1475
+H19,Hepatoblastoma,163,1402
+H19,Rhabdomyosarcoma,163,1515
+H19,Testicular Neoplasms,163,1359
+H19,Small Cell Lung Carcinoma,163,1476
+HAGLR,Adenocarcinoma of Lung,164,1329
+HAGLR,Colorectal Neoplasms,164,1304
+HAGLROS,"Carcinoma, Hepatocellular",165,1310
+HAGLROS,"Lymphoma, Mantle-Cell",165,1430
+HAGLROS,Lung Neoplasms,165,1308
+HAGLROS,Nasopharyngeal Neoplasms,165,1533
+HAGLROS,Ovarian Neoplasms,165,1309
+HAND2-AS1,Liver Neoplasms,166,1313
+HAND2-AS1,Stomach Neoplasms,166,1307
+HAND2-AS1,Uterine Cervical Neoplasms,166,1300
+HAND2-AS1,"Carcinoma, Hepatocellular",166,1310
+HAND2-AS1,Triple Negative Breast Neoplasms,166,1398
+HAND2-AS1,Colorectal Neoplasms,166,1304
+HAND2-AS1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",166,1440
+HAND2-AS1,Breast Neoplasms,166,1303
+HAND2-AS1,Osteosarcoma,166,1305
+HAND2-AS1,Melanoma,166,1347
+HAND2-AS1,Esophageal Squamous Cell Carcinoma,166,1327
+HAND2-AS1,"Carcinoma, Non-Small-Cell Lung",166,1312
+HAND2-AS1,Cardiomyopathies,166,1542
+HAND2-AS1,Ovarian Neoplasms,166,1309
+HANR,Colorectal Neoplasms,522,1304
+HANR,"Carcinoma, Non-Small-Cell Lung",522,1312
+HANR,Glioma,522,1322
+HANR,"Carcinoma, Hepatocellular",522,1310
+HAR1A,"Carcinoma, Hepatocellular",168,1310
+HAS2-AS1,"Carcinoma, Non-Small-Cell Lung",170,1312
+HAS2-AS1,Neuroblastoma,170,1302
+HAS2-AS1,Glioma,170,1322
+HAS2-AS1,Ovarian Neoplasms,170,1309
+HAS2-AS1,Glioblastoma,170,1301
+HCG11,Laryngeal Neoplasms,171,1415
+HCG11,Stomach Neoplasms,171,1307
+HCG11,"Carcinoma, Hepatocellular",171,1310
+HCG11,Glioma,171,1322
+HCG18,Stomach Neoplasms,523,1307
+HCG18,Colorectal Neoplasms,523,1304
+HCG18,Nasopharyngeal Neoplasms,523,1533
+HCG22,Urinary Bladder Neoplasms,524,1306
+HCG22,Squamous Cell Carcinoma of Head and Neck,524,1360
+HCP5,"Carcinoma, Non-Small-Cell Lung",172,1312
+HCP5,Prostatic Neoplasms,172,1339
+HCP5,Stomach Neoplasms,172,1307
+HCP5,"Carcinoma, Renal Cell",172,1324
+HCP5,Colorectal Neoplasms,172,1304
+HCP5,Squamous Cell Carcinoma of Head and Neck,172,1360
+HCP5,"Leukemia, Myeloid, Acute",172,1366
+HCP5,Adenocarcinoma of Lung,172,1329
+HCP5,"Thyroid Carcinoma, Anaplastic",172,1538
+HCP5,Triple Negative Breast Neoplasms,172,1398
+HCP5,Uterine Cervical Neoplasms,172,1300
+HCP5,Osteosarcoma,172,1305
+HEIH,Cholangiocarcinoma,173,1326
+HEIH,Liver Neoplasms,173,1313
+HEIH,"Carcinoma, Non-Small-Cell Lung",173,1312
+HEIH,Triple Negative Breast Neoplasms,173,1398
+HEIH,Endometrial Neoplasms,173,1362
+HIF1A-AS1,Stomach Neoplasms,174,1307
+HIF1A-AS2,Triple Negative Breast Neoplasms,175,1398
+HIF1A-AS2,Colorectal Neoplasms,175,1304
+HIF2PUT,Osteosarcoma,525,1305
+HIT000218960,Stomach Neoplasms,526,1307
+HIT000218960,"Thyroid Cancer, Papillary",526,1332
+HLA-F-AS1,Colorectal Neoplasms,527,1304
+HLA-F-AS1,Adenocarcinoma of Lung,527,1329
+HMLINCRNA717,Pancreatic Neoplasms,528,1315
+HMLINCRNA717,"Carcinoma, Non-Small-Cell Lung",528,1312
+HMLINCRNA717,Stomach Neoplasms,528,1307
+HMMR-AS1,Adenocarcinoma of Lung,529,1329
+HMMR-AS1,"Carcinoma, Ovarian Epithelial",529,1323
+HMMR-AS1,Glioblastoma,529,1301
+HMMR-AS1,Breast Neoplasms,529,1303
+HNF1A-AS,"Carcinoma, Non-Small-Cell Lung",530,1312
+HNF1A-AS,Nasopharyngeal Neoplasms,530,1533
+HNF1A-AS1,Uterine Cervical Neoplasms,177,1300
+HNF1A-AS1,Squamous Cell Carcinoma of Head and Neck,177,1360
+HNF1A-AS1,Esophageal Squamous Cell Carcinoma,177,1327
+HNF1A-AS1,Urinary Bladder Neoplasms,177,1306
+HOST2,Triple Negative Breast Neoplasms,531,1398
+HOST2,"Carcinoma, Non-Small-Cell Lung",531,1312
+HOST2,Uterine Cervical Neoplasms,531,1300
+HOST2,Ovarian Neoplasms,531,1309
+HOST2,"Carcinoma, Hepatocellular",531,1310
+HOST2,Pancreatic Neoplasms,531,1315
+HOST2,Glioma,531,1322
+HOST2,Stomach Neoplasms,531,1307
+HOTAIR,Small Cell Lung Carcinoma,178,1476
+HOTAIR,Laryngeal Neoplasms,178,1415
+HOTAIR,Triple Negative Breast Neoplasms,178,1398
+HOTAIR,Cholangiocarcinoma,178,1326
+HOTAIR,Adrenocortical Carcinoma,178,1436
+HOTAIR,Nasopharyngeal Neoplasms,178,1533
+HOTAIR,Silicosis,178,1400
+HOTAIR,"Leukemia, Monocytic, Acute",178,1484
+HOTAIR,Chondrosarcoma,178,1349
+HOTAIRM1,Lung Neoplasms,179,1308
+HOTAIRM1,Breast Neoplasms,179,1303
+HOTAIRM1,"Thyroid Cancer, Papillary",179,1332
+HOTAIRM1,Ovarian Neoplasms,179,1309
+HOTAIRM1,"Carcinoma, Non-Small-Cell Lung",179,1312
+HOTAIRM1,"Carcinoma, Renal Cell",179,1324
+HOTAIRM1,"Carcinoma, Hepatocellular",179,1310
+HOTAIRM1,Stomach Neoplasms,179,1307
+HOTAIRM1,Adenocarcinoma of Lung,179,1329
+HOTTIP,Ovarian Neoplasms,180,1309
+HOTTIP,Squamous Cell Carcinoma of Head and Neck,180,1360
+HOTTIP,"Leukemia, Myeloid, Acute",180,1366
+HOTTIP,"Carcinoma, Renal Cell",180,1324
+HOTTIP,Nasopharyngeal Neoplasms,180,1533
+HOTTIP,Laryngeal Neoplasms,180,1415
+HOTTIP,Adenocarcinoma of Lung,180,1329
+HOXA,Pancreatic Neoplasms,532,1315
+HOXA,Stomach Neoplasms,532,1307
+HOXA10-AS,"Leukemia, Myeloid, Acute",533,1366
+HOXA10-AS,Glioma,533,1322
+HOXA10-AS,Adenocarcinoma of Lung,533,1329
+HOXA11-AS,Neuroblastoma,184,1302
+HOXA11-AS,Prostatic Neoplasms,184,1339
+HOXA11-AS,"Carcinoma, Renal Cell",184,1324
+HOXA11-AS,Retinoblastoma,184,1348
+HOXA11-AS,Adenocarcinoma of Lung,184,1329
+HOXA11-AS,Lung Neoplasms,184,1308
+HOXA11-AS,Kidney Neoplasms,184,1418
+HOXA13,Urinary Bladder Neoplasms,185,1306
+HOXA-AS2,"Carcinoma, Non-Small-Cell Lung",181,1312
+HOXA-AS2,"Leukemia, Myeloid, Acute",181,1366
+HOXA-AS2,Osteosarcoma,181,1305
+HOXA-AS2,Urinary Bladder Neoplasms,181,1306
+HOXA-AS2,"Thyroid Cancer, Papillary",181,1332
+HOXA-AS2,Precursor Cell Lymphoblastic Leukemia-Lymphoma,181,1344
+HOXA-AS2,Pancreatic Neoplasms,181,1315
+HOXA-AS2,Gallbladder Neoplasms,181,1328
+HOXA-AS3,Adenocarcinoma of Lung,182,1329
+HOXA-AS3,"Carcinoma, Hepatocellular",182,1310
+HOXB13-AS1,Adenocarcinoma of Lung,534,1329
+HOXB13-AS1,Glioma,534,1322
+HOXB-AS1,Glioblastoma,535,1301
+HOXB-AS1,Multiple Myeloma,535,1368
+HOXB-AS3,Lung Neoplasms,186,1308
+HOXB-AS3,"Leukemia, Myeloid, Acute",186,1366
+HOXB-AS3,"Carcinoma, Hepatocellular",186,1310
+HOXC13-AS,Glioma,536,1322
+HOXC13-AS,Breast Neoplasms,536,1303
+HOXC-AS3,Breast Neoplasms,537,1303
+HOXC-AS3,Glioblastoma,537,1301
+HOXC-AS3,Stomach Neoplasms,537,1307
+HOXD-AS1,Uterine Cervical Neoplasms,538,1300
+HOXD-AS1,Colorectal Neoplasms,538,1304
+HOXD-AS1,Ovarian Neoplasms,538,1309
+HOXD-AS1,Breast Neoplasms,538,1303
+HOXD-AS1,Stomach Neoplasms,538,1307
+HOXD-AS1,Osteosarcoma,538,1305
+HOXD-AS1,"Thyroid Cancer, Papillary",538,1332
+HOXD-AS1,"Carcinoma, Hepatocellular",538,1310
+HOXD-AS1,"Carcinoma, Non-Small-Cell Lung",538,1312
+HOXD-AS1,Prostatic Neoplasms,538,1339
+HOXD-AS1,Neuroblastoma,538,1302
+HOXD-AS1,Glioblastoma,538,1301
+HOXD-AS1,Liver Neoplasms,538,1313
+HOXD-AS1,Melanoma,538,1347
+HOXD-AS1,"Carcinoma, Ovarian Epithelial",538,1323
+HOXD-AS1,Urinary Bladder Neoplasms,538,1306
+HULC,Ovarian Neoplasms,188,1309
+HULC,Breast Neoplasms,188,1303
+HULC,Pituitary Neoplasms,188,1369
+HULC,Bone Neoplasms,188,1543
+HULC,Squamous Cell Carcinoma of Head and Neck,188,1360
+HULC,"Carcinoma, Non-Small-Cell Lung",188,1312
+HULC,Colonic Neoplasms,188,1336
+HULC,"Sarcoma, Ewing",188,1419
+HULC,Urinary Bladder Neoplasms,188,1306
+HULC,Nasopharyngeal Neoplasms,188,1533
+IGF2AS,Neuroblastoma,539,1302
+IGF2AS,Stomach Neoplasms,539,1307
+IGF2AS,Prostatic Neoplasms,539,1339
+IGF2AS,"Carcinoma, Hepatocellular",539,1310
+IGF2AS,Liver Neoplasms,539,1313
+IGF2AS,"Carcinoma, Non-Small-Cell Lung",539,1312
+IGF2AS,Wilms Tumor,539,1331
+IGFL2-AS1,Stomach Neoplasms,540,1307
+IGFL2-AS1,Breast Neoplasms,540,1303
+ILF3-AS1,Stomach Neoplasms,193,1307
+ILF3-AS1,Prostatic Neoplasms,193,1339
+ILF3-AS1,Osteosarcoma,193,1305
+INHBA-AS1,Squamous Cell Carcinoma of Head and Neck,194,1360
+INXS,Breast Neoplasms,541,1303
+INXS,"Carcinoma, Renal Cell",541,1324
+INXS,Prostatic Neoplasms,541,1339
+INXS,Liver Neoplasms,541,1313
+IRAIN,Multiple Myeloma,236,1368
+ITGB1,"Carcinoma, Renal Cell",237,1324
+ITGB1,Urinary Bladder Neoplasms,237,1306
+ITGB2-AS1,Breast Neoplasms,542,1303
+ITGB2-AS1,Osteosarcoma,542,1305
+IUR,Esophageal Squamous Cell Carcinoma,543,1327
+IUR,Prostatic Neoplasms,543,1339
+JPX,Lung Neoplasms,544,1308
+JPX,"Carcinoma, Hepatocellular",544,1310
+JPX,"Carcinoma, Non-Small-Cell Lung",544,1312
+JPX,Glioma,544,1322
+KCNQ1DN,"Carcinoma, Renal Cell",239,1324
+KCNQ1OT1,Squamous Cell Carcinoma of Head and Neck,240,1360
+KCNQ1OT1,Osteosarcoma,240,1305
+KCNQ1OT1,Ovarian Neoplasms,240,1309
+KCNQ1OT1,"Leukemia, Myeloid, Acute",240,1366
+KCNQ1OT1,Urinary Bladder Neoplasms,240,1306
+KCNQ1OT1,Colonic Neoplasms,240,1336
+KCNQ1OT1,Cholangiocarcinoma,240,1326
+KCNQ1OT1,Melanoma,240,1347
+KCNQ1OT1,Glioma,240,1322
+KIAA0125,Colonic Neoplasms,545,1336
+KIAA0125,Colorectal Neoplasms,545,1304
+KIAA0125,Gallbladder Neoplasms,545,1328
+KRT19P3,Stomach Neoplasms,546,1307
+KRT19P3,Urinary Bladder Neoplasms,546,1306
+KRT7-AS,Colorectal Neoplasms,547,1304
+KRT7-AS,Stomach Neoplasms,547,1307
+KTN1-AS1,Squamous Cell Carcinoma of Head and Neck,548,1360
+KTN1-AS1,"Carcinoma, Hepatocellular",548,1310
+LBCS,Urinary Bladder Neoplasms,549,1306
+LBCS,Prostatic Neoplasms,549,1339
+LBX2-AS1,Stomach Neoplasms,245,1307
+LBX2-AS1,Esophageal Squamous Cell Carcinoma,245,1327
+LBX2-AS1,"Carcinoma, Non-Small-Cell Lung",245,1312
+LCAL6,"Carcinoma, Non-Small-Cell Lung",550,1312
+LCAL6,Adenocarcinoma of Lung,550,1329
+LEF1-AS1,"Carcinoma, Hepatocellular",246,1310
+LEF1-AS1,Retinoblastoma,246,1348
+LEF1-AS1,Colonic Neoplasms,246,1336
+LEF1-AS1,Lung Neoplasms,246,1308
+LEF1-AS1,Squamous Cell Carcinoma of Head and Neck,246,1360
+LEF1-AS1,Esophageal Squamous Cell Carcinoma,246,1327
+LEF1-AS1,"Carcinoma, Non-Small-Cell Lung",246,1312
+LEF1-AS1,Glioblastoma,246,1301
+LIFR-AS1,Colorectal Neoplasms,551,1304
+LIFR-AS1,Breast Neoplasms,551,1303
+LINC00037,Uterine Cervical Neoplasms,552,1300
+LINC00037,"Carcinoma, Renal Cell",552,1324
+LINC00052,"Carcinoma, Hepatocellular",251,1310
+LINC00052,Glioma,251,1322
+LINC00052,Uterine Cervical Neoplasms,251,1300
+LINC00052,Squamous Cell Carcinoma of Head and Neck,251,1360
+LINC00052,Triple Negative Breast Neoplasms,251,1398
+LINC00114,Nasopharyngeal Neoplasms,553,1533
+LINC00114,Colorectal Neoplasms,553,1304
+LINC00115,Triple Negative Breast Neoplasms,252,1398
+LINC00115,Glioma,252,1322
+LINC00152,Colorectal Neoplasms,442,1304
+LINC00152,Glioblastoma,442,1301
+LINC00152,Breast Neoplasms,442,1303
+LINC00152,Stomach Neoplasms,442,1307
+LINC00152,Esophageal Neoplasms,442,1351
+LINC00152,Ovarian Neoplasms,442,1309
+LINC00152,Esophageal Squamous Cell Carcinoma,442,1327
+LINC00152,"Carcinoma, Hepatocellular",442,1310
+LINC00152,Hemangioma,442,1493
+LINC00152,Osteosarcoma,442,1305
+LINC00152,"Thyroid Cancer, Papillary",442,1332
+LINC00152,Squamous Cell Carcinoma of Head and Neck,442,1360
+LINC00152,"Leukemia, Myeloid, Acute",442,1366
+LINC00152,Pancreatic Neoplasms,442,1315
+LINC00152,"Carcinoma, Renal Cell",442,1324
+LINC00152,Colonic Neoplasms,442,1336
+LINC00152,Triple Negative Breast Neoplasms,442,1398
+LINC00152,Glioma,442,1322
+LINC00152,Gallbladder Neoplasms,442,1328
+LINC00152,Adenocarcinoma of Lung,442,1329
+LINC00152,Lung Neoplasms,442,1308
+LINC00152,Urinary Bladder Neoplasms,442,1306
+LINC00160,"Carcinoma, Hepatocellular",554,1310
+LINC00160,"Carcinoma, Renal Cell",554,1324
+LINC00161,"Carcinoma, Hepatocellular",555,1310
+LINC00161,Ovarian Neoplasms,555,1309
+LINC00161,Osteosarcoma,555,1305
+LINC00173,Triple Negative Breast Neoplasms,253,1398
+LINC00173,Esophageal Squamous Cell Carcinoma,253,1327
+LINC00173,Small Cell Lung Carcinoma,253,1476
+LINC00173,Leukemia,253,1385
+LINC00174,"Carcinoma, Hepatocellular",556,1310
+LINC00174,Glioma,556,1322
+LINC00174,Colorectal Neoplasms,556,1304
+LINC00176,Ovarian Neoplasms,254,1309
+LINC00210,Nasopharyngeal Neoplasms,255,1533
+LINC00210,Thyroid Neoplasms,255,1330
+LINC00221,Precursor Cell Lymphoblastic Leukemia-Lymphoma,557,1344
+LINC00221,"Carcinoma, Hepatocellular",557,1310
+LINC00221,"Carcinoma, Non-Small-Cell Lung",557,1312
+LINC00261,Cholangiocarcinoma,256,1326
+LINC00261,Lung Neoplasms,256,1308
+LINC00261,Laryngeal Neoplasms,256,1415
+LINC00265,Colorectal Neoplasms,558,1304
+LINC00265,"Leukemia, Myeloid, Acute",558,1366
+LINC00277,"Carcinoma, Non-Small-Cell Lung",559,1312
+LINC00277,Uterine Cervical Neoplasms,559,1300
+LINC00312,Ovarian Neoplasms,258,1309
+LINC00312,Colorectal Neoplasms,258,1304
+LINC00312,Adenocarcinoma of Lung,258,1329
+LINC003121,Thyroid Neoplasms,560,1330
+LINC00313,"Thyroid Cancer, Papillary",561,1332
+LINC00313,Thyroid Neoplasms,561,1330
+LINC00313,Glioma,561,1322
+LINC00319,Urinary Bladder Neoplasms,562,1306
+LINC00319,Uterine Cervical Neoplasms,562,1300
+LINC00319,Ovarian Neoplasms,562,1309
+LINC00319,Nasopharyngeal Neoplasms,562,1533
+LINC00319,"Leukemia, Myeloid, Acute",562,1366
+LINC00319,Glioma,562,1322
+LINC00319,Lung Neoplasms,562,1308
+LINC00319,Adenocarcinoma of Lung,562,1329
+LINC00324,Liver Neoplasms,563,1313
+LINC00324,Stomach Neoplasms,563,1307
+LINC00324,Breast Neoplasms,563,1303
+LINC00324,Colorectal Neoplasms,563,1304
+LINC00324,Adenocarcinoma of Lung,563,1329
+LINC00324,Osteosarcoma,563,1305
+LINC00337,Esophageal Squamous Cell Carcinoma,564,1327
+LINC00337,Stomach Neoplasms,564,1307
+LINC00337,"Carcinoma, Non-Small-Cell Lung",564,1312
+LINC00339,"Carcinoma, Non-Small-Cell Lung",260,1312
+LINC00339,Ovarian Neoplasms,260,1309
+LINC00339,Triple Negative Breast Neoplasms,260,1398
+LINC00339,"Carcinoma, Hepatocellular",260,1310
+LINC00339,Glioma,260,1322
+LINC00341,Colorectal Neoplasms,565,1304
+LINC00341,Stomach Neoplasms,565,1307
+LINC00346,Stomach Neoplasms,261,1307
+LINC00346,Pancreatic Neoplasms,261,1315
+LINC00355,Prostatic Neoplasms,566,1339
+LINC00355,Squamous Cell Carcinoma of Head and Neck,566,1360
+LINC00355,Adenocarcinoma of Lung,566,1329
+LINC00355,Urinary Bladder Neoplasms,566,1306
+LINC00365,Stomach Neoplasms,567,1307
+LINC00365,Breast Neoplasms,567,1303
+LINC00441,Stomach Neoplasms,568,1307
+LINC00441,"Carcinoma, Hepatocellular",568,1310
+LINC00460,Colonic Neoplasms,262,1336
+LINC00460,Stomach Neoplasms,262,1307
+LINC00460,"Thyroid Cancer, Papillary",262,1332
+LINC00460,Squamous Cell Carcinoma of Head and Neck,262,1360
+LINC00460,"Carcinoma, Hepatocellular",262,1310
+LINC00460,Adenocarcinoma of Lung,262,1329
+LINC00460,Urinary Bladder Neoplasms,262,1306
+LINC00460,Glioma,262,1322
+LINC00460,"Carcinoma, Ovarian Epithelial",262,1323
+LINC00460,Osteosarcoma,262,1305
+LINC00460,Nasopharyngeal Neoplasms,262,1533
+LINC00460,Breast Neoplasms,262,1303
+LINC00460,Esophageal Neoplasms,262,1351
+LINC00461,Rectal Neoplasms,263,1539
+LINC00461,Breast Neoplasms,263,1303
+LINC00461,"Carcinoma, Hepatocellular",263,1310
+LINC00461,"Carcinoma, Renal Cell",263,1324
+LINC00461,Adenocarcinoma of Lung,263,1329
+LINC00461,"Carcinoma, Non-Small-Cell Lung",263,1312
+LINC00461,Colorectal Neoplasms,263,1304
+LINC00461,Multiple Myeloma,263,1368
+LINC00462,Pancreatic Neoplasms,569,1315
+LINC00462,"Carcinoma, Hepatocellular",569,1310
+LINC00467,Squamous Cell Carcinoma of Head and Neck,264,1360
+LINC00467,"Carcinoma, Hepatocellular",264,1310
+LINC00467,Glioma,264,1322
+LINC00467,Colorectal Neoplasms,264,1304
+LINC00467,Adenocarcinoma of Lung,264,1329
+LINC00470,Stomach Neoplasms,570,1307
+LINC00470,Glioblastoma,570,1301
+LINC00470,"Carcinoma, Hepatocellular",570,1310
+LINC00472,Osteosarcoma,265,1305
+LINC00472,Stomach Neoplasms,265,1307
+LINC00472,"Carcinoma, Hepatocellular",265,1310
+LINC00472,"Carcinoma, Non-Small-Cell Lung",265,1312
+LINC00472,Pancreatic Intraductal Neoplasms,265,1535
+LINC00472,"Carcinoma, Ovarian Epithelial",265,1323
+LINC00473,"Carcinoma, Hepatocellular",266,1310
+LINC00473,Breast Neoplasms,266,1303
+LINC00473,Glioma,266,1322
+LINC00473,"Aortic Aneurysm, Abdominal",266,1374
+LINC00473,Colorectal Neoplasms,266,1304
+LINC00473,Stomach Neoplasms,266,1307
+LINC00473,Squamous Cell Carcinoma of Head and Neck,266,1360
+LINC00473,Pancreatic Neoplasms,266,1315
+LINC00473,Uterine Cervical Neoplasms,266,1300
+LINC00483,Stomach Neoplasms,571,1307
+LINC00483,Uterine Cervical Neoplasms,571,1300
+LINC00483,Adenocarcinoma of Lung,571,1329
+LINC00483,Colorectal Neoplasms,571,1304
+LINC00504,Ovarian Neoplasms,572,1309
+LINC00504,Colonic Neoplasms,572,1336
+LINC00511,Colorectal Neoplasms,267,1304
+LINC00511,Uterine Cervical Neoplasms,267,1300
+LINC00511,Stomach Neoplasms,267,1307
+LINC00511,"Carcinoma, Hepatocellular",267,1310
+LINC00511,"Leukemia-Lymphoma, Adult T-Cell",267,1483
+LINC00511,Glioma,267,1322
+LINC00511,Ovarian Neoplasms,267,1309
+LINC00511,"Thyroid Cancer, Papillary",267,1332
+LINC00511,Thyroid Neoplasms,267,1330
+LINC00511,Urinary Bladder Neoplasms,267,1306
+LINC00511,Lung Neoplasms,267,1308
+LINC00511,Osteosarcoma,267,1305
+LINC00515,Glioma,573,1322
+LINC00515,Ovarian Neoplasms,573,1309
+LINC00518,Breast Neoplasms,574,1303
+LINC00518,Uterine Cervical Neoplasms,574,1300
+LINC00518,Prostatic Neoplasms,574,1339
+LINC00518,Urinary Bladder Neoplasms,574,1306
+LINC00520,Colorectal Neoplasms,575,1304
+LINC00520,"Thyroid Cancer, Papillary",575,1332
+LINC00520,Breast Neoplasms,575,1303
+LINC00520,Nasopharyngeal Neoplasms,575,1533
+LINC00525,"Carcinoma, Non-Small-Cell Lung",576,1312
+LINC00525,Urinary Bladder Neoplasms,576,1306
+LINC00525,Colorectal Neoplasms,576,1304
+LINC00565,Ovarian Neoplasms,577,1309
+LINC00565,Stomach Neoplasms,577,1307
+LINC00612,Osteosarcoma,578,1305
+LINC00612,Urinary Bladder Neoplasms,578,1306
+LINC00628,"Carcinoma, Hepatocellular",271,1310
+LINC00628,Adenocarcinoma of Lung,271,1329
+LINC00629,Stomach Neoplasms,579,1307
+LINC00629,Choriocarcinoma,579,1439
+LINC00641,"Leukemia, Myeloid, Acute",580,1366
+LINC00641,Urinary Bladder Neoplasms,580,1306
+LINC00641,Breast Neoplasms,580,1303
+LINC00641,"Carcinoma, Non-Small-Cell Lung",580,1312
+LINC00657,Glioblastoma,581,1301
+LINC00657,"Carcinoma, Hepatocellular",581,1310
+LINC00657,Breast Neoplasms,581,1303
+LINC00662,Chordoma,582,1482
+LINC00662,"Carcinoma, Hepatocellular",582,1310
+LINC00662,Colonic Neoplasms,582,1336
+LINC00662,Prostatic Neoplasms,582,1339
+LINC00662,Stomach Neoplasms,582,1307
+LINC00662,Lung Neoplasms,582,1308
+LINC00662,Squamous Cell Carcinoma of Head and Neck,582,1360
+LINC00662,"Leukemia, Myeloid, Acute",582,1366
+LINC00663,Glioblastoma,583,1301
+LINC00663,Lung Neoplasms,583,1308
+LINC00663,Thyroid Neoplasms,583,1330
+LINC00663,Pancreatic Neoplasms,583,1315
+LINC00663,Stomach Neoplasms,583,1307
+LINC00663,Breast Neoplasms,583,1303
+LINC00663,Prostatic Neoplasms,583,1339
+LINC00665,Stomach Neoplasms,584,1307
+LINC00665,Prostatic Neoplasms,584,1339
+LINC00665,Breast Neoplasms,584,1303
+LINC00665,"Carcinoma, Non-Small-Cell Lung",584,1312
+LINC00665,Adenocarcinoma of Lung,584,1329
+LINC00665,"Carcinoma, Hepatocellular",584,1310
+LINC00667,"Carcinoma, Non-Small-Cell Lung",585,1312
+LINC00667,Glioma,585,1322
+LINC00667,Breast Neoplasms,585,1303
+LINC00668,Breast Neoplasms,272,1303
+LINC00668,Glioma,272,1322
+LINC00668,"Carcinoma, Hepatocellular",272,1310
+LINC00668,"Carcinoma, Non-Small-Cell Lung",272,1312
+LINC00673,"Thyroid Cancer, Papillary",273,1332
+LINC00673,Prostatic Neoplasms,273,1339
+LINC00673,Thyroid Neoplasms,273,1330
+LINC00673,Breast Neoplasms,273,1303
+LINC00673,Lung Neoplasms,273,1308
+LINC00673,"Carcinoma, Hepatocellular",273,1310
+LINC00675,"Carcinoma, Renal Cell",274,1324
+LINC00675,Uterine Cervical Neoplasms,274,1300
+LINC00675,Esophageal Squamous Cell Carcinoma,274,1327
+LINC00704,Thyroid Neoplasms,586,1330
+LINC00704,Breast Neoplasms,586,1303
+LINC00707,Colorectal Neoplasms,276,1304
+LINC00707,"Carcinoma, Non-Small-Cell Lung",276,1312
+LINC00707,"Carcinoma, Hepatocellular",276,1310
+LINC00707,Stomach Neoplasms,276,1307
+LINC00857,Stomach Neoplasms,587,1307
+LINC00857,Urinary Bladder Neoplasms,587,1306
+LINC00857,Adenocarcinoma of Lung,587,1329
+LINC00857,"Carcinoma, Hepatocellular",587,1310
+LINC00857,Lung Neoplasms,587,1308
+LINC00858,Stomach Neoplasms,278,1307
+LINC00858,Osteosarcoma,278,1305
+LINC00858,Colonic Neoplasms,278,1336
+LINC00858,Lung Neoplasms,278,1308
+LINC00899,"Leukemia, Myeloid, Acute",588,1366
+LINC00899,Breast Neoplasms,588,1303
+LINC00908,Prostatic Neoplasms,589,1339
+LINC00908,Triple Negative Breast Neoplasms,589,1398
+LINC00958,Adenocarcinoma of Lung,590,1329
+LINC00958,"Carcinoma, Non-Small-Cell Lung",590,1312
+LINC00958,Stomach Neoplasms,590,1307
+LINC00958,"Carcinoma, Hepatocellular",590,1310
+LINC00958,Nasopharyngeal Neoplasms,590,1533
+LINC00958,Uterine Cervical Neoplasms,590,1300
+LINC00958,Squamous Cell Carcinoma of Head and Neck,590,1360
+LINC00958,Pancreatic Neoplasms,590,1315
+LINC00958,Glioma,590,1322
+LINC00958,Urinary Bladder Neoplasms,590,1306
+LINC00959,Parathyroid Neoplasms,591,1544
+LINC00959,Breast Neoplasms,591,1303
+LINC00959,Colorectal Neoplasms,591,1304
+LINC00961,"Carcinoma, Non-Small-Cell Lung",592,1312
+LINC00961,Glioma,592,1322
+LINC00961,Ovarian Neoplasms,592,1309
+LINC00961,Adenocarcinoma of Lung,592,1329
+LINC00963,Ovarian Neoplasms,285,1309
+LINC00963,Breast Neoplasms,285,1303
+LINC00963,Osteosarcoma,285,1305
+LINC00963,Melanoma,285,1347
+LINC00968,Osteosarcoma,593,1305
+LINC00968,Breast Neoplasms,593,1303
+LINC00968,"Carcinoma, Non-Small-Cell Lung",593,1312
+LINC00968,Adenocarcinoma of Lung,593,1329
+LINC00969,Prostatic Neoplasms,594,1339
+LINC00973,Colonic Neoplasms,595,1336
+LINC00973,Colorectal Neoplasms,595,1304
+LINC00974,Squamous Cell Carcinoma of Head and Neck,596,1360
+LINC00974,Stomach Neoplasms,596,1307
+LINC00974,"Carcinoma, Hepatocellular",596,1310
+LINC00978,"Carcinoma, Hepatocellular",597,1310
+LINC00978,Stomach Neoplasms,597,1307
+LINC00978,Breast Neoplasms,597,1303
+LINC00982,Kidney Neoplasms,286,1418
+LINC00982,Adenocarcinoma of Lung,286,1329
+LINC00982,"Thyroid Cancer, Papillary",286,1332
+LINC00994,Stomach Neoplasms,598,1307
+LINC00994,Pancreatic Neoplasms,598,1315
+LINC01006,Pancreatic Neoplasms,599,1315
+LINC01006,Stomach Neoplasms,599,1307
+LINC01061,Cholangiocarcinoma,600,1326
+LINC01061,"Thyroid Cancer, Papillary",600,1332
+LINC01082,Colonic Neoplasms,601,1336
+LINC01082,Urinary Bladder Neoplasms,601,1306
+LINC01088,"Carcinoma, Non-Small-Cell Lung",602,1312
+LINC01088,"Carcinoma, Ovarian Epithelial",602,1323
+LINC01088,Ovarian Neoplasms,602,1309
+LINC01093,"Carcinoma, Non-Small-Cell Lung",603,1312
+LINC01093,"Carcinoma, Hepatocellular",603,1310
+LINC01116,Nasopharyngeal Neoplasms,291,1533
+LINC01116,Osteosarcoma,291,1305
+LINC01116,Squamous Cell Carcinoma of Head and Neck,291,1360
+LINC01116,Prostatic Neoplasms,291,1339
+LINC01125,Breast Neoplasms,604,1303
+LINC01125,Ovarian Neoplasms,604,1309
+LINC01133,Esophageal Squamous Cell Carcinoma,292,1327
+LINC01133,Breast Neoplasms,292,1303
+LINC01133,Nasopharyngeal Neoplasms,292,1533
+LINC01133,Stomach Neoplasms,292,1307
+LINC01133,Squamous Cell Carcinoma of Head and Neck,292,1360
+LINC01133,Pancreatic Neoplasms,292,1315
+LINC01133,"Carcinoma, Hepatocellular",292,1310
+LINC01133,Uterine Cervical Neoplasms,292,1300
+LINC01133,Triple Negative Breast Neoplasms,292,1398
+LINC01133,Osteosarcoma,292,1305
+LINC01138,"Carcinoma, Renal Cell",293,1324
+LINC01139,"Carcinoma, Hepatocellular",294,1310
+LINC01139,Uterine Cervical Neoplasms,294,1300
+LINC01140,Glioma,605,1322
+LINC01140,Breast Neoplasms,605,1303
+LINC01194,"Carcinoma, Non-Small-Cell Lung",606,1312
+LINC01194,Colorectal Neoplasms,606,1304
+LINC01207,Pancreatic Neoplasms,607,1315
+LINC01207,Adenocarcinoma of Lung,607,1329
+LINC01225,Stomach Neoplasms,297,1307
+LINC01234,Esophageal Neoplasms,298,1351
+LINC01234,Squamous Cell Carcinoma of Head and Neck,298,1360
+LINC01234,Multiple Myeloma,298,1368
+LINC01234,"Carcinoma, Non-Small-Cell Lung",298,1312
+LINC01234,Colonic Neoplasms,298,1336
+LINC01234,Colorectal Neoplasms,298,1304
+LINC01234,"Carcinoma, Hepatocellular",298,1310
+LINC01287,"Carcinoma, Hepatocellular",608,1310
+LINC01287,Breast Neoplasms,608,1303
+LINC01296,Breast Neoplasms,300,1303
+LINC01296,"Carcinoma, Non-Small-Cell Lung",300,1312
+LINC01296,Thyroid Neoplasms,300,1330
+LINC01296,"Carcinoma, Hepatocellular",300,1310
+LINC01296,Esophageal Squamous Cell Carcinoma,300,1327
+LINC01296,Colonic Neoplasms,300,1336
+LINC01314,Stomach Neoplasms,609,1307
+LINC01314,Hepatoblastoma,609,1402
+LINC01354,Osteosarcoma,610,1305
+LINC01354,Adenocarcinoma of Lung,610,1329
+LINC01354,Lung Neoplasms,610,1308
+LINC01354,Colorectal Neoplasms,610,1304
+LINC01410,Endometrial Neoplasms,611,1362
+LINC01410,Cholangiocarcinoma,611,1326
+LINC01410,Colonic Neoplasms,611,1336
+LINC01419,Esophageal Squamous Cell Carcinoma,302,1327
+LINC01419,Adenocarcinoma of Lung,302,1329
+LINC01419,Stomach Neoplasms,302,1307
+LINC01420,Pancreatic Neoplasms,612,1315
+LINC01420,Thyroid Neoplasms,612,1330
+LINC01420,Nasopharyngeal Neoplasms,612,1533
+LINC01433,"Carcinoma, Hepatocellular",613,1310
+LINC01433,"Carcinoma, Non-Small-Cell Lung",613,1312
+LINC01436,Stomach Neoplasms,614,1307
+LINC01436,"Carcinoma, Non-Small-Cell Lung",614,1312
+LINC01503,Stomach Neoplasms,304,1307
+LINC01503,Glioma,304,1322
+LINC01503,Colorectal Neoplasms,304,1304
+LINC01503,Uterine Cervical Neoplasms,304,1300
+LINC01510,"Thyroid Cancer, Papillary",615,1332
+LINC01510,"Carcinoma, Non-Small-Cell Lung",615,1312
+LINC01510,"Carcinoma, Renal Cell",615,1324
+LINC01510,Colorectal Neoplasms,615,1304
+LINC01561,"Carcinoma, Non-Small-Cell Lung",616,1312
+LINC01561,Breast Neoplasms,616,1303
+LINC01614,"Carcinoma, Non-Small-Cell Lung",617,1312
+LINC01614,Breast Neoplasms,617,1303
+LINC01638,Triple Negative Breast Neoplasms,618,1398
+LINC01638,Breast Neoplasms,618,1303
+LINC01857,Glioma,619,1322
+LINC01857,Breast Neoplasms,619,1303
+LINC02418,"Carcinoma, Non-Small-Cell Lung",620,1312
+LINC02418,Colorectal Neoplasms,620,1304
+LINC-ITGB1,"Carcinoma, Non-Small-Cell Lung",249,1312
+LINC-ITGB1,Colorectal Neoplasms,249,1304
+LINC-ITGB1,Gallbladder Neoplasms,249,1328
+LINC-ITGB1,Breast Neoplasms,249,1303
+LINC-NeD125,Neuroblastoma,621,1302
+LINC-NeD125,Medulloblastoma,621,1367
+LINC-OIP5,Breast Neoplasms,622,1303
+LINC-OIP5,Glioma,622,1322
+LINC-PINT,Lung Neoplasms,623,1308
+LINC-PINT,Melanoma,623,1347
+LINC-PINT,Osteosarcoma,623,1305
+LINC-PINT,Laryngeal Neoplasms,623,1415
+LINC-PINT,"Carcinoma, Renal Cell",623,1324
+LINC-PINT,Stomach Neoplasms,623,1307
+LINC-PINT,Adenocarcinoma of Lung,623,1329
+LINC-PINT,Pancreatic Neoplasms,623,1315
+LINC-PINT,Precursor Cell Lymphoblastic Leukemia-Lymphoma,623,1344
+LINC-PINT,Colorectal Neoplasms,623,1304
+LINC-PINT,Prostatic Neoplasms,623,1339
+LINC-POU3F3,Stomach Neoplasms,624,1307
+LINC-POU3F3,Esophageal Squamous Cell Carcinoma,624,1327
+LINC-POU3F3,Colonic Neoplasms,624,1336
+LINC-POU3F3,Colorectal Neoplasms,624,1304
+LINC-POU3F3,Breast Neoplasms,624,1303
+LINC-POU3F3,Glioma,624,1322
+LINC-POU3F3,"Carcinoma, Hepatocellular",624,1310
+LINCRNA-p21,Breast Neoplasms,311,1303
+LINCRNA-p21,Urinary Bladder Neoplasms,311,1306
+LINCRNA-p21,Liver Neoplasms,311,1313
+LINCRNA-p21,Colonic Neoplasms,311,1336
+LINCRNA-p21,Esophageal Squamous Cell Carcinoma,311,1327
+LINCRNA-p21,Burkitt Lymphoma,311,1510
+LINCRNA-p21,"Leukemia, Lymphocytic, Chronic, B-Cell",311,1401
+LINCRNA-p21,Lung Neoplasms,311,1308
+LINCRNA-p21,Osteosarcoma,311,1305
+LINCRNA-p21,"Lymphoma, B-Cell",311,1429
+LINCRNA-p21,Uterine Cervical Neoplasms,311,1300
+LINCRNA-p21,Colorectal Neoplasms,311,1304
+LINC-ROR,"Thyroid Carcinoma, Anaplastic",250,1538
+LINC-ROR,Liver Neoplasms,250,1313
+LINC-ROR,Prostatic Neoplasms,250,1339
+LINC-ROR,Mouth Neoplasms,250,1386
+LINC-ROR,Uterine Cervical Neoplasms,250,1300
+LINC-ROR,Esophageal Neoplasms,250,1351
+LINC-ROR,Sarcoma,250,1474
+LINC-ROR,Glioblastoma,250,1301
+LINC-ROR,Triple Negative Breast Neoplasms,250,1398
+LINC-ROR,Nasopharyngeal Neoplasms,250,1533
+LINC-ROR,Urinary Bladder Neoplasms,250,1306
+LINC-ROR,Lung Neoplasms,250,1308
+LINC-ROR,Thyroid Neoplasms,250,1330
+LINC-UBC1,Colorectal Neoplasms,625,1304
+LINC-UBC1,Stomach Neoplasms,625,1307
+LINC-UBC1,Urinary Bladder Neoplasms,625,1306
+LINC-UFC1,"Carcinoma, Hepatocellular",626,1310
+LINC-UFC1,Colorectal Neoplasms,626,1304
+LINC-UFC1,Uterine Cervical Neoplasms,626,1300
+LINC-UFC1,Stomach Neoplasms,626,1307
+LINK-A,"Carcinoma, Ovarian Epithelial",627,1323
+LINK-A,Osteosarcoma,627,1305
+LINK-A,Ovarian Neoplasms,627,1309
+LINK-A,Glioma,627,1322
+LINK-A,"Carcinoma, Non-Small-Cell Lung",627,1312
+LINK-A,"Lymphoma, Mantle-Cell",627,1430
+LINK-A,Breast Neoplasms,627,1303
+LINP1,Stomach Neoplasms,314,1307
+LINP1,Ovarian Neoplasms,314,1309
+LINP1,Prostatic Neoplasms,314,1339
+LINP1,Endometrial Neoplasms,314,1362
+LINP1,"Leukemia, Myeloid, Acute",314,1366
+LINP1,Wilms Tumor,314,1331
+LL22NC03-N64E9.1,Lung Neoplasms,628,1308
+LL22NC03-N64E9.1,Colorectal Neoplasms,628,1304
+LMCD1-AS1,Osteosarcoma,629,1305
+LMCD1-AS1,Cholangiocarcinoma,629,1326
+LMCD1-AS1,"Carcinoma, Hepatocellular",629,1310
+lnc01614,Esophageal Squamous Cell Carcinoma,630,1327
+lnc01614,Stomach Neoplasms,630,1307
+lncAGER,Colorectal Neoplasms,631,1304
+lncAGER,Lung Neoplasms,631,1308
+lnc-AL355149.1-1,Nasopharyngeal Neoplasms,315,1533
+lncARSR,"Carcinoma, Hepatocellular",321,1310
+lncARSR,"Carcinoma, Non-Small-Cell Lung",321,1312
+lncARSR,Urinary Bladder Neoplasms,321,1306
+lncARSR,"Carcinoma, Ovarian Epithelial",321,1323
+lnc-ATB,Colorectal Neoplasms,632,1304
+lnc-ATB,Breast Neoplasms,632,1303
+lnc-ATB,Endometrial Neoplasms,632,1362
+lncBRM,Colorectal Neoplasms,633,1304
+lncBRM,Ovarian Neoplasms,633,1309
+lncBRM,"Carcinoma, Hepatocellular",633,1310
+lncCAMTA1,Breast Neoplasms,634,1303
+lncCAMTA1,"Carcinoma, Hepatocellular",634,1310
+lnc-DILC,Urinary Bladder Neoplasms,635,1306
+lnc-DILC,"Carcinoma, Renal Cell",635,1324
+lnc-DILC,Colorectal Neoplasms,635,1304
+lnc-DILC,Liver Neoplasms,635,1313
+lncGPR107,"Carcinoma, Hepatocellular",636,1310
+lncGPR107,Liver Neoplasms,636,1313
+lnc-HOST2,Breast Neoplasms,637,1303
+lnc-HOST2,Ovarian Neoplasms,637,1309
+lnc-HOST2,Osteosarcoma,637,1305
+lnc-HOST2,"Carcinoma, Hepatocellular",637,1310
+lnc-KCTD6-3,Pharyngeal Neoplasms,638,1420
+lnc-KCTD6-3,Tongue Neoplasms,638,1353
+lnc-KCTD6-3,Laryngeal Neoplasms,638,1415
+lnc-OC1,Ovarian Neoplasms,639,1309
+lnc-OC1,Colorectal Neoplasms,639,1304
+lncRNA00673,Colorectal Neoplasms,640,1304
+lncRNA00673,"Carcinoma, Hepatocellular",640,1310
+lncRNA625,Esophageal Neoplasms,329,1351
+lncRNA-AK058803,Breast Neoplasms,641,1303
+lncRNA-AK058803,"Carcinoma, Hepatocellular",641,1310
+lncRNA-AK058803,Stomach Neoplasms,641,1307
+lncRNA-ATB,Ovarian Neoplasms,324,1309
+lncRNA-ATB,Adenocarcinoma of Lung,324,1329
+lncRNA-ATB,Lung Neoplasms,324,1308
+lncRNA-ATB,Urinary Bladder Neoplasms,324,1306
+lncRNA-ATB,Esophageal Squamous Cell Carcinoma,324,1327
+lncRNA-ATB,Thyroid Neoplasms,324,1330
+lncRNA-ATB,Glioma,324,1322
+lncRNA-ATB,"Carcinoma, Renal Cell",324,1324
+lncRNA-ATB,Uterine Cervical Neoplasms,324,1300
+lncRNA-ATB,Prostatic Neoplasms,324,1339
+lncRNA-ATB,Melanoma,324,1347
+lncRNA-CIR,Osteosarcoma,642,1305
+lncRNA-CIR,Urinary Bladder Neoplasms,642,1306
+lncRNA-EBIC,"Carcinoma, Hepatocellular",643,1310
+lncRNA-EBIC,Uterine Cervical Neoplasms,643,1300
+lncRNA-HEIH,Colorectal Neoplasms,644,1304
+lncRNA-HEIH,"Carcinoma, Hepatocellular",644,1310
+lncRNA-HIT,"Carcinoma, Non-Small-Cell Lung",645,1312
+lncRNA-HIT,Breast Neoplasms,645,1303
+lncRNA-LET,"Carcinoma, Renal Cell",646,1324
+lncRNA-LET,Esophageal Squamous Cell Carcinoma,646,1327
+lncRNA-LET,Uterine Cervical Neoplasms,646,1300
+lncRNA-LET,Urinary Bladder Neoplasms,646,1306
+lncRNA-LET,"Carcinoma, Non-Small-Cell Lung",646,1312
+lncRNA-LET,Adenocarcinoma of Lung,646,1329
+lncRNA-LET,Gallbladder Neoplasms,646,1328
+lncRNA-LET,Colorectal Neoplasms,646,1304
+lncRNA-LET,"Carcinoma, Hepatocellular",646,1310
+lncRNA-LET,Stomach Neoplasms,646,1307
+lncRNA-LET,Nasopharyngeal Neoplasms,646,1533
+lncRNA-MIF,Uterine Cervical Neoplasms,647,1300
+lncRNA-MIF,Colonic Neoplasms,647,1336
+lncRNA-MIF,Breast Neoplasms,647,1303
+lncRNA-MIF,Lung Neoplasms,647,1308
+lncRNA-NEF,Cholangiocarcinoma,648,1326
+lncRNA-NEF,Osteosarcoma,648,1305
+lncRNA-NEF,Small Cell Lung Carcinoma,648,1476
+lncRNA-NEF,"Carcinoma, Hepatocellular",648,1310
+lncRNA-p21,Prostatic Neoplasms,649,1339
+lncRNA-PRAL,"Carcinoma, Hepatocellular",650,1310
+lncRNA-PRAL,Lung Neoplasms,650,1308
+lncRNA-PRAL,Multiple Myeloma,650,1368
+lncRNA-p21,"Carcinoma, Hepatocellular",649,1310
+lncRNA-UCA1,Glioma,651,1322
+lncRNA-UCA1,Bile Duct Neoplasms,651,1545
+lncRNA-UCA1,"Carcinoma, Hepatocellular",651,1310
+lncRNA-URHC,Colorectal Neoplasms,652,1304
+lncRNA-URHC,"Carcinoma, Hepatocellular",652,1310
+lncSox4,"Carcinoma, Hepatocellular",653,1310
+lncSox4,"Carcinoma, Ovarian Epithelial",653,1323
+lncSox4,Osteosarcoma,653,1305
+lnc-Sox5,Colorectal Neoplasms,319,1304
+lncTCF7,"Carcinoma, Hepatocellular",330,1310
+lncTCF7,"Carcinoma, Non-Small-Cell Lung",330,1312
+lncTCF7,Glioma,330,1322
+lnc-THOR,Glioma,654,1322
+lnc-THOR,Osteosarcoma,654,1305
+lnc-THOR,"Carcinoma, Renal Cell",654,1324
+lnc-THOR,Nasopharyngeal Neoplasms,654,1533
+lncUSMycN,Breast Neoplasms,655,1303
+lncUSMycN,Neuroblastoma,655,1302
+lnc-ZNF674-1,Nasopharyngeal Neoplasms,320,1533
+LOC100130476,Esophageal Squamous Cell Carcinoma,331,1327
+LOC146880,Lung Neoplasms,656,1308
+LOC146880,"Carcinoma, Non-Small-Cell Lung",656,1312
+LOC283070,Prostatic Neoplasms,657,1339
+LOC283070,Colorectal Neoplasms,657,1304
+LOC284454,Nasopharyngeal Neoplasms,658,1533
+LOC284454,Breast Neoplasms,658,1303
+LOC285194,Stomach Neoplasms,659,1307
+LOC285194,"Carcinoma, Non-Small-Cell Lung",659,1312
+LOC285194,"Carcinoma, Hepatocellular",659,1310
+LOC285194,Colorectal Neoplasms,659,1304
+LOC285194,Breast Neoplasms,659,1303
+LOC285194,Colonic Neoplasms,659,1336
+LOC285758,"Leukemia, Myeloid, Acute",660,1366
+LOC285758,Glioma,660,1322
+LOC344887,Gallbladder Neoplasms,334,1328
+LOC389332,Stomach Neoplasms,661,1307
+LOC389332,"Carcinoma, Renal Cell",661,1324
+LOC441178,Squamous Cell Carcinoma of Head and Neck,662,1360
+LOC553103,Nasopharyngeal Neoplasms,336,1533
+LOC554202,"Carcinoma, Non-Small-Cell Lung",337,1312
+LOC730101,Lung Neoplasms,338,1308
+LOXL1-AS1,Ovarian Neoplasms,663,1309
+LOXL1-AS1,Endometrial Neoplasms,663,1362
+LOXL1-AS1,Adenocarcinoma of Lung,663,1329
+LOXL1-AS1,"Carcinoma, Non-Small-Cell Lung",663,1312
+LOXL1-AS1,Pancreatic Neoplasms,663,1315
+LOXL1-AS1,Osteosarcoma,663,1305
+LOXL1-AS1,Breast Neoplasms,663,1303
+LOXL1-AS1,Stomach Neoplasms,663,1307
+LOXL1-AS1,Prostatic Neoplasms,663,1339
+LOXL1-AS1,Cholangiocarcinoma,663,1326
+LOXL1-AS1,Medulloblastoma,663,1367
+LOXL1-AS1,Glioblastoma,663,1301
+LSINCT5,"Carcinoma, Non-Small-Cell Lung",664,1312
+LSINCT5,Breast Neoplasms,664,1303
+LSINCT5,Urinary Bladder Neoplasms,664,1306
+LSINCT5,Stomach Neoplasms,664,1307
+LSINCT5,Osteosarcoma,664,1305
+LSINCT5,"Carcinoma, Hepatocellular",664,1310
+LSINCT5,Glioma,664,1322
+LSINCT5,Ovarian Neoplasms,664,1309
+LSINCT5,Lung Neoplasms,664,1308
+LSINCT5,"Carcinoma, Ovarian Epithelial",664,1323
+LSINCT5,Colorectal Neoplasms,664,1304
+LUADT1,Melanoma,352,1347
+LUADT1,Small Cell Lung Carcinoma,352,1476
+LUADT1,Colorectal Neoplasms,352,1304
+LUCAT1,Uterine Cervical Neoplasms,353,1300
+LUCAT1,Pancreatic Neoplasms,353,1315
+LUCAT1,Stomach Neoplasms,353,1307
+LUCAT1,Colorectal Neoplasms,353,1304
+LUCAT1,Liver Neoplasms,353,1313
+LUCAT1,Prostatic Neoplasms,353,1339
+LUCAT1,"Thyroid Cancer, Papillary",353,1332
+LUCAT1,Hepatoblastoma,353,1402
+LUCAT1,"Carcinoma, Hepatocellular",353,1310
+LUCAT1,Triple Negative Breast Neoplasms,353,1398
+LUCAT1,Breast Neoplasms,353,1303
+LUNAR1,Colorectal Neoplasms,354,1304
+LUNAR1,Breast Neoplasms,354,1303
+MACC1-AS1,Adenocarcinoma of Lung,665,1329
+MACC1-AS1,Nasopharyngeal Neoplasms,665,1533
+MACC1-AS1,"Carcinoma, Hepatocellular",665,1310
+MACC1-AS1,Stomach Neoplasms,665,1307
+MACC1-AS1,Pancreatic Neoplasms,665,1315
+MAFG-AS1,Stomach Neoplasms,666,1307
+MAFG-AS1,Breast Neoplasms,666,1303
+MAFG-AS1,"Carcinoma, Hepatocellular",666,1310
+MAFG-AS1,Colorectal Neoplasms,666,1304
+MAFG-AS1,"Carcinoma, Non-Small-Cell Lung",666,1312
+MAFG-AS1,Adenocarcinoma of Lung,666,1329
+MAGI2-AS3,"Carcinoma, Non-Small-Cell Lung",667,1312
+MAGI2-AS3,Colorectal Neoplasms,667,1304
+MAGI2-AS3,Stomach Neoplasms,667,1307
+MAGI2-AS3,Glioma,667,1322
+MAGI2-AS3,Urinary Bladder Neoplasms,667,1306
+MAGI2-AS3,Breast Neoplasms,667,1303
+MALAT1,"Thyroid Carcinoma, Anaplastic",355,1538
+MALAT1,Adrenocortical Carcinoma,355,1436
+MALAT1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",355,1440
+MALAT1,"Leukemia, Lymphocytic, Chronic, B-Cell",355,1401
+MALAT1,"Lymphoma, Large B-Cell, Diffuse",355,1470
+MALAT1,"Sarcoma, Ewing",355,1419
+MALAT1,Hepatoblastoma,355,1402
+MALAT1,Nasopharyngeal Neoplasms,355,1533
+MA-LINC1,Lung Neoplasms,668,1308
+MA-LINC1,Osteosarcoma,668,1305
+MANCR,Prostatic Neoplasms,669,1339
+MANCR,"Carcinoma, Hepatocellular",669,1310
+MANCR,Stomach Neoplasms,669,1307
+MAPT-AS1,Breast Neoplasms,358,1303
+MATN1-AS1,Glioblastoma,670,1301
+MATN1-AS1,Glioma,670,1322
+MBNL1-AS1,"Carcinoma, Non-Small-Cell Lung",671,1312
+MBNL1-AS1,Urinary Bladder Neoplasms,671,1306
+MBNL1-AS1,Colonic Neoplasms,671,1336
+MCM3AP-AS1,Stomach Neoplasms,672,1307
+MCM3AP-AS1,Prostatic Neoplasms,672,1339
+MCM3AP-AS1,"Carcinoma, Hepatocellular",672,1310
+MCM3AP-AS1,Pancreatic Neoplasms,672,1315
+MCM3AP-AS1,Lung Neoplasms,672,1308
+MCM3AP-AS1,"Thyroid Cancer, Papillary",672,1332
+MCM3AP-AS1,Glioblastoma,672,1301
+MDC1-AS,Urinary Bladder Neoplasms,673,1306
+MDC1-AS,Stomach Neoplasms,673,1307
+MDC1-AS,Glioma,673,1322
+MEG3,Choriocarcinoma,360,1439
+MEG3,Cholangiocarcinoma,360,1326
+MEG3,Thyroid Neoplasms,360,1330
+MEG3,"Leukemia, T-Cell",360,1431
+MEG3,Pancreatic Intraductal Neoplasms,360,1535
+MEG3,Nasopharyngeal Neoplasms,360,1533
+MEG3,"Rhabdomyosarcoma, Embryonal",360,1546
+MEG8,Urinary Bladder Neoplasms,674,1306
+MEG8,Pancreatic Neoplasms,674,1315
+MEG8,Lung Neoplasms,674,1308
+MFI2,Uterine Cervical Neoplasms,675,1300
+MFI2,Osteosarcoma,675,1305
+MFI2-AS1,"Carcinoma, Hepatocellular",676,1310
+MFI2-AS1,Colorectal Neoplasms,676,1304
+MFI2-AS1,Glioma,676,1322
+MFI2-AS1,"Carcinoma, Renal Cell",676,1324
+MIAT,Cholangiocarcinoma,363,1326
+MIAT,Pancreatic Neoplasms,363,1315
+MIAT,Melanoma,363,1347
+MIAT,Esophageal Neoplasms,363,1351
+MIAT,Uterine Cervical Neoplasms,363,1300
+MIAT,Neuroblastoma,363,1302
+MIAT,Esophageal Squamous Cell Carcinoma,363,1327
+MIAT,Wilms Tumor,363,1331
+MIAT,"Leukemia, Myeloid, Acute",363,1366
+MIAT,Colorectal Neoplasms,363,1304
+MIAT,"Carcinoma, Renal Cell",363,1324
+MIAT,"Carcinoma, Hepatocellular",363,1310
+MIAT,"Thyroid Cancer, Papillary",363,1332
+MIAT,Osteosarcoma,363,1305
+MIF-AS1,Ovarian Neoplasms,677,1309
+MIF-AS1,Breast Neoplasms,677,1303
+MIF-AS1,Stomach Neoplasms,677,1307
+MINCR,Glioma,364,1322
+MINCR,Nasopharyngeal Neoplasms,364,1533
+MINCR,Squamous Cell Carcinoma of Head and Neck,364,1360
+MINCR,"Carcinoma, Hepatocellular",364,1310
+MINCR,"Carcinoma, Non-Small-Cell Lung",364,1312
+MINCR,"Lymphoma, B-Cell",364,1429
+MIR100HG,Stomach Neoplasms,365,1307
+MIR100HG,Colorectal Neoplasms,365,1304
+MIR100HG,Triple Negative Breast Neoplasms,365,1398
+MIR100HG,Osteosarcoma,365,1305
+MIR137HG,"Carcinoma, Hepatocellular",678,1310
+MIR137HG,Urinary Bladder Neoplasms,678,1306
+miR143HG,"Carcinoma, Hepatocellular",679,1310
+miR143HG,Endometrial Neoplasms,679,1362
+miR143HG,Urinary Bladder Neoplasms,679,1306
+MIR155HG,"Carcinoma, Renal Cell",366,1324
+MIR155HG,Pancreatic Neoplasms,366,1315
+MIR155HG,"Lymphoma, Large B-Cell, Diffuse",366,1470
+MIR155HG,Colonic Neoplasms,366,1336
+MIR17HG,Osteosarcoma,367,1305
+MIR17HG,"Carcinoma, Non-Small-Cell Lung",367,1312
+MIR17HG,Colorectal Neoplasms,367,1304
+MIR17HG,Glioma,367,1322
+MIR17HG,Prostatic Neoplasms,367,1339
+MIR205HG,Lung Neoplasms,680,1308
+MIR205HG,Uterine Cervical Neoplasms,680,1300
+MIR210HG,Uterine Cervical Neoplasms,368,1300
+MIR210HG,"Carcinoma, Non-Small-Cell Lung",368,1312
+MIR210HG,Glioma,368,1322
+MIR22HG,Colorectal Neoplasms,369,1304
+MIR22HG,Uterine Cervical Neoplasms,369,1300
+MIR22HG,Endometrial Neoplasms,369,1362
+MIR22HG,Cholangiocarcinoma,369,1326
+MIR22HG,Stomach Neoplasms,369,1307
+MIR22HG,Glioblastoma,369,1301
+MIR31HG,Osteosarcoma,370,1305
+MIR31HG,"Carcinoma, Hepatocellular",370,1310
+MIR31HG,Esophageal Neoplasms,370,1351
+MIR31HG,Esophageal Squamous Cell Carcinoma,370,1327
+MIR4435-2HG,Colorectal Neoplasms,372,1304
+MIR4435-2HG,Squamous Cell Carcinoma of Head and Neck,372,1360
+MIR4435-2HG,Glioblastoma,372,1301
+MIR4435-2HG,Melanoma,372,1347
+MIR4435-2HG,Liver Neoplasms,372,1313
+MIR4435-2HG,Ovarian Neoplasms,372,1309
+MIR4697HG,Glioma,681,1322
+MIR4697HG,Ovarian Neoplasms,681,1309
+MIR503HG,"Carcinoma, Non-Small-Cell Lung",373,1312
+MIR503HG,Ovarian Neoplasms,373,1309
+MIR503HG,Triple Negative Breast Neoplasms,373,1398
+MIR503HG,Urinary Bladder Neoplasms,373,1306
+MIR503HG,Colorectal Neoplasms,373,1304
+MIR503HG,"Lymphoma, Large-Cell, Anaplastic",373,1547
+MIR503HG,"Carcinoma, Hepatocellular",373,1310
+MLK7-AS1,Ovarian Neoplasms,682,1309
+MLK7-AS1,Colorectal Neoplasms,682,1304
+MNX1-AS1,"Carcinoma, Hepatocellular",377,1310
+MNX1-AS1,Prostatic Neoplasms,377,1339
+MNX1-AS1,Stomach Neoplasms,377,1307
+MNX1-AS1,Urinary Bladder Neoplasms,377,1306
+MNX1-AS1,Esophageal Squamous Cell Carcinoma,377,1327
+MNX1-AS1,"Carcinoma, Non-Small-Cell Lung",377,1312
+MNX1-AS1,Uterine Cervical Neoplasms,377,1300
+MNX1-AS1,Lung Neoplasms,377,1308
+MNX1-AS1,Adenocarcinoma of Lung,377,1329
+MNX1-AS1,Glioblastoma,377,1301
+MORT,"Lymphoma, Mantle-Cell",683,1430
+MORT,Squamous Cell Carcinoma of Head and Neck,683,1360
+MORT,Colonic Neoplasms,683,1336
+MSC-AS1,Osteosarcoma,684,1305
+MSC-AS1,Pancreatic Neoplasms,684,1315
+MSC-AS1,"Carcinoma, Renal Cell",684,1324
+MSTO2P,Lung Neoplasms,685,1308
+MSTO2P,Stomach Neoplasms,685,1307
+MT1JP,Stomach Neoplasms,380,1307
+MT1JP,Breast Neoplasms,380,1303
+MT1JP,Osteosarcoma,380,1305
+MT1JP,Urinary Bladder Neoplasms,380,1306
+MT1JP,Glioma,380,1322
+MT1JP,Retinoblastoma,380,1348
+MT1JP,Lung Neoplasms,380,1308
+MT1JP,"Carcinoma, Hepatocellular",380,1310
+MVIH,"Leukemia, Myeloid, Acute",382,1366
+MVIH,Stomach Neoplasms,382,1307
+MYCLo-4,Colorectal Neoplasms,686,1304
+MYCLo-4,Lung Neoplasms,686,1308
+MYCLo-4,Prostatic Neoplasms,686,1339
+MYCLo-5,Breast Neoplasms,687,1303
+MYCLo-5,Colorectal Neoplasms,687,1304
+MYCLo-5,"Carcinoma, Hepatocellular",687,1310
+MYCLo-5,Lung Neoplasms,687,1308
+MYCLo-5,Prostatic Neoplasms,687,1339
+MYCLo-6,Breast Neoplasms,688,1303
+MYCLo-6,Colorectal Neoplasms,688,1304
+MYCLo-6,"Carcinoma, Hepatocellular",688,1310
+MYCLo-6,Lung Neoplasms,688,1308
+MYCLo-6,Prostatic Neoplasms,688,1339
+MYCNOS,"Carcinoma, Hepatocellular",689,1310
+MYCNOS,Colonic Neoplasms,689,1336
+MYCNOS,Neuroblastoma,689,1302
+MYOSLID,Osteosarcoma,690,1305
+MYOSLID,Stomach Neoplasms,690,1307
+MYOSLID,Squamous Cell Carcinoma of Head and Neck,690,1360
+MYU,Prostatic Neoplasms,691,1339
+MYU,Colonic Neoplasms,691,1336
+n340790,"Thyroid Cancer, Papillary",692,1332
+n340790,Thyroid Neoplasms,692,1330
+NAG7,"Carcinoma, Non-Small-Cell Lung",693,1312
+NAG7,Nasopharyngeal Neoplasms,693,1533
+NBAT1,Glioblastoma,387,1301
+NBAT1,Stomach Neoplasms,387,1307
+NBAT1,"Carcinoma, Non-Small-Cell Lung",387,1312
+NBAT1,Kidney Neoplasms,387,1418
+NBAT1,Esophageal Neoplasms,387,1351
+NBAT1,Osteosarcoma,387,1305
+NBAT1,Lung Neoplasms,387,1308
+NBR2,Colorectal Neoplasms,388,1304
+NBR2,"Carcinoma, Non-Small-Cell Lung",388,1312
+NBR2,Osteosarcoma,388,1305
+NCK1-AS1,Glioma,694,1322
+NCK1-AS1,Urinary Bladder Neoplasms,694,1306
+NCK1-AS1,Ovarian Neoplasms,694,1309
+NCK1-AS1,Nasopharyngeal Neoplasms,694,1533
+NCK1-AS1,Prostatic Neoplasms,694,1339
+NCK1-AS1,Uterine Cervical Neoplasms,694,1300
+ncRAN,Colorectal Neoplasms,695,1304
+ncRAN,Urinary Bladder Neoplasms,695,1306
+ncRAN,Neuroblastoma,695,1302
+NCRUPAR,"Carcinoma, Hepatocellular",389,1310
+NEAT1,Melanoma,391,1347
+NEAT1,Colonic Neoplasms,391,1336
+NEAT1,Adenocarcinoma of Lung,391,1329
+NEAT1,"Thyroid Carcinoma, Anaplastic",391,1538
+NEAT1,Lung Neoplasms,391,1308
+NEAT1,"Leukemia, Myeloid, Acute",391,1366
+NEAT1,"Lymphoma, Large B-Cell, Diffuse",391,1470
+NEAT1,Hemangioma,391,1493
+NEAT1,Nasopharyngeal Neoplasms,391,1533
+NEAT1,Triple Negative Breast Neoplasms,391,1398
+NEAT1,Neuroblastoma,391,1302
+NEAT1,Urinary Bladder Neoplasms,391,1306
+NEAT1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",391,1440
+NEAT1,Multiple Myeloma,391,1368
+NEAT1,Glioblastoma,391,1301
+NEAT1,Esophageal Squamous Cell Carcinoma,391,1327
+NEAT1,"Carcinoma, Renal Cell",391,1324
+NEAT1_2,Liver Neoplasms,392,1313
+NEAT1_2,"Carcinoma, Hepatocellular",392,1310
+NEF,"Carcinoma, Non-Small-Cell Lung",696,1312
+NEF,Breast Neoplasms,696,1303
+NEF,Esophageal Squamous Cell Carcinoma,696,1327
+NEF,Stomach Neoplasms,696,1307
+NEF,Glioma,696,1322
+NKILA,Osteosarcoma,394,1305
+NKILA,Retinoblastoma,394,1348
+NKILA,Rectal Neoplasms,394,1539
+NKILA,Nasopharyngeal Neoplasms,394,1533
+NKILA,Colorectal Neoplasms,394,1304
+NKILA,Laryngeal Neoplasms,394,1415
+NNT-AS1,Cholangiocarcinoma,395,1326
+NNT-AS1,Stomach Neoplasms,395,1307
+NNT-AS1,Lung Neoplasms,395,1308
+NNT-AS1,Urinary Bladder Neoplasms,395,1306
+NNT-AS1,"Carcinoma, Non-Small-Cell Lung",395,1312
+NORAD,Ovarian Neoplasms,397,1309
+NORAD,"Carcinoma, Non-Small-Cell Lung",397,1312
+NORAD,Stomach Neoplasms,397,1307
+NORAD,Lung Neoplasms,397,1308
+NORAD,Neuroblastoma,397,1302
+NORAD,Thyroid Neoplasms,397,1330
+NORAD,Osteosarcoma,397,1305
+NORAD,Uterine Cervical Neoplasms,397,1300
+NORAD,Prostatic Neoplasms,397,1339
+NORAD,"Carcinoma, Ovarian Epithelial",397,1323
+NR027113,"Carcinoma, Hepatocellular",697,1310
+NR027113,Stomach Neoplasms,697,1307
+NR2F1-AS1,Esophageal Squamous Cell Carcinoma,401,1327
+NR2F1-AS1,Thyroid Neoplasms,401,1330
+NR2F2-AS1,"Carcinoma, Renal Cell",698,1324
+NR2F2-AS1,Colorectal Neoplasms,698,1304
+NR2F2-AS1,Nasopharyngeal Neoplasms,698,1533
+NR2F2-AS1,Prostatic Neoplasms,698,1339
+NR2F2-AS1,"Carcinoma, Non-Small-Cell Lung",698,1312
+NRON,"Carcinoma, Hepatocellular",403,1310
+NRON,Urinary Bladder Neoplasms,403,1306
+NRON,Triple Negative Breast Neoplasms,403,1398
+OECC,Colorectal Neoplasms,699,1304
+OECC,Lung Neoplasms,699,1308
+OGFRP1,"Carcinoma, Hepatocellular",700,1310
+OGFRP1,Endometrial Neoplasms,700,1362
+OGFRP1,"Carcinoma, Non-Small-Cell Lung",700,1312
+OGFRP1,Uterine Cervical Neoplasms,700,1300
+OIP5-AS1,Pancreatic Neoplasms,404,1315
+OIP5-AS1,Stomach Neoplasms,404,1307
+OIP5-AS1,"Carcinoma, Hepatocellular",404,1310
+OIP5-AS1,Lung Neoplasms,404,1308
+OIP5-AS1,Colorectal Neoplasms,404,1304
+OIP5-AS1,Colonic Neoplasms,404,1336
+OIP5-AS1,Thyroid Neoplasms,404,1330
+OIP5-AS1,Breast Neoplasms,404,1303
+OIP5-AS1,Uterine Cervical Neoplasms,404,1300
+OIP5-AS1,Hemangioma,404,1493
+OIP5-AS1,Osteosarcoma,404,1305
+OIP5-AS1,Urinary Bladder Neoplasms,404,1306
+OIP5-AS1,Squamous Cell Carcinoma of Head and Neck,404,1360
+OIP5-AS1,Ovarian Neoplasms,404,1309
+OIP5-AS1,Adenocarcinoma of Lung,404,1329
+OIP5-AS1,Mouth Neoplasms,404,1386
+OR3A4,Osteosarcoma,701,1305
+OR3A4,Ovarian Neoplasms,701,1309
+OR3A4,"Carcinoma, Non-Small-Cell Lung",701,1312
+OR3A4,"Carcinoma, Hepatocellular",701,1310
+OR3A4,Melanoma,701,1347
+OR3A4,Breast Neoplasms,701,1303
+OR3A4,Stomach Neoplasms,701,1307
+OTUD6B-AS1,Thyroid Neoplasms,702,1330
+OTUD6B-AS1,"Carcinoma, Renal Cell",702,1324
+pancEts-1,Stomach Neoplasms,703,1307
+pancEts-1,Neuroblastoma,703,1302
+PANDA,Pancreatic Intraductal Neoplasms,704,1535
+PANDA,Osteosarcoma,704,1305
+PANDA,Stomach Neoplasms,704,1307
+PANDA,"Carcinoma, Hepatocellular",704,1310
+PANDA,"Lymphoma, Large B-Cell, Diffuse",704,1470
+PANDAR,Retinoblastoma,408,1348
+PANDAR,Squamous Cell Carcinoma of Head and Neck,408,1360
+PANDAR,Melanoma,408,1347
+PANDAR,"Leukemia, Myeloid, Acute",408,1366
+PANDAR,Ovarian Neoplasms,408,1309
+PAPAS,"Thyroid Cancer, Papillary",705,1332
+PAPAS,"Carcinoma, Hepatocellular",705,1310
+PAPAS,Stomach Neoplasms,705,1307
+PAPAS,Squamous Cell Carcinoma of Head and Neck,705,1360
+PAPAS,Triple Negative Breast Neoplasms,705,1398
+PAR5,"Thyroid Carcinoma, Anaplastic",706,1538
+PAR5,Glioma,706,1322
+PAR5,"Carcinoma, Hepatocellular",706,1310
+PARROT,Uterine Cervical Neoplasms,707,1300
+PARROT,"Carcinoma, Non-Small-Cell Lung",707,1312
+PART1,Glioma,708,1322
+PART1,"Carcinoma, Hepatocellular",708,1310
+PART1,Colorectal Neoplasms,708,1304
+PART1,Esophageal Squamous Cell Carcinoma,708,1327
+PART1,Urinary Bladder Neoplasms,708,1306
+PART1,"Carcinoma, Non-Small-Cell Lung",708,1312
+PART1,Prostatic Neoplasms,708,1339
+PARTICLE,Breast Neoplasms,709,1303
+PARTICLE,Osteosarcoma,709,1305
+PCA3,Choriocarcinoma,410,1439
+PCA3,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",410,1440
+PCAN-R1,"Carcinoma, Non-Small-Cell Lung",710,1312
+PCAN-R1,Prostatic Neoplasms,710,1339
+PCAT1,Laryngeal Neoplasms,411,1415
+PCAT1,"Carcinoma, Renal Cell",411,1324
+PCAT1,"Carcinoma, Non-Small-Cell Lung",411,1312
+PCAT1,Endometrial Neoplasms,411,1362
+PCAT1,Klatskin Tumor,411,1496
+PCAT1,Glioma,411,1322
+PCAT1,Squamous Cell Carcinoma of Head and Neck,411,1360
+PCAT-1,Urinary Bladder Neoplasms,711,1306
+PCAT-1,Multiple Myeloma,711,1368
+PCAT-1,Ovarian Neoplasms,711,1309
+PCAT-1,Pancreatic Neoplasms,711,1315
+PCAT-1,"Carcinoma, Ovarian Epithelial",711,1323
+PCAT-1,Esophageal Squamous Cell Carcinoma,711,1327
+PCAT-1,"Leukemia, Myeloid, Acute",711,1366
+PCAT-1,Squamous Cell Carcinoma of Head and Neck,711,1360
+PCAT-1,"Carcinoma, Non-Small-Cell Lung",711,1312
+PCAT-1,Stomach Neoplasms,711,1307
+PCAT-1,Colorectal Neoplasms,711,1304
+PCAT-1,Breast Neoplasms,711,1303
+PCAT-1,Prostatic Neoplasms,711,1339
+PCAT-1,Glioblastoma,711,1301
+PCAT-1,Uterine Cervical Neoplasms,711,1300
+PCAT-1,Osteosarcoma,711,1305
+PCAT-1,"Carcinoma, Hepatocellular",711,1310
+PCAT14,"Carcinoma, Hepatocellular",412,1310
+PCAT18,Stomach Neoplasms,712,1307
+PCAT18,Prostatic Neoplasms,712,1339
+PCAT19,"Carcinoma, Non-Small-Cell Lung",713,1312
+PCAT19,Prostatic Neoplasms,713,1339
+PCAT29,Neoplasms,413,1299
+PCAT6,Uterine Cervical Neoplasms,414,1300
+PCAT6,"Carcinoma, Hepatocellular",414,1310
+PCAT6,Stomach Neoplasms,414,1307
+PCAT6,Gastrointestinal Stromal Tumors,414,1371
+PCAT6,Triple Negative Breast Neoplasms,414,1398
+PCAT6,Colorectal Neoplasms,414,1304
+PCAT6,Osteosarcoma,414,1305
+PCAT6,Ovarian Neoplasms,414,1309
+PCAT6,Cholangiocarcinoma,414,1326
+PCAT7,Nasopharyngeal Neoplasms,415,1533
+PCED1B-AS1,Glioblastoma,714,1301
+PCED1B-AS1,Glioma,714,1322
+PCGEM1,Ovarian Neoplasms,417,1309
+PCGEM1,Kidney Neoplasms,417,1418
+PCGEM1,Uterine Cervical Neoplasms,417,1300
+PCGEM1,Stomach Neoplasms,417,1307
+PCNA-AS1,"Carcinoma, Non-Small-Cell Lung",418,1312
+PDIA3P,Breast Neoplasms,715,1303
+PDIA3P,"Carcinoma, Non-Small-Cell Lung",715,1312
+PDIA3P,Squamous Cell Carcinoma of Head and Neck,715,1360
+PDIA3P1,Glioma,716,1322
+PDIA3P1,"Carcinoma, Hepatocellular",716,1310
+PEG10,Stomach Neoplasms,419,1307
+PEG10,Urinary Bladder Neoplasms,419,1306
+PEG10,Melanoma,419,1347
+PEG10,Glioma,419,1322
+PGM5-AS1,Colorectal Neoplasms,717,1304
+PGM5-AS1,"Carcinoma, Renal Cell",717,1324
+PGM5-AS1,Esophageal Squamous Cell Carcinoma,717,1327
+PICART1,Lung Neoplasms,718,1308
+PICART1,Stomach Neoplasms,718,1307
+PICART1,Breast Neoplasms,718,1303
+PICART1,Colorectal Neoplasms,718,1304
+PLAC2,Squamous Cell Carcinoma of Head and Neck,719,1360
+PLAC2,"Carcinoma, Non-Small-Cell Lung",719,1312
+PLAC2,"Carcinoma, Hepatocellular",719,1310
+PLAC2,Glioma,719,1322
+PlncRNA-1,Retinoblastoma,720,1348
+PlncRNA-1,Breast Neoplasms,720,1303
+PlncRNA-1,Colorectal Neoplasms,720,1304
+PlncRNA-1,Glioma,720,1322
+PlncRNA-1,"Carcinoma, Hepatocellular",720,1310
+PlncRNA-1,Esophageal Squamous Cell Carcinoma,720,1327
+PlncRNA-1,Prostatic Neoplasms,720,1339
+POU3F3,"Carcinoma, Hepatocellular",721,1310
+POU3F3,Breast Neoplasms,721,1303
+POU3F3,Nasopharyngeal Neoplasms,721,1533
+POU3F3,Esophageal Squamous Cell Carcinoma,721,1327
+POU3F3,Uterine Cervical Neoplasms,721,1300
+PRAL,Multiple Myeloma,424,1368
+PRAL,"Carcinoma, Non-Small-Cell Lung",424,1312
+PRINS,Multiple Myeloma,425,1368
+PRINS,Colorectal Neoplasms,425,1304
+PRINS,Adrenocortical Carcinoma,425,1436
+PRNCR1,Breast Neoplasms,426,1303
+PRNCR1,"Carcinoma, Non-Small-Cell Lung",426,1312
+PRNCR1,Glioblastoma,426,1301
+PROX1-AS1,Prostatic Neoplasms,722,1339
+PROX1-AS1,"Thyroid Cancer, Papillary",722,1332
+PSMB8-AS1,Glioblastoma,723,1301
+PSMB8-AS1,Glioma,723,1322
+PTAR,Ovarian Neoplasms,724,1309
+PTAR,"Carcinoma, Non-Small-Cell Lung",724,1312
+PTCSC2,Thyroid Neoplasms,428,1330
+PTCSC3,Stomach Neoplasms,429,1307
+PTCSC3,Uterine Cervical Neoplasms,429,1300
+PTCSC3,Breast Neoplasms,429,1303
+PTCSC3,"Thyroid Carcinoma, Anaplastic",429,1538
+PTENP1,Glioma,430,1322
+PTENP1,Urinary Bladder Neoplasms,430,1306
+PTENP1,Squamous Cell Carcinoma of Head and Neck,430,1360
+PTENP1,Multiple Myeloma,430,1368
+PTENP1,Prostatic Neoplasms,430,1339
+PTENP1,Osteosarcoma,430,1305
+PTPRG-AS1,Stomach Neoplasms,431,1307
+PTPRG-AS1,Nasopharyngeal Neoplasms,431,1533
+PURPL,Liver Neoplasms,725,1313
+PURPL,Stomach Neoplasms,725,1307
+PVT1,Squamous Cell Carcinoma of Head and Neck,432,1360
+PVT1,Ovarian Neoplasms,432,1309
+PVT1,"Thyroid Carcinoma, Anaplastic",432,1538
+PVT1,Endometrial Neoplasms,432,1362
+PVT1,Melanoma,432,1347
+PVT1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,432,1344
+PVT1,Gallbladder Neoplasms,432,1328
+PVT1,Esophageal Neoplasms,432,1351
+PVT1,Pituitary Neoplasms,432,1369
+PVT1,"Leukemia, Myeloid, Acute",432,1366
+PVT1,Nasopharyngeal Neoplasms,432,1533
+PVT1,Cholangiocarcinoma,432,1326
+PVT1,Triple Negative Breast Neoplasms,432,1398
+PVT1,Colonic Neoplasms,432,1336
+PVT1,Pancreatic Intraductal Neoplasms,432,1535
+PVT1,Leukemia,432,1385
+PVT1,Kidney Neoplasms,432,1418
+PVT1,"Leukemia, Promyelocytic, Acute",432,1475
+PVT1,Lung Neoplasms,432,1308
+PVT1,"Thyroid Cancer, Papillary",432,1332
+PVT1,Small Cell Lung Carcinoma,432,1476
+PXN-AS1,Glioblastoma,726,1301
+PXN-AS1,Pancreatic Neoplasms,726,1315
+PXN-AS1-L,Glioma,727,1322
+PXN-AS1-L,Nasopharyngeal Neoplasms,727,1533
+PXN-AS1-L,"Carcinoma, Non-Small-Cell Lung",727,1312
+RAB11B-AS1,Osteosarcoma,728,1305
+RAB11B-AS1,Breast Neoplasms,728,1303
+RAD51-AS1,"Carcinoma, Hepatocellular",729,1310
+RAD51-AS1,"Carcinoma, Ovarian Epithelial",729,1323
+RAET1K,"Carcinoma, Hepatocellular",730,1310
+RAET1K,Adenocarcinoma of Lung,730,1329
+RAMP2-AS1,Chondrosarcoma,433,1349
+RAMP2-AS1,Glioblastoma,433,1301
+RBM5-AS1,Squamous Cell Carcinoma of Head and Neck,434,1360
+RERT,Lung Neoplasms,731,1308
+RERT,"Carcinoma, Hepatocellular",731,1310
+RGMB-AS1,Stomach Neoplasms,732,1307
+RGMB-AS1,Glioma,732,1322
+RGMB-AS1,"Carcinoma, Hepatocellular",732,1310
+RGMB-AS1,Adenocarcinoma of Lung,732,1329
+RGMB-AS1,"Carcinoma, Non-Small-Cell Lung",732,1312
+RHPN1-AS1,"Carcinoma, Ovarian Epithelial",733,1323
+RHPN1-AS1,"Carcinoma, Hepatocellular",733,1310
+RHPN1-AS1,Breast Neoplasms,733,1303
+RHPN1-AS1,Stomach Neoplasms,733,1307
+RHPN1-AS1,"Carcinoma, Non-Small-Cell Lung",733,1312
+RHPN1-AS1,Uterine Cervical Neoplasms,733,1300
+RHPN1-AS1,Glioma,733,1322
+RHPN1-AS1,Squamous Cell Carcinoma of Head and Neck,733,1360
+RMEL3,Melanoma,734,1347
+RMRP,"Carcinoma, Hepatocellular",436,1310
+RMRP,Urinary Bladder Neoplasms,436,1306
+RMRP,"Carcinoma, Non-Small-Cell Lung",436,1312
+RMRP,"Thyroid Cancer, Papillary",436,1332
+RMRP,Lung Neoplasms,436,1308
+RMRP,Multiple Myeloma,436,1368
+RMRP,Adenocarcinoma of Lung,436,1329
+RMRP,Glioma,436,1322
+RNCR3,Prostatic Neoplasms,735,1339
+RNCR3,Colorectal Neoplasms,735,1304
+RNCR3,Glioma,735,1322
+ROR,Stomach Neoplasms,736,1307
+ROR,Breast Neoplasms,736,1303
+ROR,Colorectal Neoplasms,736,1304
+ROR,Prostatic Neoplasms,736,1339
+ROR,Neoplasms,736,1299
+ROR,Glioblastoma,736,1301
+ROR,Osteosarcoma,736,1305
+ROR,Ovarian Neoplasms,736,1309
+ROR,Nasopharyngeal Neoplasms,736,1533
+ROR,"Carcinoma, Renal Cell",736,1324
+ROR1-AS1,Colonic Neoplasms,737,1336
+ROR1-AS1,Adenocarcinoma of Lung,737,1329
+ROR1-AS1,Uterine Cervical Neoplasms,737,1300
+ROR1-AS1,Nasopharyngeal Neoplasms,737,1533
+ROR1-AS1,Urinary Bladder Neoplasms,737,1306
+ROR1-AS1,Colorectal Neoplasms,737,1304
+ROR1-AS1,"Lymphoma, Mantle-Cell",737,1430
+RP11,Colorectal Neoplasms,738,1304
+RP11,"Carcinoma, Hepatocellular",738,1310
+RP11-160H22.5,"Carcinoma, Hepatocellular",739,1310
+RP11-181G12.2,Stomach Neoplasms,740,1307
+RP11-181G12.2,Adenocarcinoma of Lung,740,1329
+RP11-334E6.12,Breast Neoplasms,741,1303
+RP11-334E6.12,"Carcinoma, Hepatocellular",741,1310
+RP11-334E6.12,Esophageal Squamous Cell Carcinoma,741,1327
+RP11-363E7.4,Stomach Neoplasms,742,1307
+RP11-363E7.4,"Carcinoma, Hepatocellular",742,1310
+RP11-445H22.4,Stomach Neoplasms,743,1307
+RP11-445H22.4,Breast Neoplasms,743,1303
+RP11-552M11.4,Uterine Cervical Neoplasms,744,1300
+RP11-552M11.4,Ovarian Neoplasms,744,1309
+RP11-600K15.1,Endometrial Neoplasms,745,1362
+RP11-600K15.1,Esophageal Squamous Cell Carcinoma,745,1327
+RP11-81H3.2,Stomach Neoplasms,746,1307
+RP11-81H3.2,"Carcinoma, Hepatocellular",746,1310
+RP11-838N2.4,Glioblastoma,747,1301
+RP11-838N2.4,"Carcinoma, Non-Small-Cell Lung",747,1312
+RP11-909N17.3,Adenocarcinoma of Lung,748,1329
+RP11-909N17.3,"Carcinoma, Non-Small-Cell Lung",748,1312
+RP1-4514.2,Prostatic Neoplasms,749,1339
+RP5-1024C24.1,"Thyroid Cancer, Papillary",750,1332
+RP5-1024C24.1,Thyroid Neoplasms,750,1330
+RP5-833A20.1,Glioma,751,1322
+RP5-833A20.1,"Carcinoma, Hepatocellular",751,1310
+RPL34-AS1,"Thyroid Cancer, Papillary",752,1332
+RPL34-AS1,Esophageal Neoplasms,752,1351
+RPL34-AS1,Colorectal Neoplasms,752,1304
+RPL34-AS1,Stomach Neoplasms,752,1307
+RPPH1,Esophageal Neoplasms,753,1351
+RPPH1,Colorectal Neoplasms,753,1304
+RPPH1,"Leukemia, Myeloid, Acute",753,1366
+RPPH1,Breast Neoplasms,753,1303
+RPSAP52,Glioblastoma,754,1301
+RPSAP52,Pituitary Neoplasms,754,1369
+RUNX1-IT1,"Carcinoma, Hepatocellular",755,1310
+RUNX1-IT1,Colorectal Neoplasms,755,1304
+SAMMSON,Glioblastoma,756,1301
+SAMMSON,"Carcinoma, Hepatocellular",756,1310
+SAMMSON,"Thyroid Cancer, Papillary",756,1332
+SAMMSON,Melanoma,756,1347
+SAMMSON,Liver Neoplasms,756,1313
+SATB2-AS1,Colorectal Neoplasms,757,1304
+SATB2-AS1,Osteosarcoma,757,1305
+SBDSP1,Colorectal Neoplasms,758,1304
+SBF2-AS1,"Carcinoma, Non-Small-Cell Lung",759,1312
+SBF2-AS1,Pancreatic Neoplasms,759,1315
+SBF2-AS1,Esophageal Squamous Cell Carcinoma,759,1327
+SBF2-AS1,Colorectal Neoplasms,759,1304
+SBF2-AS1,Uterine Cervical Neoplasms,759,1300
+SBF2-AS1,Breast Neoplasms,759,1303
+SBF2-AS1,Adenocarcinoma of Lung,759,1329
+SBF2-AS1,Small Cell Lung Carcinoma,759,1476
+SBF2-AS1,Glioblastoma,759,1301
+SBF2-AS1,"Carcinoma, Hepatocellular",759,1310
+SBF2-AS1,Osteosarcoma,759,1305
+SChLAP1,Glioblastoma,760,1301
+SChLAP1,Urinary Bladder Neoplasms,760,1306
+SChLAP1,Prostatic Neoplasms,760,1339
+SDPR-AS,"Carcinoma, Non-Small-Cell Lung",761,1312
+SDPR-AS,"Thyroid Cancer, Papillary",761,1332
+SDPR-AS,"Carcinoma, Renal Cell",761,1324
+SEMA3B-AS1,Esophageal Squamous Cell Carcinoma,762,1327
+SEMA3B-AS1,"Carcinoma, Hepatocellular",762,1310
+SFTA1P,Stomach Neoplasms,763,1307
+SFTA1P,Adenocarcinoma of Lung,763,1329
+SLC26A4-AS1,Glioma,764,1322
+SLC26A4-AS1,"Thyroid Cancer, Papillary",764,1332
+SLCO4A1-AS1,Urinary Bladder Neoplasms,765,1306
+SLCO4A1-AS1,Colorectal Neoplasms,765,1304
+SlncR1,"Carcinoma, Non-Small-Cell Lung",766,1312
+SlncR1,Melanoma,766,1347
+SMAD5-AS1,"Lymphoma, Large B-Cell, Diffuse",767,1470
+SMAD5-AS1,Nasopharyngeal Neoplasms,767,1533
+snaR,Liver Neoplasms,768,1313
+snaR,Ovarian Neoplasms,768,1309
+snaR,Breast Neoplasms,768,1303
+snaR,Colonic Neoplasms,768,1336
+SNHG1,Esophageal Squamous Cell Carcinoma,769,1327
+SNHG1,Cholangiocarcinoma,769,1326
+SNHG1,Breast Neoplasms,769,1303
+SNHG1,Colorectal Neoplasms,769,1304
+SNHG1,Stomach Neoplasms,769,1307
+SNHG1,"Thyroid Cancer, Papillary",769,1332
+SNHG1,"Carcinoma, Non-Small-Cell Lung",769,1312
+SNHG1,Pancreatic Neoplasms,769,1315
+SNHG1,Neuroblastoma,769,1302
+SNHG1,Meningioma,769,1453
+SNHG1,Glioma,769,1322
+SNHG1,"Carcinoma, Hepatocellular",769,1310
+SNHG1,Liver Neoplasms,769,1313
+SNHG1,Lung Neoplasms,769,1308
+SNHG1,Osteosarcoma,769,1305
+SNHG1,Laryngeal Neoplasms,769,1415
+SNHG1,"Leukemia, Myeloid, Acute",769,1366
+SNHG1,Nasopharyngeal Neoplasms,769,1533
+SNHG1,Ovarian Neoplasms,769,1309
+SNHG1,Colonic Neoplasms,769,1336
+SNHG1,Uterine Cervical Neoplasms,769,1300
+SNHG1,Esophageal Neoplasms,769,1351
+SNHG1,Prostatic Neoplasms,769,1339
+SNHG11,"Carcinoma, Hepatocellular",770,1310
+SNHG11,Lung Neoplasms,770,1308
+SNHG11,Prostatic Neoplasms,770,1339
+SNHG11,Colorectal Neoplasms,770,1304
+SNHG12,Esophageal Squamous Cell Carcinoma,771,1327
+SNHG12,Glioblastoma,771,1301
+SNHG12,Osteosarcoma,771,1305
+SNHG12,Glioma,771,1322
+SNHG12,Breast Neoplasms,771,1303
+SNHG12,Ovarian Neoplasms,771,1309
+SNHG12,Prostatic Neoplasms,771,1339
+SNHG12,"Carcinoma, Non-Small-Cell Lung",771,1312
+SNHG12,"Carcinoma, Renal Cell",771,1324
+SNHG12,Stomach Neoplasms,771,1307
+SNHG12,Uterine Cervical Neoplasms,771,1300
+SNHG12,"Thyroid Cancer, Papillary",771,1332
+SNHG12,Colorectal Neoplasms,771,1304
+SNHG12,Adenocarcinoma of Lung,771,1329
+SNHG12,"Carcinoma, Hepatocellular",771,1310
+SNHG14,"Carcinoma, Non-Small-Cell Lung",772,1312
+SNHG14,Prostatic Neoplasms,772,1339
+SNHG14,Colorectal Neoplasms,772,1304
+SNHG14,Breast Neoplasms,772,1303
+SNHG14,Pancreatic Neoplasms,772,1315
+SNHG14,Adenocarcinoma of Lung,772,1329
+SNHG14,Ovarian Neoplasms,772,1309
+SNHG14,Uterine Cervical Neoplasms,772,1300
+SNHG14,"Lymphoma, Large B-Cell, Diffuse",772,1470
+SNHG14,"Carcinoma, Hepatocellular",772,1310
+SNHG14,"Carcinoma, Renal Cell",772,1324
+SNHG14,Stomach Neoplasms,772,1307
+SNHG14,Glioma,772,1322
+SNHG15,Breast Neoplasms,773,1303
+SNHG15,"Carcinoma, Non-Small-Cell Lung",773,1312
+SNHG15,Prostatic Neoplasms,773,1339
+SNHG15,Colorectal Neoplasms,773,1304
+SNHG15,Lung Neoplasms,773,1308
+SNHG15,"Thyroid Cancer, Papillary",773,1332
+SNHG15,Thyroid Neoplasms,773,1330
+SNHG15,Glioblastoma,773,1301
+SNHG15,"Carcinoma, Hepatocellular",773,1310
+SNHG15,"Carcinoma, Renal Cell",773,1324
+SNHG15,Glioma,773,1322
+SNHG15,Colonic Neoplasms,773,1336
+SNHG15,Stomach Neoplasms,773,1307
+SNHG15,Osteosarcoma,773,1305
+SNHG15,Pancreatic Neoplasms,773,1315
+SNHG16,Pancreatic Neoplasms,774,1315
+SNHG16,Breast Neoplasms,774,1303
+SNHG16,Multiple Myeloma,774,1368
+SNHG16,Neuroblastoma,774,1302
+SNHG16,Esophageal Squamous Cell Carcinoma,774,1327
+SNHG16,"Carcinoma, Renal Cell",774,1324
+SNHG16,Prostatic Neoplasms,774,1339
+SNHG16,Uterine Cervical Neoplasms,774,1300
+SNHG16,Glioma,774,1322
+SNHG16,Colorectal Neoplasms,774,1304
+SNHG16,Osteosarcoma,774,1305
+SNHG16,"Carcinoma, Hepatocellular",774,1310
+SNHG16,Stomach Neoplasms,774,1307
+SNHG16,"Carcinoma, Non-Small-Cell Lung",774,1312
+SNHG16,Endometrial Neoplasms,774,1362
+SNHG16,Retinoblastoma,774,1348
+SNHG16,Urinary Bladder Neoplasms,774,1306
+SNHG16,Precursor Cell Lymphoblastic Leukemia-Lymphoma,774,1344
+SNHG16,"Thyroid Cancer, Papillary",774,1332
+SNHG16,Squamous Cell Carcinoma of Head and Neck,774,1360
+SNHG16,Colonic Neoplasms,774,1336
+SNHG16,"Lymphoma, Large B-Cell, Diffuse",774,1470
+SNHG16,Ovarian Neoplasms,774,1309
+SNHG17,Breast Neoplasms,775,1303
+SNHG17,Glioma,775,1322
+SNHG17,Prostatic Neoplasms,775,1339
+SNHG17,Stomach Neoplasms,775,1307
+SNHG17,Melanoma,775,1347
+SNHG17,"Carcinoma, Non-Small-Cell Lung",775,1312
+SNHG17,Colorectal Neoplasms,775,1304
+SNHG18,Glioma,776,1322
+SNHG20,"Carcinoma, Ovarian Epithelial",777,1323
+SNHG20,"Carcinoma, Non-Small-Cell Lung",777,1312
+SNHG20,Esophageal Squamous Cell Carcinoma,777,1327
+SNHG20,Glioma,777,1322
+SNHG20,Osteosarcoma,777,1305
+SNHG20,Urinary Bladder Neoplasms,777,1306
+SNHG20,Squamous Cell Carcinoma of Head and Neck,777,1360
+SNHG20,"Carcinoma, Hepatocellular",777,1310
+SNHG20,Nasopharyngeal Neoplasms,777,1533
+SNHG20,Stomach Neoplasms,777,1307
+SNHG20,Prostatic Neoplasms,777,1339
+SNHG20,Uterine Cervical Neoplasms,777,1300
+SNHG20,Ovarian Neoplasms,777,1309
+SNHG20,Colorectal Neoplasms,777,1304
+SNHG3,"Thyroid Cancer, Papillary",778,1332
+SNHG3,Ovarian Neoplasms,778,1309
+SNHG3,Prostatic Neoplasms,778,1339
+SNHG3,Colorectal Neoplasms,778,1304
+SNHG3,Squamous Cell Carcinoma of Head and Neck,778,1360
+SNHG3,Osteosarcoma,778,1305
+SNHG3,Stomach Neoplasms,778,1307
+SNHG3,Breast Neoplasms,778,1303
+SNHG3,Cholangiocarcinoma,778,1326
+SNHG3,"Carcinoma, Hepatocellular",778,1310
+SNHG3,"Carcinoma, Non-Small-Cell Lung",778,1312
+SNHG3,Adenocarcinoma of Lung,778,1329
+SNHG3,Glioma,778,1322
+SNHG3,"Leukemia, Myeloid, Acute",778,1366
+SNHG3,"Carcinoma, Renal Cell",778,1324
+SNHG3,Laryngeal Neoplasms,778,1415
+SNHG4,Liver Neoplasms,779,1313
+SNHG4,Prostatic Neoplasms,779,1339
+SNHG4,Uterine Cervical Neoplasms,779,1300
+SNHG4,Lung Neoplasms,779,1308
+SNHG5,Nasopharyngeal Neoplasms,780,1533
+SNHG5,"Leukemia, Myeloid, Acute",780,1366
+SNHG5,"Carcinoma, Hepatocellular",780,1310
+SNHG5,"Carcinoma, Renal Cell",780,1324
+SNHG5,Glioma,780,1322
+SNHG5,Endometrial Neoplasms,780,1362
+SNHG5,Ovarian Neoplasms,780,1309
+SNHG5,Glioblastoma,780,1301
+SNHG5,Stomach Neoplasms,780,1307
+SNHG5,Osteosarcoma,780,1305
+SNHG5,Colorectal Neoplasms,780,1304
+SNHG5,Melanoma,780,1347
+SNHG5,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",780,1440
+SNHG5,Breast Neoplasms,780,1303
+SNHG5,Adenocarcinoma of Lung,780,1329
+SNHG5,Urinary Bladder Neoplasms,780,1306
+SNHG5,Prostatic Neoplasms,780,1339
+SNHG6,"Carcinoma, Non-Small-Cell Lung",781,1312
+SNHG6,"Carcinoma, Hepatocellular",781,1310
+SNHG6,Glioma,781,1322
+SNHG6,Pancreatic Neoplasms,781,1315
+SNHG6,Cholangiocarcinoma,781,1326
+SNHG6,Prostatic Neoplasms,781,1339
+SNHG6,Esophageal Squamous Cell Carcinoma,781,1327
+SNHG6,Breast Neoplasms,781,1303
+SNHG6,Colorectal Neoplasms,781,1304
+SNHG6,Osteosarcoma,781,1305
+SNHG6,Urinary Bladder Neoplasms,781,1306
+SNHG6,Tongue Neoplasms,781,1353
+SNHG6,Adenocarcinoma of Lung,781,1329
+SNHG6,"Carcinoma, Renal Cell",781,1324
+SNHG6,Wilms Tumor,781,1331
+SNHG6,Stomach Neoplasms,781,1307
+SNHG6,Glioblastoma,781,1301
+SNHG6,Esophageal Neoplasms,781,1351
+SNHG7,Uterine Cervical Neoplasms,782,1300
+SNHG7,Prostatic Neoplasms,782,1339
+SNHG7,Urinary Bladder Neoplasms,782,1306
+SNHG7,Osteosarcoma,782,1305
+SNHG7,Colorectal Neoplasms,782,1304
+SNHG7,Esophageal Neoplasms,782,1351
+SNHG7,Melanoma,782,1347
+SNHG7,Neuroblastoma,782,1302
+SNHG7,Nasopharyngeal Neoplasms,782,1533
+SNHG7,Adenocarcinoma of Lung,782,1329
+SNHG7,Pancreatic Neoplasms,782,1315
+SNHG7,"Carcinoma, Hepatocellular",782,1310
+SNHG7,Breast Neoplasms,782,1303
+SNHG7,"Carcinoma, Renal Cell",782,1324
+SNHG7,Stomach Neoplasms,782,1307
+SNHG7,Thyroid Neoplasms,782,1330
+SNHG7,"Carcinoma, Non-Small-Cell Lung",782,1312
+SNHG7,Glioblastoma,782,1301
+SNHG7,Lung Neoplasms,782,1308
+SNHG8,Uterine Cervical Neoplasms,783,1300
+SNHG8,"Carcinoma, Non-Small-Cell Lung",783,1312
+SNHG8,"Carcinoma, Hepatocellular",783,1310
+SNHG8,Endometrial Neoplasms,783,1362
+SNHG8,Stomach Neoplasms,783,1307
+SNHG9,Pancreatic Neoplasms,784,1315
+SNHG9,Glioblastoma,784,1301
+sONE,Breast Neoplasms,785,1303
+sONE,Triple Negative Breast Neoplasms,785,1398
+SOX2,"Sarcoma, Ewing",786,1419
+SOX2,Breast Neoplasms,786,1303
+SOX21-AS1,Glioma,787,1322
+SOX21-AS1,"Carcinoma, Hepatocellular",787,1310
+SOX21-AS1,Triple Negative Breast Neoplasms,787,1398
+SOX21-AS1,Uterine Cervical Neoplasms,787,1300
+SOX21-AS1,Neuroblastoma,787,1302
+SOX21-AS1,Colorectal Neoplasms,787,1304
+SOX21-AS1,Adenocarcinoma of Lung,787,1329
+SOX21-AS1,Squamous Cell Carcinoma of Head and Neck,787,1360
+SOX2OT,Urinary Bladder Neoplasms,788,1306
+SOX2OT,"Carcinoma, Hepatocellular",788,1310
+SOX2OT,Squamous Cell Carcinoma of Head and Neck,788,1360
+SOX2OT,Stomach Neoplasms,788,1307
+SOX2OT,Uterine Cervical Neoplasms,788,1300
+SOX2OT,Multiple Myeloma,788,1368
+SOX2OT,"Carcinoma, Non-Small-Cell Lung",788,1312
+SOX2OT,Esophageal Squamous Cell Carcinoma,788,1327
+SOX2OT,Glioblastoma,788,1301
+SOX2OT,Neuroblastoma,788,1302
+SOX2OT,Teratocarcinoma,788,1548
+SOX2OT,Ovarian Neoplasms,788,1309
+SOX2OT,Colorectal Neoplasms,788,1304
+SOX2OT,Cholangiocarcinoma,788,1326
+SOX2OT,Breast Neoplasms,788,1303
+SOX2-OT,Laryngeal Neoplasms,789,1415
+SOX2-OT,Nasopharyngeal Neoplasms,789,1533
+SOX2-OT,Cholangiocarcinoma,789,1326
+SOX2-OT,Osteosarcoma,789,1305
+SOX2OTV7,Osteosarcoma,790,1305
+SPINT1-AS1,Colorectal Neoplasms,791,1304
+SPINT1-AS1,Esophageal Squamous Cell Carcinoma,791,1327
+SPRY4-IT1,Osteosarcoma,792,1305
+SPRY4-IT1,Breast Neoplasms,792,1303
+SPRY4-IT1,"Carcinoma, Non-Small-Cell Lung",792,1312
+SPRY4-IT1,"Carcinoma, Hepatocellular",792,1310
+SPRY4-IT1,Melanoma,792,1347
+SPRY4-IT1,Uterine Cervical Neoplasms,792,1300
+SPRY4-IT1,Stomach Neoplasms,792,1307
+SPRY4-IT1,Esophageal Squamous Cell Carcinoma,792,1327
+SPRY4-IT1,Pancreatic Neoplasms,792,1315
+SPRY4-IT1,Prostatic Neoplasms,792,1339
+SPRY4-IT1,Cholangiocarcinoma,792,1326
+SPRY4-IT1,Thyroid Neoplasms,792,1330
+SPRY4-IT1,Gallbladder Neoplasms,792,1328
+SPRY4-IT1,Adenocarcinoma of Lung,792,1329
+SPRY4-IT1,"Carcinoma, Renal Cell",792,1324
+SPRY4-IT1,Glioma,792,1322
+SPRY4-IT1,Urinary Bladder Neoplasms,792,1306
+SPRY4-IT1,Ovarian Neoplasms,792,1309
+SPRY4-IT1,Colorectal Neoplasms,792,1304
+SRA,Melanoma,793,1347
+SRA,Endometrial Neoplasms,793,1362
+SRA,Breast Neoplasms,793,1303
+SRA,Uterine Cervical Neoplasms,793,1300
+SRA1,"Carcinoma, Hepatocellular",794,1310
+SRA1,Breast Neoplasms,794,1303
+SRHC,"Carcinoma, Hepatocellular",795,1310
+SSTR5-AS1,Gallbladder Neoplasms,796,1328
+SSTR5-AS1,Nasopharyngeal Neoplasms,796,1533
+ST3GAL6-AS1,Colorectal Neoplasms,797,1304
+ST3GAL6-AS1,Multiple Myeloma,797,1368
+ST8SIA6-AS1,Breast Neoplasms,798,1303
+SUMO1P3,"Carcinoma, Hepatocellular",799,1310
+SUMO1P3,"Carcinoma, Non-Small-Cell Lung",799,1312
+SUMO1P3,Colorectal Neoplasms,799,1304
+SUMO1P3,Pancreatic Neoplasms,799,1315
+SUMO1P3,Stomach Neoplasms,799,1307
+SUMO1P3,Breast Neoplasms,799,1303
+SUMO1P3,Colonic Neoplasms,799,1336
+SUMO1P3,Urinary Bladder Neoplasms,799,1306
+SUZ12P1,Prostatic Neoplasms,800,1339
+TALNEC2,Breast Neoplasms,801,1303
+TALNEC2,Glioma,801,1322
+TATDN1,"Carcinoma, Non-Small-Cell Lung",802,1312
+TATDN1,"Carcinoma, Hepatocellular",802,1310
+TATDN1,Breast Neoplasms,802,1303
+TC0101441,"Carcinoma, Ovarian Epithelial",803,1323
+TC0101441,Ovarian Neoplasms,803,1309
+TCL6,"Carcinoma, Renal Cell",804,1324
+TCL6,"Carcinoma, Hepatocellular",804,1310
+TCL6,Breast Neoplasms,804,1303
+TCL6,Retinoblastoma,804,1348
+TCL6,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,804,1549
+TDRG1,Uterine Cervical Neoplasms,805,1300
+TDRG1,"Carcinoma, Non-Small-Cell Lung",805,1312
+TDRG1,Stomach Neoplasms,805,1307
+TDRG1,Endometrial Neoplasms,805,1362
+TDRG1,"Carcinoma, Ovarian Epithelial",805,1323
+THOR,Nasopharyngeal Neoplasms,806,1533
+THOR,Osteosarcoma,806,1305
+THOR,Retinoblastoma,806,1348
+THOR,"Carcinoma, Hepatocellular",806,1310
+THOR,Liver Neoplasms,806,1313
+THOR,Stomach Neoplasms,806,1307
+THOR,Colonic Neoplasms,806,1336
+TINCR,"Carcinoma, Hepatocellular",807,1310
+TINCR,"Carcinoma, Renal Cell",807,1324
+TINCR,Colorectal Neoplasms,807,1304
+TINCR,Ovarian Neoplasms,807,1309
+TINCR,Prostatic Neoplasms,807,1339
+TINCR,Breast Neoplasms,807,1303
+TINCR,Adenocarcinoma of Lung,807,1329
+TINCR,Lung Neoplasms,807,1308
+TINCR,"Carcinoma, Non-Small-Cell Lung",807,1312
+TINCR,Urinary Bladder Neoplasms,807,1306
+TINCR,Esophageal Squamous Cell Carcinoma,807,1327
+TINCR,Stomach Neoplasms,807,1307
+TMPO-AS1,Retinoblastoma,808,1348
+TMPO-AS1,Stomach Neoplasms,808,1307
+TMPO-AS1,Urinary Bladder Neoplasms,808,1306
+TMPO-AS1,Adenocarcinoma of Lung,808,1329
+TMPO-AS1,Uterine Cervical Neoplasms,808,1300
+TMPO-AS1,Colorectal Neoplasms,808,1304
+TMPO-AS1,Osteosarcoma,808,1305
+TMPO-AS1,Prostatic Neoplasms,808,1339
+TMPO-AS1,Breast Neoplasms,808,1303
+TMPO-AS1,"Carcinoma, Non-Small-Cell Lung",808,1312
+TNRC6C-AS1,Thyroid Neoplasms,809,1330
+TNRC6C-AS1,"Thyroid Cancer, Papillary",809,1332
+TOB1-AS1,Stomach Neoplasms,810,1307
+TOB1-AS1,Uterine Cervical Neoplasms,810,1300
+TP53TG1,"Carcinoma, Non-Small-Cell Lung",811,1312
+TP53TG1,Ovarian Neoplasms,811,1309
+TP53TG1,Colonic Neoplasms,811,1336
+TP53TG1,Glioma,811,1322
+TP53TG1,Stomach Neoplasms,811,1307
+TP73-AS1,Retinoblastoma,812,1348
+TP73-AS1,Adenocarcinoma of Lung,812,1329
+TP73-AS1,"Carcinoma, Non-Small-Cell Lung",812,1312
+TP73-AS1,"Carcinoma, Renal Cell",812,1324
+TP73-AS1,Cholangiocarcinoma,812,1326
+TP73-AS1,Ovarian Neoplasms,812,1309
+TP73-AS1,Osteosarcoma,812,1305
+TP73-AS1,Stomach Neoplasms,812,1307
+TP73-AS1,"Carcinoma, Hepatocellular",812,1310
+TP73-AS1,Colorectal Neoplasms,812,1304
+TP73-AS1,Uterine Cervical Neoplasms,812,1300
+TP73-AS1,Medulloblastoma,812,1367
+TP73-AS1,"Carcinoma, Ovarian Epithelial",812,1323
+TP73-AS1,Breast Neoplasms,812,1303
+TP73-AS1,Pancreatic Neoplasms,812,1315
+TP73-AS1,Glioblastoma,812,1301
+TP73-AS1,Multiple Myeloma,812,1368
+TP73-AS1,Urinary Bladder Neoplasms,812,1306
+TP73-AS1,Esophageal Squamous Cell Carcinoma,812,1327
+TP73-AS1,Oligodendroglioma,812,1550
+TP73-AS1,Glioma,812,1322
+TPT1-AS1,Stomach Neoplasms,813,1307
+TPT1-AS1,Colorectal Neoplasms,813,1304
+TPT1-AS1,"Carcinoma, Ovarian Epithelial",813,1323
+TPT1-AS1,Uterine Cervical Neoplasms,813,1300
+TPT1-AS1,Glioma,813,1322
+TPTE2P1,"Carcinoma, Hepatocellular",814,1310
+TPTE2P1,Colorectal Neoplasms,814,1304
+TPTEP1,"Carcinoma, Non-Small-Cell Lung",815,1312
+TPTEP1,"Carcinoma, Hepatocellular",815,1310
+TRERNA,Colorectal Neoplasms,816,1304
+TRERNA,"Carcinoma, Hepatocellular",816,1310
+TRERNA1,"Carcinoma, Non-Small-Cell Lung",817,1312
+TRERNA1,Stomach Neoplasms,817,1307
+TRERNA1,"Carcinoma, Hepatocellular",817,1310
+TRPM2-AS,Stomach Neoplasms,818,1307
+TRPM2-AS,Breast Neoplasms,818,1303
+TRPM2-AS,Colorectal Neoplasms,818,1304
+TRPM2-AS,Glioma,818,1322
+TRPM2-AS,"Carcinoma, Hepatocellular",818,1310
+TRPM2-AS,"Carcinoma, Non-Small-Cell Lung",818,1312
+TRPM2-AS,Prostatic Neoplasms,818,1339
+TSlnc8,"Carcinoma, Non-Small-Cell Lung",819,1312
+TSlnc8,Glioma,819,1322
+TSlnc8,Breast Neoplasms,819,1303
+TTN-AS1,Breast Neoplasms,820,1303
+TTN-AS1,Ovarian Neoplasms,820,1309
+TTN-AS1,Stomach Neoplasms,820,1307
+TTN-AS1,"Thyroid Cancer, Papillary",820,1332
+TTN-AS1,Colorectal Neoplasms,820,1304
+TTN-AS1,Prostatic Neoplasms,820,1339
+TTN-AS1,Adenocarcinoma of Lung,820,1329
+TTN-AS1,Osteosarcoma,820,1305
+TTN-AS1,Uterine Cervical Neoplasms,820,1300
+TTTY15,Prostatic Neoplasms,821,1339
+TTTY15,"Carcinoma, Non-Small-Cell Lung",821,1312
+TUBA4B,Colorectal Neoplasms,822,1304
+TUBA4B,Breast Neoplasms,822,1303
+TUBA4B,Stomach Neoplasms,822,1307
+TUBA4B,Ovarian Neoplasms,822,1309
+TUBA4B,"Carcinoma, Non-Small-Cell Lung",822,1312
+TUC338,Urinary Bladder Neoplasms,823,1306
+TUC338,Prostatic Neoplasms,823,1339
+TUC338,Lung Neoplasms,823,1308
+TUC338,"Carcinoma, Hepatocellular",823,1310
+TUG1,Esophageal Squamous Cell Carcinoma,824,1327
+TUG1,"Leukemia, Myeloid, Acute",824,1366
+TUG1,Prostatic Neoplasms,824,1339
+TUG1,Osteosarcoma,824,1305
+TUG1,"Carcinoma, Hepatocellular",824,1310
+TUG1,Colorectal Neoplasms,824,1304
+TUG1,Hepatoblastoma,824,1402
+TUG1,Ovarian Neoplasms,824,1309
+TUG1,Squamous Cell Carcinoma of Head and Neck,824,1360
+TUG1,Breast Neoplasms,824,1303
+TUG1,Urinary Bladder Neoplasms,824,1306
+TUG1,Laryngeal Neoplasms,824,1415
+TUG1,Pancreatic Neoplasms,824,1315
+TUG1,"Carcinoma, Non-Small-Cell Lung",824,1312
+TUG1,Glioma,824,1322
+TUG1,Colonic Neoplasms,824,1336
+TUG1,"Carcinoma, Renal Cell",824,1324
+TUG1,"Carcinoma, Ovarian Epithelial",824,1323
+TUG1,Nasopharyngeal Neoplasms,824,1533
+TUG1,Lymphoma,824,1417
+TUG1,Multiple Myeloma,824,1368
+TUG1,Uterine Cervical Neoplasms,824,1300
+TUG1,Cholangiocarcinoma,824,1326
+TUG1,Melanoma,824,1347
+TUG1,Gallbladder Neoplasms,824,1328
+TUG1,Thyroid Neoplasms,824,1330
+TUG1,Small Cell Lung Carcinoma,824,1476
+TUG1,Endometrial Neoplasms,824,1362
+TUG1,Glioblastoma,824,1301
+TUG1,Stomach Neoplasms,824,1307
+TUSC7,Colorectal Neoplasms,825,1304
+TUSC7,Pancreatic Neoplasms,825,1315
+TUSC7,Endometrial Neoplasms,825,1362
+TUSC7,Osteosarcoma,825,1305
+TUSC7,"Leukemia, Myeloid, Acute",825,1366
+TUSC7,Stomach Neoplasms,825,1307
+TUSC7,Glioblastoma,825,1301
+TUSC7,"Carcinoma, Hepatocellular",825,1310
+TUSC7,Glioma,825,1322
+TUSC7,"Carcinoma, Non-Small-Cell Lung",825,1312
+TUSC7,Esophageal Squamous Cell Carcinoma,825,1327
+TUSC8,Breast Neoplasms,826,1303
+TUSC8,Uterine Cervical Neoplasms,826,1300
+uc.338,"Carcinoma, Hepatocellular",827,1310
+uc.338,Lung Neoplasms,827,1308
+uc.338,"Carcinoma, Non-Small-Cell Lung",827,1312
+uc001lsz,Prostatic Neoplasms,828,1339
+uc001lsz,Lung Neoplasms,828,1308
+uc001lsz,Liver Neoplasms,828,1313
+uc001lsz,Stomach Neoplasms,828,1307
+uc002mbe.2,"Carcinoma, Hepatocellular",829,1310
+uc002mbe.2,Liver Neoplasms,829,1313
+UCA1,Colorectal Neoplasms,830,1304
+UCA1,Squamous Cell Carcinoma of Head and Neck,830,1360
+UCA1,Thyroid Neoplasms,830,1330
+UCA1,Ovarian Neoplasms,830,1309
+UCA1,Kidney Neoplasms,830,1418
+UCA1,Stomach Neoplasms,830,1307
+UCA1,Retinoblastoma,830,1348
+UCA1,"Thyroid Cancer, Papillary",830,1332
+UCA1,Uterine Cervical Neoplasms,830,1300
+UCA1,"Thyroid Carcinoma, Anaplastic",830,1538
+UCA1,Lung Neoplasms,830,1308
+UCA1,Breast Neoplasms,830,1303
+UCA1,"Carcinoma, Non-Small-Cell Lung",830,1312
+UCA1,"Carcinoma, Hepatocellular",830,1310
+UCA1,"Leukemia, Myeloid, Acute",830,1366
+UCA1,Glioma,830,1322
+UCA1,Prostatic Neoplasms,830,1339
+UCA1,Adrenocortical Carcinoma,830,1436
+UCA1,Hemangioma,830,1493
+UCA1,Urinary Bladder Neoplasms,830,1306
+UCA1,Nasopharyngeal Neoplasms,830,1533
+UCA1,Melanoma,830,1347
+UCA1,Esophageal Neoplasms,830,1351
+UCA1,Colonic Neoplasms,830,1336
+UCA1,Tongue Neoplasms,830,1353
+UCA1,Osteosarcoma,830,1305
+UCA1,"Carcinoma, Ovarian Epithelial",830,1323
+UCA1,Cholangiocarcinoma,830,1326
+UCA1,Pancreatic Intraductal Neoplasms,830,1535
+UCA1,Glioblastoma,830,1301
+UCA1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",830,1440
+UCA1,Gallbladder Neoplasms,830,1328
+UCA1,Adenocarcinoma of Lung,830,1329
+UCA1,Medulloblastoma,830,1367
+UCA1,Multiple Myeloma,830,1368
+UCA1,Endometrial Neoplasms,830,1362
+UCA1,Esophageal Squamous Cell Carcinoma,830,1327
+UCA1,Liver Neoplasms,830,1313
+UCA1,Pancreatic Neoplasms,830,1315
+UCA1,"Carcinoma, Renal Cell",830,1324
+UCC,Stomach Neoplasms,831,1307
+UCC,Colorectal Neoplasms,831,1304
+UFC1,Stomach Neoplasms,832,1307
+UFC1,Uterine Cervical Neoplasms,832,1300
+UFC1,"Carcinoma, Non-Small-Cell Lung",832,1312
+UFC1,Breast Neoplasms,832,1303
+UFC1,Pancreatic Neoplasms,832,1315
+UNC5B-AS1,Prostatic Neoplasms,833,1339
+UNC5B-AS1,"Thyroid Cancer, Papillary",833,1332
+UNC5B-AS1,Ovarian Neoplasms,833,1309
+UPAT,"Carcinoma, Non-Small-Cell Lung",834,1312
+UPAT,Colonic Neoplasms,834,1336
+UPF1,Glioma,835,1322
+UPF1,"Carcinoma, Hepatocellular",835,1310
+VPS9D1-AS1,Prostatic Neoplasms,836,1339
+VPS9D1-AS1,"Carcinoma, Non-Small-Cell Lung",836,1312
+VPS9D1-AS1,Stomach Neoplasms,836,1307
+VPS9D1-AS1,Colorectal Neoplasms,836,1304
+WDFY3-AS2,Adenocarcinoma of Lung,837,1329
+WDFY3-AS2,Esophageal Neoplasms,837,1351
+WDFY3-AS2,Breast Neoplasms,837,1303
+WDFY3-AS2,Ovarian Neoplasms,837,1309
+WDFY3-AS2,"Carcinoma, Hepatocellular",837,1310
+WEE2-AS1,Triple Negative Breast Neoplasms,838,1398
+WEE2-AS1,"Carcinoma, Hepatocellular",838,1310
+WT1-AS,"Thyroid Cancer, Papillary",839,1332
+WT1-AS,Uterine Cervical Neoplasms,839,1300
+WT1-AS,"Leukemia, Myeloid, Acute",839,1366
+WT1-AS,Wilms Tumor,839,1331
+WT1-AS,"Carcinoma, Hepatocellular",839,1310
+WT1-AS,Stomach Neoplasms,839,1307
+X91348,"Carcinoma, Hepatocellular",840,1310
+X91348,"Carcinoma, Renal Cell",840,1324
+XIAP-AS1,Colonic Neoplasms,841,1336
+XIAP-AS1,Stomach Neoplasms,841,1307
+XIST,Breast Neoplasms,842,1303
+XIST,Glioma,842,1322
+XIST,Melanoma,842,1347
+XIST,Triple Negative Breast Neoplasms,842,1398
+XIST,Colorectal Neoplasms,842,1304
+XIST,Uterine Cervical Neoplasms,842,1300
+XIST,"Carcinoma, Non-Small-Cell Lung",842,1312
+XIST,Retinoblastoma,842,1348
+XIST,Nasopharyngeal Neoplasms,842,1533
+XIST,"Carcinoma, Hepatocellular",842,1310
+XIST,"Carcinoma, Ovarian Epithelial",842,1323
+XIST,Adenocarcinoma of Lung,842,1329
+XIST,Osteosarcoma,842,1305
+XIST,Ovarian Neoplasms,842,1309
+XIST,Pancreatic Neoplasms,842,1315
+XIST,Urinary Bladder Neoplasms,842,1306
+XIST,Stomach Neoplasms,842,1307
+XIST,Thyroid Neoplasms,842,1330
+XIST,"Carcinoma, Renal Cell",842,1324
+XIST,Esophageal Neoplasms,842,1351
+XIST,Neuroblastoma,842,1302
+XIST,Leukemia,842,1385
+XIST,Glioblastoma,842,1301
+XIST,Fibrosarcoma,842,1491
+XIST,Colonic Neoplasms,842,1336
+XIST,Prostatic Neoplasms,842,1339
+XIST,Testicular Neoplasms,842,1359
+XLOC_000303,Uterine Cervical Neoplasms,843,1300
+XLOC_000303,Colorectal Neoplasms,843,1304
+XLOC_006390,Pancreatic Neoplasms,844,1315
+XLOC_006390,Uterine Cervical Neoplasms,844,1300
+XLOC_008466,Uterine Cervical Neoplasms,845,1300
+XLOC_008466,"Carcinoma, Non-Small-Cell Lung",845,1312
+XLOC_010235,"Carcinoma, Hepatocellular",846,1310
+XLOC_010235,Stomach Neoplasms,846,1307
+XLOC_010588,Colorectal Neoplasms,847,1304
+XLOC_010588,Uterine Cervical Neoplasms,847,1300
+YIYA,Breast Neoplasms,848,1303
+YIYA,Colorectal Neoplasms,848,1304
+Z38,Stomach Neoplasms,849,1307
+Z38,Breast Neoplasms,849,1303
+Z38,"Carcinoma, Renal Cell",849,1324
+ZEB1,Esophageal Squamous Cell Carcinoma,850,1327
+ZEB1,Pancreatic Neoplasms,850,1315
+ZEB1-AS1,"Carcinoma, Non-Small-Cell Lung",851,1312
+ZEB1-AS1,Colorectal Neoplasms,851,1304
+ZEB1-AS1,Glioma,851,1322
+ZEB1-AS1,Stomach Neoplasms,851,1307
+ZEB1-AS1,Prostatic Neoplasms,851,1339
+ZEB1-AS1,Breast Neoplasms,851,1303
+ZEB1-AS1,Urinary Bladder Neoplasms,851,1306
+ZEB1-AS1,Triple Negative Breast Neoplasms,851,1398
+ZEB1-AS1,Liver Neoplasms,851,1313
+ZEB1-AS1,Uterine Cervical Neoplasms,851,1300
+ZEB1-AS1,Melanoma,851,1347
+ZEB1-AS1,Squamous Cell Carcinoma of Head and Neck,851,1360
+ZEB1-AS1,Esophageal Squamous Cell Carcinoma,851,1327
+ZEB1-AS1,"Carcinoma, Hepatocellular",851,1310
+ZEB1-AS1,Osteosarcoma,851,1305
+ZEB2-AS1,Colorectal Neoplasms,852,1304
+ZEB2-AS1,"Carcinoma, Non-Small-Cell Lung",852,1312
+ZEB2-AS1,Squamous Cell Carcinoma of Head and Neck,852,1360
+ZEB2-AS1,Breast Neoplasms,852,1303
+ZEB2-AS1,Colonic Neoplasms,852,1336
+ZEB2-AS1,"Leukemia, Myeloid, Acute",852,1366
+ZEB2-AS1,Stomach Neoplasms,852,1307
+ZEB2-AS1,Lung Neoplasms,852,1308
+ZEB2-AS1,Pancreatic Neoplasms,852,1315
+ZEB2-AS1,Urinary Bladder Neoplasms,852,1306
+ZEB2-AS1,"Carcinoma, Hepatocellular",852,1310
+ZFAS1,Prostatic Neoplasms,853,1339
+ZFAS1,"Carcinoma, Non-Small-Cell Lung",853,1312
+ZFAS1,Nasopharyngeal Neoplasms,853,1533
+ZFAS1,Breast Neoplasms,853,1303
+ZFAS1,Hepatoblastoma,853,1402
+ZFAS1,"Carcinoma, Hepatocellular",853,1310
+ZFAS1,Esophageal Squamous Cell Carcinoma,853,1327
+ZFAS1,Melanoma,853,1347
+ZFAS1,"Carcinoma, Renal Cell",853,1324
+ZFAS1,Uterine Cervical Neoplasms,853,1300
+ZFAS1,Glioma,853,1322
+ZFAS1,Osteosarcoma,853,1305
+ZFAS1,"Leukemia, Promyelocytic, Acute",853,1475
+ZFAS1,"Leukemia-Lymphoma, Adult T-Cell",853,1483
+ZFAS1,Thyroid Neoplasms,853,1330
+ZFAS1,Squamous Cell Carcinoma of Head and Neck,853,1360
+ZFAS1,"Thyroid Cancer, Papillary",853,1332
+ZFAS1,Stomach Neoplasms,853,1307
+ZFAS1,Colorectal Neoplasms,853,1304
+ZFAS1,"Leukemia, Myeloid, Acute",853,1366
+ZFAS1,Ovarian Neoplasms,853,1309
+ZFAS1,"Carcinoma, Ovarian Epithelial",853,1323
+ZFAS1,Colonic Neoplasms,853,1336
+ZFAS1,Urinary Bladder Neoplasms,853,1306
+ZFPM2-AS1,Esophageal Squamous Cell Carcinoma,854,1327
+ZFPM2-AS1,Stomach Neoplasms,854,1307
+ZFPM2-AS1,Adenocarcinoma of Lung,854,1329
+ZFPM2-AS1,"Carcinoma, Renal Cell",854,1324
+ZNF281,"Carcinoma, Hepatocellular",855,1310
+ZNF281,Stomach Neoplasms,855,1307
+ZNF667-AS1,Esophageal Squamous Cell Carcinoma,856,1327
+ZNF667-AS1,Uterine Cervical Neoplasms,856,1300
+ZNFX1-AS1,Colorectal Neoplasms,857,1304
+ZNFX1-AS1,Stomach Neoplasms,857,1307
+ZNFX1-AS1,"Carcinoma, Hepatocellular",857,1310
+ZNRD1-AS1,Endometrial Neoplasms,858,1362
+ZNRD1-AS1,Lung Neoplasms,858,1308
+ZXF1,Adenocarcinoma of Lung,859,1329
+ZXF2,Stomach Neoplasms,860,1307
+ZXF2,Adenocarcinoma of Lung,860,1329
