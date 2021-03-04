@@ -19,9 +19,8 @@
 ##### &emsp;&emsp;&emsp;&emsp;&emsp; **python train.py -m HeGAN -d LD**
 ##### &emsp;&emsp;&emsp;&emsp; If you want to train your own dataset, create the file (./dataset/LD/edge.txt) and the format is as follows:
 
-<div  align="center">    
-<img src="./edge.png" width = 300 height = 200 />
-</div>
+![edge.png](./edge.png)
+
 
 ##### &emsp;&emsp; &emsp;&emsp;And the input graph is directed and the undirected needs to be transformed into directed graph.
 #### &emsp;&emsp; * Modle Setup
