@@ -19,7 +19,7 @@
 ##### &emsp;&emsp;&emsp;&emsp;&emsp; **python train.py -m HeGAN -d LD**
 ##### &emsp;&emsp;&emsp;&emsp; If you want to train your own dataset, create the file (./dataset/LD/edge.txt) and the format is as follows:
 
-![edge.png](https://github.com/HEGANLDA/HEGANLDA/blob/main/edge.png)
+![edge.png](https://github.com/HEGANLDA/HEGANLDA/blob/main/images/edge.png)
 
 
 ##### &emsp;&emsp; &emsp;&emsp;And the input graph is directed and the undirected needs to be transformed into directed graph.
